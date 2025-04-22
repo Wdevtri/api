@@ -5,8 +5,9 @@ const path = require('path');
 
 async function scrapeMatches() {
   const isGithubCI = process.env.GITHUB_ACTIONS === 'true';
-
-  const executablePath = process.env.PUPPETEER_EXECUTABLE_PATH || 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+  const executablePath = isGithubCI
+    ? '/usr/bin/chromium-browser'
+    : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
 
   const browser = await puppeteer.launch({
     headless: true,
@@ -19,10 +20,17 @@ async function scrapeMatches() {
 
   try {
     console.log('⏳ Loading page...');
-    await page.goto(url, { waitUntil: 'networkidle2' });
+    await page.goto(url, { waitUntil: 'domcontentloaded' });
+    await page.waitForTimeout(5000); // Wait a bit for dynamic content
 
     console.log('⏳ Scraping prematch data...');
-    await page.waitForSelector('.calendar-card', { timeout: 60000 });
+    try {
+      await page.waitForSelector('.calendar-card', { timeout: 90000 });
+    } catch (e) {
+      const html = await page.content();
+      fs.writeFileSync('debug.html', html); // Debug what the page actually rendered
+      throw new Error('Selector `.calendar-card` not found within timeout.');
+    }
 
     const prematchData = await page.evaluate(() => {
       const matches = [];
@@ -37,10 +45,7 @@ async function scrapeMatches() {
           const odds = bet.querySelector('.calendar-card__bet-coef')?.innerText.trim() || '';
           bets.push({ team, odds });
         });
-
-        if (title && bets.length) {
-          matches.push({ date, title, bets });
-        }
+        if (title && bets.length) matches.push({ date, title, bets });
       });
       return matches;
     });
@@ -50,7 +55,7 @@ async function scrapeMatches() {
 
     // Click "Live" tab and scrape live data
     await page.click('.calendar-switcher__item:nth-child(2)');
-    await new Promise(resolve => setTimeout(resolve, 3000));
+    await page.waitForTimeout(4000); // Wait for tab to switch and load
 
     const liveData = await page.evaluate(() => {
       const matches = [];
@@ -65,10 +70,7 @@ async function scrapeMatches() {
           const odds = bet.querySelector('.calendar-card__bet-coef')?.innerText.trim() || '';
           bets.push({ team, odds });
         });
-
-        if (title && bets.length) {
-          matches.push({ date, title, bets });
-        }
+        if (title && bets.length) matches.push({ date, title, bets });
       });
       return matches;
     });
