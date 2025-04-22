@@ -2,12 +2,13 @@ name: Scrape Data and Push
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # This will run every 5 minutes
-  workflow_dispatch:  # Allow for manual triggering as well
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+  workflow_dispatch:        # Manual trigger
 
 jobs:
   scrape-and-push:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -15,34 +16,34 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'  # You can use the Node.js version that works best for you
+          node-version: '16'
 
       - name: Install dependencies
         run: npm install
 
       - name: Install Google Chrome
         run: |
-               sudo apt update
-               sudo apt install -y wget gnupg2
-               wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -  # Add the key
-               sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'  # Add repo
-               sudo apt update
-               sudo apt install -y google-chrome-stable  # Install Chrome
+          sudo apt update
+          sudo apt install -y wget gnupg2
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt update
+          sudo apt install -y google-chrome-stable
 
       - name: Run the scraper and update files
         run: |
-               # Ensure PUPPETEER_EXECUTABLE_PATH points to the correct Chrome binary
-               export PUPPETEER_EXECUTABLE_PATH="/usr/bin/google-chrome-stable"  # Path for installed Chrome
-               node scraper.js
+          export PUPPETEER_EXECUTABLE_PATH="/usr/bin/google-chrome-stable"
+          node scraper.js
 
-      - name: Commit and push updated data
+      - name: Set up Git configuration
         run: |
-               git config --global user.email "nikithamorningstar@gmail.com"
-               git config --global user.name "Wdevtri"
-               git add .
-               git commit -m "Update scraped data" || echo "No changes to commit"
-               git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/Wdevtri/api.git
-               git push origin main
+          git config --global user.name "Wdevtri"
+          git config --global user.email "nikithamorningstar@gmail.com"
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git diff --cached --quiet || git commit -m "Update scraped data"
+          git push https://$GITHUB_ACTOR:${{ secrets.PUSH_TOKEN }}@github.com/Wdevtri/api.git
         env:
-            GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}  # Use the stored token for authentication
- # Use the stored token for authentication
+          PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
