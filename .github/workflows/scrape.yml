@@ -3,6 +3,7 @@ name: Scrape Data
 on:
   schedule:
     - cron: '*/5 * * * *'  # This means the cron job will run every 5 minutes
+  workflow_dispatch:  # This allows manual triggering
 
 jobs:
   scrape:
@@ -14,7 +15,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'  # Use the Node.js version you want
+          node-version: '14'
 
       - name: Install dependencies
         run: npm install
@@ -24,7 +25,7 @@ jobs:
 
       - name: Commit and push updated data
         run: |
-          git config --global user.email "nikithamorningstart@gmail.com"
+          git config --global user.email "nikithamorningstar@gmail.com"
           git config --global user.name "Wdevtri"
           git add .
           git commit -m "Update scraped data"
