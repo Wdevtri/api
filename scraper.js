@@ -1,17 +1,17 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
-const os = require('os');
-const path = require('path');
 
 async function scrapeMatches() {
   const isGithubCI = process.env.GITHUB_ACTIONS === 'true';
+
+  // Define the path based on the environment
   const executablePath = isGithubCI
-    ? '/usr/bin/chromium-browser'
-    : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+    ? '/usr/bin/chromium-browser'  // Path for GitHub Actions environment
+    : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'; // Path for local environment
 
   const browser = await puppeteer.launch({
     headless: true,
-    executablePath,
+    executablePath, // Use the dynamically set executable path
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
 
@@ -20,18 +20,11 @@ async function scrapeMatches() {
 
   try {
     console.log('⏳ Loading page...');
-    await page.goto(url, { waitUntil: 'domcontentloaded' });
-    await new Promise(resolve => setTimeout(resolve, 5000));
- // Wait a bit for dynamic content
+    await page.goto(url, { waitUntil: 'networkidle2' });
 
     console.log('⏳ Scraping prematch data...');
-    try {
-      await page.waitForSelector('.calendar-card', { timeout: 90000 });
-    } catch (e) {
-      const html = await page.content();
-      fs.writeFileSync('debug.html', html); // Debug what the page actually rendered
-      throw new Error('Selector `.calendar-card` not found within timeout.');
-    }
+    await page.waitForTimeout(5000);  // Wait for page to fully load
+    await page.waitForSelector('.calendar-card', { timeout: 120000 });
 
     const prematchData = await page.evaluate(() => {
       const matches = [];
@@ -46,7 +39,10 @@ async function scrapeMatches() {
           const odds = bet.querySelector('.calendar-card__bet-coef')?.innerText.trim() || '';
           bets.push({ team, odds });
         });
-        if (title && bets.length) matches.push({ date, title, bets });
+
+        if (title && bets.length) {
+          matches.push({ date, title, bets });
+        }
       });
       return matches;
     });
@@ -56,7 +52,7 @@ async function scrapeMatches() {
 
     // Click "Live" tab and scrape live data
     await page.click('.calendar-switcher__item:nth-child(2)');
-    await page.waitForTimeout(4000); // Wait for tab to switch and load
+    await new Promise(resolve => setTimeout(resolve, 3000));
 
     const liveData = await page.evaluate(() => {
       const matches = [];
@@ -71,14 +67,16 @@ async function scrapeMatches() {
           const odds = bet.querySelector('.calendar-card__bet-coef')?.innerText.trim() || '';
           bets.push({ team, odds });
         });
-        if (title && bets.length) matches.push({ date, title, bets });
+
+        if (title && bets.length) {
+          matches.push({ date, title, bets });
+        }
       });
       return matches;
     });
 
     fs.writeFileSync('live.json', JSON.stringify(liveData, null, 2), 'utf-8');
     console.log('✅ Updated live.json');
-
   } catch (error) {
     console.error('❌ Error:', error.message);
   } finally {
