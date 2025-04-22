@@ -33,9 +33,13 @@ jobs:
         run: node scraper.js
 
       - name: Commit and push updated data
-        run: |
-          git config --global user.email "nikithamorningstar@gmail.com"
-          git config --global user.name "Wdevtri"
-          git add prematch.json live.json
-          git commit -m "Update scraped data" || echo "No changes to commit"
-          git push
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run: |
+    git config --global user.email "nikithamorningstar@gmail.com"
+    git config --global user.name "Wdevtri"
+    git add .
+    git commit -m "Update scraped data" || echo "No changes to commit"
+    git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+    git push origin HEAD
+
