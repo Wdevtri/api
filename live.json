@@ -5,208 +5,198 @@
     "bets": [
       {
         "team": "Bangladesh",
-        "odds": "1.71"
+        "odds": "1.39"
       },
       {
         "team": "Draw",
-        "odds": "9.6"
+        "odds": "11.5"
       }
     ]
   },
   {
-    "date": "Apr 21, 09:00 AM",
-    "title": "Smashers - City Cricket Club",
+    "date": "Apr 22, 01:30 PM",
+    "title": "Pakistan SRL - England SRL",
     "bets": [
       {
-        "team": "Smashers",
-        "odds": "10.5"
+        "team": "Pakistan Srl",
+        "odds": "2"
+      },
+      {
+        "team": "England Srl",
+        "odds": "1.75"
       }
     ]
   },
   {
-    "date": "Apr 21, 09:15 AM",
-    "title": "Borade Cricket Academy - Krishna Cricket Academy",
+    "date": "Apr 22, 12:45 PM",
+    "title": "Mitry - Paris Zalmi",
+    "bets": [
+      {
+        "team": "Mitry",
+        "odds": "5.8"
+      },
+      {
+        "team": "Paris Zalmi",
+        "odds": "1.09"
+      }
+    ]
+  },
+  {
+    "date": "Apr 22, 01:30 PM",
+    "title": "Borade Cricket Academy - Tfc",
     "bets": [
       {
         "team": "Borade Cricket Academy",
-        "odds": "3.3"
+        "odds": "2.76"
       },
       {
-        "team": "Krishna Cricket Academy",
-        "odds": "1.27"
+        "team": "Tfc",
+        "odds": "1.37"
       }
     ]
   },
   {
-    "date": "Apr 21, 09:00 AM",
-    "title": "Orion Arvin Calicut - SKM Bloomingdale BCC",
+    "date": "Apr 22, 11:10 AM",
+    "title": "Dharani Village Bihar Club - Shani Shignapur Sports",
     "bets": [
       {
-        "team": "Orion Arvin Calicut",
-        "odds": "7.47"
+        "team": "Dharani Village Bihar Club",
+        "odds": "1.48"
       },
       {
-        "team": "SKM Bloomingdale BCC",
-        "odds": "1.05"
+        "team": "Shani Shignapur Sports",
+        "odds": "2.4"
       }
     ]
   },
   {
-    "date": "Apr 21, 08:30 AM",
-    "title": "The Blossoms (Women) - Star Eleven (Women)",
+    "date": "Apr 22, 11:15 AM",
+    "title": "The Aryans Cricket Academy (Women) - Futuristic (Women)",
     "bets": [
       {
-        "team": "The Blossoms (w)",
-        "odds": "1.8"
+        "team": "The Aryans Cricket Academy (w)",
+        "odds": "1.34"
       },
       {
-        "team": "Star Eleven (w)",
-        "odds": "1.87"
+        "team": "Futuristic (w)",
+        "odds": "2.93"
       }
     ]
   },
   {
-    "date": "Apr 21, 08:30 AM",
-    "title": "Aghadi Cricket Association - Gamdevi CC",
+    "date": "Apr 22, 11:35 AM",
+    "title": "Sarghoda CC - Markhor Cricketers",
     "bets": [
       {
-        "team": "Aghadi Cricket Association",
-        "odds": "5.6"
+        "team": "Sarghoda CC",
+        "odds": "1.42"
       },
       {
-        "team": "Gamdevi CC",
-        "odds": "1.1"
+        "team": "Markhor Cricketers",
+        "odds": "2.61"
       }
     ]
   },
   {
-    "date": "Apr 21, 09:35 AM",
-    "title": "Thailand (cyber) - Zimbabwe (cyber)",
+    "date": "Apr 22, 11:58 AM",
+    "title": "Sitapur Stars - Eleven Kings",
     "bets": [
       {
-        "team": "Zimbabwe (cyber)",
-        "odds": "10.89"
+        "team": "Sitapur Stars",
+        "odds": "10.75"
       }
     ]
   },
   {
-    "date": "Apr 21, 10:05 AM",
-    "title": "Punjab Kings (cyber) - Kolkata Knight Riders (cyber)",
+    "date": "Apr 22, 12:05 PM",
+    "title": "Lucknow Super Giants (cyber) - Gujarat Titans (cyber)",
     "bets": [
       {
-        "team": "Punjab Kings (cyber)",
-        "odds": "2.37"
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "4.55"
       },
       {
-        "team": "Kolkata Knight Riders (cyber)",
-        "odds": "1.5"
+        "team": "Gujarat Titans (cyber)",
+        "odds": "1.08"
       }
     ]
   },
   {
-    "date": "Apr 21, 10:05 AM",
-    "title": "Konditiva CC - Varanasi Worriers",
+    "date": "Apr 22, 12:30 PM",
+    "title": "Gujarat Titans (Leng_0905) - Punjab Kings (Onix_3355)",
     "bets": [
       {
-        "team": "Konditiva CC",
-        "odds": "1.26"
+        "team": "Gujarat Titans (Leng_0905)",
+        "odds": "1.37"
       },
       {
-        "team": "Varanasi Worriers",
-        "odds": "3.36"
+        "team": "Punjab Kings (Onix_3355)",
+        "odds": "2.8"
       }
     ]
   },
   {
-    "date": "Apr 21, 10:30 AM",
-    "title": "Ruhuna Cricket - Rampage Indoor",
+    "date": "Apr 22, 12:35 PM",
+    "title": "Germany (cyber) - Afghanistan (cyber)",
+    "bets": [
+      {
+        "team": "Germany (cyber)",
+        "odds": "2.18"
+      },
+      {
+        "team": "Afghanistan (cyber)",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Apr 22, 01:00 PM",
+    "title": "Future Stars (Women) - Rapid Falcons (Women)",
+    "bets": [
+      {
+        "team": "Future Stars (w)",
+        "odds": "2.29"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.58"
+      }
+    ]
+  },
+  {
+    "date": "Apr 22, 01:05 PM",
+    "title": "Chennai Carvers (cyber) - Rajasthan Royals (cyber)",
+    "bets": [
+      {
+        "team": "Chennai Carvers (cyber)",
+        "odds": "1.65"
+      },
+      {
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "2.07"
+      }
+    ]
+  },
+  {
+    "date": "Apr 22, 01:25 PM",
+    "title": "Kolkata Knight Riders (VR) - Punjab Kings (VR)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (VR)",
+        "odds": "1.64"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.9"
+      }
+    ]
+  },
+  {
+    "date": "Apr 22, 01:30 PM",
+    "title": "Ruhuna Cricket - Top Guns Indoor",
     "bets": [
       {
         "team": "Ruhuna Cricket",
-        "odds": "3.09"
-      },
-      {
-        "team": "Draw",
-        "odds": "24.52"
-      }
-    ]
-  },
-  {
-    "date": "Apr 21, 10:30 AM",
-    "title": "Kolkata Knight Riders (Leng_0905) - Chennai Super Kings (Onix_3355)",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders (Leng_0905)",
-        "odds": "1.73"
-      },
-      {
-        "team": "Chennai Super Kings (Onix_3355)",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Apr 21, 10:30 AM",
-    "title": "Ferocious Divas (Women) - Femforce (Women)",
-    "bets": [
-      {
-        "team": "Ferocious Divas (w)",
-        "odds": "1.32"
-      },
-      {
-        "team": "Draw",
-        "odds": "24.46"
-      }
-    ]
-  },
-  {
-    "date": "Apr 21, 10:35 AM",
-    "title": "Pakistan (cyber) - India (cyber)",
-    "bets": [
-      {
-        "team": "Pakistan (cyber)",
-        "odds": "3.37"
-      },
-      {
-        "team": "India (cyber)",
-        "odds": "1.21"
-      }
-    ]
-  },
-  {
-    "date": "Apr 21, 10:25 AM",
-    "title": "South Africa (VR) - West Indies (VR)",
-    "bets": [
-      {
-        "team": "South Africa (VR)",
-        "odds": "2.14"
-      },
-      {
-        "team": "Draw",
-        "odds": "23.91"
-      }
-    ]
-  },
-  {
-    "date": "Apr 21, 10:45 AM",
-    "title": "India Red (AnjiDan) - India Blue (Carlo)",
-    "bets": [
-      {
-        "team": "India Red (AnjiDan)",
-        "odds": "1.03"
-      },
-      {
-        "team": "India Blue (Carlo)",
-        "odds": "8.69"
-      }
-    ]
-  },
-  {
-    "date": "Apr 21, 11:00 AM",
-    "title": "Rapid Falcons (Women) - Future Stars (Women)",
-    "bets": [
-      {
-        "team": "Rapid Falcons (w)",
         "odds": "1.83"
       },
       {
@@ -216,16 +206,58 @@
     ]
   },
   {
-    "date": "Apr 21, 11:05 AM",
-    "title": "Gujarat Titans (cyber) - Rajasthan Royals (cyber)",
+    "date": "Apr 22, 01:30 PM",
+    "title": "Ferocious Divas (Women) - Blitz And Glitz (Women)",
     "bets": [
       {
-        "team": "Gujarat Titans (cyber)",
-        "odds": "2.44"
+        "team": "Ferocious Divas (w)",
+        "odds": "2.04"
       },
       {
-        "team": "Rajasthan Royals (cyber)",
-        "odds": "1.46"
+        "team": "Draw",
+        "odds": "24.59"
+      }
+    ]
+  },
+  {
+    "date": "Apr 22, 01:35 PM",
+    "title": "Thailand (cyber) - Zimbabwe (cyber)",
+    "bets": [
+      {
+        "team": "Thailand (cyber)",
+        "odds": "1.63"
+      },
+      {
+        "team": "Zimbabwe (cyber)",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Apr 22, 01:35 PM",
+    "title": "New Zealand (VR) - South Africa (VR)",
+    "bets": [
+      {
+        "team": "New Zealand (VR)",
+        "odds": "1.8"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.89"
+      }
+    ]
+  },
+  {
+    "date": "Apr 22, 01:30 PM",
+    "title": "India Red (JdeMen) - India Blue (MarkzMan)",
+    "bets": [
+      {
+        "team": "India Red (JdeMen)",
+        "odds": "6.91"
+      },
+      {
+        "team": "India Blue (MarkzMan)",
+        "odds": "1.06"
       }
     ]
   }
