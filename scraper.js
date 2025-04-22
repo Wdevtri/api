@@ -1,17 +1,20 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-core');
 const fs = require('fs');
+const os = require('os');
+const path = require('path');
 
 async function scrapeMatches() {
   const isGithubCI = process.env.GITHUB_ACTIONS === 'true';
 
-  // Define the path based on the environment
+  // Define the executable path based on environment
   const executablePath = isGithubCI
-    ? '/usr/bin/chromium-browser'  // Path for GitHub Actions environment
-    : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'; // Path for local environment
+    ? '/usr/bin/google-chrome'
+    : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
 
+  // Launch Puppeteer with the required options
   const browser = await puppeteer.launch({
     headless: true,
-    executablePath, // Use the dynamically set executable path
+    executablePath,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
 
@@ -23,8 +26,8 @@ async function scrapeMatches() {
     await page.goto(url, { waitUntil: 'networkidle2' });
 
     console.log('⏳ Scraping prematch data...');
-    await page.waitForTimeout(5000);  // Wait for page to fully load
-    await page.waitForSelector('.calendar-card', { timeout: 120000 });
+    // Wait for the specific element to be loaded
+    await page.waitForSelector('.calendar-card', { timeout: 120000 }); // Wait for the calendar card to load
 
     const prematchData = await page.evaluate(() => {
       const matches = [];
@@ -52,7 +55,8 @@ async function scrapeMatches() {
 
     // Click "Live" tab and scrape live data
     await page.click('.calendar-switcher__item:nth-child(2)');
-    await new Promise(resolve => setTimeout(resolve, 3000));
+    // Use waitForSelector to ensure the live data is loaded before scraping
+    await page.waitForSelector('.calendar-card', { timeout: 120000 });  // Wait for the live calendar cards
 
     const liveData = await page.evaluate(() => {
       const matches = [];
@@ -77,6 +81,7 @@ async function scrapeMatches() {
 
     fs.writeFileSync('live.json', JSON.stringify(liveData, null, 2), 'utf-8');
     console.log('✅ Updated live.json');
+
   } catch (error) {
     console.error('❌ Error:', error.message);
   } finally {

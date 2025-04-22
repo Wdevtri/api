@@ -1,19 +1,5 @@
 [
   {
-    "date": "Apr 22, 03:30 PM",
-    "title": "Hobart Hurricanes Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.99"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
     "date": "Apr 22, 05:00 PM",
     "title": "Fujairah D50 - Sharjah D50",
     "bets": [
@@ -266,6 +252,20 @@
     ]
   },
   {
+    "date": "Apr 23, 09:30 AM",
+    "title": "Sydney Sixers SRL - Adelaide Strikers Srl",
+    "bets": [
+      {
+        "team": "Sydney Sixers SRL",
+        "odds": "1.69"
+      },
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
     "date": "Apr 23, 11:30 AM",
     "title": "Afghanistan A - Sri Lanka A",
     "bets": [
@@ -276,6 +276,62 @@
       {
         "team": "Sri Lanka A",
         "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 11:30 AM",
+    "title": "Barbados Royals Srl - Trinbago Knight Riders SRL",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 01:30 PM",
+    "title": "India SRL - England SRL",
+    "bets": [
+      {
+        "team": "India Srl",
+        "odds": "1.65"
+      },
+      {
+        "team": "England Srl",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 03:30 PM",
+    "title": "Sydney Thunder Srl - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.65"
+      },
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 05:30 PM",
+    "title": "Pretoria Capitals Srl - Mi Cape Town Srl",
+    "bets": [
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "2.28"
+      },
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.58"
       }
     ]
   },
