@@ -28,7 +28,7 @@ jobs:
       - name: Run the scraper and update files
         run: |
           # Set Puppeteer to use the installed Chromium
-          export PUPPETEER_EXECUTABLE_PATH="/usr/bin/chromium"
+          export PUPPETEER_EXECUTABLE_PATH="/usr/bin/chromium-browser"
           node scraper.js  # Run your scraper file that scrapes and updates the data files
 
       - name: Commit and push updated data
