@@ -2,7 +2,11 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 async function scrapeMatches() {
-  const browser = await puppeteer.launch({ headless: true, executablePath: process.env.PUPPETEER_EXECUTABLE_PATH });
+  const browser = await puppeteer.launch({
+    headless: true,
+    executablePath: process.env.PUPPETEER_EXECUTABLE_PATH,
+    args: ['--no-sandbox', '--disable-setuid-sandbox'] // These arguments bypass sandboxing in CI/CD environments
+  });
   const page = await browser.newPage();
   const url = 'https://1wywg.com/v3/3991/landing-betting-india?lang=en&bonus=hi&subid=%7Bsub1%7D&payout=%7Bamount%7D&p=zgpn&sub1=14t2n34f8hpef';
 
