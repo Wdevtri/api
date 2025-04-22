@@ -21,7 +21,8 @@ async function scrapeMatches() {
   try {
     console.log('⏳ Loading page...');
     await page.goto(url, { waitUntil: 'domcontentloaded' });
-    await page.waitForTimeout(5000); // Wait a bit for dynamic content
+    await new Promise(resolve => setTimeout(resolve, 5000));
+ // Wait a bit for dynamic content
 
     console.log('⏳ Scraping prematch data...');
     try {
