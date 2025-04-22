@@ -20,16 +20,21 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install Chromium (for Puppeteer)
+      - name: Install Google Chrome
         run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium
+               sudo apt update
+               sudo apt install -y wget gnupg2
+               wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+               sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+               sudo apt update
+               sudo apt install -y google-chrome-stable
+
 
       - name: Run the scraper and update files
         run: |
-          # Set Puppeteer to use the installed Chromium
-          export PUPPETEER_EXECUTABLE_PATH="/usr/bin/chromium-browser"
-          node scraper.js  # Run your scraper file that scrapes and updates the data files
+               export PUPPETEER_EXECUTABLE_PATH="/usr/bin/google-chrome"
+               node scraper.js
+
 
       - name: Commit and push updated data
         run: |
