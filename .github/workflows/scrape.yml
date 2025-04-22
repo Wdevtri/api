@@ -1,13 +1,14 @@
-name: Scrape Data
+name: Scrape Data and Push
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # This means the cron job will run every 5 minutes
-  workflow_dispatch:  # This allows manual triggering
+    - cron: '*/5 * * * *'  # Run every 5 minutes
+  workflow_dispatch:       # Manual trigger available
 
 jobs:
-  scrape:
+  scrape-and-push:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -15,18 +16,26 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '22.14.0' 
+          node-version: '16'  # Or '18' for newer support
 
       - name: Install dependencies
         run: npm install
 
-      - name: Run the scraper
-        run: node scraper.js  # Run the scraper script
+      - name: Install Chromium (for Puppeteer)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+        # NOTE: On GitHub runners, 'chromium-browser' is the right package
+
+      - name: Run the scraper and update files
+        env:
+          PUPPETEER_EXECUTABLE_PATH: "/usr/bin/chromium-browser"
+        run: node scraper.js
 
       - name: Commit and push updated data
         run: |
           git config --global user.email "nikithamorningstar@gmail.com"
           git config --global user.name "Wdevtri"
-          git add .
-          git commit -m "Update scraped data"
+          git add prematch.json live.json
+          git commit -m "Update scraped data" || echo "No changes to commit"
           git push
