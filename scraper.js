@@ -50,7 +50,7 @@ async function scrapeMatches() {
 
     // Click "Live" tab and scrape live data
     await page.click('.calendar-switcher__item:nth-child(2)');
-    await page.waitForTimeout(3000);
+    await new Promise(resolve => setTimeout(resolve, 3000));
 
     const liveData = await page.evaluate(() => {
       const matches = [];
