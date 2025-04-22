@@ -1,0 +1,402 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    transition: .3s ease;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    margin-bottom: -5rem;
+}
+
+.header-container{
+    padding: 33px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-container .left-btn{
+    --gradient-value: 40%;
+    --gradient-opacity: .12;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 36px;
+    padding: 0 12px;
+    gap: 8px;
+    background: transparent;
+    background-image: linear-gradient(325deg, rgba(255, 255, 255, .12) 11.02%, #fff0 73.51%), linear-gradient(128deg, rgba(236, 218, 113, .25) 14%, rgba(236, 218, 113, 0) 40%);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    border-radius: 12px;
+    border: none;
+    color: #FFF;
+    cursor: pointer;
+    outline: 0 solid #FFF;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+}
+
+a.account-link{
+    text-decoration: none!important;
+}
+
+.account-question{
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.3;
+    letter-spacing: .01px;
+    color: #ffffffb3;
+}
+
+.website-link{
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 3px 6px rgba(0, 0, 0, .2);
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.43;
+}
+
+.fa-circle-arrow-right{
+    font-size: 35px;
+    color: #FFF;
+}
+
+.main-container{
+    background-image: url("images/bg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.title{
+    color: #FFF;
+    font-family: "Montserrat", sans-serif;
+}
+
+.header-desc{
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+}
+
+.tabs .nav-item{
+    width: 50%;
+}
+
+.tabs .nav-item button{
+    width: 100%;
+}
+
+.tabs .nav-link i{
+    color: #0075ff!important;
+}
+
+.tabs .nav-link{
+    color: #000!important;
+    background-color: transparent!important;
+    border-radius: 100px!important;
+}
+
+.tabs .nav-link.active{
+    background-color: #0075FF!important;
+    border-radius: 100px;
+    color: #FFF!important;
+}
+
+.tabs .nav-link.active i{
+    color: #FFF!important;
+}
+
+.tab-headers ul{
+    background-color: #fff;
+    border-radius: 100px;
+}
+
+.tab-headers ul button{
+    border: none!important;
+}
+
+.tab-content{
+    background-color: #f0f2f5FF;
+    padding: 20px;
+}
+
+.tab-pane{
+    overflow-y: auto;
+    scrollbar-color: #d7dbe2 #f0f2f5;
+    scrollbar-width: thin;
+}
+
+.betting-card{
+    background-color: #FFF;
+    border-radius: 24px;
+    margin: 10px 0;
+}
+
+.betting-card-info{
+    border-right: 1px solid #f0f2f5;
+}
+
+.match-date{
+    font-size: 14px;
+    color: #797f8b;
+    font-family: "Inter", sans-serif;
+    margin-bottom: 0;
+}
+
+.match-title{
+    max-width: 165px;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: -.16px;
+    font-family: "Inter", sans-serif;
+    margin-bottom: 0;
+}
+
+.match-name{
+    font-family: "Inter", sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.match-bet{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin: 5px 0 0;
+    padding: 8px;
+    border-radius: 8px;
+    background-color: #f0f2f5;
+}
+
+.bet-item{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+}
+
+.breaker{
+    color: #d7dbe2;
+}
+
+.betting-card-action{
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+}
+
+.action-btn{
+    border: none;
+    background-color: #0075ff;
+    color: #FFF;
+    height: 44px;
+    border-radius: 12px;
+    width: 100%;
+    font-family: "Inter", sans-serif;
+}
+
+.footer{
+    padding: 0 20px 20px;
+    color: #FFF;
+    font-family: "Inter" , sans-serif;
+    font-size: 12px;
+}
+
+@media screen and (max-width:767px) {
+    .logo-img{
+        width: 80px;
+        margin: 0 0 24px;
+    }
+    .content-container{
+        padding-top: 1.5rem;
+    }
+    .title{
+        margin-top: 12rem;
+    }
+    .tab-pane{
+        height: 734px;
+    }
+    .tab-content{
+        border-radius: 25px;
+    }
+    .betting-card{
+        padding: 13px;
+        text-align: center;
+    }
+    .betting-card-info{
+        margin-bottom: 33px;
+    }
+    .match-title{
+        max-width: 100%;
+    }
+    .action-btn{
+        height: 36px;
+        margin-top: 14px;
+    }
+
+    .header{
+        display: none;
+    }
+
+    .main-container{
+        background-image: url("images/mobib.png");
+        background-position: top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        min-height: 100vh;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .main-container{
+        background-image: url("images/tabbg.png");
+    }
+    .header{
+        display: none;
+    }
+    .background-container{
+        display: none;
+    }
+    .content-container{
+        padding-top: 1.5rem;
+        width: 470px;
+        margin: 0 auto 38px;
+    }
+    .logo-img{
+        width: 150px;
+        margin: 0 0 16px;
+    }
+    .title{
+        font-size: 32px;
+        letter-spacing: -1.28px;
+    }
+    .header-desc{
+        font-size: 16px;
+        letter-spacing: .16px;
+        text-shadow: none;
+    }
+    .tab-pane{
+        height: 734px;
+    }
+    .tab-headers ul{
+        margin: 17px auto;
+    }
+    .tab-content{
+        border-radius: 25px;
+        text-align: center;
+    }
+    .betting-card {
+        padding: 13px;
+        text-align: center;
+    }
+    .betting-card-info {
+        margin-bottom: 33px;
+    }
+    .match-title {
+        max-width: 100%;
+    }
+    .action-btn {
+        height: 36px;
+        margin-top: 14px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .header{
+        display: block;
+    }
+    .main-container{
+        background-image: url("images/bg.png");
+    }
+    .content-container{
+        width: 584px;
+        margin: 0 0 21px 50px;
+    }
+    .title{
+        font-size: 36px;
+        letter-spacing: -1.44px;
+    }
+    .header-desc{
+        font-size: 20px;
+        letter-spacing: .2px;
+    }
+    .tab-headers ul{
+        width: 296px;
+        margin: 24px auto 12px;
+        padding: 4px;
+    }
+    .tab-content{        
+        border-radius: 36px;
+        /* padding: 16px; */
+        min-width: max-content
+    }
+    .tab-pane{
+        width: 584px;
+        height: 428px;
+        min-height: auto;
+    }
+    .betting-card{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        padding: 14px;
+        box-shadow: none;
+    }
+    .betting-card-info{
+        margin-bottom: 0;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .account-link-footer{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1440px) {
+    .content-container{
+        width: 700px;
+        margin: 0 0 0 130px;
+        padding-bottom: 21px;
+    }
+    .logo-img{
+        width: 120px;
+        margin: 0 0 24px;
+    }
+    .title{
+        font-size: 48px;
+        letter-spacing: -1.92px;
+    }
+    .header-desc{
+        font-size: 24px;
+        letter-spacing: .24px;
+        white-space: pre-wrap;
+    }
+    .tab-headers ul{
+        width: 323px;
+        margin: 24px auto 16px;
+    }
+    .tab-pane{
+        width: 640px;
+        height: 428px;
+    }
+}
