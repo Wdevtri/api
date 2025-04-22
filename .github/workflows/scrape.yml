@@ -2,13 +2,12 @@ name: Scrape Data and Push
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Run every 5 minutes
-  workflow_dispatch:       # Manual trigger available
+    - cron: '*/5 * * * *'  # This will run every 5 minutes
+  workflow_dispatch:  # Allow for manual triggering as well
 
 jobs:
   scrape-and-push:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -16,7 +15,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'  # Or '18' for newer support
+          node-version: '16'  # You can use the Node.js version that works best for you
 
       - name: Install dependencies
         run: npm install
@@ -24,22 +23,20 @@ jobs:
       - name: Install Chromium (for Puppeteer)
         run: |
           sudo apt-get update
-          sudo apt-get install -y chromium-browser
-        # NOTE: On GitHub runners, 'chromium-browser' is the right package
+          sudo apt-get install -y chromium
 
       - name: Run the scraper and update files
-        env:
-          PUPPETEER_EXECUTABLE_PATH: "/usr/bin/chromium-browser"
-        run: node scraper.js
+        run: |
+          # Set Puppeteer to use the installed Chromium
+          export PUPPETEER_EXECUTABLE_PATH="/usr/bin/chromium"
+          node scraper.js  # Run your scraper file that scrapes and updates the data files
 
       - name: Commit and push updated data
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  run: |
-    git config --global user.email "nikithamorningstar@gmail.com"
-    git config --global user.name "Wdevtri"
-    git add .
-    git commit -m "Update scraped data" || echo "No changes to commit"
-    git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
-    git push origin HEAD
-
+        run: |
+          git config --global user.email "nikithamorningstar@gmail.com"
+          git config --global user.name "Wdevtri"
+          git add .
+          git commit -m "Update scraped data"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}  # Use the stored token for authentication
