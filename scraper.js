@@ -1,17 +1,13 @@
 const puppeteer = require('puppeteer-core');
 const fs = require('fs');
-const os = require('os');
-const path = require('path');
 
 async function scrapeMatches() {
   const isGithubCI = process.env.GITHUB_ACTIONS === 'true';
 
-  // Define the executable path based on environment
   const executablePath = isGithubCI
     ? '/usr/bin/google-chrome'
     : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
 
-  // Launch Puppeteer with the required options
   const browser = await puppeteer.launch({
     headless: true,
     executablePath,
@@ -19,16 +15,22 @@ async function scrapeMatches() {
   });
 
   const page = await browser.newPage();
-  const url = 'https://1wywg.com/v3/3991/landing-betting-india?lang=en&bonus=hi&subid=%7Bsub1%7D&payout=%7Bamount%7D&p=zgpn&sub1=14t2n34f8hpef';
+
+  // Fake user agent to mimic browser
+  await page.setUserAgent(
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36'
+  );
+
+  const url = 'https://1wywg.com/v3/3991/landing-betting-india?lang=en&bonus=hi&subid={sub1}&payout={amount}&p=zgpn&sub1=14t2n34f8hpef';
 
   try {
     console.log('⏳ Loading page...');
-    await page.goto(url, { waitUntil: 'networkidle2' });
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 0 });
+
+    // Give time to render
+    await new Promise(res => setTimeout(res, 5000));
 
     console.log('⏳ Scraping prematch data...');
-    // Wait for the specific element to be loaded
-    await page.waitForSelector('.calendar-card', { timeout: 120000 }); // Wait for the calendar card to load
-
     const prematchData = await page.evaluate(() => {
       const matches = [];
       const cards = document.querySelectorAll('.calendar-card');
@@ -43,9 +45,7 @@ async function scrapeMatches() {
           bets.push({ team, odds });
         });
 
-        if (title && bets.length) {
-          matches.push({ date, title, bets });
-        }
+        if (title && bets.length) matches.push({ date, title, bets });
       });
       return matches;
     });
@@ -53,10 +53,14 @@ async function scrapeMatches() {
     fs.writeFileSync('prematch.json', JSON.stringify(prematchData, null, 2), 'utf-8');
     console.log('✅ Updated prematch.json');
 
-    // Click "Live" tab and scrape live data
-    await page.click('.calendar-switcher__item:nth-child(2)');
-    // Use waitForSelector to ensure the live data is loaded before scraping
-    await page.waitForSelector('.calendar-card', { timeout: 120000 });  // Wait for the live calendar cards
+    // Switch to live tab
+    await page.evaluate(() => {
+      const liveTab = document.querySelector('.calendar-switcher__item:nth-child(2)');
+      if (liveTab) liveTab.click();
+    });
+
+    // Wait for live data to load
+    await new Promise(res => setTimeout(res, 5000));
 
     const liveData = await page.evaluate(() => {
       const matches = [];
@@ -72,9 +76,7 @@ async function scrapeMatches() {
           bets.push({ team, odds });
         });
 
-        if (title && bets.length) {
-          matches.push({ date, title, bets });
-        }
+        if (title && bets.length) matches.push({ date, title, bets });
       });
       return matches;
     });
@@ -84,6 +86,14 @@ async function scrapeMatches() {
 
   } catch (error) {
     console.error('❌ Error:', error.message);
+
+    // Save the page for debugging in GitHub Actions
+    try {
+      fs.writeFileSync('debug.html', await page.content(), 'utf-8');
+    } catch (e) {
+      console.error('Failed to save debug HTML:', e.message);
+    }
+
   } finally {
     await browser.close();
   }
