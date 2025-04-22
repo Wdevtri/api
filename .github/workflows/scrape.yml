@@ -37,10 +37,12 @@ jobs:
 
       - name: Commit and push updated data
         run: |
-          git config --global user.email "nikithamorningstar@gmail.com"
-          git config --global user.name "Wdevtri"
-          git add .
-          git commit -m "Update scraped data"
-          git push
+               git config --global user.email "nikithamorningstar@gmail.com"
+               git config --global user.name "Wdevtri"
+               git add .
+               git commit -m "Update scraped data" || echo "No changes to commit"
+               git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/Wdevtri/api.git
+               git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}  # Use the stored token for authentication
+            GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}  # Use the stored token for authentication
+ # Use the stored token for authentication

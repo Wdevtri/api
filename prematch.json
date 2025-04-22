@@ -348,5 +348,19 @@
         "odds": "1.62"
       }
     ]
+  },
+  {
+    "date": "Apr 24, 01:15 PM",
+    "title": "Nightcliff - Tracy Village",
+    "bets": [
+      {
+        "team": "Nightcliff",
+        "odds": "2.4"
+      },
+      {
+        "team": "Tracy Village",
+        "odds": "1.5"
+      }
+    ]
   }
 ]
