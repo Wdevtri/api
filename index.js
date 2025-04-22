@@ -1,14 +1,16 @@
 const express = require('express');
 const fs = require('fs');
+const cors = require('cors'); // ✅ Import cors
 const app = express();
 const port = process.env.PORT || 10000;
 
-// Serve a basic route for health check
+// ✅ Enable CORS for all routes
+app.use(cors()); // Or specify origin: { origin: 'https://your-frontend-domain.com' }
+
 app.get('/', (req, res) => {
   res.send('✅ API is running!');
 });
 
-// Route for fetching live data
 app.get('/live', (req, res) => {
   fs.readFile('live.json', 'utf8', (err, data) => {
     if (err) {
@@ -18,7 +20,6 @@ app.get('/live', (req, res) => {
   });
 });
 
-// Route for fetching prematch data
 app.get('/prematch', (req, res) => {
   fs.readFile('prematch.json', 'utf8', (err, data) => {
     if (err) {
@@ -28,7 +29,6 @@ app.get('/prematch', (req, res) => {
   });
 });
 
-// Start the API server
 app.listen(port, () => {
   console.log(`API running on port ${port}`);
 });
