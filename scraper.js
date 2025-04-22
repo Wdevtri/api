@@ -2,11 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 async function scrapeMatches() {
-  const browser = await puppeteer.launch({
-    headless: true,  // or false if you want to see the browser
-    executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe',  // Replace this with your path
-  });
-  
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   const url = 'https://1wywg.com/v3/3991/landing-betting-india?lang=en&bonus=hi&subid=%7Bsub1%7D&payout=%7Bamount%7D&p=zgpn&sub1=14t2n34f8hpef';
 
