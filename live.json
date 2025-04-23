@@ -5,195 +5,209 @@
     "bets": [
       {
         "team": "Bangladesh",
-        "odds": "1.45"
+        "odds": "1.53"
       },
       {
         "team": "Draw",
-        "odds": "8"
+        "odds": "6.2"
       }
     ]
   },
   {
-    "date": "Apr 22, 03:30 PM",
-    "title": "Hobart Hurricanes Srl - Sydney Thunder Srl",
+    "date": "Apr 23, 08:30 AM",
+    "title": "Mohammedan - Gulshan CC",
     "bets": [
       {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "2.28"
+        "team": "Mohammedan",
+        "odds": "1.43"
       },
       {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.58"
+        "team": "Gulshan CC",
+        "odds": "2.57"
       }
     ]
   },
   {
-    "date": "Apr 22, 01:30 PM",
-    "title": "Borade Cricket Academy - Tfc",
+    "date": "Apr 23, 09:15 AM",
+    "title": "Vande Mataram Pratishthan - Borade Cricket Academy",
     "bets": [
+      {
+        "team": "Vande Mataram Pratishthan",
+        "odds": "1.02"
+      },
       {
         "team": "Borade Cricket Academy",
-        "odds": "8.8"
-      },
-      {
-        "team": "Tfc",
-        "odds": "1.02"
+        "odds": "9.4"
       }
     ]
   },
   {
-    "date": "Apr 22, 02:45 PM",
-    "title": "Grigny Vipers - Royal 94",
+    "date": "Apr 23, 08:30 AM",
+    "title": "Agrani Bank - Legends Of Rupganj",
     "bets": [
       {
-        "team": "Grigny Vipers",
-        "odds": "11"
+        "team": "Agrani Bank",
+        "odds": "3.77"
+      },
+      {
+        "team": "Legends Of Rupganj",
+        "odds": "1.21"
       }
     ]
   },
   {
-    "date": "Apr 22, 02:00 PM",
-    "title": "City Central League - AGORC",
+    "date": "Apr 23, 08:00 AM",
+    "title": "Abahani Limited - Gazi Group Cricketers",
+    "bets": [
+      {
+        "team": "Abahani Limited",
+        "odds": "1.37"
+      },
+      {
+        "team": "Gazi Group Cricketers",
+        "odds": "2.79"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 08:05 AM",
+    "title": "Lucknow Super Giants (cyber) - Chennai Carvers (cyber)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "5.85"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 08:30 AM",
+    "title": "Marvelous Mermaid (Women) - Star Eleven (Women)",
+    "bets": [
+      {
+        "team": "Marvelous Mermaid (w)",
+        "odds": "1.61"
+      },
+      {
+        "team": "Star Eleven (w)",
+        "odds": "2.13"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 08:30 AM",
+    "title": "Screaming Eagles - Tanaji Cricketers",
+    "bets": [
+      {
+        "team": "Screaming Eagles",
+        "odds": "1.39"
+      },
+      {
+        "team": "Tanaji Cricketers",
+        "odds": "2.68"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 08:30 AM",
+    "title": "Eleven Kings - Jhansi Rangers",
+    "bets": [
+      {
+        "team": "Eleven Kings",
+        "odds": "1.95"
+      },
+      {
+        "team": "Jhansi Rangers",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 08:35 AM",
+    "title": "New Zealand (cyber) - India (cyber)",
+    "bets": [
+      {
+        "team": "New Zealand (cyber)",
+        "odds": "1.8"
+      },
+      {
+        "team": "India (cyber)",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 08:30 AM",
+    "title": "Malakand Cricket Academy - School Of Cricket Burewala",
+    "bets": [
+      {
+        "team": "Malakand Cricket Academy",
+        "odds": "1.59"
+      },
+      {
+        "team": "School Of Cricket Burewala",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 08:30 AM",
+    "title": "Mumbai Indias (Afer_8668) - Rajasthan Royals (Vaga_0550)",
+    "bets": [
+      {
+        "team": "Mumbai Indias (Afer_8668)",
+        "odds": "1.68"
+      },
+      {
+        "team": "Rajasthan Royals (Vaga_0550)",
+        "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 08:30 AM",
+    "title": "City Central League - TCU",
     "bets": [
       {
         "team": "City Central League",
-        "odds": "3.08"
-      },
-      {
-        "team": "AGORC",
-        "odds": "1.31"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 02:05 PM",
-    "title": "Chitkul Association - Aghadi Cricket Association",
-    "bets": [
-      {
-        "team": "Chitkul Association",
-        "odds": "1.64"
-      },
-      {
-        "team": "Aghadi Cricket Association",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 02:20 PM",
-    "title": "AG Sports (Women) - Wonder Womens (Women)",
-    "bets": [
-      {
-        "team": "AG Sports (w)",
-        "odds": "2.13"
-      },
-      {
-        "team": "Wonder Womens (w)",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 02:30 PM",
-    "title": "Lucknow Super Giants (Leng_0905) - Sunrisers Hyderabad (Onix_3355)",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants (Leng_0905)",
-        "odds": "1.24"
-      },
-      {
-        "team": "Sunrisers Hyderabad (Onix_3355)",
-        "odds": "3.49"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 02:35 PM",
-    "title": "G Team Gujarawala - Malakand Cricket Academy",
-    "bets": [
-      {
-        "team": "G Team Gujarawala",
-        "odds": "3.36"
-      },
-      {
-        "team": "Malakand Cricket Academy",
-        "odds": "1.26"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 03:05 PM",
-    "title": "Gujarat Titans (cyber) - Lucknow Super Giants (cyber)",
-    "bets": [
-      {
-        "team": "Gujarat Titans (cyber)",
-        "odds": "3.83"
-      },
-      {
-        "team": "Lucknow Super Giants (cyber)",
-        "odds": "1.14"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 03:25 PM",
-    "title": "New Zealand (VR) - England (VR)",
-    "bets": [
-      {
-        "team": "New Zealand (VR)",
-        "odds": "2"
-      },
-      {
-        "team": "Draw",
-        "odds": "23.9"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 03:30 PM",
-    "title": "Tripura (CS) - Uttar Pradesh (CS)",
-    "bets": [
-      {
-        "team": "Tripura (CS)",
         "odds": "1.54"
       },
       {
-        "team": "Draw",
-        "odds": "25"
+        "team": "TCU",
+        "odds": "2.27"
       }
     ]
   },
   {
-    "date": "Apr 22, 03:30 PM",
-    "title": "Rampage Indoor - Ruhuna Cricket",
+    "date": "Apr 23, 09:00 AM",
+    "title": "Supernovas (Women) - Future Stars (Women)",
     "bets": [
       {
-        "team": "Rampage Indoor",
-        "odds": "1.76"
+        "team": "Supernovas (w)",
+        "odds": "3.24"
       },
       {
         "team": "Draw",
-        "odds": "24.53"
+        "odds": "24.46"
       }
     ]
   },
   {
-    "date": "Apr 22, 03:35 PM",
-    "title": "Sri Lanka (cyber) - Pakistan (cyber)",
+    "date": "Apr 23, 09:05 AM",
+    "title": "Rajasthan Royals (cyber) - Gujarat Titans (cyber)",
     "bets": [
       {
-        "team": "Sri Lanka (cyber)",
-        "odds": "4.39"
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "1.11"
       },
       {
-        "team": "Pakistan (cyber)",
-        "odds": "1.09"
+        "team": "Gujarat Titans (cyber)",
+        "odds": "4.11"
       }
     ]
   },
   {
-    "date": "Apr 22, 03:35 PM",
-    "title": "Sunrises Hyderabad (VR) - Chennai Super Kings (VR)",
+    "date": "Apr 23, 09:30 AM",
+    "title": "Sunrises Hyderabad (VR) - Kolkata Knight Riders (VR)",
     "bets": [
       {
         "team": "Sunrises Hyderabad (VR)",
@@ -206,54 +220,12 @@
     ]
   },
   {
-    "date": "Apr 22, 03:45 PM",
-    "title": "Varanasi Worriers - Eleven Kings",
+    "date": "Apr 23, 09:30 AM",
+    "title": "Charming Squad (Women) - Blitz And Glitz (Women)",
     "bets": [
       {
-        "team": "Varanasi Worriers",
-        "odds": "1.59"
-      },
-      {
-        "team": "Eleven Kings",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 03:45 PM",
-    "title": "India Blue (MarkzMan) - India Red (Sharoock)",
-    "bets": [
-      {
-        "team": "India Blue (MarkzMan)",
-        "odds": "1.14"
-      },
-      {
-        "team": "India Red (Sharoock)",
-        "odds": "4.66"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 04:00 PM",
-    "title": "Agra Royals (Women) - Star Eleven (Women)",
-    "bets": [
-      {
-        "team": "Agra Royals (w)",
-        "odds": "1.59"
-      },
-      {
-        "team": "Star Eleven (w)",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Apr 22, 04:00 PM",
-    "title": "Fast Hornets (Women) - Glam Chicks (Women)",
-    "bets": [
-      {
-        "team": "Fast Hornets (w)",
-        "odds": "1.99"
+        "team": "Charming Squad (w)",
+        "odds": "1.76"
       },
       {
         "team": "Draw",
@@ -262,16 +234,72 @@
     ]
   },
   {
-    "date": "Apr 22, 04:05 PM",
-    "title": "Punjab Kings (cyber) - Mumbai Indians (cyber)",
+    "date": "Apr 23, 09:30 AM",
+    "title": "Stunners Indoor - Top Guns Indoor",
     "bets": [
       {
-        "team": "Punjab Kings (cyber)",
-        "odds": "1.74"
+        "team": "Stunners Indoor",
+        "odds": "1.91"
       },
       {
-        "team": "Mumbai Indians (cyber)",
-        "odds": "1.94"
+        "team": "Draw",
+        "odds": "24.6"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 09:40 AM",
+    "title": "Australia (VR) - New Zealand (VR)",
+    "bets": [
+      {
+        "team": "Australia (VR)",
+        "odds": "1.8"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.89"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 09:35 AM",
+    "title": "Germany (cyber) - Thailand (cyber)",
+    "bets": [
+      {
+        "team": "Germany (cyber)",
+        "odds": "1.6"
+      },
+      {
+        "team": "Thailand (cyber)",
+        "odds": "2.15"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 09:30 AM",
+    "title": "India Blue (MarkzMan) - India Red (Sharoock)",
+    "bets": [
+      {
+        "team": "India Blue (MarkzMan)",
+        "odds": "1.49"
+      },
+      {
+        "team": "India Red (Sharoock)",
+        "odds": "2.38"
+      }
+    ]
+  },
+  {
+    "date": "Apr 23, 09:30 AM",
+    "title": "Sydney Sixers SRL - Adelaide Strikers Srl",
+    "bets": [
+      {
+        "team": "Sydney Sixers SRL",
+        "odds": "1.56"
+      },
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "2.32"
       }
     ]
   }
