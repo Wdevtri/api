@@ -1,89 +1,5 @@
 [
   {
-    "date": "Apr 23, 09:00 AM",
-    "title": "Nabajyoti Club - Smashers",
-    "bets": [
-      {
-        "team": "Nabajyoti Club",
-        "odds": "1.14"
-      },
-      {
-        "team": "Smashers",
-        "odds": "4.7"
-      }
-    ]
-  },
-  {
-    "date": "Apr 23, 11:30 AM",
-    "title": "Afghanistan A - Sri Lanka A",
-    "bets": [
-      {
-        "team": "Afghanistan A",
-        "odds": "2.38"
-      },
-      {
-        "team": "Sri Lanka A",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "Apr 23, 11:30 AM",
-    "title": "Barbados Royals Srl - Trinbago Knight Riders SRL",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "Apr 23, 12:45 PM",
-    "title": "Grigny Vipers - Paris Zalmi",
-    "bets": [
-      {
-        "team": "Grigny Vipers",
-        "odds": "2.94"
-      },
-      {
-        "team": "Paris Zalmi",
-        "odds": "1.33"
-      }
-    ]
-  },
-  {
-    "date": "Apr 23, 01:00 PM",
-    "title": "Gauhati Town Club - 91 Yards Club",
-    "bets": [
-      {
-        "team": "Gauhati Town Club",
-        "odds": "1.53"
-      },
-      {
-        "team": "91 Yards Club",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "Apr 23, 01:30 PM",
-    "title": "India SRL - England SRL",
-    "bets": [
-      {
-        "team": "India Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "England Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
     "date": "Apr 23, 01:30 PM",
     "title": "Tfc - Nashik Titans",
     "bets": [
@@ -131,11 +47,11 @@
     "bets": [
       {
         "team": "Warwickshire",
-        "odds": "2.28"
+        "odds": "2.54"
       },
       {
         "team": "Hampshire",
-        "odds": "1.53"
+        "odds": "1.44"
       }
     ]
   },
@@ -145,11 +61,11 @@
     "bets": [
       {
         "team": "Durham",
-        "odds": "1.91"
+        "odds": "1.77"
       },
       {
         "team": "Essex",
-        "odds": "1.77"
+        "odds": "1.9"
       }
     ]
   },
@@ -159,11 +75,11 @@
     "bets": [
       {
         "team": "The Blaze",
-        "odds": "1.63"
+        "odds": "1.62"
       },
       {
         "team": "Lancashire",
-        "odds": "2.1"
+        "odds": "2.12"
       }
     ]
   },
@@ -271,11 +187,11 @@
     "bets": [
       {
         "team": "Cayman",
-        "odds": "9"
+        "odds": "7.8"
       },
       {
         "team": "Canada",
-        "odds": "1.02"
+        "odds": "1.04"
       }
     ]
   },
@@ -285,11 +201,11 @@
     "bets": [
       {
         "team": "Multan Sultans",
-        "odds": "2.02"
+        "odds": "2.04"
       },
       {
         "team": "Islamabad United",
-        "odds": "1.75"
+        "odds": "1.73"
       }
     ]
   },
@@ -411,11 +327,11 @@
     "bets": [
       {
         "team": "Thailand",
-        "odds": "4.3"
+        "odds": "4.4"
       },
       {
         "team": "Saudi Arabia",
-        "odds": "1.17"
+        "odds": "1.16"
       }
     ]
   },
@@ -467,11 +383,11 @@
     "bets": [
       {
         "team": "Malaysia",
-        "odds": "1.22"
+        "odds": "1.26"
       },
       {
         "team": "Singapore",
-        "odds": "3.7"
+        "odds": "3.4"
       }
     ]
   },
@@ -579,11 +495,11 @@
     "bets": [
       {
         "team": "Lahore Qalandars",
-        "odds": "1.74"
+        "odds": "1.72"
       },
       {
         "team": "Peshawar Zalmi",
-        "odds": "2.02"
+        "odds": "2.04"
       }
     ]
   },
@@ -626,6 +542,20 @@
       {
         "team": "Australia Srl",
         "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 03:30 AM",
+    "title": "Trinbago Knight Riders SRL - Guyana Amazon Warriors Srl",
+    "bets": [
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.92"
+      },
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.82"
       }
     ]
   },
