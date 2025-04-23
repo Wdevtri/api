@@ -2,8 +2,8 @@ name: Scrape Data and Push
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # This will run every 5 minutes
-  workflow_dispatch:  # Allow for manual triggering as well
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape-and-push:
@@ -15,7 +15,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'  # You can use the Node.js version that works best for you
+          node-version: '16'
 
       - name: Install dependencies
         run: npm install
@@ -24,16 +24,23 @@ jobs:
         run: |
           sudo apt update
           sudo apt install -y wget gnupg2
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -  # Add the key
-          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'  # Add repo
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
           sudo apt update
-          sudo apt install -y google-chrome-stable  # Install Chrome
+          sudo apt install -y google-chrome-stable
 
       - name: Run the scraper and update files
         run: |
-          # Ensure PUPPETEER_EXECUTABLE_PATH points to the correct Chrome binary
-          export PUPPETEER_EXECUTABLE_PATH="/usr/bin/google-chrome-stable"  # Path for installed Chrome
+          export PUPPETEER_EXECUTABLE_PATH="/usr/bin/google-chrome-stable"
           node scraper.js
+
+      - name: Upload scraped files
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraped-files
+          path: |
+            prematch.json
+            live.json
 
   commit-and-push:
     runs-on: ubuntu-latest
@@ -41,6 +48,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: Download scraped files
+        uses: actions/download-artifact@v4
+        with:
+          name: scraped-files
 
       - name: Set up SSH key
         run: |
@@ -54,8 +66,16 @@ jobs:
           git config --global user.name "Wdevtri"
           git config --global user.email "nikithamorningstar@gmail.com"
 
-      - name: Commit and push changes
+      - name: Move files to repo root (if needed)
         run: |
-          git add .
-          git commit -m "Update scraped data"
-          git push git@github.com:Wdevtri/api.git
+          mv prematch.json ./prematch.json
+          mv live.json ./live.json
+
+      - name: Commit and push if there are changes
+        run: |
+          git add prematch.json live.json
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+          else
+            git commit -m "⬆️ Auto update betting data"
+            git push git@github.com:Wdevtri/api.git
