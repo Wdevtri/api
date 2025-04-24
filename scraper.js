@@ -5,24 +5,20 @@ const path = require('path');
 async function scrapeMatches() {
   const isGithubCI = process.env.GITHUB_ACTIONS === 'true';
 
-  const executablePath = process.env.PUPPETEER_EXECUTABLE_PATH || (
-    isGithubCI
-      ? '/usr/bin/google-chrome-stable'
-      : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
-  );
+  // Set the correct executable path based on environment
+  const executablePath = isGithubCI
+    ? '/usr/bin/google-chrome-stable' // For GitHub CI
+    : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'; // For local machine
 
   const browser = await puppeteer.launch({
     headless: true,
     executablePath,
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
 
   const page = await browser.newPage();
 
-  // Set larger viewport
-  await page.setViewport({ width: 1366, height: 768 });
-
-  // Fake user agent
+  // Set a custom user-agent to avoid detection
   await page.setUserAgent(
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36'
   );
@@ -32,27 +28,17 @@ async function scrapeMatches() {
   try {
     console.log('⏳ Navigating to page...');
     await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+
     console.log('✅ Page loaded. Waiting for .calendar-card...');
+    
+    // Wait for .calendar-card elements to be available in the DOM
+    await page.waitForFunction(() => {
+      return document.querySelectorAll('.calendar-card').length > 0;
+    }, { timeout: 30000 });
 
-    // Auto-scroll to trigger lazy loading
-    await page.evaluate(async () => {
-      await new Promise(resolve => {
-        let totalHeight = 0;
-        const distance = 200;
-        const timer = setInterval(() => {
-          const scrollHeight = document.body.scrollHeight;
-          window.scrollBy(0, distance);
-          totalHeight += distance;
-          if (totalHeight >= scrollHeight) {
-            clearInterval(timer);
-            resolve();
-          }
-        }, 100);
-      });
-    });
+    console.log('✅ Found .calendar-card elements');
 
-    await page.waitForSelector('.calendar-card', { timeout: 30000 });
-
+    // Scraping prematch data
     console.log('🔍 Scraping prematch data...');
     const prematchData = await page.evaluate(() => {
       const matches = [];
@@ -80,25 +66,9 @@ async function scrapeMatches() {
     });
 
     console.log('⏳ Waiting after switching tab...');
-    await page.waitForTimeout(5000);
+    await new Promise(res => setTimeout(res, 5000));
 
-    // Scroll again to load live content
-    await page.evaluate(async () => {
-      await new Promise(resolve => {
-        let totalHeight = 0;
-        const distance = 200;
-        const timer = setInterval(() => {
-          const scrollHeight = document.body.scrollHeight;
-          window.scrollBy(0, distance);
-          totalHeight += distance;
-          if (totalHeight >= scrollHeight) {
-            clearInterval(timer);
-            resolve();
-          }
-        }, 100);
-      });
-    });
-
+    // Scraping live data
     console.log('🔍 Scraping live data...');
     const liveData = await page.evaluate(() => {
       const matches = [];
@@ -122,9 +92,10 @@ async function scrapeMatches() {
   } catch (err) {
     console.error('❌ Scraping error:', err.message);
 
+    // Save the debug HTML content and screenshot if something goes wrong
     try {
       fs.writeFileSync('debug.html', await page.content());
-      await page.screenshot({ path: 'final-screenshot.png', fullPage: true });
+      await page.screenshot({ path: 'final-screenshot.png' });
       console.log('🧾 Saved final screenshot and debug.html');
     } catch (e) {
       console.error('⚠️ Could not save debug info:', e.message);
@@ -132,7 +103,6 @@ async function scrapeMatches() {
 
   } finally {
     await browser.close();
-    console.log('🔚 Browser closed');
   }
 }
 
