@@ -1,1 +1,436 @@
-[]
+[
+  {
+    "date": "Apr 23, 08:00 AM",
+    "title": "Tfc - Nashik Titans",
+    "bets": [
+      {
+        "team": "Tfc",
+        "odds": "1.14"
+      },
+      {
+        "team": "Nashik Titans",
+        "odds": "4.7"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 01:00 PM",
+    "title": "DCC Starlets - Fly Emirates",
+    "bets": [
+      {
+        "team": "DCC Starlets",
+        "odds": "2.9"
+      },
+      {
+        "team": "Fly Emirates",
+        "odds": "1.34"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 02:00 PM",
+    "title": "Royal Challengers Bengaluru - Rajasthan Royals",
+    "bets": [
+      {
+        "team": "Royal Challengers Bengaluru",
+        "odds": "1.63"
+      },
+      {
+        "team": "Rajasthan Royals",
+        "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 02:00 PM",
+    "title": "St Kitts And Nevis Patriots Srl - St Lucia Kings Srl",
+    "bets": [
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "2.12"
+      },
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 03:00 PM",
+    "title": "Lahore Qalandars - Peshawar Zalmi",
+    "bets": [
+      {
+        "team": "Lahore Qalandars",
+        "odds": "1.71"
+      },
+      {
+        "team": "Peshawar Zalmi",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 03:00 PM",
+    "title": "Cayman - Bahamas",
+    "bets": [
+      {
+        "team": "Cayman",
+        "odds": "1.27"
+      },
+      {
+        "team": "Bahamas",
+        "odds": "3.35"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 04:00 PM",
+    "title": "Sunrisers Eastern Cape Srl - Joburg Super Kings Srl",
+    "bets": [
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.82"
+      },
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 05:00 PM",
+    "title": "Dubai Dare Devils - AZ Gulf Titans",
+    "bets": [
+      {
+        "team": "Dubai Dare Devils",
+        "odds": "1.87"
+      },
+      {
+        "team": "AZ Gulf Titans",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 06:00 PM",
+    "title": "Brisbane Heat Srl - Melbourne Stars SRL",
+    "bets": [
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Melbourne Stars SRL",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 07:30 PM",
+    "title": "Canada - USA",
+    "bets": [
+      {
+        "team": "Canada",
+        "odds": "2.3"
+      },
+      {
+        "team": "USA",
+        "odds": "1.53"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 08:00 PM",
+    "title": "England SRL - Australia SRL",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "1.93"
+      },
+      {
+        "team": "Australia Srl",
+        "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 10:00 PM",
+    "title": "Trinbago Knight Riders SRL - Guyana Amazon Warriors Srl",
+    "bets": [
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.92"
+      },
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.82"
+      }
+    ]
+  },
+  {
+    "date": "Apr 24, 11:30 PM",
+    "title": "South Castries Lions - Micoud Eagles",
+    "bets": [
+      {
+        "team": "South Castries Lions",
+        "odds": "1.67"
+      },
+      {
+        "team": "Micoud Eagles",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 12:00 AM",
+    "title": "Afghanistan Srl - West Indies Srl",
+    "bets": [
+      {
+        "team": "Afghanistan Srl",
+        "odds": "2.2"
+      },
+      {
+        "team": "West Indies Srl",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 02:00 AM",
+    "title": "Durban Super Giants Srl - Pretoria Capitals Srl",
+    "bets": [
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "1.82"
+      },
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 04:00 AM",
+    "title": "Hobart Hurricanes Srl - Perth Scorchers Srl",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "2.04"
+      },
+      {
+        "team": "Perth Scorchers Srl",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 06:00 AM",
+    "title": "Sri Lanka A - Ireland A",
+    "bets": [
+      {
+        "team": "Sri Lanka A",
+        "odds": "1.19"
+      },
+      {
+        "team": "Ireland A",
+        "odds": "3.95"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 06:00 AM",
+    "title": "Barbados Royals Srl - St Lucia Kings Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2"
+      },
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 08:00 AM",
+    "title": "South Africa SRL - India SRL",
+    "bets": [
+      {
+        "team": "South Africa Srl",
+        "odds": "2.2"
+      },
+      {
+        "team": "India Srl",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 10:00 AM",
+    "title": "Melbourne Renegades Srl - Sydney Sixers SRL",
+    "bets": [
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "2.08"
+      },
+      {
+        "team": "Sydney Sixers SRL",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 12:00 PM",
+    "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
+    "bets": [
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "2.22"
+      },
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 02:00 PM",
+    "title": "Chennai Super Kings - Sunrisers Hyderabad",
+    "bets": [
+      {
+        "team": "Chennai Super Kings",
+        "odds": "2"
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "odds": "1.82"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 02:00 PM",
+    "title": "Guyana Amazon Warriors Srl - Antigua And Barbuda Falcons Srl",
+    "bets": [
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.62"
+      },
+      {
+        "team": "Antigua And Barbuda Falcons Srl",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 03:00 PM",
+    "title": "Quetta Gladiators - Karachi Kings",
+    "bets": [
+      {
+        "team": "Quetta Gladiators",
+        "odds": "2.06"
+      },
+      {
+        "team": "Karachi Kings",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 04:00 PM",
+    "title": "Paarl Royals Srl - Sunrisers Eastern Cape Srl",
+    "bets": [
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.8"
+      },
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 06:00 PM",
+    "title": "Hobart Hurricanes Srl - Adelaide Strikers Srl",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.75"
+      },
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 06:00 PM",
+    "title": "Guyana Rainforest Rangers - Windward Islands Infernos",
+    "bets": [
+      {
+        "team": "Guyana Rainforest Rangers",
+        "odds": "2.04"
+      },
+      {
+        "team": "Windward Islands Infernos",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 08:00 PM",
+    "title": "Sri Lanka Srl - New Zealand SRL",
+    "bets": [
+      {
+        "team": "Sri Lanka Srl",
+        "odds": "2.08"
+      },
+      {
+        "team": "New Zealand Srl",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 10:00 PM",
+    "title": "St Kitts And Nevis Patriots Srl - Trinbago Knight Riders SRL",
+    "bets": [
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "2.12"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 11:00 PM",
+    "title": "Trinidad And Tobago Legions - Barbados Pelicans",
+    "bets": [
+      {
+        "team": "Trinidad And Tobago Legions",
+        "odds": "1.83"
+      },
+      {
+        "team": "Barbados Pelicans",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 11:30 PM",
+    "title": "Choiseul Craftmasters - Soufriere Stumpers",
+    "bets": [
+      {
+        "team": "Choiseul Craftmasters",
+        "odds": "1.31"
+      },
+      {
+        "team": "Soufriere Stumpers",
+        "odds": "3.1"
+      }
+    ]
+  }
+]
