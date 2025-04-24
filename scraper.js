@@ -26,7 +26,8 @@ async function scrapeMatches() {
 
   try {
     console.log('⏳ Loading page...');
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 0 });
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+
 
     console.log('⏳ Waiting for DOM to settle...');
     await new Promise(res => setTimeout(res, 5000));
