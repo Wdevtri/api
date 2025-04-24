@@ -14,44 +14,16 @@
     ]
   },
   {
-    "date": "Apr 24, 05:00 PM",
-    "title": "Dubai Dare Devils - AZ Gulf Titans",
-    "bets": [
-      {
-        "team": "Dubai Dare Devils",
-        "odds": "1.68"
-      },
-      {
-        "team": "AZ Gulf Titans",
-        "odds": "2.03"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 06:00 PM",
-    "title": "Brisbane Heat Srl - Melbourne Stars SRL",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "1.95"
-      },
-      {
-        "team": "Melbourne Stars SRL",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
     "date": "Apr 24, 07:30 PM",
     "title": "Canada - USA",
     "bets": [
       {
         "team": "Canada",
-        "odds": "2.3"
+        "odds": "3.05"
       },
       {
         "team": "USA",
-        "odds": "1.53"
+        "odds": "1.31"
       }
     ]
   },
@@ -224,6 +196,20 @@
     ]
   },
   {
+    "date": "Apr 25, 07:15 AM",
+    "title": "Saint Denis Stallions - Dreux Cricket Club",
+    "bets": [
+      {
+        "team": "Saint Denis Stallions",
+        "odds": "6"
+      },
+      {
+        "team": "Dreux Cricket Club",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
     "date": "Apr 25, 07:30 AM",
     "title": "Guwahati Giants - Gauhati Town Club",
     "bets": [
@@ -248,6 +234,20 @@
       {
         "team": "India Srl",
         "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Apr 25, 09:15 AM",
+    "title": "Uif Evry - Cspt Sarcelles",
+    "bets": [
+      {
+        "team": "Uif Evry",
+        "odds": "2.08"
+      },
+      {
+        "team": "Cspt Sarcelles",
+        "odds": "1.64"
       }
     ]
   },
@@ -458,6 +458,34 @@
       {
         "team": "Punjab Kings",
         "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Apr 26, 03:00 PM",
+    "title": "Lahore Qalandars - Multan Sultans",
+    "bets": [
+      {
+        "team": "Lahore Qalandars",
+        "odds": "1.73"
+      },
+      {
+        "team": "Multan Sultans",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Apr 26, 06:00 PM",
+    "title": "Jamaica Titans - Leeward Islands Thunder",
+    "bets": [
+      {
+        "team": "Jamaica Titans",
+        "odds": "1.89"
+      },
+      {
+        "team": "Leeward Islands Thunder",
+        "odds": "1.78"
       }
     ]
   }
