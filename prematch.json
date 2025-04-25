@@ -14,76 +14,6 @@
     ]
   },
   {
-    "date": "Apr 25, 12:00 PM",
-    "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 02:00 PM",
-    "title": "Chennai Super Kings - Sunrisers Hyderabad",
-    "bets": [
-      {
-        "team": "Chennai Super Kings",
-        "odds": "2.02"
-      },
-      {
-        "team": "Sunrisers Hyderabad",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 02:00 PM",
-    "title": "Guyana Amazon Warriors Srl - Antigua And Barbuda Falcons Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.62"
-      },
-      {
-        "team": "Antigua And Barbuda Falcons Srl",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 03:00 PM",
-    "title": "Quetta Gladiators - Karachi Kings",
-    "bets": [
-      {
-        "team": "Quetta Gladiators",
-        "odds": "2.02"
-      },
-      {
-        "team": "Karachi Kings",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 03:45 PM",
-    "title": "USA (Women) - Zimbabwe (Women)",
-    "bets": [
-      {
-        "team": "USA (w)",
-        "odds": "1.96"
-      },
-      {
-        "team": "Zimbabwe (w)",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
     "date": "Apr 25, 04:00 PM",
     "title": "Paarl Royals Srl - Sunrisers Eastern Cape Srl",
     "bets": [
@@ -266,20 +196,6 @@
     ]
   },
   {
-    "date": "Apr 26, 03:45 AM",
-    "title": "Vande Mataram Pratishthan - Krishna Cricket Academy",
-    "bets": [
-      {
-        "team": "Vande Mataram Pratishthan",
-        "odds": "1.48"
-      },
-      {
-        "team": "Krishna Cricket Academy",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
     "date": "Apr 26, 04:00 AM",
     "title": "Melbourne Renegades Srl - Brisbane Heat Srl",
     "bets": [
@@ -290,20 +206,6 @@
       {
         "team": "Brisbane Heat Srl",
         "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 04:30 AM",
-    "title": "Sri Lanka - Bangladesh",
-    "bets": [
-      {
-        "team": "Sri Lanka",
-        "odds": "1.91"
-      },
-      {
-        "team": "Bangladesh",
-        "odds": "1.76"
       }
     ]
   },
@@ -322,6 +224,20 @@
     ]
   },
   {
+    "date": "Apr 26, 06:00 AM",
+    "title": "Singapore - Thailand",
+    "bets": [
+      {
+        "team": "Singapore",
+        "odds": "1.23"
+      },
+      {
+        "team": "Thailand",
+        "odds": "3.65"
+      }
+    ]
+  },
+  {
     "date": "Apr 26, 07:30 AM",
     "title": "Zimbabwe A - Scotland",
     "bets": [
@@ -336,6 +252,34 @@
     ]
   },
   {
+    "date": "Apr 26, 07:30 AM",
+    "title": "Nabajyoti Club - Gauhati Town Club",
+    "bets": [
+      {
+        "team": "Nabajyoti Club",
+        "odds": "2.02"
+      },
+      {
+        "team": "Gauhati Town Club",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
+    "date": "Apr 26, 08:00 AM",
+    "title": "Botswana (Women) - Eswatini (Women)",
+    "bets": [
+      {
+        "team": "Botswana (w)",
+        "odds": "1.01"
+      },
+      {
+        "team": "Eswatini (w)",
+        "odds": "14.36"
+      }
+    ]
+  },
+  {
     "date": "Apr 26, 08:00 AM",
     "title": "Bangladesh Srl - Afghanistan Srl",
     "bets": [
@@ -346,6 +290,48 @@
       {
         "team": "Afghanistan Srl",
         "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Apr 26, 08:15 AM",
+    "title": "Mozambique (Women) - Sierra Leone (Women)",
+    "bets": [
+      {
+        "team": "Mozambique (w)",
+        "odds": "2.16"
+      },
+      {
+        "team": "Sierra Leone (w)",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Apr 26, 09:30 AM",
+    "title": "Sussex Sharks - Yorkshire",
+    "bets": [
+      {
+        "team": "Sussex Sharks",
+        "odds": "3.1"
+      },
+      {
+        "team": "Yorkshire",
+        "odds": "1.34"
+      }
+    ]
+  },
+  {
+    "date": "Apr 26, 10:00 AM",
+    "title": "Sri Lanka - Bangladesh",
+    "bets": [
+      {
+        "team": "Sri Lanka",
+        "odds": "1.91"
+      },
+      {
+        "team": "Bangladesh",
+        "odds": "1.76"
       }
     ]
   },
@@ -420,6 +406,20 @@
     ]
   },
   {
+    "date": "Apr 26, 03:00 PM",
+    "title": "Canada - Cayman",
+    "bets": [
+      {
+        "team": "Canada",
+        "odds": "1.05"
+      },
+      {
+        "team": "Cayman",
+        "odds": "7.4"
+      }
+    ]
+  },
+  {
     "date": "Apr 26, 04:00 PM",
     "title": "Sunrisers Eastern Cape Srl - Pretoria Capitals Srl",
     "bets": [
@@ -462,6 +462,34 @@
     ]
   },
   {
+    "date": "Apr 26, 07:00 PM",
+    "title": "Babonneau Leatherbacks - Micoud Eagles",
+    "bets": [
+      {
+        "team": "Babonneau Leatherbacks",
+        "odds": "1.75"
+      },
+      {
+        "team": "Micoud Eagles",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Apr 26, 07:30 PM",
+    "title": "USA - Bermuda",
+    "bets": [
+      {
+        "team": "USA",
+        "odds": "1.05"
+      },
+      {
+        "team": "Bermuda",
+        "odds": "7.2"
+      }
+    ]
+  },
+  {
     "date": "Apr 26, 08:00 PM",
     "title": "Australia SRL - New Zealand SRL",
     "bets": [
@@ -490,6 +518,20 @@
     ]
   },
   {
+    "date": "Apr 27, 04:30 AM",
+    "title": "Sri Lanka - India",
+    "bets": [
+      {
+        "team": "Sri Lanka",
+        "odds": "4.8"
+      },
+      {
+        "team": "India",
+        "odds": "1.19"
+      }
+    ]
+  },
+  {
     "date": "Apr 27, 10:00 AM",
     "title": "Mumbai Indians - Lucknow Super Giants",
     "bets": [
@@ -500,6 +542,20 @@
       {
         "team": "Lucknow Super Giants",
         "odds": "2.4"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 02:00 PM",
+    "title": "Delhi Capitals - Royal Challengers Bengaluru",
+    "bets": [
+      {
+        "team": "Delhi Capitals",
+        "odds": "1.95"
+      },
+      {
+        "team": "Royal Challengers Bengaluru",
+        "odds": "1.86"
       }
     ]
   }
