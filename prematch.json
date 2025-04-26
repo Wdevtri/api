@@ -1,453 +1,5 @@
 [
   {
-    "date": "Apr 23, 08:00 AM",
-    "title": "Tfc - Nashik Titans",
-    "bets": [
-      {
-        "team": "Tfc",
-        "odds": "1.14"
-      },
-      {
-        "team": "Nashik Titans",
-        "odds": "4.7"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 04:00 PM",
-    "title": "Paarl Royals Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 06:00 PM",
-    "title": "Hobart Hurricanes Srl - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.75"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 06:00 PM",
-    "title": "Guyana Rainforest Rangers - Windward Islands Infernos",
-    "bets": [
-      {
-        "team": "Guyana Rainforest Rangers",
-        "odds": "1.92"
-      },
-      {
-        "team": "Windward Islands Infernos",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 08:00 PM",
-    "title": "Sri Lanka Srl - New Zealand SRL",
-    "bets": [
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.08"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 10:00 PM",
-    "title": "St Kitts And Nevis Patriots Srl - Trinbago Knight Riders SRL",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 11:00 PM",
-    "title": "Trinidad And Tobago Legions - Barbados Pelicans",
-    "bets": [
-      {
-        "team": "Trinidad And Tobago Legions",
-        "odds": "1.79"
-      },
-      {
-        "team": "Barbados Pelicans",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 11:30 PM",
-    "title": "Choiseul Craftmasters - Soufriere Stumpers",
-    "bets": [
-      {
-        "team": "Choiseul Craftmasters",
-        "odds": "1.31"
-      },
-      {
-        "team": "Soufriere Stumpers",
-        "odds": "3.1"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 12:00 AM",
-    "title": "West Indies Srl - Pakistan SRL",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "1.92"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 01:00 AM",
-    "title": "Waratah A - Darwin A",
-    "bets": [
-      {
-        "team": "Waratah A",
-        "odds": "1.34"
-      },
-      {
-        "team": "Darwin A",
-        "odds": "2.93"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 01:00 AM",
-    "title": "Nightcliff A - Palmerston A",
-    "bets": [
-      {
-        "team": "Nightcliff A",
-        "odds": "1.39"
-      },
-      {
-        "team": "Palmerston A",
-        "odds": "2.71"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 01:00 AM",
-    "title": "Pint A - Southern Districts A",
-    "bets": [
-      {
-        "team": "Pint A",
-        "odds": "2.43"
-      },
-      {
-        "team": "Southern Districts A",
-        "odds": "1.47"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 02:00 AM",
-    "title": "Joburg Super Kings Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.89"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 02:00 AM",
-    "title": "Malaysia - Saudi Arabia",
-    "bets": [
-      {
-        "team": "Malaysia",
-        "odds": "1.51"
-      },
-      {
-        "team": "Saudi Arabia",
-        "odds": "2.34"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 04:00 AM",
-    "title": "Melbourne Renegades Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "1.87"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 06:00 AM",
-    "title": "Guyana Amazon Warriors Srl - Barbados Royals Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.72"
-      },
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 06:00 AM",
-    "title": "Singapore - Thailand",
-    "bets": [
-      {
-        "team": "Singapore",
-        "odds": "1.23"
-      },
-      {
-        "team": "Thailand",
-        "odds": "3.65"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 07:30 AM",
-    "title": "Zimbabwe A - Scotland",
-    "bets": [
-      {
-        "team": "Zimbabwe A",
-        "odds": "3.15"
-      },
-      {
-        "team": "Scotland",
-        "odds": "1.32"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 07:30 AM",
-    "title": "Nabajyoti Club - Gauhati Town Club",
-    "bets": [
-      {
-        "team": "Nabajyoti Club",
-        "odds": "2.02"
-      },
-      {
-        "team": "Gauhati Town Club",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 08:00 AM",
-    "title": "Botswana (Women) - Eswatini (Women)",
-    "bets": [
-      {
-        "team": "Botswana (w)",
-        "odds": "1.01"
-      },
-      {
-        "team": "Eswatini (w)",
-        "odds": "14.36"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 08:00 AM",
-    "title": "Bangladesh Srl - Afghanistan Srl",
-    "bets": [
-      {
-        "team": "Bangladesh Srl",
-        "odds": "2.16"
-      },
-      {
-        "team": "Afghanistan Srl",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 08:15 AM",
-    "title": "Mozambique (Women) - Sierra Leone (Women)",
-    "bets": [
-      {
-        "team": "Mozambique (w)",
-        "odds": "2.16"
-      },
-      {
-        "team": "Sierra Leone (w)",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 09:30 AM",
-    "title": "Sussex Sharks - Yorkshire",
-    "bets": [
-      {
-        "team": "Sussex Sharks",
-        "odds": "3.1"
-      },
-      {
-        "team": "Yorkshire",
-        "odds": "1.34"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 10:00 AM",
-    "title": "Sri Lanka - Bangladesh",
-    "bets": [
-      {
-        "team": "Sri Lanka",
-        "odds": "1.91"
-      },
-      {
-        "team": "Bangladesh",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 10:00 AM",
-    "title": "Sydney Sixers SRL - Melbourne Stars SRL",
-    "bets": [
-      {
-        "team": "Sydney Sixers SRL",
-        "odds": "1.74"
-      },
-      {
-        "team": "Melbourne Stars SRL",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 12:00 PM",
-    "title": "Paarl Royals Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "2.04"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 02:00 PM",
-    "title": "Kolkata Knight Riders - Punjab Kings",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders",
-        "odds": "1.89"
-      },
-      {
-        "team": "Punjab Kings",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 02:00 PM",
-    "title": "St Kitts And Nevis Patriots Srl - Antigua And Barbuda Falcons Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Antigua And Barbuda Falcons Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 03:00 PM",
-    "title": "Lahore Qalandars - Multan Sultans",
-    "bets": [
-      {
-        "team": "Lahore Qalandars",
-        "odds": "1.73"
-      },
-      {
-        "team": "Multan Sultans",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 03:00 PM",
-    "title": "Canada - Cayman",
-    "bets": [
-      {
-        "team": "Canada",
-        "odds": "1.05"
-      },
-      {
-        "team": "Cayman",
-        "odds": "7.4"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 04:00 PM",
-    "title": "Sunrisers Eastern Cape Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.78"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.97"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 06:00 PM",
-    "title": "Jamaica Titans - Leeward Islands Thunder",
-    "bets": [
-      {
-        "team": "Jamaica Titans",
-        "odds": "1.89"
-      },
-      {
-        "team": "Leeward Islands Thunder",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
     "date": "Apr 26, 06:00 PM",
     "title": "Sydney Thunder Srl - Perth Scorchers Srl",
     "bets": [
@@ -518,16 +70,296 @@
     ]
   },
   {
+    "date": "Apr 26, 11:00 PM",
+    "title": "Trinidad And Tobago Legions - Guyana Rainforest Rangers",
+    "bets": [
+      {
+        "team": "Trinidad And Tobago Legions",
+        "odds": "1.69"
+      },
+      {
+        "team": "Guyana Rainforest Rangers",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Apr 26, 11:30 PM",
+    "title": "Soufriere Stumpers - Mon Repos Pioneers",
+    "bets": [
+      {
+        "team": "Soufriere Stumpers",
+        "odds": "2.78"
+      },
+      {
+        "team": "Mon Repos Pioneers",
+        "odds": "1.37"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 12:00 AM",
+    "title": "South Africa SRL - West Indies Srl",
+    "bets": [
+      {
+        "team": "South Africa Srl",
+        "odds": "1.65"
+      },
+      {
+        "team": "West Indies Srl",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 01:00 AM",
+    "title": "Palmerston A - Pint A",
+    "bets": [
+      {
+        "team": "Palmerston A",
+        "odds": "1.42"
+      },
+      {
+        "team": "Pint A",
+        "odds": "2.59"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 01:00 AM",
+    "title": "Southern Districts A - Waratah A",
+    "bets": [
+      {
+        "team": "Southern Districts A",
+        "odds": "2.08"
+      },
+      {
+        "team": "Waratah A",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 01:00 AM",
+    "title": "Darwin A - Tracy Village A",
+    "bets": [
+      {
+        "team": "Darwin A",
+        "odds": "2.17"
+      },
+      {
+        "team": "Tracy Village A",
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 01:30 AM",
+    "title": "Lantau Ladies (Women) - Hong Kong Cricket Club (Women)",
+    "bets": [
+      {
+        "team": "Lantau Ladies (Women)",
+        "odds": "5"
+      },
+      {
+        "team": "Hong Kong Cricket Club (Women)",
+        "odds": "1.12"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 02:00 AM",
+    "title": "Kowloon Cricket Club (Women) - Diasqua Little Sai Wan Cricket Club (Women)",
+    "bets": [
+      {
+        "team": "Kowloon Cricket Club (Women)",
+        "odds": "2.38"
+      },
+      {
+        "team": "Diasqua Little Sai Wan Cricket Club (Women)",
+        "odds": "1.49"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 02:00 AM",
+    "title": "Durban Super Giants Srl - Paarl Royals Srl",
+    "bets": [
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "2"
+      },
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 04:00 AM",
+    "title": "Adelaide Strikers Srl - Melbourne Renegades Srl",
+    "bets": [
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "1.86"
+      },
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
     "date": "Apr 27, 04:30 AM",
     "title": "Sri Lanka - India",
     "bets": [
       {
         "team": "Sri Lanka",
-        "odds": "4.8"
+        "odds": "5.3"
       },
       {
         "team": "India",
-        "odds": "1.19"
+        "odds": "1.16"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 05:30 AM",
+    "title": "Hong Kong Cricket Club - United Services Recreation",
+    "bets": [
+      {
+        "team": "Hong Kong Cricket Club",
+        "odds": "1.58"
+      },
+      {
+        "team": "United Services Recreation",
+        "odds": "2.19"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 06:00 AM",
+    "title": "Diasqua Little Sai Wan - Kowloon Cricket Club",
+    "bets": [
+      {
+        "team": "Diasqua Little Sai Wan",
+        "odds": "2.19"
+      },
+      {
+        "team": "Kowloon Cricket Club",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 06:00 AM",
+    "title": "Barbados Royals Srl - St Kitts And Nevis Patriots Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "1.79"
+      },
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 07:30 AM",
+    "title": "Spartans CC Rwanda - Challengers CC",
+    "bets": [
+      {
+        "team": "Spartans CC Rwanda",
+        "odds": "3.04"
+      },
+      {
+        "team": "Challengers CC",
+        "odds": "1.31"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 08:00 AM",
+    "title": "Afghanistan Srl - Sri Lanka Srl",
+    "bets": [
+      {
+        "team": "Afghanistan Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Sri Lanka Srl",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 08:30 AM",
+    "title": "Calpe Giants - Mediterranean Vikings",
+    "bets": [
+      {
+        "team": "Calpe Giants",
+        "odds": "1.17"
+      },
+      {
+        "team": "Mediterranean Vikings",
+        "odds": "4.19"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 09:30 AM",
+    "title": "Somerset - Lancashire",
+    "bets": [
+      {
+        "team": "Somerset",
+        "odds": "1.69"
+      },
+      {
+        "team": "Lancashire",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 09:30 AM",
+    "title": "Essex - Warwickshire",
+    "bets": [
+      {
+        "team": "Essex",
+        "odds": "2.16"
+      },
+      {
+        "team": "Warwickshire",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 09:30 AM",
+    "title": "Durham - The Blaze",
+    "bets": [
+      {
+        "team": "Durham",
+        "odds": "1.99"
+      },
+      {
+        "team": "The Blaze",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 09:30 AM",
+    "title": "Hampshire - Surrey",
+    "bets": [
+      {
+        "team": "Hampshire",
+        "odds": "1.98"
+      },
+      {
+        "team": "Surrey",
+        "odds": "1.71"
       }
     ]
   },
@@ -537,11 +369,39 @@
     "bets": [
       {
         "team": "Mumbai Indians",
-        "odds": "1.58"
+        "odds": "1.57"
       },
       {
         "team": "Lucknow Super Giants",
-        "odds": "2.4"
+        "odds": "2.42"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 10:00 AM",
+    "title": "Brisbane Heat Srl - Hobart Hurricanes Srl",
+    "bets": [
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "2.04"
+      },
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 12:00 PM",
+    "title": "Mi Cape Town Srl - Sunrisers Eastern Cape Srl",
+    "bets": [
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.66"
+      },
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "2.14"
       }
     ]
   },
@@ -551,11 +411,193 @@
     "bets": [
       {
         "team": "Delhi Capitals",
-        "odds": "1.95"
+        "odds": "1.9"
       },
       {
         "team": "Royal Challengers Bengaluru",
-        "odds": "1.86"
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 02:00 PM",
+    "title": "Antigua And Barbuda Falcons Srl - Trinbago Knight Riders SRL",
+    "bets": [
+      {
+        "team": "Antigua And Barbuda Falcons Srl",
+        "odds": "2.14"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 03:00 PM",
+    "title": "Quetta Gladiators - Peshawar Zalmi",
+    "bets": [
+      {
+        "team": "Quetta Gladiators",
+        "odds": "1.87"
+      },
+      {
+        "team": "Peshawar Zalmi",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 03:45 PM",
+    "title": "USA (Women) - Zimbabwe (Women)",
+    "bets": [
+      {
+        "team": "USA (w)",
+        "odds": "2.37"
+      },
+      {
+        "team": "Zimbabwe (w)",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 04:00 PM",
+    "title": "Pretoria Capitals Srl - Joburg Super Kings Srl",
+    "bets": [
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "1.91"
+      },
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 06:00 PM",
+    "title": "Melbourne Stars SRL - Sydney Thunder Srl",
+    "bets": [
+      {
+        "team": "Melbourne Stars SRL",
+        "odds": "2.06"
+      },
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 08:00 PM",
+    "title": "India SRL - Australia SRL",
+    "bets": [
+      {
+        "team": "India Srl",
+        "odds": "1.69"
+      },
+      {
+        "team": "Australia Srl",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 10:00 PM",
+    "title": "St Lucia Kings Srl - Guyana Amazon Warriors Srl",
+    "bets": [
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.91"
+      },
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 11:30 PM",
+    "title": "Gros Islet Knights - City Blasters",
+    "bets": [
+      {
+        "team": "Gros Islet Knights",
+        "odds": "1.76"
+      },
+      {
+        "team": "City Blasters",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Apr 28, 02:00 AM",
+    "title": "Thailand - Saudi Arabia",
+    "bets": [
+      {
+        "team": "Thailand",
+        "odds": "6"
+      },
+      {
+        "team": "Saudi Arabia",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Apr 28, 04:00 AM",
+    "title": "Bangladesh - Zimbabwe",
+    "bets": [
+      {
+        "team": "Bangladesh",
+        "odds": "1.38"
+      },
+      {
+        "team": "Draw",
+        "odds": "9.6"
+      }
+    ]
+  },
+  {
+    "date": "Apr 28, 04:30 AM",
+    "title": "Sri Lanka - Bangladesh",
+    "bets": [
+      {
+        "team": "Sri Lanka",
+        "odds": "1.75"
+      },
+      {
+        "team": "Bangladesh",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Apr 28, 06:00 AM",
+    "title": "Malaysia - Singapore",
+    "bets": [
+      {
+        "team": "Malaysia",
+        "odds": "1.03"
+      },
+      {
+        "team": "Singapore",
+        "odds": "8.2"
+      }
+    ]
+  },
+  {
+    "date": "Apr 28, 02:00 PM",
+    "title": "Rajasthan Royals - Gujarat Titans",
+    "bets": [
+      {
+        "team": "Rajasthan Royals",
+        "odds": "2.16"
+      },
+      {
+        "team": "Gujarat Titans",
+        "odds": "1.7"
       }
     ]
   }
