@@ -1,47 +1,5 @@
 [
   {
-    "date": "Apr 26, 06:00 PM",
-    "title": "Sydney Thunder Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.9"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.84"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 07:00 PM",
-    "title": "Babonneau Leatherbacks - Micoud Eagles",
-    "bets": [
-      {
-        "team": "Babonneau Leatherbacks",
-        "odds": "1.75"
-      },
-      {
-        "team": "Micoud Eagles",
-        "odds": "1.93"
-      }
-    ]
-  },
-  {
-    "date": "Apr 26, 07:30 PM",
-    "title": "USA - Bermuda",
-    "bets": [
-      {
-        "team": "USA",
-        "odds": "1.05"
-      },
-      {
-        "team": "Bermuda",
-        "odds": "7.2"
-      }
-    ]
-  },
-  {
     "date": "Apr 26, 08:00 PM",
     "title": "Australia SRL - New Zealand SRL",
     "bets": [
@@ -117,11 +75,11 @@
     "bets": [
       {
         "team": "Palmerston A",
-        "odds": "1.42"
+        "odds": "1.39"
       },
       {
         "team": "Pint A",
-        "odds": "2.59"
+        "odds": "2.68"
       }
     ]
   },
@@ -215,11 +173,11 @@
     "bets": [
       {
         "team": "Sri Lanka",
-        "odds": "5.3"
+        "odds": "4.8"
       },
       {
         "team": "India",
-        "odds": "1.16"
+        "odds": "1.19"
       }
     ]
   },
@@ -229,11 +187,11 @@
     "bets": [
       {
         "team": "Hong Kong Cricket Club",
-        "odds": "1.58"
+        "odds": "1.57"
       },
       {
         "team": "United Services Recreation",
-        "odds": "2.19"
+        "odds": "2.21"
       }
     ]
   },
@@ -266,6 +224,20 @@
     ]
   },
   {
+    "date": "Apr 27, 07:15 AM",
+    "title": "Paris Universite Club - AC Stains",
+    "bets": [
+      {
+        "team": "Paris Universite Club",
+        "odds": "1.53"
+      },
+      {
+        "team": "AC Stains",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
     "date": "Apr 27, 07:30 AM",
     "title": "Spartans CC Rwanda - Challengers CC",
     "bets": [
@@ -276,6 +248,48 @@
       {
         "team": "Challengers CC",
         "odds": "1.31"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 07:30 AM",
+    "title": "Botswana (Women) - Sierra Leone (Women)",
+    "bets": [
+      {
+        "team": "Botswana (w)",
+        "odds": "1.8"
+      },
+      {
+        "team": "Sierra Leone (w)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 07:30 AM",
+    "title": "Guwahati Giants - Nabajyoti Club",
+    "bets": [
+      {
+        "team": "Guwahati Giants",
+        "odds": "1.68"
+      },
+      {
+        "team": "Nabajyoti Club",
+        "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 07:45 AM",
+    "title": "Eswatini (Women) - Mozambique (Women)",
+    "bets": [
+      {
+        "team": "Eswatini (w)",
+        "odds": "6"
+      },
+      {
+        "team": "Mozambique (w)",
+        "odds": "1.1"
       }
     ]
   },
@@ -308,16 +322,16 @@
     ]
   },
   {
-    "date": "Apr 27, 09:30 AM",
-    "title": "Somerset - Lancashire",
+    "date": "Apr 27, 09:15 AM",
+    "title": "Royal 94 - Dreux Cricket Club",
     "bets": [
       {
-        "team": "Somerset",
-        "odds": "1.69"
+        "team": "Royal 94",
+        "odds": "4.2"
       },
       {
-        "team": "Lancashire",
-        "odds": "2"
+        "team": "Dreux Cricket Club",
+        "odds": "1.18"
       }
     ]
   },
@@ -360,6 +374,48 @@
       {
         "team": "Surrey",
         "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 09:30 AM",
+    "title": "Leicestershire Foxes - Worcestershire Rapids",
+    "bets": [
+      {
+        "team": "Leicestershire Foxes",
+        "odds": "3"
+      },
+      {
+        "team": "Worcestershire Rapids",
+        "odds": "1.36"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 09:30 AM",
+    "title": "Northamptonshire Steelbacks - Gloucestershire",
+    "bets": [
+      {
+        "team": "Northamptonshire Steelbacks",
+        "odds": "1.61"
+      },
+      {
+        "team": "Gloucestershire",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 09:30 AM",
+    "title": "Glamorgan - Middlesex",
+    "bets": [
+      {
+        "team": "Glamorgan",
+        "odds": "1.96"
+      },
+      {
+        "team": "Middlesex",
+        "odds": "1.79"
       }
     ]
   },
@@ -528,6 +584,20 @@
       {
         "team": "City Blasters",
         "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Apr 27, 11:30 PM",
+    "title": "Choiseul Craftmasters - South Castries Lions",
+    "bets": [
+      {
+        "team": "Choiseul Craftmasters",
+        "odds": "1.63"
+      },
+      {
+        "team": "South Castries Lions",
+        "odds": "2.1"
       }
     ]
   },
