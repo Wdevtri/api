@@ -1,33 +1,5 @@
 [
   {
-    "date": "Apr 28, 04:00 PM",
-    "title": "Paarl Royals Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.75"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Apr 28, 06:00 PM",
-    "title": "Sydney Thunder Srl - Melbourne Stars SRL",
-    "bets": [
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.71"
-      },
-      {
-        "team": "Melbourne Stars SRL",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
     "date": "Apr 28, 08:00 PM",
     "title": "New Zealand SRL - Bangladesh Srl",
     "bets": [
@@ -98,6 +70,20 @@
     ]
   },
   {
+    "date": "Apr 29, 02:15 AM",
+    "title": "Plate Combained - Bilaspur Blue",
+    "bets": [
+      {
+        "team": "Plate Combained",
+        "odds": "1.44"
+      },
+      {
+        "team": "Bilaspur Blue",
+        "odds": "2.52"
+      }
+    ]
+  },
+  {
     "date": "Apr 29, 02:30 AM",
     "title": "Gazi Group Cricketers - Agrani Bank",
     "bets": [
@@ -117,11 +103,25 @@
     "bets": [
       {
         "team": "Gulshan CC",
-        "odds": "2.08"
+        "odds": "2.25"
       },
       {
         "team": "Legends Of Rupganj",
-        "odds": "1.64"
+        "odds": "1.55"
+      }
+    ]
+  },
+  {
+    "date": "Apr 29, 02:45 AM",
+    "title": "Bca - Raipur",
+    "bets": [
+      {
+        "team": "Bca",
+        "odds": "2.24"
+      },
+      {
+        "team": "Raipur",
+        "odds": "1.55"
       }
     ]
   },
@@ -243,11 +243,11 @@
     "bets": [
       {
         "team": "Southern Districts",
-        "odds": "1.45"
+        "odds": "1.39"
       },
       {
         "team": "Waratah Warriors",
-        "odds": "2.5"
+        "odds": "2.68"
       }
     ]
   },
@@ -337,11 +337,11 @@
     "bets": [
       {
         "team": "Delhi Capitals",
-        "odds": "1.85"
+        "odds": "1.8"
       },
       {
         "team": "Kolkata Knight Riders",
-        "odds": "1.96"
+        "odds": "2.02"
       }
     ]
   },
@@ -360,16 +360,44 @@
     ]
   },
   {
+    "date": "Apr 29, 02:30 PM",
+    "title": "Samp Army - Ummc KR",
+    "bets": [
+      {
+        "team": "Samp Army",
+        "odds": "2.1"
+      },
+      {
+        "team": "Ummc KR",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Apr 29, 02:45 PM",
+    "title": "Dallas Mustangs - Seattle Thunderbolts",
+    "bets": [
+      {
+        "team": "Dallas Mustangs",
+        "odds": "1.66"
+      },
+      {
+        "team": "Seattle Thunderbolts",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
     "date": "Apr 29, 03:00 PM",
     "title": "Quetta Gladiators - Multan Sultans",
     "bets": [
       {
         "team": "Quetta Gladiators",
-        "odds": "1.79"
+        "odds": "1.82"
       },
       {
         "team": "Multan Sultans",
-        "odds": "1.96"
+        "odds": "1.92"
       }
     ]
   },
@@ -440,6 +468,20 @@
       {
         "team": "Guyana Rainforest Rangers",
         "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Apr 29, 07:00 PM",
+    "title": "Atlanta Fire - Clarion Eagles",
+    "bets": [
+      {
+        "team": "Atlanta Fire",
+        "odds": "1.69"
+      },
+      {
+        "team": "Clarion Eagles",
+        "odds": "2.02"
       }
     ]
   },
@@ -524,6 +566,34 @@
       {
         "team": "Punjab Kings",
         "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Apr 30, 03:00 PM",
+    "title": "Lahore Qalandars - Islamabad United",
+    "bets": [
+      {
+        "team": "Lahore Qalandars",
+        "odds": "1.95"
+      },
+      {
+        "team": "Islamabad United",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Apr 30, 05:00 PM",
+    "title": "Z Games Strikers - Gems Education CC",
+    "bets": [
+      {
+        "team": "Z Games Strikers",
+        "odds": "1.56"
+      },
+      {
+        "team": "Gems Education CC",
+        "odds": "2.23"
       }
     ]
   }
