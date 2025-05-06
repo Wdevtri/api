@@ -1,103 +1,5 @@
 [
   {
-    "date": "May 6, 12:00 PM",
-    "title": "Paarl Royals Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.71"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
-    "date": "May 6, 02:00 PM",
-    "title": "Mumbai Indians - Gujarat Titans",
-    "bets": [
-      {
-        "team": "Mumbai Indians",
-        "odds": "1.6"
-      },
-      {
-        "team": "Gujarat Titans",
-        "odds": "2.34"
-      }
-    ]
-  },
-  {
-    "date": "May 6, 02:00 PM",
-    "title": "St Kitts And Nevis Patriots Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "May 6, 04:00 PM",
-    "title": "Sunrisers Eastern Cape Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.82"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "May 6, 06:00 PM",
-    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "May 6, 06:00 PM",
-    "title": "Barbados Pelicans - Guyana Rainforest Rangers",
-    "bets": [
-      {
-        "team": "Barbados Pelicans",
-        "odds": "1.73"
-      },
-      {
-        "team": "Guyana Rainforest Rangers",
-        "odds": "1.96"
-      }
-    ]
-  },
-  {
-    "date": "May 6, 08:00 PM",
-    "title": "New Zealand SRL - Bangladesh Srl",
-    "bets": [
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.45"
-      },
-      {
-        "team": "Bangladesh Srl",
-        "odds": "2.64"
-      }
-    ]
-  },
-  {
     "date": "May 6, 10:00 PM",
     "title": "Trinbago Knight Riders SRL - Guyana Amazon Warriors Srl",
     "bets": [
@@ -117,11 +19,11 @@
     "bets": [
       {
         "team": "Jamaica Titans",
-        "odds": "2.06"
+        "odds": "2.18"
       },
       {
         "team": "Windward Islands Infernos",
-        "odds": "1.65"
+        "odds": "1.59"
       }
     ]
   },
@@ -168,16 +70,72 @@
     ]
   },
   {
+    "date": "May 7, 02:15 AM",
+    "title": "Bilaspur - Bca",
+    "bets": [
+      {
+        "team": "Bilaspur",
+        "odds": "1.66"
+      },
+      {
+        "team": "Bca",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
     "date": "May 7, 02:30 AM",
     "title": "Mega Trends - Ashish Nehra CC",
     "bets": [
       {
         "team": "Mega Trends",
-        "odds": "4.16"
+        "odds": "4.44"
       },
       {
         "team": "Ashish Nehra CC",
+        "odds": "1.16"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 03:15 AM",
+    "title": "Amber (Women) - Pearl (Women)",
+    "bets": [
+      {
+        "team": "Amber (w)",
+        "odds": "1.67"
+      },
+      {
+        "team": "Pearl (Women)",
+        "odds": "2.03"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 03:15 AM",
+    "title": "91 Yards Club (Women) - Maharana AC (Women)",
+    "bets": [
+      {
+        "team": "91 Yards Club (Women)",
         "odds": "1.18"
+      },
+      {
+        "team": "Maharana AC (w)",
+        "odds": "4.14"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 03:45 AM",
+    "title": "SM Sports - SP Brothers",
+    "bets": [
+      {
+        "team": "SM Sports",
+        "odds": "1.7"
+      },
+      {
+        "team": "SP Brothers",
+        "odds": "2"
       }
     ]
   },
@@ -210,16 +168,30 @@
     ]
   },
   {
+    "date": "May 7, 04:30 AM",
+    "title": "Tfc - Vande Mataram Pratishthan",
+    "bets": [
+      {
+        "team": "Tfc",
+        "odds": "1.86"
+      },
+      {
+        "team": "Vande Mataram Pratishthan",
+        "odds": "1.81"
+      }
+    ]
+  },
+  {
     "date": "May 7, 06:00 AM",
     "title": "North Eastern Railways Lucknow - Central CC",
     "bets": [
       {
         "team": "North Eastern Railways Lucknow",
-        "odds": "1.16"
+        "odds": "1.14"
       },
       {
         "team": "Central CC",
-        "odds": "4.44"
+        "odds": "4.72"
       }
     ]
   },
@@ -238,6 +210,48 @@
     ]
   },
   {
+    "date": "May 7, 07:15 AM",
+    "title": "Ruby (Women) - Sapphire (Women)",
+    "bets": [
+      {
+        "team": "Ruby (Women)",
+        "odds": "2.2"
+      },
+      {
+        "team": "Sapphire (Women)",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 07:15 AM",
+    "title": "Rising Star (Women) - Warriors (Women)",
+    "bets": [
+      {
+        "team": "Rising Star (Women)",
+        "odds": "1.22"
+      },
+      {
+        "team": "Warriors (w)",
+        "odds": "3.72"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 08:00 AM",
+    "title": "Mahim Dargah - DMCC",
+    "bets": [
+      {
+        "team": "Mahim Dargah",
+        "odds": "3.16"
+      },
+      {
+        "team": "DMCC",
+        "odds": "1.29"
+      }
+    ]
+  },
+  {
     "date": "May 7, 08:00 AM",
     "title": "India SRL - England SRL",
     "bets": [
@@ -248,6 +262,20 @@
       {
         "team": "England Srl",
         "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:15 AM",
+    "title": "Eastern Royals - Yorkshire Cricket College",
+    "bets": [
+      {
+        "team": "Eastern Royals",
+        "odds": "1.09"
+      },
+      {
+        "team": "Yorkshire Cricket College",
+        "odds": "6.4"
       }
     ]
   },
@@ -313,11 +341,11 @@
     "bets": [
       {
         "team": "Northern Knights",
-        "odds": "1.6"
+        "odds": "1.71"
       },
       {
         "team": "North-West Warriors",
-        "odds": "2.16"
+        "odds": "1.98"
       }
     ]
   },
@@ -332,6 +360,20 @@
       {
         "team": "Sydney Thunder Srl",
         "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 11:00 AM",
+    "title": "Malta - Estonia",
+    "bets": [
+      {
+        "team": "Malta",
+        "odds": "1.48"
+      },
+      {
+        "team": "Estonia",
+        "odds": "2.42"
       }
     ]
   },
@@ -355,11 +397,11 @@
     "bets": [
       {
         "team": "Kolkata Knight Riders",
-        "odds": "1.64"
+        "odds": "1.61"
       },
       {
         "team": "Chennai Super Kings",
-        "odds": "2.28"
+        "odds": "2.34"
       }
     ]
   },
@@ -383,11 +425,11 @@
     "bets": [
       {
         "team": "Islamabad United",
-        "odds": "1.9"
+        "odds": "1.96"
       },
       {
         "team": "Quetta Gladiators",
-        "odds": "1.84"
+        "odds": "1.79"
       }
     ]
   },
@@ -472,6 +514,48 @@
       {
         "team": "Bangladesh",
         "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "May 8, 09:00 AM",
+    "title": "Scotland - United Arab Emirates",
+    "bets": [
+      {
+        "team": "Scotland",
+        "odds": "1.44"
+      },
+      {
+        "team": "United Arab Emirates",
+        "odds": "2.54"
+      }
+    ]
+  },
+  {
+    "date": "May 8, 02:00 PM",
+    "title": "Punjab Kings - Delhi Capitals",
+    "bets": [
+      {
+        "team": "Punjab Kings",
+        "odds": "1.74"
+      },
+      {
+        "team": "Delhi Capitals",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "May 8, 03:00 PM",
+    "title": "Peshawar Zalmi - Karachi Kings",
+    "bets": [
+      {
+        "team": "Peshawar Zalmi",
+        "odds": "1.99"
+      },
+      {
+        "team": "Karachi Kings",
+        "odds": "1.76"
       }
     ]
   }
