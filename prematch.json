@@ -1,19 +1,5 @@
 [
   {
-    "date": "May 6, 10:00 AM",
-    "title": "Adelaide Strikers Srl - Hobart Hurricanes Srl",
-    "bets": [
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.02"
-      },
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
     "date": "May 6, 12:00 PM",
     "title": "Paarl Royals Srl - Pretoria Capitals Srl",
     "bets": [
@@ -285,11 +271,11 @@
     "bets": [
       {
         "team": "Hampshire",
-        "odds": "1.77"
+        "odds": "1.67"
       },
       {
         "team": "Durham",
-        "odds": "1.9"
+        "odds": "2.04"
       }
     ]
   },
@@ -458,6 +444,20 @@
       {
         "team": "Antigua And Barbuda Falcons Srl",
         "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 11:00 PM",
+    "title": "Trinidad And Tobago Divas - Guyana",
+    "bets": [
+      {
+        "team": "Trinidad And Tobago Divas",
+        "odds": "2.04"
+      },
+      {
+        "team": "Guyana",
+        "odds": "1.67"
       }
     ]
   },
