@@ -1,267 +1,15 @@
 [
   {
-    "date": "May 12, 08:00 PM",
-    "title": "New Zealand SRL - Bangladesh Srl",
-    "bets": [
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.45"
-      },
-      {
-        "team": "Bangladesh Srl",
-        "odds": "2.64"
-      }
-    ]
-  },
-  {
-    "date": "May 12, 10:00 PM",
-    "title": "St Kitts And Nevis Patriots Srl - Guyana Amazon Warriors Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "2.18"
-      },
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "May 12, 11:30 PM",
-    "title": "City Blasters - South Castries Lions",
-    "bets": [
-      {
-        "team": "City Blasters",
-        "odds": "1.56"
-      },
-      {
-        "team": "South Castries Lions",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 12:00 AM",
-    "title": "Australia SRL - South Africa SRL",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 12:30 AM",
-    "title": "Japan - Cook Islands",
-    "bets": [
-      {
-        "team": "Japan",
-        "odds": "1.1"
-      },
-      {
-        "team": "Cook Islands",
-        "odds": "5.5"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 02:00 AM",
-    "title": "Auckland Srl - Central Districts Srl",
-    "bets": [
-      {
-        "team": "Auckland Srl",
-        "odds": "1.61"
-      },
-      {
-        "team": "Central Districts Srl",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 02:00 AM",
-    "title": "Thailand - Kuwait",
-    "bets": [
-      {
-        "team": "Thailand",
-        "odds": "1.12"
-      },
-      {
-        "team": "Kuwait",
-        "odds": "5.7"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 03:15 AM",
-    "title": "Amber (Women) - Pearl (Women)",
-    "bets": [
-      {
-        "team": "Amber (w)",
-        "odds": "1.59"
-      },
-      {
-        "team": "Pearl (w)",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 03:45 AM",
-    "title": "91 Yards Club (Women) - Rising Star (Women)",
-    "bets": [
-      {
-        "team": "91 Yards Club (w)",
-        "odds": "1.11"
-      },
-      {
-        "team": "Rising Star (w)",
-        "odds": "5.23"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 03:45 AM",
-    "title": "United Fighters XI - Pristen CC",
-    "bets": [
-      {
-        "team": "United Fighters XI",
-        "odds": "5.16"
-      },
-      {
-        "team": "Pristen CC",
-        "odds": "1.12"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 04:00 AM",
-    "title": "Sydney Sixers SRL - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 06:00 AM",
-    "title": "Otago Srl - Northern Districts Srl",
-    "bets": [
-      {
-        "team": "Otago Srl",
-        "odds": "1.93"
-      },
-      {
-        "team": "Northern Districts Srl",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 06:30 AM",
-    "title": "United Arab Emirates - Malaysia",
-    "bets": [
-      {
-        "team": "United Arab Emirates",
-        "odds": "1.08"
-      },
-      {
-        "team": "Malaysia",
-        "odds": "7"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 07:15 AM",
-    "title": "Ruby (Women) - Sapphire (Women)",
-    "bets": [
-      {
-        "team": "Ruby (w)",
-        "odds": "3.85"
-      },
-      {
-        "team": "Sapphire (w)",
-        "odds": "1.2"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 07:45 AM",
-    "title": "Maharana AC (Women) - Warriors (Women)",
-    "bets": [
-      {
-        "team": "Maharana AC (w)",
-        "odds": "1.16"
-      },
-      {
-        "team": "Warriors (w)",
-        "odds": "4.32"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 08:00 AM",
-    "title": "Tracy Village - Palmerston",
-    "bets": [
-      {
-        "team": "Tracy Village",
-        "odds": "2.38"
-      },
-      {
-        "team": "Palmerston",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 08:00 AM",
-    "title": "SR'S - KPRO Academy",
-    "bets": [
-      {
-        "team": "SR'S",
-        "odds": "1.12"
-      },
-      {
-        "team": "KPRO Academy",
-        "odds": "5.16"
-      }
-    ]
-  },
-  {
-    "date": "May 13, 08:00 AM",
-    "title": "India SRL - England SRL",
-    "bets": [
-      {
-        "team": "India Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "England Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
     "date": "May 13, 09:30 AM",
     "title": "Somerset - Hampshire",
     "bets": [
       {
         "team": "Somerset",
-        "odds": "1.92"
+        "odds": "2.08"
       },
       {
         "team": "Hampshire",
-        "odds": "1.75"
+        "odds": "1.64"
       }
     ]
   },
@@ -271,11 +19,11 @@
     "bets": [
       {
         "team": "Leinster Lightning",
-        "odds": "1.58"
+        "odds": "1.55"
       },
       {
         "team": "Northern Knights",
-        "odds": "2.18"
+        "odds": "2.24"
       }
     ]
   },
@@ -285,11 +33,11 @@
     "bets": [
       {
         "team": "Munster Reds",
-        "odds": "1.65"
+        "odds": "1.63"
       },
       {
         "team": "North-West Warriors",
-        "odds": "2.06"
+        "odds": "2.1"
       }
     ]
   },
@@ -350,6 +98,20 @@
     ]
   },
   {
+    "date": "May 13, 04:00 PM",
+    "title": "Cinnamon Pacers - Saffron Strikers",
+    "bets": [
+      {
+        "team": "Cinnamon Pacers",
+        "odds": "1.63"
+      },
+      {
+        "team": "Saffron Strikers",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
     "date": "May 13, 06:00 PM",
     "title": "Melbourne Stars SRL - Hobart Hurricanes Srl",
     "bets": [
@@ -360,6 +122,20 @@
       {
         "team": "Hobart Hurricanes Srl",
         "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "May 13, 06:30 PM",
+    "title": "Nutmeg Warriors - Bay Leaf Blasters",
+    "bets": [
+      {
+        "team": "Nutmeg Warriors",
+        "odds": "1.53"
+      },
+      {
+        "team": "Bay Leaf Blasters",
+        "odds": "2.3"
       }
     ]
   },
@@ -397,11 +173,39 @@
     "bets": [
       {
         "team": "Choiseul Craftmasters",
-        "odds": "2.14"
+        "odds": "2.22"
       },
       {
         "team": "Gros Islet Knights",
-        "odds": "1.61"
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "May 14, 12:00 AM",
+    "title": "Sri Lanka Srl - Bangladesh Srl",
+    "bets": [
+      {
+        "team": "Sri Lanka Srl",
+        "odds": "1.58"
+      },
+      {
+        "team": "Bangladesh Srl",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "May 14, 02:00 AM",
+    "title": "Canterbury Srl - Wellington Srl",
+    "bets": [
+      {
+        "team": "Canterbury Srl",
+        "odds": "1.78"
+      },
+      {
+        "team": "Wellington Srl",
+        "odds": "1.97"
       }
     ]
   },
@@ -411,11 +215,25 @@
     "bets": [
       {
         "team": "Bangladesh Emerging",
-        "odds": "1.76"
+        "odds": "1.7"
       },
       {
         "team": "South Africa Emerging",
-        "odds": "1.92"
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "May 14, 04:00 AM",
+    "title": "Perth Scorchers Srl - Melbourne Renegades Srl",
+    "bets": [
+      {
+        "team": "Perth Scorchers Srl",
+        "odds": "1.64"
+      },
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "2.18"
       }
     ]
   },
@@ -439,11 +257,11 @@
     "bets": [
       {
         "team": "United Arab Emirates",
-        "odds": "2.5"
+        "odds": "2.6"
       },
       {
         "team": "Scotland",
-        "odds": "1.45"
+        "odds": "1.42"
       }
     ]
   },
@@ -453,11 +271,11 @@
     "bets": [
       {
         "team": "Warwickshire",
-        "odds": "2.1"
+        "odds": "2.18"
       },
       {
         "team": "Lancashire",
-        "odds": "1.63"
+        "odds": "1.58"
       }
     ]
   },
@@ -467,11 +285,11 @@
     "bets": [
       {
         "team": "Essex",
-        "odds": "2.12"
+        "odds": "2.06"
       },
       {
         "team": "Durham",
-        "odds": "1.62"
+        "odds": "1.65"
       }
     ]
   },
@@ -481,11 +299,11 @@
     "bets": [
       {
         "team": "Surrey",
-        "odds": "1.89"
+        "odds": "1.99"
       },
       {
         "team": "The Blaze",
-        "odds": "1.78"
+        "odds": "1.7"
       }
     ]
   }
