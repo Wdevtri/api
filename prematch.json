@@ -1,61 +1,5 @@
 [
   {
-    "date": "May 14, 04:00 PM",
-    "title": "Pretoria Capitals Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.92"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "May 14, 04:00 PM",
-    "title": "Bay Leaf Blasters - Clove Challengers",
-    "bets": [
-      {
-        "team": "Bay Leaf Blasters",
-        "odds": "1.69"
-      },
-      {
-        "team": "Clove Challengers",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "May 14, 06:00 PM",
-    "title": "Brisbane Heat Srl - Melbourne Stars SRL",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "1.95"
-      },
-      {
-        "team": "Melbourne Stars SRL",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "May 14, 06:30 PM",
-    "title": "Nutmeg Warriors - Ginger Generals",
-    "bets": [
-      {
-        "team": "Nutmeg Warriors",
-        "odds": "1.71"
-      },
-      {
-        "team": "Ginger Generals",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
     "date": "May 14, 08:00 PM",
     "title": "England SRL - Australia SRL",
     "bets": [
@@ -127,20 +71,6 @@
   },
   {
     "date": "May 15, 03:45 AM",
-    "title": "91 Yards Club (Women) - Maharana AC (Women)",
-    "bets": [
-      {
-        "team": "91 Yards Club (w)",
-        "odds": "1.15"
-      },
-      {
-        "team": "Maharana AC (w)",
-        "odds": "4.49"
-      }
-    ]
-  },
-  {
-    "date": "May 15, 03:45 AM",
     "title": "SP Brothers - SM Sports",
     "bets": [
       {
@@ -150,6 +80,20 @@
       {
         "team": "SM Sports",
         "odds": "2.25"
+      }
+    ]
+  },
+  {
+    "date": "May 15, 03:45 AM",
+    "title": "91 Yards Club (Women) - Maharana AC (Women)",
+    "bets": [
+      {
+        "team": "91 Yards Club (w)",
+        "odds": "1.15"
+      },
+      {
+        "team": "Maharana AC (w)",
+        "odds": "4.56"
       }
     ]
   },
@@ -164,6 +108,34 @@
       {
         "team": "Perth Scorchers Srl",
         "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "May 15, 04:00 AM",
+    "title": "Mahad-Mangaon Lions - Roha Royals",
+    "bets": [
+      {
+        "team": "Mahad-Mangaon Lions",
+        "odds": "1.85"
+      },
+      {
+        "team": "Roha Royals",
+        "odds": "1.82"
+      }
+    ]
+  },
+  {
+    "date": "May 15, 04:00 AM",
+    "title": "Panvel Kings - Alibag Jets",
+    "bets": [
+      {
+        "team": "Panvel Kings",
+        "odds": "2.36"
+      },
+      {
+        "team": "Alibag Jets",
+        "odds": "1.5"
       }
     ]
   },
@@ -224,16 +196,30 @@
     ]
   },
   {
+    "date": "May 15, 07:00 AM",
+    "title": "Seaside Cc - Ariana Kif",
+    "bets": [
+      {
+        "team": "Seaside Cc",
+        "odds": "3.3"
+      },
+      {
+        "team": "Ariana Kif",
+        "odds": "1.27"
+      }
+    ]
+  },
+  {
     "date": "May 15, 07:45 AM",
     "title": "Rising Star (Women) - Warriors (Women)",
     "bets": [
       {
         "team": "Rising Star (w)",
-        "odds": "1.2"
+        "odds": "1.19"
       },
       {
         "team": "Warriors (w)",
-        "odds": "3.89"
+        "odds": "3.97"
       }
     ]
   },
@@ -266,6 +252,48 @@
     ]
   },
   {
+    "date": "May 15, 08:00 AM",
+    "title": "Sudhagad Fighters - Karjat Khalapur Khapoli Warriors",
+    "bets": [
+      {
+        "team": "Sudhagad Fighters",
+        "odds": "1.97"
+      },
+      {
+        "team": "Karjat Khalapur Khapoli Warriors",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "May 15, 08:00 AM",
+    "title": "Pen Bappas - Maratha Uran",
+    "bets": [
+      {
+        "team": "Pen Bappas",
+        "odds": "1.78"
+      },
+      {
+        "team": "Maratha Uran",
+        "odds": "1.89"
+      }
+    ]
+  },
+  {
+    "date": "May 15, 09:00 AM",
+    "title": "Hisingen Cc - Ariana Cricket Club",
+    "bets": [
+      {
+        "team": "Hisingen CC",
+        "odds": "3.05"
+      },
+      {
+        "team": "Ariana Cricket Club",
+        "odds": "1.32"
+      }
+    ]
+  },
+  {
     "date": "May 15, 09:30 AM",
     "title": "Sussex Sharks - Kent",
     "bets": [
@@ -276,6 +304,20 @@
       {
         "team": "Kent",
         "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "May 15, 09:30 AM",
+    "title": "Yorkshire - Leicestershire Foxes",
+    "bets": [
+      {
+        "team": "Yorkshire",
+        "odds": "1.21"
+      },
+      {
+        "team": "Leicestershire Foxes",
+        "odds": "4.2"
       }
     ]
   },
@@ -341,11 +383,11 @@
     "bets": [
       {
         "team": "Northern Knights",
-        "odds": "1.64"
+        "odds": "1.63"
       },
       {
         "team": "Munster Reds",
-        "odds": "2.08"
+        "odds": "2.1"
       }
     ]
   },
@@ -472,6 +514,34 @@
       {
         "team": "South Castries Lions",
         "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "May 16, 03:00 AM",
+    "title": "Bangladesh Emerging - South Africa Emerging",
+    "bets": [
+      {
+        "team": "Bangladesh Emerging",
+        "odds": "1.76"
+      },
+      {
+        "team": "South Africa Emerging",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "May 16, 09:00 AM",
+    "title": "Scotland - Netherlands",
+    "bets": [
+      {
+        "team": "Scotland",
+        "odds": "2.16"
+      },
+      {
+        "team": "Netherlands",
+        "odds": "1.59"
       }
     ]
   }
