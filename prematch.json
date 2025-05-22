@@ -1,47 +1,5 @@
 [
   {
-    "date": "May 22, 04:00 PM",
-    "title": "Pretoria Capitals Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "2.28"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "May 22, 04:00 PM",
-    "title": "Ginger Generals - Clove Challengers",
-    "bets": [
-      {
-        "team": "Ginger Generals",
-        "odds": "2.58"
-      },
-      {
-        "team": "Clove Challengers",
-        "odds": "1.42"
-      }
-    ]
-  },
-  {
-    "date": "May 22, 06:00 PM",
-    "title": "Melbourne Renegades Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "2.18"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
     "date": "May 22, 06:30 PM",
     "title": "Nutmeg Warriors - Cinnamon Pacers",
     "bets": [
@@ -196,6 +154,20 @@
     ]
   },
   {
+    "date": "May 23, 06:00 AM",
+    "title": "Tallinn Strikers - Tallinn Super Riders",
+    "bets": [
+      {
+        "team": "Tallinn Strikers",
+        "odds": "1.14"
+      },
+      {
+        "team": "Tallinn Super Riders",
+        "odds": "4.7"
+      }
+    ]
+  },
+  {
     "date": "May 23, 07:30 AM",
     "title": "Dca Kannur - Dca Palakkad",
     "bets": [
@@ -220,6 +192,20 @@
       {
         "team": "Sri Lanka Srl",
         "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "May 23, 08:15 AM",
+    "title": "Tallinn United - Tallinn Stallions",
+    "bets": [
+      {
+        "team": "Tallinn United",
+        "odds": "4"
+      },
+      {
+        "team": "Tallinn Stallions",
+        "odds": "1.19"
       }
     ]
   },
