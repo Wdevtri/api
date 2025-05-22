@@ -1,103 +1,5 @@
 [
   {
-    "date": "May 22, 11:00 AM",
-    "title": "Koshi Pride League - Biratnagar Panthers",
-    "bets": [
-      {
-        "team": "Koshi Pride League",
-        "odds": "1.7"
-      },
-      {
-        "team": "Biratnagar Panthers",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "May 22, 12:00 PM",
-    "title": "Durban Super Giants Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.91"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "May 22, 12:30 PM",
-    "title": "Middlesex 2nd XI - Sussex 2nd XI",
-    "bets": [
-      {
-        "team": "Middlesex 2nd XI",
-        "odds": "1.79"
-      },
-      {
-        "team": "Sussex 2nd XI",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "May 22, 01:30 PM",
-    "title": "Seafarers - Hurricanes",
-    "bets": [
-      {
-        "team": "Seafarers",
-        "odds": "2"
-      },
-      {
-        "team": "Hurricanes",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "May 22, 02:00 PM",
-    "title": "Gujarat Titans - Lucknow Super Giants",
-    "bets": [
-      {
-        "team": "Gujarat Titans",
-        "odds": "1.59"
-      },
-      {
-        "team": "Lucknow Super Giants",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
-    "date": "May 22, 02:00 PM",
-    "title": "Barbados Royals Srl - Trinbago Knight Riders SRL",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "May 22, 02:30 PM",
-    "title": "Karachi Kings - Lahore Qalandars",
-    "bets": [
-      {
-        "team": "Karachi Kings",
-        "odds": "2.04"
-      },
-      {
-        "team": "Lahore Qalandars",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
     "date": "May 22, 04:00 PM",
     "title": "Pretoria Capitals Srl - Mi Cape Town Srl",
     "bets": [
@@ -238,6 +140,20 @@
     ]
   },
   {
+    "date": "May 23, 03:15 AM",
+    "title": "Dca Trivandrum - Dca Kozhikode",
+    "bets": [
+      {
+        "team": "Dca Trivandrum",
+        "odds": "1.45"
+      },
+      {
+        "team": "Dca Kozhikode",
+        "odds": "2.5"
+      }
+    ]
+  },
+  {
     "date": "May 23, 04:00 AM",
     "title": "Sydney Thunder Srl - Adelaide Strikers Srl",
     "bets": [
@@ -252,6 +168,20 @@
     ]
   },
   {
+    "date": "May 23, 05:00 AM",
+    "title": "Birat Blasters - United Lion Hearts",
+    "bets": [
+      {
+        "team": "Birat Blasters",
+        "odds": "1.3"
+      },
+      {
+        "team": "United Lion Hearts",
+        "odds": "3.13"
+      }
+    ]
+  },
+  {
     "date": "May 23, 06:00 AM",
     "title": "Central Districts Srl - Auckland Srl",
     "bets": [
@@ -262,6 +192,20 @@
       {
         "team": "Auckland Srl",
         "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "May 23, 07:30 AM",
+    "title": "Dca Kannur - Dca Palakkad",
+    "bets": [
+      {
+        "team": "Dca Kannur",
+        "odds": "2.06"
+      },
+      {
+        "team": "Dca Palakkad",
+        "odds": "1.65"
       }
     ]
   },
@@ -285,11 +229,11 @@
     "bets": [
       {
         "team": "Ireland",
-        "odds": "2.58"
+        "odds": "2.62"
       },
       {
         "team": "West Indies",
-        "odds": "1.46"
+        "odds": "1.45"
       }
     ]
   },
@@ -336,20 +280,6 @@
     ]
   },
   {
-    "date": "May 23, 01:30 PM",
-    "title": "Surrey - Durham",
-    "bets": [
-      {
-        "team": "Surrey",
-        "odds": "1.63"
-      },
-      {
-        "team": "Durham",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
     "date": "May 23, 02:00 PM",
     "title": "Royal Challengers Bengaluru - Sunrisers Hyderabad",
     "bets": [
@@ -359,7 +289,7 @@
       },
       {
         "team": "Sunrisers Hyderabad",
-        "odds": "2.46"
+        "odds": "2.48"
       }
     ]
   },
@@ -472,6 +402,34 @@
       {
         "team": "The Blaze",
         "odds": "1.3"
+      }
+    ]
+  },
+  {
+    "date": "May 24, 01:30 PM",
+    "title": "Yorkshire - Warwickshire",
+    "bets": [
+      {
+        "team": "Yorkshire",
+        "odds": "2.06"
+      },
+      {
+        "team": "Warwickshire",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "May 24, 02:00 PM",
+    "title": "Punjab Kings - Delhi Capitals",
+    "bets": [
+      {
+        "team": "Punjab Kings",
+        "odds": "1.67"
+      },
+      {
+        "team": "Delhi Capitals",
+        "odds": "2.22"
       }
     ]
   }
