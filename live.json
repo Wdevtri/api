@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Dca Kannur",
-        "odds": "3.2"
+        "odds": "2.94"
       },
       {
         "team": "Dca Pathanamthitta",
-        "odds": "1.28"
+        "odds": "1.33"
       }
     ]
   },
@@ -19,11 +19,11 @@
     "bets": [
       {
         "team": "Gujjrat Grace",
-        "odds": "1.37"
+        "odds": "1.23"
       },
       {
         "team": "G Team Gujarawala",
-        "odds": "2.76"
+        "odds": "3.62"
       }
     ]
   },
@@ -33,11 +33,11 @@
     "bets": [
       {
         "team": "Vidyasagar Cricket Academy (w)",
-        "odds": "6.36"
+        "odds": "9.68"
       },
       {
         "team": "Futuristic (w)",
-        "odds": "1.07"
+        "odds": "1.01"
       }
     ]
   },
@@ -47,11 +47,11 @@
     "bets": [
       {
         "team": "Tanaji Cricketers",
-        "odds": "2.53"
+        "odds": "2.13"
       },
       {
         "team": "Rewari Racers",
-        "odds": "1.44"
+        "odds": "1.61"
       }
     ]
   },
@@ -61,11 +61,11 @@
     "bets": [
       {
         "team": "Mumbai Indians (cyber)",
-        "odds": "3.92"
+        "odds": "4.21"
       },
       {
         "team": "Gujarat Titans (cyber)",
-        "odds": "1.14"
+        "odds": "1.1"
       }
     ]
   },
@@ -75,25 +75,11 @@
     "bets": [
       {
         "team": "Rampur",
-        "odds": "1.64"
+        "odds": "1.87"
       },
       {
         "team": "Silly Squads",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "May 22, 06:55 AM",
-    "title": "Gujarat Titans (VR) - Mumbai Indians (VR)",
-    "bets": [
-      {
-        "team": "Gujarat Titans (VR)",
-        "odds": "1.44"
-      },
-      {
-        "team": "Draw",
-        "odds": "23.87"
+        "odds": "1.8"
       }
     ]
   },
@@ -112,30 +98,16 @@
     ]
   },
   {
-    "date": "May 22, 07:00 AM",
-    "title": "Ferocious Divas (Women) - Charming Squad (Women)",
-    "bets": [
-      {
-        "team": "Ferocious Divas (w)",
-        "odds": "1.7"
-      },
-      {
-        "team": "Draw",
-        "odds": "24.61"
-      }
-    ]
-  },
-  {
     "date": "May 22, 07:05 AM",
     "title": "England (cyber) - India (cyber)",
     "bets": [
       {
         "team": "England (cyber)",
-        "odds": "1.06"
+        "odds": "1.18"
       },
       {
         "team": "India (cyber)",
-        "odds": "4.84"
+        "odds": "3.56"
       }
     ]
   },
@@ -145,11 +117,11 @@
     "bets": [
       {
         "team": "England (VR)",
-        "odds": "2.5"
+        "odds": "2.43"
       },
       {
         "team": "Draw",
-        "odds": "23.88"
+        "odds": "23.87"
       }
     ]
   },
@@ -159,11 +131,25 @@
     "bets": [
       {
         "team": "Chennai Carvers (cyber)",
-        "odds": "5.34"
+        "odds": "5.69"
       },
       {
         "team": "Rajasthan Royals (cyber)",
-        "odds": "1.03"
+        "odds": "1.02"
+      }
+    ]
+  },
+  {
+    "date": "May 22, 07:55 AM",
+    "title": "Kolkata Knight Riders (VR) - Punjab Kings (VR)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (VR)",
+        "odds": "2.14"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.91"
       }
     ]
   }
