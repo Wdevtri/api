@@ -1,61 +1,5 @@
 [
   {
-    "date": "May 24, 12:00 PM",
-    "title": "Paarl Royals Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.71"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
-    "date": "May 24, 01:30 PM",
-    "title": "Yorkshire - Warwickshire",
-    "bets": [
-      {
-        "team": "Yorkshire",
-        "odds": "1.98"
-      },
-      {
-        "team": "Warwickshire",
-        "odds": "1.71"
-      }
-    ]
-  },
-  {
-    "date": "May 24, 02:00 PM",
-    "title": "Punjab Kings - Delhi Capitals",
-    "bets": [
-      {
-        "team": "Punjab Kings",
-        "odds": "1.63"
-      },
-      {
-        "team": "Delhi Capitals",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "May 24, 02:00 PM",
-    "title": "St Kitts And Nevis Patriots Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
     "date": "May 24, 04:00 PM",
     "title": "Sunrisers Eastern Cape Srl - Joburg Super Kings Srl",
     "bets": [
@@ -210,6 +154,20 @@
     ]
   },
   {
+    "date": "May 25, 03:15 AM",
+    "title": "Dca Kozhikode - Dca Pathanamthitta",
+    "bets": [
+      {
+        "team": "Dca Kozhikode",
+        "odds": "2.2"
+      },
+      {
+        "team": "Dca Pathanamthitta",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
     "date": "May 25, 04:00 AM",
     "title": "Melbourne Stars SRL - Sydney Sixers SRL",
     "bets": [
@@ -224,6 +182,34 @@
     ]
   },
   {
+    "date": "May 25, 04:15 AM",
+    "title": "Bloomfield Cricket And Athletic Club - Chilaw Marians Cc",
+    "bets": [
+      {
+        "team": "Bloomfield Cricket And Athletic Club",
+        "odds": "1.63"
+      },
+      {
+        "team": "Chilaw Marians CC",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "May 25, 04:15 AM",
+    "title": "Police Sports Club - Nugegoda Sports Welfare Club",
+    "bets": [
+      {
+        "team": "Police Sports Club",
+        "odds": "1.57"
+      },
+      {
+        "team": "Nugegoda Sports Welfare Club",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
     "date": "May 25, 06:00 AM",
     "title": "Canterbury Srl - Central Districts Srl",
     "bets": [
@@ -234,6 +220,34 @@
       {
         "team": "Central Districts Srl",
         "odds": "2.46"
+      }
+    ]
+  },
+  {
+    "date": "May 25, 07:30 AM",
+    "title": "Calpe Giants - Lathbury Lightning",
+    "bets": [
+      {
+        "team": "Calpe Giants",
+        "odds": "1.49"
+      },
+      {
+        "team": "Lathbury Lightning",
+        "odds": "2.38"
+      }
+    ]
+  },
+  {
+    "date": "May 25, 07:30 AM",
+    "title": "Dca Trivandrum - Dca Palakkad",
+    "bets": [
+      {
+        "team": "Dca Trivandrum",
+        "odds": "1.9"
+      },
+      {
+        "team": "Dca Palakkad",
+        "odds": "1.78"
       }
     ]
   },
@@ -280,16 +294,16 @@
     ]
   },
   {
-    "date": "May 25, 09:45 AM",
-    "title": "Dragons - Typhoons",
+    "date": "May 25, 08:30 AM",
+    "title": "Kurunegala Youth CC - Panadura SC",
     "bets": [
       {
-        "team": "Dragons",
-        "odds": "1.69"
+        "team": "Kurunegala Youth CC",
+        "odds": "2.5"
       },
       {
-        "team": "Typhoons",
-        "odds": "2"
+        "team": "Panadura SC",
+        "odds": "1.45"
       }
     ]
   },
@@ -434,20 +448,6 @@
     ]
   },
   {
-    "date": "May 25, 07:00 PM",
-    "title": "South Castries Lions - Gros Islet Knights",
-    "bets": [
-      {
-        "team": "South Castries Lions",
-        "odds": "1.83"
-      },
-      {
-        "team": "Gros Islet Knights",
-        "odds": "1.84"
-      }
-    ]
-  },
-  {
     "date": "May 25, 08:00 PM",
     "title": "Pakistan SRL - Bangladesh Srl",
     "bets": [
@@ -472,6 +472,20 @@
       {
         "team": "Antigua And Barbuda Falcons Srl",
         "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 01:30 PM",
+    "title": "England - West Indies",
+    "bets": [
+      {
+        "team": "England",
+        "odds": "1.11"
+      },
+      {
+        "team": "West Indies",
+        "odds": "6.8"
       }
     ]
   }
