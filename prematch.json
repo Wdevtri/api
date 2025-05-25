@@ -1,145 +1,5 @@
 [
   {
-    "date": "May 25, 12:00 PM",
-    "title": "Durban Super Giants Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.82"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "May 25, 01:30 PM",
-    "title": "Birat Blasters - Biratnagar Panthers",
-    "bets": [
-      {
-        "team": "Birat Blasters",
-        "odds": "1.24"
-      },
-      {
-        "team": "Biratnagar Panthers",
-        "odds": "3.52"
-      }
-    ]
-  },
-  {
-    "date": "May 25, 02:00 PM",
-    "title": "Sunrisers Hyderabad - Kolkata Knight Riders",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad",
-        "odds": "1.87"
-      },
-      {
-        "team": "Kolkata Knight Riders",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "May 25, 02:00 PM",
-    "title": "USA - Canada",
-    "bets": [
-      {
-        "team": "USA",
-        "odds": "1.31"
-      },
-      {
-        "team": "Canada",
-        "odds": "3.05"
-      }
-    ]
-  },
-  {
-    "date": "May 25, 02:00 PM",
-    "title": "Barbados Royals Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "May 25, 02:30 PM",
-    "title": "Quetta Gladiators - Lahore Qalandars",
-    "bets": [
-      {
-        "team": "Quetta Gladiators",
-        "odds": "1.8"
-      },
-      {
-        "team": "Lahore Qalandars",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "May 25, 04:00 PM",
-    "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "May 25, 04:00 PM",
-    "title": "Bay Leaf Blasters - Ginger Generals",
-    "bets": [
-      {
-        "team": "Bay Leaf Blasters",
-        "odds": "2.1"
-      },
-      {
-        "team": "Ginger Generals",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "May 25, 06:00 PM",
-    "title": "Melbourne Renegades Srl - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "1.88"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "May 25, 06:30 PM",
-    "title": "Nutmeg Warriors - Clove Challengers",
-    "bets": [
-      {
-        "team": "Nutmeg Warriors",
-        "odds": "1.9"
-      },
-      {
-        "team": "Clove Challengers",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
     "date": "May 25, 08:00 PM",
     "title": "Pakistan SRL - Bangladesh Srl",
     "bets": [
@@ -154,6 +14,20 @@
     ]
   },
   {
+    "date": "May 25, 08:00 PM",
+    "title": "Brownhill Dolphins - Sandy Point Snappers",
+    "bets": [
+      {
+        "team": "Brownhill Dolphins",
+        "odds": "2.18"
+      },
+      {
+        "team": "Sandy Point Snappers",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
     "date": "May 25, 10:00 PM",
     "title": "Guyana Amazon Warriors Srl - Antigua And Barbuda Falcons Srl",
     "bets": [
@@ -164,6 +38,20 @@
       {
         "team": "Antigua And Barbuda Falcons Srl",
         "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "May 25, 11:00 PM",
+    "title": "Molineaux Blue Runners - St Pauls Barracudas",
+    "bets": [
+      {
+        "team": "Molineaux Blue Runners",
+        "odds": "1.64"
+      },
+      {
+        "team": "St Pauls Barracudas",
+        "odds": "2.08"
       }
     ]
   },
@@ -210,6 +98,62 @@
     ]
   },
   {
+    "date": "May 26, 04:15 AM",
+    "title": "Ace Capital CC - Panadura SC",
+    "bets": [
+      {
+        "team": "Ace Capital CC",
+        "odds": "2.1"
+      },
+      {
+        "team": "Panadura SC",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 04:15 AM",
+    "title": "Colts Cricket Club - Chilaw Marians Cc",
+    "bets": [
+      {
+        "team": "Colts Cricket Club",
+        "odds": "1.47"
+      },
+      {
+        "team": "Chilaw Marians CC",
+        "odds": "2.44"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 04:15 AM",
+    "title": "Burgher RC - Nugegoda Sports Welfare Club",
+    "bets": [
+      {
+        "team": "Burgher RC",
+        "odds": "1.44"
+      },
+      {
+        "team": "Nugegoda Sports Welfare Club",
+        "odds": "2.54"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 04:30 AM",
+    "title": "United Lion Hearts - Agro Vet",
+    "bets": [
+      {
+        "team": "United Lion Hearts",
+        "odds": "1.57"
+      },
+      {
+        "team": "Agro Vet",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
     "date": "May 26, 04:30 AM",
     "title": "Pen Bappas - Karjat Khalapur Khapoli Warriors",
     "bets": [
@@ -238,6 +182,20 @@
     ]
   },
   {
+    "date": "May 26, 07:30 AM",
+    "title": "Dca Kottayam - Dca Kollam",
+    "bets": [
+      {
+        "team": "Dca Kottayam",
+        "odds": "2.24"
+      },
+      {
+        "team": "Dca Kollam",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
     "date": "May 26, 08:00 AM",
     "title": "Pakistan SRL - India SRL",
     "bets": [
@@ -252,6 +210,62 @@
     ]
   },
   {
+    "date": "May 26, 08:15 AM",
+    "title": "Jersey - Germany",
+    "bets": [
+      {
+        "team": "Jersey",
+        "odds": "1.74"
+      },
+      {
+        "team": "Germany",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:15 AM",
+    "title": "Sweden - Isle of Man",
+    "bets": [
+      {
+        "team": "Sweden",
+        "odds": "1.74"
+      },
+      {
+        "team": "Isle of Man",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:30 AM",
+    "title": "Moors SC - Kurunegala Youth CC",
+    "bets": [
+      {
+        "team": "Moors SC",
+        "odds": "1.34"
+      },
+      {
+        "team": "Kurunegala Youth CC",
+        "odds": "2.94"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:30 AM",
+    "title": "Colombo CC - Badureliya SC",
+    "bets": [
+      {
+        "team": "Colombo CC",
+        "odds": "1.31"
+      },
+      {
+        "team": "Badureliya SC",
+        "odds": "3.05"
+      }
+    ]
+  },
+  {
     "date": "May 26, 09:00 AM",
     "title": "Sudhagad Fighters - Panvel Kings",
     "bets": [
@@ -262,6 +276,20 @@
       {
         "team": "Panvel Kings",
         "odds": "1.4"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:30 AM",
+    "title": "Northamptonshire 2nd XI - Somerset County 2nd XI",
+    "bets": [
+      {
+        "team": "Northamptonshire 2nd XI",
+        "odds": "1.94"
+      },
+      {
+        "team": "Somerset County 2nd XI",
+        "odds": "1.74"
       }
     ]
   },
@@ -416,6 +444,20 @@
       {
         "team": "Barbados Royals Srl",
         "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "May 27, 02:00 PM",
+    "title": "Lucknow Super Giants - Royal Challengers Bengaluru",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants",
+        "odds": "2.2"
+      },
+      {
+        "team": "Royal Challengers Bengaluru",
+        "odds": "1.68"
       }
     ]
   }
