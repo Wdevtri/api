@@ -1,1 +1,256 @@
-[]
+[
+  {
+    "date": "May 26, 08:15 AM",
+    "title": "Jersey - Germany",
+    "bets": [
+      {
+        "team": "Jersey",
+        "odds": "1.17"
+      },
+      {
+        "team": "Germany",
+        "odds": "4.2"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:00 AM",
+    "title": "Pakistan SRL - India SRL",
+    "bets": [
+      {
+        "team": "Pakistan Srl",
+        "odds": "1.3"
+      },
+      {
+        "team": "India Srl",
+        "odds": "3.3"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 07:35 AM",
+    "title": "Kolkata Knight Riders (cyber) - Punjab Kings (cyber)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:05 AM",
+    "title": "Afghanistan (cyber) - Zimbabwe (cyber)",
+    "bets": [
+      {
+        "team": "Zimbabwe (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:05 AM",
+    "title": "Gujjrat Grace - Sarghoda CC",
+    "bets": [
+      {
+        "team": "Gujjrat Grace",
+        "odds": "1.7"
+      },
+      {
+        "team": "Sarghoda CC",
+        "odds": "1.99"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:20 AM",
+    "title": "Tunga Sports - Varanasi Worriers",
+    "bets": [
+      {
+        "team": "Tunga Sports",
+        "odds": "1.67"
+      },
+      {
+        "team": "Varanasi Worriers",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:35 AM",
+    "title": "Gujarat Titans (cyber) - Rajasthan Royals (cyber)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (cyber)",
+        "odds": "5.56"
+      },
+      {
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "1.02"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:30 AM",
+    "title": "Cricket Queens (Women) - Rapid Falcons (Women)",
+    "bets": [
+      {
+        "team": "Cricket Queens (w)",
+        "odds": "1.44"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.52"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:45 AM",
+    "title": "Rani Laxmi Bai X1 (Women) - Wonder Womens (Women)",
+    "bets": [
+      {
+        "team": "Rani Laxmi Bai X1 (w)",
+        "odds": "1.56"
+      },
+      {
+        "team": "Wonder Womens (w)",
+        "odds": "2.23"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 08:45 AM",
+    "title": "Aghadi Cricket Association - Khimsar Raj Club",
+    "bets": [
+      {
+        "team": "Aghadi Cricket Association",
+        "odds": "1.61"
+      },
+      {
+        "team": "Khimsar Raj Club",
+        "odds": "2.13"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:00 AM",
+    "title": "Tamil Nadu (CS) - Bengal (CS)",
+    "bets": [
+      {
+        "team": "Tamil Nadu (CS)",
+        "odds": "1.93"
+      },
+      {
+        "team": "Draw",
+        "odds": "25"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:00 AM",
+    "title": "Australia (VR) - India (VR)",
+    "bets": [
+      {
+        "team": "Australia (VR)",
+        "odds": "2.43"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.87"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:00 AM",
+    "title": "Hyderabad Dragons - Faisalbad Shaheen",
+    "bets": [
+      {
+        "team": "Hyderabad Dragons",
+        "odds": "1.99"
+      },
+      {
+        "team": "Faisalbad Shaheen",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:00 AM",
+    "title": "Delhi Capitals (Leng_0905) - Punjab Kings (Onix_3355)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Leng_0905)",
+        "odds": "1.83"
+      },
+      {
+        "team": "Punjab Kings (Onix_3355)",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:00 AM",
+    "title": "Femforce (Women) - Charming Squad (Women)",
+    "bets": [
+      {
+        "team": "Femforce (w)",
+        "odds": "1.83"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.6"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:00 AM",
+    "title": "Rampage Indoor - Stunners Indoor",
+    "bets": [
+      {
+        "team": "Rampage Indoor",
+        "odds": "2.18"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.54"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:05 AM",
+    "title": "West Indies (cyber) - Ireland (cyber)",
+    "bets": [
+      {
+        "team": "Ireland (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:10 AM",
+    "title": "Royal Challengers Bangalore (VR) - Rajasthan Royals (VR)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bangalore (VR)",
+        "odds": "1.64"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.9"
+      }
+    ]
+  },
+  {
+    "date": "May 26, 09:00 AM",
+    "title": "India Red (Sharoock) - India Blue (AnjiDan)",
+    "bets": [
+      {
+        "team": "India Red (Sharoock)",
+        "odds": "7.89"
+      },
+      {
+        "team": "India Blue (AnjiDan)",
+        "odds": "1.04"
+      }
+    ]
+  }
+]
