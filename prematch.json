@@ -1,117 +1,5 @@
 [
   {
-    "date": "May 28, 04:15 AM",
-    "title": "Burgher RC - Tamil Union Cricket And Athletic Club",
-    "bets": [
-      {
-        "team": "Burgher RC",
-        "odds": "1.88"
-      },
-      {
-        "team": "Tamil Union Cricket And Athletic Club",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "May 28, 06:00 AM",
-    "title": "Central Districts Srl - Wellington Srl",
-    "bets": [
-      {
-        "team": "Central Districts Srl",
-        "odds": "2.34"
-      },
-      {
-        "team": "Wellington Srl",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "May 28, 06:30 AM",
-    "title": "Phoenix Cc - United CC Bucharest",
-    "bets": [
-      {
-        "team": "Phoenix Cc",
-        "odds": "2.66"
-      },
-      {
-        "team": "United CC Bucharest",
-        "odds": "1.4"
-      }
-    ]
-  },
-  {
-    "date": "May 28, 07:30 AM",
-    "title": "Dca Kottayam - Dca Ernakulam",
-    "bets": [
-      {
-        "team": "Dca Kottayam",
-        "odds": "2.38"
-      },
-      {
-        "team": "Dca Ernakulam",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "May 28, 08:00 AM",
-    "title": "Bangladesh Srl - Afghanistan Srl",
-    "bets": [
-      {
-        "team": "Bangladesh Srl",
-        "odds": "2.16"
-      },
-      {
-        "team": "Afghanistan Srl",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "May 28, 08:15 AM",
-    "title": "Germany - Italy",
-    "bets": [
-      {
-        "team": "Germany",
-        "odds": "3.45"
-      },
-      {
-        "team": "Italy",
-        "odds": "1.25"
-      }
-    ]
-  },
-  {
-    "date": "May 28, 08:15 AM",
-    "title": "Isle of Man - Spain",
-    "bets": [
-      {
-        "team": "Isle of Man",
-        "odds": "1.62"
-      },
-      {
-        "team": "Spain",
-        "odds": "2.12"
-      }
-    ]
-  },
-  {
-    "date": "May 28, 08:30 AM",
-    "title": "Nugegoda Sports Welfare Club - Chilaw Marians Cc",
-    "bets": [
-      {
-        "team": "Nugegoda Sports Welfare Club",
-        "odds": "1.84"
-      },
-      {
-        "team": "Chilaw Marians CC",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
     "date": "May 28, 08:30 AM",
     "title": "Colts Cricket Club - Bloomfield Cricket And Athletic Club",
     "bets": [
@@ -122,20 +10,6 @@
       {
         "team": "Bloomfield Cricket And Athletic Club",
         "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "May 28, 08:30 AM",
-    "title": "Moors SC - Ace Capital CC",
-    "bets": [
-      {
-        "team": "Moors SC",
-        "odds": "1.4"
-      },
-      {
-        "team": "Ace Capital CC",
-        "odds": "2.66"
       }
     ]
   },
@@ -261,7 +135,7 @@
       },
       {
         "team": "Bangladesh",
-        "odds": "3.6"
+        "odds": "3.5"
       }
     ]
   },
