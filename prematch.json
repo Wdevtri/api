@@ -1,19 +1,5 @@
 [
   {
-    "date": "May 29, 10:00 PM",
-    "title": "Trinbago Knight Riders SRL - Barbados Royals Srl",
-    "bets": [
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.75"
-      },
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2"
-      }
-    ]
-  },
-  {
     "date": "May 30, 12:00 AM",
     "title": "West Indies Srl - Sri Lanka Srl",
     "bets": [
@@ -61,11 +47,11 @@
     "bets": [
       {
         "team": "Dca Wayanad",
-        "odds": "1.93"
+        "odds": "1.97"
       },
       {
         "team": "Combined Districts",
-        "odds": "1.75"
+        "odds": "1.72"
       }
     ]
   },
