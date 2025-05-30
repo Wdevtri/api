@@ -1,19 +1,5 @@
 [
   {
-    "date": "May 30, 03:00 PM",
-    "title": "Pakistan - Bangladesh",
-    "bets": [
-      {
-        "team": "Pakistan",
-        "odds": "1.26"
-      },
-      {
-        "team": "Bangladesh",
-        "odds": "3.6"
-      }
-    ]
-  },
-  {
     "date": "May 30, 04:00 PM",
     "title": "Paarl Royals Srl - Joburg Super Kings Srl",
     "bets": [
@@ -308,6 +294,20 @@
     ]
   },
   {
+    "date": "May 31, 02:00 PM",
+    "title": "Euro Gladiators - American Strikers",
+    "bets": [
+      {
+        "team": "Euro Gladiators",
+        "odds": "1.92"
+      },
+      {
+        "team": "American Strikers",
+        "odds": "1.82"
+      }
+    ]
+  },
+  {
     "date": "May 31, 03:00 PM",
     "title": "Combined Islands - Nevis",
     "bets": [
@@ -444,6 +444,20 @@
       {
         "team": "Gloucestershire",
         "odds": "1.86"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 03:00 PM",
+    "title": "Middlesex - Glamorgan",
+    "bets": [
+      {
+        "team": "Middlesex",
+        "odds": "1.87"
+      },
+      {
+        "team": "Glamorgan",
+        "odds": "1.87"
       }
     ]
   }
