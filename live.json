@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "date": "May 30, 02:35 AM",
+    "title": "Gujarat Titans (cyber) - Chennai Carvers (cyber)",
+    "bets": [
+      {
+        "team": "Chennai Carvers (cyber)",
+        "odds": "8.22"
+      }
+    ]
+  },
+  {
+    "date": "May 30, 03:00 AM",
+    "title": "Malakand Cricket Academy - Markhor Cricketers",
+    "bets": [
+      {
+        "team": "Malakand Cricket Academy",
+        "odds": "2.13"
+      },
+      {
+        "team": "Markhor Cricketers",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "May 30, 03:05 AM",
+    "title": "Afghanistan (cyber) - Germany (cyber)",
+    "bets": [
+      {
+        "team": "Germany (cyber)",
+        "odds": "6.58"
+      }
+    ]
+  },
+  {
+    "date": "May 30, 03:35 AM",
+    "title": "Lucknow Super Giants (cyber) - Rajasthan Royals (cyber)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "2.03"
+      },
+      {
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "May 30, 04:00 AM",
+    "title": "Sunrises Hyderabad (VR) - Kolkata Knight Riders (VR)",
+    "bets": [
+      {
+        "team": "Sunrises Hyderabad (VR)",
+        "odds": "1.8"
+      },
+      {
+        "team": "Kolkata Knight Riders (VR)",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "May 30, 04:05 AM",
+    "title": "Pakistan (cyber) - India (cyber)",
+    "bets": [
+      {
+        "team": "Pakistan (cyber)",
+        "odds": "2.22"
+      },
+      {
+        "team": "India (cyber)",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "May 30, 04:00 AM",
+    "title": "Brisbane Heat Srl - Sydney Sixers SRL",
+    "bets": [
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "2.1"
+      },
+      {
+        "team": "Sydney Sixers Srl",
+        "odds": "1.69"
+      }
+    ]
+  }
+]
