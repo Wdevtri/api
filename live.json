@@ -1,25 +1,15 @@
 [
   {
-    "date": "May 30, 02:35 AM",
-    "title": "Gujarat Titans (cyber) - Chennai Carvers (cyber)",
-    "bets": [
-      {
-        "team": "Chennai Carvers (cyber)",
-        "odds": "8.22"
-      }
-    ]
-  },
-  {
     "date": "May 30, 03:00 AM",
     "title": "Malakand Cricket Academy - Markhor Cricketers",
     "bets": [
       {
         "team": "Malakand Cricket Academy",
-        "odds": "2.13"
+        "odds": "2.4"
       },
       {
         "team": "Markhor Cricketers",
-        "odds": "1.61"
+        "odds": "1.48"
       }
     ]
   },
@@ -28,8 +18,12 @@
     "title": "Afghanistan (cyber) - Germany (cyber)",
     "bets": [
       {
+        "team": "Afghanistan (cyber)",
+        "odds": "1.14"
+      },
+      {
         "team": "Germany (cyber)",
-        "odds": "6.58"
+        "odds": "3.87"
       }
     ]
   },
@@ -39,11 +33,11 @@
     "bets": [
       {
         "team": "Lucknow Super Giants (cyber)",
-        "odds": "2.03"
+        "odds": "2.12"
       },
       {
         "team": "Rajasthan Royals (cyber)",
-        "odds": "1.62"
+        "odds": "1.57"
       }
     ]
   },
@@ -53,11 +47,11 @@
     "bets": [
       {
         "team": "Sunrises Hyderabad (VR)",
-        "odds": "1.8"
+        "odds": "1.58"
       },
       {
         "team": "Kolkata Knight Riders (VR)",
-        "odds": "1.8"
+        "odds": "2.09"
       }
     ]
   },
@@ -67,11 +61,25 @@
     "bets": [
       {
         "team": "Pakistan (cyber)",
-        "odds": "2.22"
+        "odds": "3.04"
       },
       {
         "team": "India (cyber)",
-        "odds": "1.52"
+        "odds": "1.27"
+      }
+    ]
+  },
+  {
+    "date": "May 30, 04:15 AM",
+    "title": "India Blue (MarkzMan) - India Red (Sharoock)",
+    "bets": [
+      {
+        "team": "India Blue (MarkzMan)",
+        "odds": "1.21"
+      },
+      {
+        "team": "India Red (Sharoock)",
+        "odds": "3.75"
       }
     ]
   },
@@ -81,11 +89,11 @@
     "bets": [
       {
         "team": "Brisbane Heat Srl",
-        "odds": "2.1"
+        "odds": "5"
       },
       {
         "team": "Sydney Sixers Srl",
-        "odds": "1.69"
+        "odds": "1.15"
       }
     ]
   }
