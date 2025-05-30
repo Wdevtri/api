@@ -1,169 +1,15 @@
 [
   {
-    "date": "May 30, 07:30 AM",
-    "title": "Dca Kollam - Dca Ernakulam",
-    "bets": [
-      {
-        "team": "Dca Kollam",
-        "odds": "2.2"
-      },
-      {
-        "team": "Dca Ernakulam",
-        "odds": "1.57"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 10:00 AM",
-    "title": "Hobart Hurricanes Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.99"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 10:00 AM",
-    "title": "Euro Gladiators - Trans Titan",
-    "bets": [
-      {
-        "team": "Euro Gladiators",
-        "odds": "1.68"
-      },
-      {
-        "team": "Trans Titan",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 12:00 PM",
-    "title": "England - West Indies",
-    "bets": [
-      {
-        "team": "England",
-        "odds": "1.09"
-      },
-      {
-        "team": "West Indies",
-        "odds": "7.6"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 12:00 PM",
-    "title": "Mi Cape Town Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.58"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 01:30 PM",
-    "title": "The Blaze - Warwickshire",
-    "bets": [
-      {
-        "team": "The Blaze",
-        "odds": "1.7"
-      },
-      {
-        "team": "Warwickshire",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 01:30 PM",
-    "title": "Somerset - Surrey",
-    "bets": [
-      {
-        "team": "Somerset",
-        "odds": "2.46"
-      },
-      {
-        "team": "Surrey",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 02:00 PM",
-    "title": "Gujarat Titans - Mumbai Indians",
-    "bets": [
-      {
-        "team": "Gujarat Titans",
-        "odds": "2.38"
-      },
-      {
-        "team": "Mumbai Indians",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 02:00 PM",
-    "title": "Antigua And Barbuda Falcons Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Antigua And Barbuda Falcons Srl",
-        "odds": "2.14"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 02:00 PM",
-    "title": "Hampshire - Essex",
-    "bets": [
-      {
-        "team": "Hampshire",
-        "odds": "1.64"
-      },
-      {
-        "team": "Essex",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 02:00 PM",
-    "title": "African Lions - American Strikers",
-    "bets": [
-      {
-        "team": "African Lions",
-        "odds": "1.87"
-      },
-      {
-        "team": "American Strikers",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
     "date": "May 30, 03:00 PM",
     "title": "Pakistan - Bangladesh",
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.23"
+        "odds": "1.26"
       },
       {
         "team": "Bangladesh",
-        "odds": "3.95"
+        "odds": "3.6"
       }
     ]
   },
@@ -336,6 +182,20 @@
     ]
   },
   {
+    "date": "May 31, 03:15 AM",
+    "title": "Dca Wayanad - Dca Ernakulam",
+    "bets": [
+      {
+        "team": "Dca Wayanad",
+        "odds": "2.16"
+      },
+      {
+        "team": "Dca Ernakulam",
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
     "date": "May 31, 04:00 AM",
     "title": "Sydney Sixers SRL - Adelaide Strikers Srl",
     "bets": [
@@ -360,6 +220,20 @@
       {
         "team": "Northern Districts Srl",
         "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 07:30 AM",
+    "title": "Dca Kottayam - Dca Kollam",
+    "bets": [
+      {
+        "team": "Dca Kottayam",
+        "odds": "2.3"
+      },
+      {
+        "team": "Dca Kollam",
+        "odds": "1.53"
       }
     ]
   },
@@ -392,6 +266,20 @@
     ]
   },
   {
+    "date": "May 31, 10:00 AM",
+    "title": "Indian Warriors - Asian Kings",
+    "bets": [
+      {
+        "team": "Indian Warriors",
+        "odds": "1.57"
+      },
+      {
+        "team": "Asian Kings",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
     "date": "May 31, 12:00 PM",
     "title": "Durban Super Giants Srl - Mi Cape Town Srl",
     "bets": [
@@ -416,6 +304,20 @@
       {
         "team": "Antigua And Barbuda Falcons Srl",
         "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 03:00 PM",
+    "title": "Combined Islands - Nevis",
+    "bets": [
+      {
+        "team": "Combined Islands",
+        "odds": "2.12"
+      },
+      {
+        "team": "Nevis",
+        "odds": "1.61"
       }
     ]
   },
@@ -448,6 +350,20 @@
     ]
   },
   {
+    "date": "May 31, 07:00 PM",
+    "title": "Anguilla - Virgin Islands",
+    "bets": [
+      {
+        "team": "Anguilla",
+        "odds": "1.55"
+      },
+      {
+        "team": "Virgin Islands",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
     "date": "May 31, 08:00 PM",
     "title": "Pakistan SRL - Bangladesh Srl",
     "bets": [
@@ -472,6 +388,62 @@
       {
         "team": "St Kitts And Nevis Patriots Srl",
         "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 11:00 PM",
+    "title": "St Kitts - Antigua And Barbuda",
+    "bets": [
+      {
+        "team": "St Kitts",
+        "odds": "2.36"
+      },
+      {
+        "team": "Antigua And Barbuda",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 10:00 AM",
+    "title": "England - West Indies",
+    "bets": [
+      {
+        "team": "England",
+        "odds": "1.15"
+      },
+      {
+        "team": "West Indies",
+        "odds": "5.6"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 11:00 AM",
+    "title": "Middlesex - Glamorgan",
+    "bets": [
+      {
+        "team": "Middlesex",
+        "odds": "1.97"
+      },
+      {
+        "team": "Glamorgan",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 11:00 AM",
+    "title": "Sussex Sharks - Gloucestershire",
+    "bets": [
+      {
+        "team": "Sussex Sharks",
+        "odds": "1.95"
+      },
+      {
+        "team": "Gloucestershire",
+        "odds": "1.86"
       }
     ]
   }
