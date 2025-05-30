@@ -418,5 +418,19 @@
         "odds": "2.16"
       }
     ]
+  },
+  {
+    "date": "May 31, 10:00 AM",
+    "title": "Sydney Thunder Srl - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.65"
+      },
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "2.16"
+      }
+    ]
   }
 ]
