@@ -224,6 +224,20 @@
     ]
   },
   {
+    "date": "May 31, 07:45 AM",
+    "title": "Belgium - Malta",
+    "bets": [
+      {
+        "team": "Belgium",
+        "odds": "1.72"
+      },
+      {
+        "team": "Malta",
+        "odds": "2.09"
+      }
+    ]
+  },
+  {
     "date": "May 31, 08:00 AM",
     "title": "India SRL - England SRL",
     "bets": [
@@ -262,6 +276,20 @@
       {
         "team": "Asian Kings",
         "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 11:45 AM",
+    "title": "Portugal - Malta",
+    "bets": [
+      {
+        "team": "Portugal",
+        "odds": "1.72"
+      },
+      {
+        "team": "Malta",
+        "odds": "2.09"
       }
     ]
   },
