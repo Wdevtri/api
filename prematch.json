@@ -1,285 +1,5 @@
 [
   {
-    "date": "May 31, 12:00 AM",
-    "title": "Australia SRL - South Africa SRL",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 01:00 AM",
-    "title": "Mamushi (Women) - Titans Ladies (Women)",
-    "bets": [
-      {
-        "team": "Mamushi (w)",
-        "odds": "1.08"
-      },
-      {
-        "team": "Titans Ladies (w)",
-        "odds": "6.02"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 02:00 AM",
-    "title": "Auckland Srl - Central Districts Srl",
-    "bets": [
-      {
-        "team": "Auckland Srl",
-        "odds": "1.61"
-      },
-      {
-        "team": "Central Districts Srl",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 03:15 AM",
-    "title": "Dca Wayanad - Dca Ernakulam",
-    "bets": [
-      {
-        "team": "Dca Wayanad",
-        "odds": "2.16"
-      },
-      {
-        "team": "Dca Ernakulam",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 04:00 AM",
-    "title": "Sydney Sixers SRL - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 06:00 AM",
-    "title": "Otago Srl - Northern Districts Srl",
-    "bets": [
-      {
-        "team": "Otago Srl",
-        "odds": "1.93"
-      },
-      {
-        "team": "Northern Districts Srl",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 07:30 AM",
-    "title": "Dca Kottayam - Dca Kollam",
-    "bets": [
-      {
-        "team": "Dca Kottayam",
-        "odds": "2.3"
-      },
-      {
-        "team": "Dca Kollam",
-        "odds": "1.53"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 07:45 AM",
-    "title": "Belgium - Malta",
-    "bets": [
-      {
-        "team": "Belgium",
-        "odds": "1.34"
-      },
-      {
-        "team": "Malta",
-        "odds": "2.9"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 08:00 AM",
-    "title": "India SRL - England SRL",
-    "bets": [
-      {
-        "team": "India Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "England Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 08:30 AM",
-    "title": "HCC - Excelsior 20",
-    "bets": [
-      {
-        "team": "HCC",
-        "odds": "1.94"
-      },
-      {
-        "team": "Excelsior 20",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 08:30 AM",
-    "title": "HBS - V.O.C Rotterdam",
-    "bets": [
-      {
-        "team": "HBS",
-        "odds": "1.39"
-      },
-      {
-        "team": "V.O.C Rotterdam",
-        "odds": "2.68"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 08:30 AM",
-    "title": "VCC - Hermes DVS",
-    "bets": [
-      {
-        "team": "VCC",
-        "odds": "1.54"
-      },
-      {
-        "team": "Hermes DVS",
-        "odds": "2.27"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 08:30 AM",
-    "title": "VRA - Kampong Cricket",
-    "bets": [
-      {
-        "team": "VRA",
-        "odds": "5.75"
-      },
-      {
-        "team": "Kampong Cricket",
-        "odds": "1.09"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 08:30 AM",
-    "title": "Sparta - Punjab Ghausia 1",
-    "bets": [
-      {
-        "team": "Sparta",
-        "odds": "3.52"
-      },
-      {
-        "team": "Punjab Ghausia 1",
-        "odds": "1.24"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 10:00 AM",
-    "title": "Sydney Thunder Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 10:00 AM",
-    "title": "Indian Warriors - Asian Kings",
-    "bets": [
-      {
-        "team": "Indian Warriors",
-        "odds": "1.57"
-      },
-      {
-        "team": "Asian Kings",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 11:00 AM",
-    "title": "Warwickshire - Durham",
-    "bets": [
-      {
-        "team": "Warwickshire",
-        "odds": "1.69"
-      },
-      {
-        "team": "Durham",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 11:00 AM",
-    "title": "Lancashire Thunder - The Blaze",
-    "bets": [
-      {
-        "team": "Lancashire Thunder",
-        "odds": "2.04"
-      },
-      {
-        "team": "The Blaze",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 11:45 AM",
-    "title": "Portugal - Malta",
-    "bets": [
-      {
-        "team": "Portugal",
-        "odds": "1.54"
-      },
-      {
-        "team": "Malta",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 12:00 PM",
-    "title": "Durban Super Giants Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
     "date": "May 31, 02:00 PM",
     "title": "Barbados Royals Srl - Antigua And Barbuda Falcons Srl",
     "bets": [
@@ -299,11 +19,11 @@
     "bets": [
       {
         "team": "Euro Gladiators",
-        "odds": "2"
+        "odds": "1.92"
       },
       {
         "team": "American Strikers",
-        "odds": "1.76"
+        "odds": "1.82"
       }
     ]
   },
@@ -327,11 +47,11 @@
     "bets": [
       {
         "team": "Warwickshire",
-        "odds": "1.61"
+        "odds": "1.65"
       },
       {
         "team": "Durham",
-        "odds": "2.22"
+        "odds": "2.14"
       }
     ]
   },
@@ -434,6 +154,104 @@
     ]
   },
   {
+    "date": "Jun 1, 12:00 AM",
+    "title": "Barbados Royals Srl - Guyana Amazon Warriors Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2.06"
+      },
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 12:30 AM",
+    "title": "Mamushi (Women) - Pacific Rays (Women)",
+    "bets": [
+      {
+        "team": "Mamushi (w)",
+        "odds": "1.16"
+      },
+      {
+        "team": "Pacific Rays (w)",
+        "odds": "4.37"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 02:00 AM",
+    "title": "Adelaide Strikers Srl - Melbourne Stars SRL",
+    "bets": [
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "1.93"
+      },
+      {
+        "team": "Melbourne Stars Srl",
+        "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 04:00 AM",
+    "title": "Auckland Srl - Canterbury Srl",
+    "bets": [
+      {
+        "team": "Auckland Srl",
+        "odds": "2.06"
+      },
+      {
+        "team": "Canterbury Srl",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 06:00 AM",
+    "title": "Australia SRL - England SRL",
+    "bets": [
+      {
+        "team": "Australia Srl",
+        "odds": "1.81"
+      },
+      {
+        "team": "England Srl",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 08:00 AM",
+    "title": "Islamabad United Srl - Karachi Kings Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.67"
+      },
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 09:45 AM",
+    "title": "Typhoons - Scorchers",
+    "bets": [
+      {
+        "team": "Typhoons",
+        "odds": "2.28"
+      },
+      {
+        "team": "Scorchers",
+        "odds": "1.53"
+      }
+    ]
+  },
+  {
     "date": "Jun 1, 10:00 AM",
     "title": "England - West Indies",
     "bets": [
@@ -448,16 +266,30 @@
     ]
   },
   {
-    "date": "Jun 1, 11:00 AM",
-    "title": "Middlesex - Glamorgan",
+    "date": "Jun 1, 10:00 AM",
+    "title": "Durban Super Giants Srl - Joburg Super Kings Srl",
     "bets": [
       {
-        "team": "Middlesex",
-        "odds": "1.97"
+        "team": "Durban Super Giants Srl",
+        "odds": "1.86"
       },
       {
-        "team": "Glamorgan",
-        "odds": "1.85"
+        "team": "Joburg Super Kings Srl",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 10:00 AM",
+    "title": "Trans Titan - African Lions",
+    "bets": [
+      {
+        "team": "Trans Titan",
+        "odds": "1.84"
+      },
+      {
+        "team": "African Lions",
+        "odds": "1.9"
       }
     ]
   },
@@ -476,16 +308,16 @@
     ]
   },
   {
-    "date": "Jun 1, 11:00 AM",
-    "title": "Essex - Somerset",
+    "date": "Jun 1, 12:00 PM",
+    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
     "bets": [
       {
-        "team": "Essex",
-        "odds": "1.83"
+        "team": "Brisbane Heat Srl",
+        "odds": "2.2"
       },
       {
-        "team": "Somerset",
-        "odds": "1.99"
+        "team": "Perth Scorchers Srl",
+        "odds": "1.62"
       }
     ]
   },
@@ -504,16 +336,30 @@
     ]
   },
   {
+    "date": "Jun 1, 01:30 PM",
+    "title": "Yorkshire - Derbyshire Falcons",
+    "bets": [
+      {
+        "team": "Yorkshire",
+        "odds": "1.72"
+      },
+      {
+        "team": "Derbyshire Falcons",
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
     "date": "Jun 1, 02:00 PM",
     "title": "Punjab Kings - Mumbai Indians",
     "bets": [
       {
         "team": "Punjab Kings",
-        "odds": "2.3"
+        "odds": "2.36"
       },
       {
         "team": "Mumbai Indians",
-        "odds": "1.63"
+        "odds": "1.6"
       }
     ]
   },
@@ -523,11 +369,25 @@
     "bets": [
       {
         "team": "Northamptonshire",
-        "odds": "1.64"
+        "odds": "1.72"
       },
       {
         "team": "Leicestershire",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 02:00 PM",
+    "title": "Afghanistan Srl - New Zealand SRL",
+    "bets": [
+      {
+        "team": "Afghanistan Srl",
         "odds": "2.18"
+      },
+      {
+        "team": "New Zealand Srl",
+        "odds": "1.63"
       }
     ]
   },
@@ -537,11 +397,11 @@
     "bets": [
       {
         "team": "Middlesex",
-        "odds": "1.8"
+        "odds": "1.81"
       },
       {
         "team": "Glamorgan",
-        "odds": "1.94"
+        "odds": "1.93"
       }
     ]
   },
@@ -551,11 +411,11 @@
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.23"
+        "odds": "1.22"
       },
       {
         "team": "Bangladesh",
-        "odds": "3.9"
+        "odds": "4"
       }
     ]
   },
@@ -565,11 +425,11 @@
     "bets": [
       {
         "team": "Essex",
-        "odds": "2.16"
+        "odds": "2.06"
       },
       {
         "team": "Somerset",
-        "odds": "1.65"
+        "odds": "1.71"
       }
     ]
   },
@@ -579,11 +439,81 @@
     "bets": [
       {
         "team": "Sussex",
-        "odds": "1.8"
+        "odds": "1.79"
       },
       {
         "team": "Gloucestershire",
         "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 04:00 PM",
+    "title": "Lahore Qalanders Srl - Multan Sultans Srl",
+    "bets": [
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "2.22"
+      },
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 06:00 PM",
+    "title": "Antigua And Barbuda Falcons Srl - St Kitts And Nevis Patriots Srl",
+    "bets": [
+      {
+        "team": "Antigua And Barbuda Falcons Srl",
+        "odds": "1.89"
+      },
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "1.84"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 08:00 PM",
+    "title": "Mi Cape Town Srl - Paarl Royals Srl",
+    "bets": [
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.72"
+      },
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 10:00 PM",
+    "title": "Central Districts Srl - Northern Districts Srl",
+    "bets": [
+      {
+        "team": "Central Districts Srl",
+        "odds": "2.04"
+      },
+      {
+        "team": "Northern Districts Srl",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 10:00 AM",
+    "title": "Scotland - Nepal",
+    "bets": [
+      {
+        "team": "Scotland",
+        "odds": "1.31"
+      },
+      {
+        "team": "Nepal",
+        "odds": "3.05"
       }
     ]
   }
