@@ -1,33 +1,5 @@
 [
   {
-    "date": "Jun 8, 08:00 PM",
-    "title": "Mi Cape Town Srl - Paarl Royals Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.72"
-      },
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Jun 8, 10:00 PM",
-    "title": "Auckland Srl - Canterbury Srl",
-    "bets": [
-      {
-        "team": "Auckland Srl",
-        "odds": "2.06"
-      },
-      {
-        "team": "Canterbury Srl",
-        "odds": "1.71"
-      }
-    ]
-  },
-  {
     "date": "Jun 9, 12:00 AM",
     "title": "Antigua And Barbuda Falcons Srl - St Kitts And Nevis Patriots Srl",
     "bets": [
@@ -239,6 +211,20 @@
   },
   {
     "date": "Jun 9, 09:30 AM",
+    "title": "Raipur Rhinos - Rajnandgaon Panthers",
+    "bets": [
+      {
+        "team": "Raipur Rhinos",
+        "odds": "1.83"
+      },
+      {
+        "team": "Rajnandgaon Panthers",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 09:30 AM",
     "title": "Aryan Sorath Lions - Jmd Kutch Riders",
     "bets": [
       {
@@ -248,6 +234,20 @@
       {
         "team": "Jmd Kutch Riders",
         "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 10:00 AM",
+    "title": "Gloucestershire 2nd XI - MCC Young Cricketers",
+    "bets": [
+      {
+        "team": "Gloucestershire 2nd XI",
+        "odds": "2.38"
+      },
+      {
+        "team": "MCC Young Cricketers",
+        "odds": "1.49"
       }
     ]
   },
@@ -290,6 +290,20 @@
       {
         "team": "Sydney Thunder Srl",
         "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 01:30 PM",
+    "title": "Bastar Bisons - Bilaspur Bulls",
+    "bets": [
+      {
+        "team": "Bastar Bisons",
+        "odds": "1.74"
+      },
+      {
+        "team": "Bilaspur Bulls",
+        "odds": "1.94"
       }
     ]
   },
@@ -350,6 +364,20 @@
     ]
   },
   {
+    "date": "Jun 9, 02:30 PM",
+    "title": "FinCC Gladiators - Vantaa CC",
+    "bets": [
+      {
+        "team": "FinCC Gladiators",
+        "odds": "2.68"
+      },
+      {
+        "team": "Vantaa CC",
+        "odds": "1.39"
+      }
+    ]
+  },
+  {
     "date": "Jun 9, 04:00 PM",
     "title": "Multan Sultans Srl - Islamabad United Srl",
     "bets": [
@@ -364,6 +392,34 @@
     ]
   },
   {
+    "date": "Jun 9, 04:00 PM",
+    "title": "Soca Kings - Steelpan Players",
+    "bets": [
+      {
+        "team": "Soca Kings",
+        "odds": "2"
+      },
+      {
+        "team": "Steelpan Players",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 04:15 PM",
+    "title": "Lathbury Lightning - Calpe Giants",
+    "bets": [
+      {
+        "team": "Lathbury Lightning",
+        "odds": "1.83"
+      },
+      {
+        "team": "Calpe Giants",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
     "date": "Jun 9, 06:00 PM",
     "title": "England SRL - India SRL",
     "bets": [
@@ -374,6 +430,20 @@
       {
         "team": "India Srl",
         "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 06:30 PM",
+    "title": "Trillions System Ltd Strikers - Blue Devils",
+    "bets": [
+      {
+        "team": "Trillions System Ltd Strikers",
+        "odds": "1.94"
+      },
+      {
+        "team": "Blue Devils",
+        "odds": "1.74"
       }
     ]
   },
