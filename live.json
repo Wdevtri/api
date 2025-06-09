@@ -1,1 +1,228 @@
-[]
+[
+  {
+    "date": "Jun 9, 01:45 PM",
+    "title": "Chepauk Super Gillies - Nellai Royal Kings",
+    "bets": [
+      {
+        "team": "Nellai Royal Kings",
+        "odds": "11"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 02:15 PM",
+    "title": "Bharat Rangers - Orange Tigers",
+    "bets": [
+      {
+        "team": "Bharat Rangers",
+        "odds": "1.11"
+      },
+      {
+        "team": "Orange Tigers",
+        "odds": "5.3"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 04:00 PM",
+    "title": "Multan Sultans Srl - Islamabad United Srl",
+    "bets": [
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "2.66"
+      },
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.44"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 04:00 PM",
+    "title": "Soca Kings - Steelpan Players",
+    "bets": [
+      {
+        "team": "Soca Kings",
+        "odds": "3.9"
+      },
+      {
+        "team": "Steelpan Players",
+        "odds": "1.2"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 02:00 PM",
+    "title": "Zalawad Strikers - Dita Gohilwad Titans",
+    "bets": [
+      {
+        "team": "Zalawad Strikers",
+        "odds": "2.66"
+      },
+      {
+        "team": "Dita Gohilwad Titans",
+        "odds": "1.4"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 02:45 PM",
+    "title": "Marvelous Mermaid (Women) - Radha Madhav Cricket Club (Women)",
+    "bets": [
+      {
+        "team": "Marvelous Mermaid (w)",
+        "odds": "2.04"
+      },
+      {
+        "team": "Radha Madhav Cricket Club (w)",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 03:35 PM",
+    "title": "Lucknow Super Giants (cyber) - Rajasthan Royals (cyber)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 04:05 PM",
+    "title": "Thailand (cyber) - Germany (cyber)",
+    "bets": [
+      {
+        "team": "Thailand (cyber)",
+        "odds": "6.35"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 04:35 PM",
+    "title": "Punjab Kings (cyber) - Kolkata Knight Riders (cyber)",
+    "bets": [
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "2.65"
+      },
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "1.36"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 04:35 PM",
+    "title": "Gamdevi CC - Rewari Racers",
+    "bets": [
+      {
+        "team": "Gamdevi CC",
+        "odds": "2.04"
+      },
+      {
+        "team": "Rewari Racers",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 04:15 PM",
+    "title": "Lathbury Lightning - Calpe Giants",
+    "bets": [
+      {
+        "team": "Lathbury Lightning",
+        "odds": "1.73"
+      },
+      {
+        "team": "Calpe Giants",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 05:00 PM",
+    "title": "Tripura (CS) - Karnataka (CS)",
+    "bets": [
+      {
+        "team": "Tripura (CS)",
+        "odds": "2.38"
+      },
+      {
+        "team": "Draw",
+        "odds": "25"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 05:00 PM",
+    "title": "Delhi Capitals (VR) - Kolkata Knight Riders (VR)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (VR)",
+        "odds": "1.8"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.89"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 05:00 PM",
+    "title": "Adampur Sixers - Eleven Kings",
+    "bets": [
+      {
+        "team": "Adampur Sixers",
+        "odds": "1.67"
+      },
+      {
+        "team": "Eleven Kings",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 05:05 PM",
+    "title": "New Zealand (cyber) - South Africa (cyber)",
+    "bets": [
+      {
+        "team": "New Zealand (cyber)",
+        "odds": "2.96"
+      },
+      {
+        "team": "South Africa (cyber)",
+        "odds": "1.29"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 05:00 PM",
+    "title": "Wizards Indoor - Fortner Boys",
+    "bets": [
+      {
+        "team": "Wizards Indoor",
+        "odds": "1.87"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.53"
+      }
+    ]
+  },
+  {
+    "date": "Jun 9, 04:45 PM",
+    "title": "Havering Xi - Cfs Pinnacle Pro",
+    "bets": [
+      {
+        "team": "Havering Xi",
+        "odds": "1.75"
+      },
+      {
+        "team": "Cfs Pinnacle Pro",
+        "odds": "1.93"
+      }
+    ]
+  }
+]
