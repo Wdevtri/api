@@ -1,61 +1,5 @@
 [
   {
-    "date": "Jun 14, 09:30 AM",
-    "title": "Bilaspur Bulls - Raipur Rhinos",
-    "bets": [
-      {
-        "team": "Bilaspur Bulls",
-        "odds": "1.49"
-      },
-      {
-        "team": "Raipur Rhinos",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
-    "date": "Jun 14, 09:30 AM",
-    "title": "Dita Gohilwad Titans - Aryan Sorath Lions",
-    "bets": [
-      {
-        "team": "Dita Gohilwad Titans",
-        "odds": "2.04"
-      },
-      {
-        "team": "Aryan Sorath Lions",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Jun 14, 09:30 AM",
-    "title": "Rewa Jaguars - Gwalior Cheetahs",
-    "bets": [
-      {
-        "team": "Rewa Jaguars",
-        "odds": "1.67"
-      },
-      {
-        "team": "Gwalior Cheetahs",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Jun 14, 09:45 AM",
-    "title": "Chepauk Super Gillies - Lyca Kovai Kings",
-    "bets": [
-      {
-        "team": "Chepauk Super Gillies",
-        "odds": "1.49"
-      },
-      {
-        "team": "Lyca Kovai Kings",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
     "date": "Jun 14, 10:00 AM",
     "title": "Durban Super Giants Srl - Pretoria Capitals Srl",
     "bets": [
@@ -201,11 +145,11 @@
     "bets": [
       {
         "team": "Karnavati Kings",
-        "odds": "1.49"
+        "odds": "1.5"
       },
       {
         "team": "Heritage City Titans",
-        "odds": "2.38"
+        "odds": "2.36"
       }
     ]
   },
@@ -425,11 +369,11 @@
     "bets": [
       {
         "team": "San Francisco Unicorns",
-        "odds": "1.7"
+        "odds": "1.69"
       },
       {
         "team": "Los Angeles Knight Riders",
-        "odds": "2.08"
+        "odds": "2.1"
       }
     ]
   },
@@ -490,6 +434,34 @@
     ]
   },
   {
+    "date": "Jun 15, 04:00 AM",
+    "title": "Multan Sultans Srl - Quetta Gladiators Srl",
+    "bets": [
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "2.3"
+      },
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Jun 15, 06:00 AM",
+    "title": "Afghanistan Srl - Sri Lanka Srl",
+    "bets": [
+      {
+        "team": "Afghanistan Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Sri Lanka Srl",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
     "date": "Jun 15, 07:30 AM",
     "title": "Harbour Diamonds - Sobisco Smashers Malda",
     "bets": [
@@ -500,6 +472,20 @@
       {
         "team": "Sobisco Smashers Malda",
         "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Jun 15, 08:00 AM",
+    "title": "Lucknow Super Giants Srl - Royal Challengers Bangalore SRL",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants Srl",
+        "odds": "2.12"
+      },
+      {
+        "team": "Royal Challengers Bangalore SRL",
+        "odds": "1.67"
       }
     ]
   },
@@ -621,11 +607,11 @@
     "bets": [
       {
         "team": "Somerset",
-        "odds": "1.49"
+        "odds": "1.48"
       },
       {
         "team": "Kent",
-        "odds": "2.5"
+        "odds": "2.56"
       }
     ]
   }
