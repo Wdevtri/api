@@ -1,197 +1,15 @@
 [
   {
-    "date": "Jun 14, 08:00 PM",
-    "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Jun 14, 09:00 PM",
-    "title": "San Francisco Unicorns - Los Angeles Knight Riders",
-    "bets": [
-      {
-        "team": "San Francisco Unicorns",
-        "odds": "1.63"
-      },
-      {
-        "team": "Los Angeles Knight Riders",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Jun 14, 10:00 PM",
-    "title": "Auckland Srl - Wellington Srl",
-    "bets": [
-      {
-        "team": "Auckland Srl",
-        "odds": "1.95"
-      },
-      {
-        "team": "Wellington Srl",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 12:00 AM",
-    "title": "St Lucia Kings Srl - Antigua And Barbuda Falcons Srl",
-    "bets": [
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Antigua And Barbuda Falcons Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 01:00 AM",
-    "title": "Seattle Orcas - Washington Freedom",
-    "bets": [
-      {
-        "team": "Seattle Orcas",
-        "odds": "2.06"
-      },
-      {
-        "team": "Washington Freedom",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 01:30 AM",
-    "title": "Nightcliff - Southern Districts",
-    "bets": [
-      {
-        "team": "Nightcliff",
-        "odds": "1.7"
-      },
-      {
-        "team": "Southern Districts",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 01:30 AM",
-    "title": "Pint - Palmerston",
-    "bets": [
-      {
-        "team": "Pint",
-        "odds": "1.74"
-      },
-      {
-        "team": "Palmerston",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 02:00 AM",
-    "title": "Perth Scorchers Srl - Hobart Hurricanes Srl",
-    "bets": [
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.74"
-      },
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 03:30 AM",
-    "title": "Adamas Howrah Warriors (Women) - Murshidabad Kueens (Women)",
-    "bets": [
-      {
-        "team": "Adamas Howrah Warriors (Women)",
-        "odds": "1.9"
-      },
-      {
-        "team": "Murshidabad Kueens (Women)",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 04:00 AM",
-    "title": "Multan Sultans Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.3"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 04:00 AM",
-    "title": "Eagle Nashik Titans - Puneri Bappa",
-    "bets": [
-      {
-        "team": "Eagle Nashik Titans",
-        "odds": "1.67"
-      },
-      {
-        "team": "Puneri Bappa",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 06:00 AM",
-    "title": "Afghanistan Srl - Sri Lanka Srl",
-    "bets": [
-      {
-        "team": "Afghanistan Srl",
-        "odds": "1.95"
-      },
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 06:30 AM",
-    "title": "TreCC Amperes - Helsinki Titans",
-    "bets": [
-      {
-        "team": "TreCC Amperes",
-        "odds": "1.74"
-      },
-      {
-        "team": "Helsinki Titans",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
     "date": "Jun 15, 07:30 AM",
     "title": "Harbour Diamonds - Sobisco Smashers Malda",
     "bets": [
       {
         "team": "Harbour Diamonds",
-        "odds": "1.94"
+        "odds": "1.87"
       },
       {
         "team": "Sobisco Smashers Malda",
-        "odds": "1.74"
+        "odds": "1.8"
       }
     ]
   },
@@ -243,11 +61,11 @@
     "bets": [
       {
         "team": "Ratnagiri Jets",
-        "odds": "1.67"
+        "odds": "1.66"
       },
       {
         "team": "Satara Warriors",
-        "odds": "2.04"
+        "odds": "2.06"
       }
     ]
   },
@@ -285,11 +103,11 @@
     "bets": [
       {
         "team": "Ruby Trichy Warriors",
-        "odds": "2.06"
+        "odds": "2.26"
       },
       {
         "team": "Tiruppur Tamizhans",
-        "odds": "1.65"
+        "odds": "1.55"
       }
     ]
   },
@@ -327,11 +145,11 @@
     "bets": [
       {
         "team": "Somerset",
-        "odds": "1.89"
+        "odds": "1.93"
       },
       {
         "team": "Durham",
-        "odds": "1.78"
+        "odds": "1.75"
       }
     ]
   },
@@ -397,11 +215,25 @@
     "bets": [
       {
         "team": "Essex",
-        "odds": "2.34"
+        "odds": "2.44"
       },
       {
         "team": "Surrey",
-        "odds": "1.51"
+        "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Jun 15, 01:30 PM",
+    "title": "Raipur Rhinos - Rajnandgaon Panthers",
+    "bets": [
+      {
+        "team": "Raipur Rhinos",
+        "odds": "1.93"
+      },
+      {
+        "team": "Rajnandgaon Panthers",
+        "odds": "1.75"
       }
     ]
   },
@@ -467,11 +299,11 @@
     "bets": [
       {
         "team": "Scotland",
-        "odds": "1.71"
+        "odds": "1.68"
       },
       {
         "team": "Netherlands",
-        "odds": "2.06"
+        "odds": "2.1"
       }
     ]
   },
@@ -560,6 +392,20 @@
     ]
   },
   {
+    "date": "Jun 15, 02:30 PM",
+    "title": "Canada - Bermuda",
+    "bets": [
+      {
+        "team": "Canada",
+        "odds": "1.21"
+      },
+      {
+        "team": "Bermuda",
+        "odds": "3.75"
+      }
+    ]
+  },
+  {
     "date": "Jun 15, 03:00 PM",
     "title": "Somerset - Kent",
     "bets": [
@@ -570,6 +416,34 @@
       {
         "team": "Kent",
         "odds": "2.54"
+      }
+    ]
+  },
+  {
+    "date": "Jun 15, 03:00 PM",
+    "title": "Gloucestershire - Glamorgan",
+    "bets": [
+      {
+        "team": "Gloucestershire",
+        "odds": "2.06"
+      },
+      {
+        "team": "Glamorgan",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Jun 15, 03:00 PM",
+    "title": "Leicestershire - Worcestershire",
+    "bets": [
+      {
+        "team": "Leicestershire",
+        "odds": "1.69"
+      },
+      {
+        "team": "Worcestershire",
+        "odds": "2.1"
       }
     ]
   },
@@ -588,6 +462,20 @@
     ]
   },
   {
+    "date": "Jun 15, 04:00 PM",
+    "title": "Samp Army Cocrico Cavaliers - Chicago Steelpan Players",
+    "bets": [
+      {
+        "team": "Samp Army Cocrico Cavaliers",
+        "odds": "1.65"
+      },
+      {
+        "team": "Steelpan Players",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
     "date": "Jun 15, 06:00 PM",
     "title": "New Zealand SRL - South Africa SRL",
     "bets": [
@@ -598,6 +486,20 @@
       {
         "team": "South Africa Srl",
         "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Jun 15, 07:30 PM",
+    "title": "Cayman - Bahamas",
+    "bets": [
+      {
+        "team": "Cayman",
+        "odds": "1.33"
+      },
+      {
+        "team": "Bahamas",
+        "odds": "2.94"
       }
     ]
   },
@@ -616,6 +518,20 @@
     ]
   },
   {
+    "date": "Jun 15, 09:00 PM",
+    "title": "Blue Devils - Scarlet Ibis Scorchers",
+    "bets": [
+      {
+        "team": "Blue Devils",
+        "odds": "1.89"
+      },
+      {
+        "team": "Scarlet Ibis Scorchers",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
     "date": "Jun 15, 10:00 PM",
     "title": "Otago Srl - Central Districts Srl",
     "bets": [
@@ -626,6 +542,188 @@
       {
         "team": "Central Districts Srl",
         "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 12:00 AM",
+    "title": "Guyana Amazon Warriors Srl - St Kitts And Nevis Patriots Srl",
+    "bets": [
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.64"
+      },
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 02:00 AM",
+    "title": "Adelaide Strikers Srl - Hobart Hurricanes Srl",
+    "bets": [
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "2.02"
+      },
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 04:00 AM",
+    "title": "Multan Sultans Srl - Lahore Qalanders Srl",
+    "bets": [
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "2.24"
+      },
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 06:00 AM",
+    "title": "India SRL - England SRL",
+    "bets": [
+      {
+        "team": "India Srl",
+        "odds": "1.65"
+      },
+      {
+        "team": "England Srl",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 06:45 AM",
+    "title": "Prague Spartans - Prague Dominators",
+    "bets": [
+      {
+        "team": "Prague Spartans",
+        "odds": "1.56"
+      },
+      {
+        "team": "Prague Dominators",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 08:00 AM",
+    "title": "Mumbai Indians SRL - Delhi Capitals SRL",
+    "bets": [
+      {
+        "team": "Mumbai Indians SRL",
+        "odds": "1.66"
+      },
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 10:00 AM",
+    "title": "Paarl Royals Srl - Mi Cape Town Srl",
+    "bets": [
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "2.04"
+      },
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 12:00 PM",
+    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
+    "bets": [
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "2.2"
+      },
+      {
+        "team": "Perth Scorchers Srl",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 02:00 PM",
+    "title": "Sunrisers Hyderabad SRL - Gujarat Titans Srl",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad SRL",
+        "odds": "1.98"
+      },
+      {
+        "team": "Gujarat Titans Srl",
+        "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 04:00 PM",
+    "title": "Quetta Gladiators Srl - Peshawar Zalmi SRL",
+    "bets": [
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.65"
+      },
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 06:00 PM",
+    "title": "Pakistan SRL - Australia SRL",
+    "bets": [
+      {
+        "team": "Pakistan Srl",
+        "odds": "2.2"
+      },
+      {
+        "team": "Australia Srl",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 08:00 PM",
+    "title": "Sunrisers Eastern Cape Srl - Pretoria Capitals Srl",
+    "bets": [
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.78"
+      },
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "1.97"
+      }
+    ]
+  },
+  {
+    "date": "Jun 16, 10:00 PM",
+    "title": "Canterbury Srl - Northern Districts Srl",
+    "bets": [
+      {
+        "team": "Canterbury Srl",
+        "odds": "1.6"
+      },
+      {
+        "team": "Northern Districts Srl",
+        "odds": "2.24"
       }
     ]
   }
