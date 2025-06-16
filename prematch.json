@@ -1,33 +1,5 @@
 [
   {
-    "date": "Jun 16, 06:00 PM",
-    "title": "Pakistan SRL - Australia SRL",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Australia Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Jun 16, 06:30 PM",
-    "title": "Scarlet Ibis Scorchers - Blue Devils",
-    "bets": [
-      {
-        "team": "Scarlet Ibis Scorchers",
-        "odds": "1.97"
-      },
-      {
-        "team": "Blue Devils",
-        "odds": "1.71"
-      }
-    ]
-  },
-  {
     "date": "Jun 16, 07:30 PM",
     "title": "Bermuda - Bahamas",
     "bets": [
@@ -542,6 +514,20 @@
       {
         "team": "Durham",
         "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Jun 18, 05:30 PM",
+    "title": "Kent - Gloucestershire",
+    "bets": [
+      {
+        "team": "Kent",
+        "odds": "1.66"
+      },
+      {
+        "team": "Gloucestershire",
+        "odds": "2.14"
       }
     ]
   }
