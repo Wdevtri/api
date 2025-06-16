@@ -1,61 +1,5 @@
 [
   {
-    "date": "Jun 16, 03:00 PM",
-    "title": "Greater Helsinki - SKK Rapids",
-    "bets": [
-      {
-        "team": "Greater Helsinki",
-        "odds": "3.16"
-      },
-      {
-        "team": "SKK Rapids",
-        "odds": "1.29"
-      }
-    ]
-  },
-  {
-    "date": "Jun 16, 03:00 PM",
-    "title": "Ostrava Cc - Moravian Cc",
-    "bets": [
-      {
-        "team": "Ostrava Cc",
-        "odds": "3.1"
-      },
-      {
-        "team": "Moravian Cc",
-        "odds": "1.3"
-      }
-    ]
-  },
-  {
-    "date": "Jun 16, 04:00 PM",
-    "title": "Quetta Gladiators Srl - Peshawar Zalmi SRL",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Jun 16, 04:00 PM",
-    "title": "Chicago Steelpan Players - Soca Kings",
-    "bets": [
-      {
-        "team": "Steelpan Players",
-        "odds": "1.76"
-      },
-      {
-        "team": "Soca Kings",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
     "date": "Jun 16, 06:00 PM",
     "title": "Pakistan SRL - Australia SRL",
     "bets": [
@@ -210,16 +154,30 @@
     ]
   },
   {
+    "date": "Jun 17, 04:00 AM",
+    "title": "Eagle Nashik Titans - Puneri Bappa",
+    "bets": [
+      {
+        "team": "Eagle Nashik Titans",
+        "odds": "1.71"
+      },
+      {
+        "team": "Puneri Bappa",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
     "date": "Jun 17, 04:30 AM",
     "title": "Sri Lanka - Bangladesh",
     "bets": [
       {
         "team": "Sri Lanka",
-        "odds": "1.63"
+        "odds": "1.59"
       },
       {
         "team": "Draw",
-        "odds": "3.25"
+        "odds": "3.4"
       }
     ]
   },
@@ -234,6 +192,34 @@
       {
         "team": "West Indies Srl",
         "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Jun 17, 06:45 AM",
+    "title": "Vinohrady Cc - Prague Dominators",
+    "bets": [
+      {
+        "team": "Vinohrady Cc",
+        "odds": "1.65"
+      },
+      {
+        "team": "Prague Dominators",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Jun 17, 07:30 AM",
+    "title": "Sobisco Smashers Malda - Servotech Siliguri Strikers",
+    "bets": [
+      {
+        "team": "Sobisco Smashers Malda",
+        "odds": "1.57"
+      },
+      {
+        "team": "Servotech Siliguri Strikers",
+        "odds": "2.22"
       }
     ]
   },
@@ -266,6 +252,48 @@
     ]
   },
   {
+    "date": "Jun 17, 08:30 AM",
+    "title": "Ratnagiri Jets - Puneri Bappa",
+    "bets": [
+      {
+        "team": "Ratnagiri Jets",
+        "odds": "2"
+      },
+      {
+        "team": "Puneri Bappa",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Jun 17, 09:30 AM",
+    "title": "Jmd Kutch Riders - Dita Gohilwad Titans",
+    "bets": [
+      {
+        "team": "Jmd Kutch Riders",
+        "odds": "2"
+      },
+      {
+        "team": "Dita Gohilwad Titans",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Jun 17, 09:30 AM",
+    "title": "Gwalior Cheetahs - Bundelkhand Bulls",
+    "bets": [
+      {
+        "team": "Gwalior Cheetahs",
+        "odds": "1.84"
+      },
+      {
+        "team": "Bundelkhand Bulls",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
     "date": "Jun 17, 10:00 AM",
     "title": "Durban Super Giants Srl - Paarl Royals Srl",
     "bets": [
@@ -294,16 +322,72 @@
     ]
   },
   {
+    "date": "Jun 17, 01:30 PM",
+    "title": "Satara Warriors - Raigad Royals",
+    "bets": [
+      {
+        "team": "Satara Warriors",
+        "odds": "2.08"
+      },
+      {
+        "team": "Raigad Royals",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Jun 17, 01:30 PM",
+    "title": "Adamas Howrah Warriors - Murshidabad Kings",
+    "bets": [
+      {
+        "team": "Adamas Howrah Warriors",
+        "odds": "2.12"
+      },
+      {
+        "team": "Murshidabad Kings",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Jun 17, 01:45 PM",
+    "title": "Ruby Trichy Warriors - Lyca Kovai Kings",
+    "bets": [
+      {
+        "team": "Ruby Trichy Warriors",
+        "odds": "1.93"
+      },
+      {
+        "team": "Lyca Kovai Kings",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Jun 17, 02:00 PM",
+    "title": "Empire CC - Vantaa CC",
+    "bets": [
+      {
+        "team": "Empire CC",
+        "odds": "1.29"
+      },
+      {
+        "team": "Vantaa CC",
+        "odds": "3.16"
+      }
+    ]
+  },
+  {
     "date": "Jun 17, 02:00 PM",
     "title": "West Indies - South Africa",
     "bets": [
       {
         "team": "West Indies",
-        "odds": "2.88"
+        "odds": "3"
       },
       {
         "team": "South Africa",
-        "odds": "1.42"
+        "odds": "1.4"
       }
     ]
   },
@@ -336,6 +420,34 @@
     ]
   },
   {
+    "date": "Jun 17, 02:00 PM",
+    "title": "Rewa Jaguars - Bhopal Leopards",
+    "bets": [
+      {
+        "team": "Rewa Jaguars",
+        "odds": "1.58"
+      },
+      {
+        "team": "Bhopal Leopards",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Jun 17, 02:00 PM",
+    "title": "Zalawad Strikers - Aryan Sorath Lions",
+    "bets": [
+      {
+        "team": "Zalawad Strikers",
+        "odds": "2.18"
+      },
+      {
+        "team": "Aryan Sorath Lions",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
     "date": "Jun 17, 04:00 PM",
     "title": "Lahore Qalanders Srl - Quetta Gladiators Srl",
     "bets": [
@@ -355,11 +467,11 @@
     "bets": [
       {
         "team": "Hampshire",
-        "odds": "2.04"
+        "odds": "1.99"
       },
       {
         "team": "Surrey",
-        "odds": "1.73"
+        "odds": "1.76"
       }
     ]
   },
@@ -416,6 +528,20 @@
       {
         "team": "Los Angeles Knight Riders",
         "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Jun 18, 04:30 PM",
+    "title": "Worcestershire - Durham",
+    "bets": [
+      {
+        "team": "Worcestershire",
+        "odds": "2.14"
+      },
+      {
+        "team": "Durham",
+        "odds": "1.65"
       }
     ]
   }
