@@ -1,1 +1,268 @@
-[]
+[
+  {
+    "date": "Jun 20, 10:00 AM",
+    "title": "England - India",
+    "bets": [
+      {
+        "team": "England",
+        "odds": "2"
+      },
+      {
+        "team": "Draw",
+        "odds": "8.8"
+      }
+    ]
+  },
+  {
+    "date": "Jun 17, 04:30 AM",
+    "title": "Sri Lanka - Bangladesh",
+    "bets": [
+      {
+        "team": "Sri Lanka",
+        "odds": "4.9"
+      },
+      {
+        "team": "Draw",
+        "odds": "1.26"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 09:30 AM",
+    "title": "Jabalpur Lions - Rewa Jaguars",
+    "bets": [
+      {
+        "team": "Jabalpur Lions",
+        "odds": "3.55"
+      },
+      {
+        "team": "Rewa Jaguars",
+        "odds": "1.24"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 09:15 AM",
+    "title": "A4 Power Strikers - Pruthvi Panthers",
+    "bets": [
+      {
+        "team": "A4 Power Strikers",
+        "odds": "2.24"
+      },
+      {
+        "team": "Pruthvi Panthers",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 07:30 AM",
+    "title": "Sobisco Smashers Malda - Adamas Howrah Warriors",
+    "bets": [
+      {
+        "team": "Sobisco Smashers Malda",
+        "odds": "2.5"
+      },
+      {
+        "team": "Adamas Howrah Warriors",
+        "odds": "1.45"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 10:00 AM",
+    "title": "Durban Super Giants Srl - Mi Cape Town Srl",
+    "bets": [
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "2.98"
+      },
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.36"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 08:20 AM",
+    "title": "Hyderabad Dragons - Cholistan",
+    "bets": [
+      {
+        "team": "Hyderabad Dragons",
+        "odds": "1.09"
+      },
+      {
+        "team": "Cholistan",
+        "odds": "5.9"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 08:25 AM",
+    "title": "Wonder Womens (Women) - Radha Madhav Cricket Club (Women)",
+    "bets": [
+      {
+        "team": "Wonder Womens (w)",
+        "odds": "7.35"
+      },
+      {
+        "team": "Radha Madhav Cricket Club (w)",
+        "odds": "1.05"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 08:35 AM",
+    "title": "Chitkul Association - Khimsar Raj Club",
+    "bets": [
+      {
+        "team": "Chitkul Association",
+        "odds": "1.02"
+      },
+      {
+        "team": "Khimsar Raj Club",
+        "odds": "8.75"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 09:35 AM",
+    "title": "Mumbai Indians (cyber) - Punjab Kings (cyber)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (cyber)",
+        "odds": "3.99"
+      },
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "1.13"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 09:45 AM",
+    "title": "Okara King Squad - Omara",
+    "bets": [
+      {
+        "team": "Okara King Squad",
+        "odds": "1.77"
+      },
+      {
+        "team": "Omara",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 10:00 AM",
+    "title": "New Zealand (VR) - England (VR)",
+    "bets": [
+      {
+        "team": "New Zealand (VR)",
+        "odds": "1.56"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.91"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 10:00 AM",
+    "title": "Top Guns Indoor - Stunners Indoor",
+    "bets": [
+      {
+        "team": "Top Guns Indoor",
+        "odds": "1.44"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.52"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 10:05 AM",
+    "title": "Bangladesh (cyber) - West Indies (cyber)",
+    "bets": [
+      {
+        "team": "Bangladesh (cyber)",
+        "odds": "4.49"
+      },
+      {
+        "team": "West Indies (cyber)",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 10:08 AM",
+    "title": "Mainpuri Monster - Marol CC",
+    "bets": [
+      {
+        "team": "Mainpuri Monster",
+        "odds": "2.23"
+      },
+      {
+        "team": "Marol CC",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 10:30 AM",
+    "title": "Star Eleven (Women) - Wonder Womens (Women)",
+    "bets": [
+      {
+        "team": "Star Eleven (w)",
+        "odds": "1.77"
+      },
+      {
+        "team": "Wonder Womens (w)",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 10:30 AM",
+    "title": "Indoorheroes - Triumphants1",
+    "bets": [
+      {
+        "team": "Indoorheroes",
+        "odds": "1.83"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.6"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 10:35 AM",
+    "title": "Kolkata Knight Riders (cyber) - Rajasthan Royals (cyber)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "1.8"
+      },
+      {
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 10:30 AM",
+    "title": "Sunrises Hyderabad (VR) - Chennai Super Kings (VR)",
+    "bets": [
+      {
+        "team": "Sunrises Hyderabad (VR)",
+        "odds": "1.67"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.93"
+      }
+    ]
+  }
+]
