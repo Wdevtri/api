@@ -1,43 +1,15 @@
 [
   {
-    "date": "Jun 20, 12:00 PM",
-    "title": "Sydney Sixers SRL - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.92"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Jun 20, 01:15 PM",
-    "title": "Diamond Dazzlers - Alembic Warriors",
-    "bets": [
-      {
-        "team": "Diamond Dazzlers",
-        "odds": "1.9"
-      },
-      {
-        "team": "Alembic Warriors",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
     "date": "Jun 20, 01:30 PM",
     "title": "Durham - Essex",
     "bets": [
       {
         "team": "Durham",
-        "odds": "1.6"
+        "odds": "1.61"
       },
       {
         "team": "Essex",
-        "odds": "2.16"
+        "odds": "2.14"
       }
     ]
   },
@@ -47,25 +19,11 @@
     "bets": [
       {
         "team": "Raigad Royals",
-        "odds": "1.78"
+        "odds": "1.82"
       },
       {
         "team": "Kolhapur Tuskers",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "Jun 20, 01:30 PM",
-    "title": "Lux Shyam Kolkata Tigers - Shrachi Rarh Tigers",
-    "bets": [
-      {
-        "team": "Lux Shyam Kolkata Tigers",
-        "odds": "1.7"
-      },
-      {
-        "team": "Shrachi Rarh Tigers",
-        "odds": "1.99"
+        "odds": "1.84"
       }
     ]
   },
@@ -117,11 +75,11 @@
     "bets": [
       {
         "team": "Warwickshire",
-        "odds": "2.88"
+        "odds": "2.44"
       },
       {
         "team": "The Blaze",
-        "odds": "1.35"
+        "odds": "1.47"
       }
     ]
   },
@@ -187,11 +145,11 @@
     "bets": [
       {
         "team": "Northamptonshire",
-        "odds": "1.69"
+        "odds": "1.62"
       },
       {
         "team": "Nottinghamshire",
-        "odds": "2.1"
+        "odds": "2.2"
       }
     ]
   },
@@ -243,11 +201,11 @@
     "bets": [
       {
         "team": "Warwickshire",
-        "odds": "1.53"
+        "odds": "1.55"
       },
       {
         "team": "Worcestershire",
-        "odds": "2.4"
+        "odds": "2.36"
       }
     ]
   },
@@ -299,11 +257,11 @@
     "bets": [
       {
         "team": "Gloucestershire",
-        "odds": "2.22"
+        "odds": "2.32"
       },
       {
         "team": "Hampshire",
-        "odds": "1.61"
+        "odds": "1.56"
       }
     ]
   },
