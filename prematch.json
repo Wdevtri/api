@@ -1,197 +1,15 @@
 [
   {
-    "date": "Jun 22, 12:00 PM",
-    "title": "Perth Scorchers Srl - Brisbane Heat Srl",
+    "date": "Jun 22, 07:00 PM",
+    "title": "Blue Devils - Samp Army Cocrico Cavaliers",
     "bets": [
       {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 01:15 PM",
-    "title": "Pruthvi Panthers - Alembic Warriors",
-    "bets": [
-      {
-        "team": "Pruthvi Panthers",
-        "odds": "1.77"
-      },
-      {
-        "team": "Alembic Warriors",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 01:30 PM",
-    "title": "Middlesex - Gloucestershire",
-    "bets": [
-      {
-        "team": "Middlesex",
-        "odds": "1.31"
-      },
-      {
-        "team": "Gloucestershire",
-        "odds": "3.05"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 01:30 PM",
-    "title": "Adamas Howrah Warriors - Shrachi Rarh Tigers",
-    "bets": [
-      {
-        "team": "Adamas Howrah Warriors",
+        "team": "Blue Devils",
         "odds": "1.58"
       },
-      {
-        "team": "Shrachi Rarh Tigers",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 01:30 PM",
-    "title": "Eagle Nashik Titans - Raigad Royals",
-    "bets": [
-      {
-        "team": "Eagle Nashik Titans",
-        "odds": "1.58"
-      },
-      {
-        "team": "Raigad Royals",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 01:45 PM",
-    "title": "Madurai Panthers - Tiruppur Tamizhans",
-    "bets": [
-      {
-        "team": "Madurai Panthers",
-        "odds": "2.1"
-      },
-      {
-        "team": "Tiruppur Tamizhans",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 02:00 PM",
-    "title": "West Indies - South Africa",
-    "bets": [
-      {
-        "team": "West Indies",
-        "odds": "2.84"
-      },
-      {
-        "team": "South Africa",
-        "odds": "1.43"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 02:00 PM",
-    "title": "Lucknow Super Giants Srl - Chennai Super Kings SRL",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 02:00 PM",
-    "title": "Sussex Sharks - Kent",
-    "bets": [
-      {
-        "team": "Sussex Sharks",
-        "odds": "1.73"
-      },
-      {
-        "team": "Kent",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 02:00 PM",
-    "title": "Chambal Gadhiyals - Bundelkhand Bulls",
-    "bets": [
-      {
-        "team": "Chambal Gadhiyals",
-        "odds": "1.78"
-      },
-      {
-        "team": "Bundelkhand Bulls",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 02:30 PM",
-    "title": "Bahamas - Cayman",
-    "bets": [
-      {
-        "team": "Bahamas",
-        "odds": "5.3"
-      },
-      {
-        "team": "Cayman",
-        "odds": "1.11"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 03:30 PM",
-    "title": "Samp Army Cocrico Cavaliers - Soca Kings",
-    "bets": [
       {
         "team": "Samp Army Cocrico Cavaliers",
-        "odds": "1.88"
-      },
-      {
-        "team": "Soca Kings",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 04:00 PM",
-    "title": "Quetta Gladiators Srl - Multan Sultans Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.58"
-      },
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "Jun 22, 06:00 PM",
-    "title": "West Indies Srl - South Africa SRL",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "2.16"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.65"
+        "odds": "2.18"
       }
     ]
   },
@@ -294,6 +112,20 @@
     ]
   },
   {
+    "date": "Jun 23, 03:30 AM",
+    "title": "Rashmi Medinipur Wizards (Women) - Murshidabad Kueens (Women)",
+    "bets": [
+      {
+        "team": "Rashmi Medinipur Wizards (w)",
+        "odds": "1.83"
+      },
+      {
+        "team": "Murshidabad Kueens (w)",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
     "date": "Jun 23, 04:00 AM",
     "title": "Islamabad United Srl - Karachi Kings Srl",
     "bets": [
@@ -322,6 +154,34 @@
     ]
   },
   {
+    "date": "Jun 23, 07:30 AM",
+    "title": "Murshidabad Kings - Lux Shyam Kolkata Tigers",
+    "bets": [
+      {
+        "team": "Murshidabad Kings",
+        "odds": "2.12"
+      },
+      {
+        "team": "Lux Shyam Kolkata Tigers",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Jun 23, 08:00 AM",
+    "title": "Sobisco Smashers Malda (Women) - Harbour Diamonds (Women)",
+    "bets": [
+      {
+        "team": "Sobisco Smashers Malda (w)",
+        "odds": "1.95"
+      },
+      {
+        "team": "Harbour Diamonds (w)",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
     "date": "Jun 23, 08:00 AM",
     "title": "Sunrisers Hyderabad SRL - Mumbai Indians SRL",
     "bets": [
@@ -332,6 +192,34 @@
       {
         "team": "Mumbai Indians SRL",
         "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Jun 23, 09:15 AM",
+    "title": "Diamond Dazzlers - A4 Power Strikers",
+    "bets": [
+      {
+        "team": "Diamond Dazzlers",
+        "odds": "2.1"
+      },
+      {
+        "team": "A4 Power Strikers",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Jun 23, 09:45 AM",
+    "title": "Dragons - Scorchers",
+    "bets": [
+      {
+        "team": "Dragons",
+        "odds": "1.76"
+      },
+      {
+        "team": "Scorchers",
+        "odds": "1.92"
       }
     ]
   },
@@ -360,6 +248,48 @@
       {
         "team": "Melbourne Renegades Srl",
         "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Jun 23, 01:15 PM",
+    "title": "Alembic Warriors - Ami Super Avengers",
+    "bets": [
+      {
+        "team": "Alembic Warriors",
+        "odds": "1.7"
+      },
+      {
+        "team": "Ami Super Avengers",
+        "odds": "1.99"
+      }
+    ]
+  },
+  {
+    "date": "Jun 23, 01:30 PM",
+    "title": "Shrachi Rarh Tigers - Servotech Siliguri Strikers",
+    "bets": [
+      {
+        "team": "Shrachi Rarh Tigers",
+        "odds": "2.38"
+      },
+      {
+        "team": "Servotech Siliguri Strikers",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Jun 23, 01:45 PM",
+    "title": "Chepauk Super Gillies - Ruby Trichy Warriors",
+    "bets": [
+      {
+        "team": "Chepauk Super Gillies",
+        "odds": "1.42"
+      },
+      {
+        "team": "Ruby Trichy Warriors",
+        "odds": "2.58"
       }
     ]
   },
@@ -406,6 +336,20 @@
     ]
   },
   {
+    "date": "Jun 23, 06:00 PM",
+    "title": "West Indies - South Africa",
+    "bets": [
+      {
+        "team": "West Indies",
+        "odds": "2.62"
+      },
+      {
+        "team": "South Africa",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
     "date": "Jun 23, 08:00 PM",
     "title": "Mi Cape Town Srl - Paarl Royals Srl",
     "bets": [
@@ -444,6 +388,20 @@
       {
         "team": "San Francisco Unicorns",
         "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Jun 24, 02:00 PM",
+    "title": "West Indies Academy - Sri Lanka Academy",
+    "bets": [
+      {
+        "team": "West Indies Academy",
+        "odds": "2.72"
+      },
+      {
+        "team": "Sri Lanka Academy",
+        "odds": "1.43"
       }
     ]
   }
