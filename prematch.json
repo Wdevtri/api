@@ -1,103 +1,5 @@
 [
   {
-    "date": "Jun 25, 07:30 AM",
-    "title": "Namibia - Assam",
-    "bets": [
-      {
-        "team": "Namibia",
-        "odds": "1.43"
-      },
-      {
-        "team": "Assam",
-        "odds": "2.66"
-      }
-    ]
-  },
-  {
-    "date": "Jun 25, 07:30 AM",
-    "title": "Denpasar CC - Buleleng",
-    "bets": [
-      {
-        "team": "Denpasar CC",
-        "odds": "1.39"
-      },
-      {
-        "team": "Buleleng",
-        "odds": "2.68"
-      }
-    ]
-  },
-  {
-    "date": "Jun 25, 07:30 AM",
-    "title": "Harbour Diamonds - Shrachi Rarh Tigers",
-    "bets": [
-      {
-        "team": "Harbour Diamonds",
-        "odds": "1.65"
-      },
-      {
-        "team": "Shrachi Rarh Tigers",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Jun 25, 08:00 AM",
-    "title": "Rajasthan Royals SRL - Sunrisers Hyderabad SRL",
-    "bets": [
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "2.02"
-      },
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Jun 25, 09:45 AM",
-    "title": "Scorchers - Typhoons",
-    "bets": [
-      {
-        "team": "Scorchers",
-        "odds": "1.51"
-      },
-      {
-        "team": "Typhoons",
-        "odds": "2.34"
-      }
-    ]
-  },
-  {
-    "date": "Jun 25, 09:45 AM",
-    "title": "North-West Warriors - Leinster Lightning",
-    "bets": [
-      {
-        "team": "North-West Warriors",
-        "odds": "2.44"
-      },
-      {
-        "team": "Leinster Lightning",
-        "odds": "1.47"
-      }
-    ]
-  },
-  {
-    "date": "Jun 25, 10:00 AM",
-    "title": "Sunrisers Eastern Cape Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
     "date": "Jun 25, 12:00 PM",
     "title": "Melbourne Renegades Srl - Melbourne Stars SRL",
     "bets": [
@@ -145,11 +47,11 @@
     "bets": [
       {
         "team": "Ruby Trichy Warriors",
-        "odds": "1.9"
+        "odds": "1.98"
       },
       {
         "team": "Madurai Panthers",
-        "odds": "1.77"
+        "odds": "1.71"
       }
     ]
   },
@@ -210,6 +112,20 @@
     ]
   },
   {
+    "date": "Jun 25, 04:00 PM",
+    "title": "Calabash Giants - Bamboo Blasters",
+    "bets": [
+      {
+        "team": "Calabash Giants",
+        "odds": "1.96"
+      },
+      {
+        "team": "Bamboo Blasters",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
     "date": "Jun 25, 06:00 PM",
     "title": "Sri Lanka Srl - Pakistan SRL",
     "bets": [
@@ -220,6 +136,20 @@
       {
         "team": "Pakistan Srl",
         "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Jun 25, 06:30 PM",
+    "title": "Iyanola Heritage - Whiptail Smashers",
+    "bets": [
+      {
+        "team": "Iyanola Heritage",
+        "odds": "1.47"
+      },
+      {
+        "team": "Whiptail Smashers",
+        "odds": "2.42"
       }
     ]
   },
@@ -257,11 +187,11 @@
     "bets": [
       {
         "team": "Seattle Orcas",
-        "odds": "2.4"
+        "odds": "2.38"
       },
       {
         "team": "San Francisco Unicorns",
-        "odds": "1.53"
+        "odds": "1.54"
       }
     ]
   },
@@ -294,6 +224,20 @@
     ]
   },
   {
+    "date": "Jun 26, 03:00 AM",
+    "title": "Irises - Tathangchen CA",
+    "bets": [
+      {
+        "team": "Irises",
+        "odds": "3.19"
+      },
+      {
+        "team": "Tathangchen CA",
+        "odds": "1.29"
+      }
+    ]
+  },
+  {
     "date": "Jun 26, 04:00 AM",
     "title": "Islamabad United Srl - Quetta Gladiators Srl",
     "bets": [
@@ -309,6 +253,20 @@
   },
   {
     "date": "Jun 26, 06:00 AM",
+    "title": "France - Malta",
+    "bets": [
+      {
+        "team": "France",
+        "odds": "1.22"
+      },
+      {
+        "team": "Malta",
+        "odds": "4.21"
+      }
+    ]
+  },
+  {
+    "date": "Jun 26, 06:00 AM",
     "title": "Australia SRL - South Africa SRL",
     "bets": [
       {
@@ -318,6 +276,20 @@
       {
         "team": "South Africa Srl",
         "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Jun 26, 07:00 AM",
+    "title": "Black Eagle SAP - Alpine Sporting Club",
+    "bets": [
+      {
+        "team": "Black Eagle SAP",
+        "odds": "1.89"
+      },
+      {
+        "team": "Alpine Sporting Club",
+        "odds": "1.79"
       }
     ]
   },
@@ -364,6 +336,20 @@
     ]
   },
   {
+    "date": "Jun 26, 10:15 AM",
+    "title": "Romania - Austria",
+    "bets": [
+      {
+        "team": "Romania",
+        "odds": "1.89"
+      },
+      {
+        "team": "Austria",
+        "odds": "1.89"
+      }
+    ]
+  },
+  {
     "date": "Jun 26, 12:00 PM",
     "title": "Sydney Thunder Srl - Brisbane Heat Srl",
     "bets": [
@@ -383,11 +369,11 @@
     "bets": [
       {
         "team": "West Indies Academy",
-        "odds": "2.42"
+        "odds": "2.3"
       },
       {
         "team": "Sri Lanka Academy",
-        "odds": "1.52"
+        "odds": "1.57"
       }
     ]
   },
