@@ -117,11 +117,11 @@
     "bets": [
       {
         "team": "Austria",
-        "odds": "1.76"
+        "odds": "1.72"
       },
       {
         "team": "Hungary",
-        "odds": "2.04"
+        "odds": "2.02"
       }
     ]
   },
@@ -159,11 +159,11 @@
     "bets": [
       {
         "team": "Hadleys Empire Xi",
-        "odds": "1.52"
+        "odds": "1.68"
       },
       {
         "team": "Vantaa Vipers",
-        "odds": "2.3"
+        "odds": "2.02"
       }
     ]
   },
@@ -229,11 +229,11 @@
     "bets": [
       {
         "team": "Btcc Knights",
-        "odds": "1.66"
+        "odds": "1.79"
       },
       {
         "team": "Greater Helsinki Cc",
-        "odds": "2.06"
+        "odds": "1.88"
       }
     ]
   },
@@ -285,11 +285,11 @@
     "bets": [
       {
         "team": "France",
-        "odds": "4.29"
+        "odds": "3.35"
       },
       {
         "team": "Belgium",
-        "odds": "1.21"
+        "odds": "1.29"
       }
     ]
   },
@@ -369,11 +369,11 @@
     "bets": [
       {
         "team": "Yorkshire",
-        "odds": "1.37"
+        "odds": "1.32"
       },
       {
         "team": "Worcestershire Rapids",
-        "odds": "2.76"
+        "odds": "3"
       }
     ]
   },
@@ -420,6 +420,20 @@
     ]
   },
   {
+    "date": "Jun 27, 04:00 PM",
+    "title": "Iyanola Heritage - Bamboo Blasters",
+    "bets": [
+      {
+        "team": "Iyanola Heritage",
+        "odds": "1.66"
+      },
+      {
+        "team": "Bamboo Blasters",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
     "date": "Jun 27, 04:30 PM",
     "title": "Leicestershire Foxes - Northamptonshire Steelbacks",
     "bets": [
@@ -444,6 +458,20 @@
       {
         "team": "Australia Srl",
         "odds": "1.59"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 06:30 PM",
+    "title": "Calabash Giants - Whiptail Smashers",
+    "bets": [
+      {
+        "team": "Calabash Giants",
+        "odds": "1.78"
+      },
+      {
+        "team": "Whiptail Smashers",
+        "odds": "1.9"
       }
     ]
   },
