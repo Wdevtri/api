@@ -1,33 +1,5 @@
 [
   {
-    "date": "Jun 27, 10:15 AM",
-    "title": "France - Belgium",
-    "bets": [
-      {
-        "team": "France",
-        "odds": "4.3"
-      },
-      {
-        "team": "Belgium",
-        "odds": "1.19"
-      }
-    ]
-  },
-  {
-    "date": "Jun 27, 10:15 AM",
-    "title": "France - Belgium",
-    "bets": [
-      {
-        "team": "France",
-        "odds": "3.7"
-      },
-      {
-        "team": "Belgium",
-        "odds": "1.22"
-      }
-    ]
-  },
-  {
     "date": "Jun 27, 12:00 PM",
     "title": "Perth Scorchers Srl - Melbourne Renegades Srl",
     "bets": [
@@ -500,6 +472,20 @@
       {
         "team": "Nellai Royal Kings",
         "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Jun 29, 10:00 AM",
+    "title": "England A - New Zealand A",
+    "bets": [
+      {
+        "team": "England A",
+        "odds": "1.48"
+      },
+      {
+        "team": "New Zealand A",
+        "odds": "2.42"
       }
     ]
   }
