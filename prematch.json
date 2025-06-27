@@ -448,6 +448,20 @@
     ]
   },
   {
+    "date": "Jun 28, 08:00 PM",
+    "title": "Washington Freedom - San Francisco Unicorns",
+    "bets": [
+      {
+        "team": "Washington Freedom",
+        "odds": "1.96"
+      },
+      {
+        "team": "San Francisco Unicorns",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
     "date": "Jun 28, 10:00 PM",
     "title": "Otago Srl - Canterbury Srl",
     "bets": [
