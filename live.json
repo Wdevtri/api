@@ -1,1 +1,298 @@
-[]
+[
+  {
+    "date": "Jun 25, 02:00 PM",
+    "title": "West Indies - Australia",
+    "bets": [
+      {
+        "team": "West Indies",
+        "odds": "2.82"
+      },
+      {
+        "team": "Draw",
+        "odds": "50"
+      }
+    ]
+  },
+  {
+    "date": "Jun 25, 04:30 AM",
+    "title": "Sri Lanka - Bangladesh",
+    "bets": [
+      {
+        "team": "Sri Lanka",
+        "odds": "1.04"
+      },
+      {
+        "team": "Draw",
+        "odds": "11"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 07:30 AM",
+    "title": "Namibia - Assam",
+    "bets": [
+      {
+        "team": "Namibia",
+        "odds": "1.64"
+      },
+      {
+        "team": "Assam",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 04:15 AM",
+    "title": "Ace Capital - Tamil Union C&AC",
+    "bets": [
+      {
+        "team": "Ace Capital",
+        "odds": "8.25"
+      },
+      {
+        "team": "Tamil Union C&AC",
+        "odds": "1.03"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 08:45 AM",
+    "title": "A4 Power Strikers - Pruthvi Panthers",
+    "bets": [
+      {
+        "team": "A4 Power Strikers",
+        "odds": "1.75"
+      },
+      {
+        "team": "Pruthvi Panthers",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 08:30 AM",
+    "title": "Lux Shyam Kolkata Tigers - Adamas Howrah Warriors",
+    "bets": [
+      {
+        "team": "Lux Shyam Kolkata Tigers",
+        "odds": "1.8"
+      },
+      {
+        "team": "Adamas Howrah Warriors",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 08:00 AM",
+    "title": "Punjab Kings SRL - Rajasthan Royals SRL",
+    "bets": [
+      {
+        "team": "Punjab Kings SRL",
+        "odds": "1.08"
+      },
+      {
+        "team": "Rajasthan Royals SRL",
+        "odds": "7"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 08:15 AM",
+    "title": "Btcc Knights - Greater Helsinki Cc",
+    "bets": [
+      {
+        "team": "Btcc Knights",
+        "odds": "11"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 07:10 AM",
+    "title": "Pir Mahal Strikers - Sarghoda CC",
+    "bets": [
+      {
+        "team": "Pir Mahal Strikers",
+        "odds": "1.99"
+      },
+      {
+        "team": "Sarghoda CC",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 08:05 AM",
+    "title": "Thailand (cyber) - Ireland (cyber)",
+    "bets": [
+      {
+        "team": "Thailand (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 08:20 AM",
+    "title": "Hyderabad Dragons - Gujjrat Grace",
+    "bets": [
+      {
+        "team": "Hyderabad Dragons",
+        "odds": "1.48"
+      },
+      {
+        "team": "Gujjrat Grace",
+        "odds": "2.4"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 08:30 AM",
+    "title": "Shani Shignapur Sports - Almora Cricket",
+    "bets": [
+      {
+        "team": "Shani Shignapur Sports",
+        "odds": "1.83"
+      },
+      {
+        "team": "Almora Cricket",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 08:35 AM",
+    "title": "Kolkata Knight Riders (cyber) - Delhi Capitals (cyber)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "2.47"
+      },
+      {
+        "team": "Delhi Capitals (cyber)",
+        "odds": "1.42"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 08:35 AM",
+    "title": "Agra Royals (Women) - AG Sports (Women)",
+    "bets": [
+      {
+        "team": "Agra Royals (w)",
+        "odds": "1.7"
+      },
+      {
+        "team": "AG Sports (w)",
+        "odds": "1.99"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 09:00 AM",
+    "title": "Tamil Nadu (CS) - Bengal (CS)",
+    "bets": [
+      {
+        "team": "Tamil Nadu (CS)",
+        "odds": "2.15"
+      },
+      {
+        "team": "Draw",
+        "odds": "25"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 09:00 AM",
+    "title": "Australia (VR) - India (VR)",
+    "bets": [
+      {
+        "team": "Australia (VR)",
+        "odds": "1.7"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.88"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 09:00 AM",
+    "title": "Sialkot Warriors - Lahore Lions",
+    "bets": [
+      {
+        "team": "Sialkot Warriors",
+        "odds": "1.74"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.55"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 09:00 AM",
+    "title": "Rampage Indoor - Stunners Indoor",
+    "bets": [
+      {
+        "team": "Rampage Indoor",
+        "odds": "1.63"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.51"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 09:05 AM",
+    "title": "Germany (cyber) - Zimbabwe (cyber)",
+    "bets": [
+      {
+        "team": "Zimbabwe (cyber)",
+        "odds": "7.61"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 09:10 AM",
+    "title": "Royal Challengers Bangalore (VR) - Rajasthan Royals (VR)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bangalore (VR)",
+        "odds": "1.74"
+      },
+      {
+        "team": "Draw",
+        "odds": "23.95"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 09:35 AM",
+    "title": "Chennai Carvers (cyber) - Lucknow Super Giants (cyber)",
+    "bets": [
+      {
+        "team": "Chennai Carvers (cyber)",
+        "odds": "3.67"
+      },
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
+    "date": "Jun 27, 09:30 AM",
+    "title": "Winning Star XI - Crazy Cricketers",
+    "bets": [
+      {
+        "team": "Winning Star XI",
+        "odds": "1.91"
+      },
+      {
+        "team": "Crazy Cricketers",
+        "odds": "1.76"
+      }
+    ]
+  }
+]
