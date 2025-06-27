@@ -1,75 +1,5 @@
 [
   {
-    "date": "Jun 27, 12:00 PM",
-    "title": "Perth Scorchers Srl - Melbourne Renegades Srl",
-    "bets": [
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.64"
-      },
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Jun 27, 12:45 PM",
-    "title": "Alembic Warriors - Ami Super Avengers",
-    "bets": [
-      {
-        "team": "Alembic Warriors",
-        "odds": "1.8"
-      },
-      {
-        "team": "Ami Super Avengers",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Jun 27, 01:30 PM",
-    "title": "Glamorgan - Sussex Sharks",
-    "bets": [
-      {
-        "team": "Glamorgan",
-        "odds": "1.64"
-      },
-      {
-        "team": "Sussex Sharks",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Jun 27, 01:30 PM",
-    "title": "Kent - Gloucestershire",
-    "bets": [
-      {
-        "team": "Kent",
-        "odds": "1.52"
-      },
-      {
-        "team": "Gloucestershire",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "Jun 27, 01:30 PM",
-    "title": "Yorkshire - Worcestershire Rapids",
-    "bets": [
-      {
-        "team": "Yorkshire",
-        "odds": "1.25"
-      },
-      {
-        "team": "Worcestershire Rapids",
-        "odds": "3.4"
-      }
-    ]
-  },
-  {
     "date": "Jun 27, 02:00 PM",
     "title": "Lucknow Super Giants Srl - Kolkata Knight Riders SRL",
     "bets": [
@@ -84,16 +14,16 @@
     ]
   },
   {
-    "date": "Jun 27, 02:30 PM",
-    "title": "Harbour Diamonds - Murshidabad Kings",
+    "date": "Jun 27, 02:00 PM",
+    "title": "Romania - Hungary",
     "bets": [
       {
-        "team": "Harbour Diamonds",
-        "odds": "1.64"
+        "team": "Romania",
+        "odds": "1.38"
       },
       {
-        "team": "Murshidabad Kings",
-        "odds": "2.08"
+        "team": "Hungary",
+        "odds": "2.72"
       }
     ]
   },
@@ -117,11 +47,11 @@
     "bets": [
       {
         "team": "Iyanola Heritage",
-        "odds": "1.63"
+        "odds": "1.62"
       },
       {
         "team": "Bamboo Blasters",
-        "odds": "2.1"
+        "odds": "2.12"
       }
     ]
   },
@@ -369,11 +299,11 @@
     "bets": [
       {
         "team": "England",
-        "odds": "1.39"
+        "odds": "1.41"
       },
       {
         "team": "India",
-        "odds": "3.05"
+        "odds": "2.96"
       }
     ]
   },
