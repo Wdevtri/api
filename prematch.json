@@ -1,33 +1,5 @@
 [
   {
-    "date": "Jun 27, 10:00 AM",
-    "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.96"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Jun 27, 10:00 AM",
-    "title": "England - India",
-    "bets": [
-      {
-        "team": "England",
-        "odds": "3.2"
-      },
-      {
-        "team": "India",
-        "odds": "1.29"
-      }
-    ]
-  },
-  {
     "date": "Jun 27, 10:15 AM",
     "title": "France - Belgium",
     "bets": [
@@ -355,11 +327,11 @@
     "bets": [
       {
         "team": "Zimbabwe",
-        "odds": "7.6"
+        "odds": "7"
       },
       {
         "team": "Draw",
-        "odds": "7.2"
+        "odds": "7"
       }
     ]
   },
@@ -514,6 +486,20 @@
       {
         "team": "Canterbury Srl",
         "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Jun 29, 09:45 AM",
+    "title": "Tiruppur Tamizhans - Nellai Royal Kings",
+    "bets": [
+      {
+        "team": "Tiruppur Tamizhans",
+        "odds": "1.59"
+      },
+      {
+        "team": "Nellai Royal Kings",
+        "odds": "2.16"
       }
     ]
   }
