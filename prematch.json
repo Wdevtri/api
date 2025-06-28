@@ -1,33 +1,5 @@
 [
   {
-    "date": "Jun 28, 06:00 PM",
-    "title": "New Zealand SRL - England SRL",
-    "bets": [
-      {
-        "team": "New Zealand Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "England Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Jun 28, 06:30 PM",
-    "title": "Iyanola Heritage - Calabash Giants",
-    "bets": [
-      {
-        "team": "Iyanola Heritage",
-        "odds": "1.48"
-      },
-      {
-        "team": "Calabash Giants",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
     "date": "Jun 28, 08:00 PM",
     "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
     "bets": [
@@ -47,11 +19,11 @@
     "bets": [
       {
         "team": "Washington Freedom",
-        "odds": "2"
+        "odds": "1.97"
       },
       {
         "team": "San Francisco Unicorns",
-        "odds": "1.75"
+        "odds": "1.78"
       }
     ]
   },
