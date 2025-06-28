@@ -1,61 +1,5 @@
 [
   {
-    "date": "Jun 28, 01:45 PM",
-    "title": "Lyca Kovai Kings - Salem Spartans",
-    "bets": [
-      {
-        "team": "Lyca Kovai Kings",
-        "odds": "2.34"
-      },
-      {
-        "team": "Salem Spartans",
-        "odds": "1.51"
-      }
-    ]
-  },
-  {
-    "date": "Jun 28, 02:00 PM",
-    "title": "France - Hungary",
-    "bets": [
-      {
-        "team": "France",
-        "odds": "1.38"
-      },
-      {
-        "team": "Hungary",
-        "odds": "2.72"
-      }
-    ]
-  },
-  {
-    "date": "Jun 28, 04:00 PM",
-    "title": "Quetta Gladiators Srl - Karachi Kings Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.7"
-      },
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Jun 28, 04:00 PM",
-    "title": "Piton Strikers - Amazonian Warriors",
-    "bets": [
-      {
-        "team": "Piton Strikers",
-        "odds": "1.51"
-      },
-      {
-        "team": "Amazonian Warriors",
-        "odds": "2.34"
-      }
-    ]
-  },
-  {
     "date": "Jun 28, 06:00 PM",
     "title": "New Zealand SRL - England SRL",
     "bets": [
@@ -224,6 +168,20 @@
     ]
   },
   {
+    "date": "Jun 29, 06:15 AM",
+    "title": "Oulu (Women) - SKK (Women)",
+    "bets": [
+      {
+        "team": "Oulu (Women)",
+        "odds": "2.97"
+      },
+      {
+        "team": "SKK (Women)",
+        "odds": "1.32"
+      }
+    ]
+  },
+  {
     "date": "Jun 29, 07:00 AM",
     "title": "Pakyong XI - Black Eagle SAP",
     "bets": [
@@ -294,6 +252,20 @@
     ]
   },
   {
+    "date": "Jun 29, 09:45 AM",
+    "title": "Typhoons - Scorchers",
+    "bets": [
+      {
+        "team": "Typhoons",
+        "odds": "2.18"
+      },
+      {
+        "team": "Scorchers",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
     "date": "Jun 29, 10:00 AM",
     "title": "England A - New Zealand A",
     "bets": [
@@ -346,6 +318,20 @@
       {
         "team": "Glamorgan",
         "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Jun 29, 01:30 PM",
+    "title": "Northamptonshire Steelbacks - Yorkshire",
+    "bets": [
+      {
+        "team": "Northamptonshire Steelbacks",
+        "odds": "2.5"
+      },
+      {
+        "team": "Yorkshire",
+        "odds": "1.45"
       }
     ]
   },
