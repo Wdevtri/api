@@ -43,6 +43,20 @@
   },
   {
     "date": "Jun 29, 01:30 PM",
+    "title": "France - Hungary",
+    "bets": [
+      {
+        "team": "France",
+        "odds": "1.35"
+      },
+      {
+        "team": "Hungary",
+        "odds": "2.88"
+      }
+    ]
+  },
+  {
+    "date": "Jun 29, 01:30 PM",
     "title": "Northamptonshire Steelbacks - Yorkshire",
     "bets": [
       {
@@ -80,20 +94,6 @@
       {
         "team": "Lucknow Super Giants Srl",
         "odds": "1.93"
-      }
-    ]
-  },
-  {
-    "date": "Jun 29, 02:30 PM",
-    "title": "CDB A - Hayleys Group A",
-    "bets": [
-      {
-        "team": "CDB A",
-        "odds": "1.74"
-      },
-      {
-        "team": "Hayleys Group A",
-        "odds": "1.94"
       }
     ]
   },
