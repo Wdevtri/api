@@ -1,47 +1,5 @@
 [
   {
-    "date": "Jun 29, 10:00 AM",
-    "title": "England A - New Zealand A",
-    "bets": [
-      {
-        "team": "England A",
-        "odds": "1.48"
-      },
-      {
-        "team": "New Zealand A",
-        "odds": "2.42"
-      }
-    ]
-  },
-  {
-    "date": "Jun 29, 10:00 AM",
-    "title": "Durban Super Giants Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.91"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Jun 29, 11:15 AM",
-    "title": "Empire Lionesses (Women) - Oulu (Women)",
-    "bets": [
-      {
-        "team": "Empire Lionesses (Women)",
-        "odds": "1.03"
-      },
-      {
-        "team": "Oulu (Women)",
-        "odds": "7.9"
-      }
-    ]
-  },
-  {
     "date": "Jun 29, 12:00 PM",
     "title": "Melbourne Renegades Srl - Sydney Sixers SRL",
     "bets": [
@@ -122,6 +80,20 @@
       {
         "team": "Lucknow Super Giants Srl",
         "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Jun 29, 02:30 PM",
+    "title": "CDB A - Hayleys Group A",
+    "bets": [
+      {
+        "team": "CDB A",
+        "odds": "1.74"
+      },
+      {
+        "team": "Hayleys Group A",
+        "odds": "1.94"
       }
     ]
   },
