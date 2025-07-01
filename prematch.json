@@ -1,230 +1,6 @@
 [
   {
-    "date": "Jul 1, 07:30 AM",
-    "title": "Northerns Zimbabwe (Women) - Southerns Zimbabwe (Women)",
-    "bets": [
-      {
-        "team": "Northerns Zimbabwe (Women)",
-        "odds": "1.55"
-      },
-      {
-        "team": "Southerns Zimbabwe (Women)",
-        "odds": "2.25"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 07:30 AM",
-    "title": "Ingabo Titans - Imanzi Guardians",
-    "bets": [
-      {
-        "team": "Ingabo Titans",
-        "odds": "1.9"
-      },
-      {
-        "team": "Imanzi Guardians",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 08:00 AM",
-    "title": "Chennai Super Kings SRL - Sunrisers Hyderabad SRL",
-    "bets": [
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.02"
-      },
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 09:30 AM",
-    "title": "Hindukush Strikers - Pamir Legends",
-    "bets": [
-      {
-        "team": "Hindukush Strikers",
-        "odds": "1.64"
-      },
-      {
-        "team": "Pamir Legends",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 09:45 AM",
-    "title": "North-West Warriors - Munster Reds",
-    "bets": [
-      {
-        "team": "North-West Warriors",
-        "odds": "1.53"
-      },
-      {
-        "team": "Munster Reds",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 10:00 AM",
-    "title": "Durban Super Giants Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.86"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 11:30 AM",
-    "title": "Ingenzi Defenders - Imena Centurions",
-    "bets": [
-      {
-        "team": "Ingenzi Defenders",
-        "odds": "1.73"
-      },
-      {
-        "team": "Imena Centurions",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 12:00 PM",
-    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 01:45 PM",
-    "title": "Chepauk Super Gillies - Tiruppur Tamizhans",
-    "bets": [
-      {
-        "team": "Chepauk Super Gillies",
-        "odds": "1.51"
-      },
-      {
-        "team": "Tiruppur Tamizhans",
-        "odds": "2.34"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 02:00 PM",
-    "title": "BTCC Thundercats - Helsinki Titans",
-    "bets": [
-      {
-        "team": "BTCC Thundercats",
-        "odds": "1.39"
-      },
-      {
-        "team": "Helsinki Titans",
-        "odds": "2.68"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 02:00 PM",
-    "title": "Delhi Capitals SRL - Royal Challengers Bangalore SRL",
-    "bets": [
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "2.04"
-      },
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 02:45 PM",
-    "title": "Northern Knights - Leinster Lightning",
-    "bets": [
-      {
-        "team": "Northern Knights",
-        "odds": "2.22"
-      },
-      {
-        "team": "Leinster Lightning",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 04:00 PM",
-    "title": "Lahore Qalanders Srl - Multan Sultans Srl",
-    "bets": [
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.6"
-      },
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 04:00 PM",
-    "title": "Calabash Giants - Amazonian Warriors",
-    "bets": [
-      {
-        "team": "Calabash Giants",
-        "odds": "2.16"
-      },
-      {
-        "team": "Amazonian Warriors",
-        "odds": "1.6"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 05:30 PM",
-    "title": "England - India",
-    "bets": [
-      {
-        "team": "England",
-        "odds": "1.53"
-      },
-      {
-        "team": "India",
-        "odds": "2.52"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 06:00 PM",
-    "title": "Afghanistan Srl - New Zealand SRL",
-    "bets": [
-      {
-        "team": "Afghanistan Srl",
-        "odds": "2.18"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Jul 1, 06:30 PM",
+    "date": "Jul 1, 07:30 PM",
     "title": "Iyanola Heritage - Bamboo Blasters",
     "bets": [
       {
@@ -271,11 +47,123 @@
     "bets": [
       {
         "team": "San Francisco Unicorns",
-        "odds": "1.62"
+        "odds": "1.65"
       },
       {
         "team": "Seattle Orcas",
-        "odds": "2.22"
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 12:00 AM",
+    "title": "Antigua And Barbuda Falcons Srl - St Kitts And Nevis Patriots Srl",
+    "bets": [
+      {
+        "team": "Antigua And Barbuda Falcons Srl",
+        "odds": "1.89"
+      },
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "1.84"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 02:00 AM",
+    "title": "Hobart Hurricanes Srl - Sydney Thunder Srl",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.99"
+      },
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 04:00 AM",
+    "title": "Peshawar Zalmi SRL - Quetta Gladiators Srl",
+    "bets": [
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "2.18"
+      },
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 04:30 AM",
+    "title": "Maiwand Champions - Pamir Legends",
+    "bets": [
+      {
+        "team": "Maiwand Champions",
+        "odds": "2.08"
+      },
+      {
+        "team": "Pamir Legends",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 05:45 AM",
+    "title": "Bcc Spartan - Cc Yullis Mu Trakia",
+    "bets": [
+      {
+        "team": "Bcc Spartan",
+        "odds": "1.5"
+      },
+      {
+        "team": "Cc Yullis Mu Trakia",
+        "odds": "2.36"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 06:00 AM",
+    "title": "Pakistan SRL - South Africa SRL",
+    "bets": [
+      {
+        "team": "Pakistan Srl",
+        "odds": "2.1"
+      },
+      {
+        "team": "South Africa Srl",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 07:45 AM",
+    "title": "Mus Akademik Ravens - Sofia Stars",
+    "bets": [
+      {
+        "team": "Mus Akademik Ravens",
+        "odds": "2.26"
+      },
+      {
+        "team": "Sofia Stars",
+        "odds": "1.55"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 08:00 AM",
+    "title": "Gujarat Titans Srl - Rajasthan Royals SRL",
+    "bets": [
+      {
+        "team": "Gujarat Titans Srl",
+        "odds": "1.69"
+      },
+      {
+        "team": "Rajasthan Royals SRL",
+        "odds": "2.1"
       }
     ]
   },
@@ -294,16 +182,16 @@
     ]
   },
   {
-    "date": "Jul 2, 10:00 AM",
-    "title": "England - India",
+    "date": "Jul 2, 09:30 AM",
+    "title": "Hindukush Strikers - Mahipar Stars",
     "bets": [
       {
-        "team": "England",
-        "odds": "1.66"
+        "team": "Hindukush Strikers",
+        "odds": "1.64"
       },
       {
-        "team": "Draw",
-        "odds": "5.9"
+        "team": "Mahipar Stars",
+        "odds": "2.08"
       }
     ]
   },
@@ -313,11 +201,165 @@
     "bets": [
       {
         "team": "England",
-        "odds": "2.78"
+        "odds": "1.7"
+      },
+      {
+        "team": "Draw",
+        "odds": "4.7"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 10:00 AM",
+    "title": "England - India",
+    "bets": [
+      {
+        "team": "England",
+        "odds": "2.74"
       },
       {
         "team": "India",
-        "odds": "1.37"
+        "odds": "1.38"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 10:00 AM",
+    "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
+    "bets": [
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "1.96"
+      },
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 12:00 PM",
+    "title": "Melbourne Renegades Srl - Sydney Thunder Srl",
+    "bets": [
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "2.14"
+      },
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 01:45 PM",
+    "title": "Dindigul Dragons - Ruby Trichy Warriors",
+    "bets": [
+      {
+        "team": "Dindigul Dragons",
+        "odds": "1.52"
+      },
+      {
+        "team": "Ruby Trichy Warriors",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 02:00 PM",
+    "title": "Vantaa CC - FinCC Gladiators",
+    "bets": [
+      {
+        "team": "Vantaa CC",
+        "odds": "1.35"
+      },
+      {
+        "team": "FinCC Gladiators",
+        "odds": "2.88"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 02:00 PM",
+    "title": "Kolkata Knight Riders SRL - Punjab Kings SRL",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders SRL",
+        "odds": "2.02"
+      },
+      {
+        "team": "Punjab Kings SRL",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 04:00 PM",
+    "title": "Southern Suns (Women) - Western Sharks (Women)",
+    "bets": [
+      {
+        "team": "Southern Suns (Women)",
+        "odds": "2.25"
+      },
+      {
+        "team": "Western Sharks (Women)",
+        "odds": "1.55"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 04:00 PM",
+    "title": "Multan Sultans Srl - Islamabad United Srl",
+    "bets": [
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "2.12"
+      },
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 06:00 PM",
+    "title": "England SRL - India SRL",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "2.16"
+      },
+      {
+        "team": "India Srl",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 08:00 PM",
+    "title": "Paarl Royals Srl - Durban Super Giants Srl",
+    "bets": [
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.76"
+      },
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "1.99"
+      }
+    ]
+  },
+  {
+    "date": "Jul 2, 10:00 PM",
+    "title": "Central Districts Srl - Northern Districts Srl",
+    "bets": [
+      {
+        "team": "Central Districts Srl",
+        "odds": "2.04"
+      },
+      {
+        "team": "Northern Districts Srl",
+        "odds": "1.73"
       }
     ]
   },
@@ -332,6 +374,48 @@
       {
         "team": "Washington Freedom",
         "odds": "1.82"
+      }
+    ]
+  },
+  {
+    "date": "Jul 3, 07:30 AM",
+    "title": "Northerns Zimbabwe (Women) - Southerns Zimbabwe (Women)",
+    "bets": [
+      {
+        "team": "Northerns Zimbabwe (w)",
+        "odds": "1.7"
+      },
+      {
+        "team": "Southerns Zimbabwe (w)",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Jul 3, 01:30 PM",
+    "title": "England A - New Zealand A",
+    "bets": [
+      {
+        "team": "England A",
+        "odds": "1.53"
+      },
+      {
+        "team": "New Zealand A",
+        "odds": "2.4"
+      }
+    ]
+  },
+  {
+    "date": "Jul 3, 02:00 PM",
+    "title": "West Indies - Australia",
+    "bets": [
+      {
+        "team": "West Indies",
+        "odds": "5.4"
+      },
+      {
+        "team": "Draw",
+        "odds": "9.6"
       }
     ]
   }
