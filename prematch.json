@@ -1,19 +1,5 @@
 [
   {
-    "date": "Jul 2, 08:00 PM",
-    "title": "Paarl Royals Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.76"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
     "date": "Jul 2, 10:00 PM",
     "title": "Central Districts Srl - Northern Districts Srl",
     "bets": [
@@ -89,11 +75,11 @@
     "bets": [
       {
         "team": "Bscu All Stars",
-        "odds": "2.52"
+        "odds": "2.84"
       },
       {
         "team": "Sofia Stars",
-        "odds": "1.44"
+        "odds": "1.35"
       }
     ]
   },
