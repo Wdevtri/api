@@ -1,131 +1,5 @@
 [
   {
-    "date": "Jul 4, 11:30 AM",
-    "title": "Ingenzi Defenders - Ingabo Titans",
-    "bets": [
-      {
-        "team": "Ingenzi Defenders",
-        "odds": "1.95"
-      },
-      {
-        "team": "Ingabo Titans",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Jul 4, 12:00 PM",
-    "title": "Melbourne Stars SRL - Melbourne Renegades Srl",
-    "bets": [
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.81"
-      },
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Jul 4, 01:30 PM",
-    "title": "Durham - Somerset",
-    "bets": [
-      {
-        "team": "Durham",
-        "odds": "1.55"
-      },
-      {
-        "team": "Somerset",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
-    "date": "Jul 4, 01:45 PM",
-    "title": "Chepauk Super Gillies - Dindigul Dragons",
-    "bets": [
-      {
-        "team": "Chepauk Super Gillies",
-        "odds": "1.81"
-      },
-      {
-        "team": "Dindigul Dragons",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Jul 4, 02:00 PM",
-    "title": "Punjab Kings SRL - Gujarat Titans Srl",
-    "bets": [
-      {
-        "team": "Punjab Kings SRL",
-        "odds": "1.86"
-      },
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Jul 4, 02:30 PM",
-    "title": "Greater Helsinki - FinCC Gladiators",
-    "bets": [
-      {
-        "team": "Greater Helsinki",
-        "odds": "1.09"
-      },
-      {
-        "team": "FinCC Gladiators",
-        "odds": "5.75"
-      }
-    ]
-  },
-  {
-    "date": "Jul 4, 02:30 PM",
-    "title": "The Blaze - Hampshire",
-    "bets": [
-      {
-        "team": "The Blaze",
-        "odds": "1.68"
-      },
-      {
-        "team": "Hampshire",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Jul 4, 04:00 PM",
-    "title": "Peshawar Zalmi SRL - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Jul 4, 04:00 PM",
-    "title": "Whiptail Smashers - Bamboo Blasters",
-    "bets": [
-      {
-        "team": "Whiptail Smashers",
-        "odds": "2.04"
-      },
-      {
-        "team": "Bamboo Blasters",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
     "date": "Jul 4, 05:30 PM",
     "title": "Durham - Nottinghamshire",
     "bets": [
@@ -159,11 +33,11 @@
     "bets": [
       {
         "team": "Leicestershire",
-        "odds": "2.18"
+        "odds": "1.98"
       },
       {
         "team": "Warwickshire",
-        "odds": "1.64"
+        "odds": "1.77"
       }
     ]
   },
@@ -215,11 +89,11 @@
     "bets": [
       {
         "team": "England",
-        "odds": "1.81"
+        "odds": "1.78"
       },
       {
         "team": "India",
-        "odds": "2.02"
+        "odds": "2.06"
       }
     ]
   },
@@ -364,6 +238,48 @@
     ]
   },
   {
+    "date": "Jul 5, 04:15 AM",
+    "title": "Colts - Kurunegala Youth",
+    "bets": [
+      {
+        "team": "Colts",
+        "odds": "1.45"
+      },
+      {
+        "team": "Kurunegala Youth",
+        "odds": "2.49"
+      }
+    ]
+  },
+  {
+    "date": "Jul 5, 04:30 AM",
+    "title": "Hindukush Strikers - Pamir Legends",
+    "bets": [
+      {
+        "team": "Hindukush Strikers",
+        "odds": "1.63"
+      },
+      {
+        "team": "Pamir Legends",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Jul 5, 05:45 AM",
+    "title": "Cc Yullis Mu Trakia - Sofia Stars",
+    "bets": [
+      {
+        "team": "Cc Yullis Mu Trakia",
+        "odds": "6.2"
+      },
+      {
+        "team": "Sofia Stars",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
     "date": "Jul 5, 06:00 AM",
     "title": "Sri Lanka Srl - New Zealand SRL",
     "bets": [
@@ -397,11 +313,11 @@
     "bets": [
       {
         "team": "Sri Lanka",
-        "odds": "1.27"
+        "odds": "1.28"
       },
       {
         "team": "Bangladesh",
-        "odds": "3.55"
+        "odds": "3.45"
       }
     ]
   },
@@ -420,16 +336,30 @@
     ]
   },
   {
+    "date": "Jul 5, 09:30 AM",
+    "title": "Maiwand Champions - Mahipar Stars",
+    "bets": [
+      {
+        "team": "Maiwand Champions",
+        "odds": "1.98"
+      },
+      {
+        "team": "Mahipar Stars",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
     "date": "Jul 5, 10:00 AM",
     "title": "England - India",
     "bets": [
       {
         "team": "England",
-        "odds": "2.74"
+        "odds": "2.78"
       },
       {
         "team": "India",
-        "odds": "1.38"
+        "odds": "1.37"
       }
     ]
   },
@@ -444,6 +374,20 @@
       {
         "team": "Paarl Royals Srl",
         "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Jul 5, 10:00 AM",
+    "title": "Lancashire Thunder - Essex",
+    "bets": [
+      {
+        "team": "Lancashire Thunder",
+        "odds": "1.67"
+      },
+      {
+        "team": "Essex",
+        "odds": "2.04"
       }
     ]
   },
@@ -500,6 +444,20 @@
       {
         "team": "Lucknow Super Giants Srl",
         "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Jul 5, 02:00 PM",
+    "title": "Sussex Sharks - Middlesex",
+    "bets": [
+      {
+        "team": "Sussex Sharks",
+        "odds": "2.12"
+      },
+      {
+        "team": "Middlesex",
+        "odds": "1.61"
       }
     ]
   },
