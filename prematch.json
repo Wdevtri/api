@@ -1,187 +1,5 @@
 [
   {
-    "date": "Jul 5, 12:00 PM",
-    "title": "Brisbane Heat Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.16"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 01:30 PM",
-    "title": "England A - New Zealand A",
-    "bets": [
-      {
-        "team": "England A",
-        "odds": "1.54"
-      },
-      {
-        "team": "New Zealand A",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 02:00 PM",
-    "title": "Italy - Guernsey",
-    "bets": [
-      {
-        "team": "Italy",
-        "odds": "1.14"
-      },
-      {
-        "team": "Guernsey",
-        "odds": "4.7"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 02:00 PM",
-    "title": "Sunrisers Hyderabad SRL - Lucknow Super Giants Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.8"
-      },
-      {
-        "team": "Lucknow Super Giants Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 02:00 PM",
-    "title": "Sussex Sharks - Middlesex",
-    "bets": [
-      {
-        "team": "Sussex Sharks",
-        "odds": "2.1"
-      },
-      {
-        "team": "Middlesex",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 02:00 PM",
-    "title": "Lancashire - Derbyshire",
-    "bets": [
-      {
-        "team": "Lancashire",
-        "odds": "1.29"
-      },
-      {
-        "team": "Derbyshire",
-        "odds": "3.35"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 03:00 PM",
-    "title": "FinCC Gladiators - BTCC Thundercats",
-    "bets": [
-      {
-        "team": "FinCC Gladiators",
-        "odds": "3.47"
-      },
-      {
-        "team": "BTCC Thundercats",
-        "odds": "1.25"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 04:00 PM",
-    "title": "Lahore Qalanders Srl - Islamabad United Srl",
-    "bets": [
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 04:00 PM",
-    "title": "Piton Strikers - Bamboo Blasters",
-    "bets": [
-      {
-        "team": "Piton Strikers",
-        "odds": "1.85"
-      },
-      {
-        "team": "Bamboo Blasters",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 06:00 PM",
-    "title": "Australia SRL - West Indies Srl",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "1.59"
-      },
-      {
-        "team": "West Indies Srl",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 06:00 PM",
-    "title": "Sussex - Hampshire",
-    "bets": [
-      {
-        "team": "Sussex",
-        "odds": "1.68"
-      },
-      {
-        "team": "Hampshire",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 06:30 PM",
-    "title": "Whiptail Smashers - Calabash Giants",
-    "bets": [
-      {
-        "team": "Whiptail Smashers",
-        "odds": "1.8"
-      },
-      {
-        "team": "Calabash Giants",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Jul 5, 07:00 PM",
-    "title": "Mi New York - Los Angeles Knight Riders",
-    "bets": [
-      {
-        "team": "Mi New York",
-        "odds": "1.63"
-      },
-      {
-        "team": "Los Angeles Knight Riders",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
     "date": "Jul 5, 08:00 PM",
     "title": "Mi Cape Town Srl - Durban Super Giants Srl",
     "bets": [
@@ -336,6 +154,20 @@
     ]
   },
   {
+    "date": "Jul 6, 09:00 AM",
+    "title": "Guernsey - Scotland",
+    "bets": [
+      {
+        "team": "Guernsey",
+        "odds": "6.2"
+      },
+      {
+        "team": "Scotland",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
     "date": "Jul 6, 10:00 AM",
     "title": "The Blaze - Durham",
     "bets": [
@@ -378,6 +210,34 @@
     ]
   },
   {
+    "date": "Jul 6, 10:00 AM",
+    "title": "Northamptonshire Steelbacks - Worcestershire Rapids",
+    "bets": [
+      {
+        "team": "Northamptonshire Steelbacks",
+        "odds": "1.6"
+      },
+      {
+        "team": "Worcestershire Rapids",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 11:00 AM",
+    "title": "Surrey - Essex",
+    "bets": [
+      {
+        "team": "Surrey",
+        "odds": "1.32"
+      },
+      {
+        "team": "Essex",
+        "odds": "3"
+      }
+    ]
+  },
+  {
     "date": "Jul 6, 12:00 PM",
     "title": "Melbourne Renegades Srl - Perth Scorchers Srl",
     "bets": [
@@ -388,6 +248,76 @@
       {
         "team": "Perth Scorchers Srl",
         "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 12:00 PM",
+    "title": "Lancashire Thunder - Warwickshire",
+    "bets": [
+      {
+        "team": "Lancashire Thunder",
+        "odds": "1.97"
+      },
+      {
+        "team": "Warwickshire",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 01:30 PM",
+    "title": "Leeward Islands U19 - USA II U19",
+    "bets": [
+      {
+        "team": "Leeward Islands U19",
+        "odds": "3.16"
+      },
+      {
+        "team": "USA II U19",
+        "odds": "1.29"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 01:30 PM",
+    "title": "Windward Islands U19 - Jamaica U19",
+    "bets": [
+      {
+        "team": "Windward Islands U19",
+        "odds": "3.47"
+      },
+      {
+        "team": "Jamaica U19",
+        "odds": "1.25"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 01:30 PM",
+    "title": "Guyana U19 - USA U19",
+    "bets": [
+      {
+        "team": "Guyana U19",
+        "odds": "2.68"
+      },
+      {
+        "team": "USA U19",
+        "odds": "1.39"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 01:30 PM",
+    "title": "Trinidad and Tobago U19 - Barbados U19",
+    "bets": [
+      {
+        "team": "Trinidad and Tobago U19",
+        "odds": "2.25"
+      },
+      {
+        "team": "Barbados U19",
+        "odds": "1.55"
       }
     ]
   },
@@ -416,6 +346,48 @@
       {
         "team": "Kent",
         "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 01:30 PM",
+    "title": "Leicestershire Foxes - Derbyshire Falcons",
+    "bets": [
+      {
+        "team": "Leicestershire Foxes",
+        "odds": "1.65"
+      },
+      {
+        "team": "Derbyshire Falcons",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 01:30 PM",
+    "title": "Derbyshire - Yorkshire",
+    "bets": [
+      {
+        "team": "Derbyshire",
+        "odds": "2.3"
+      },
+      {
+        "team": "Yorkshire",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 01:30 PM",
+    "title": "Kent - Glamorgan",
+    "bets": [
+      {
+        "team": "Kent",
+        "odds": "1.8"
+      },
+      {
+        "team": "Glamorgan",
+        "odds": "1.87"
       }
     ]
   },
@@ -453,11 +425,11 @@
     "bets": [
       {
         "team": "Nottinghamshire",
-        "odds": "1.96"
+        "odds": "1.86"
       },
       {
         "team": "Leicestershire",
-        "odds": "1.78"
+        "odds": "1.88"
       }
     ]
   },
@@ -472,6 +444,20 @@
       {
         "team": "Punjab Kings SRL",
         "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Jul 6, 02:00 PM",
+    "title": "Italy - Jersey",
+    "bets": [
+      {
+        "team": "Italy",
+        "odds": "1.21"
+      },
+      {
+        "team": "Jersey",
+        "odds": "3.8"
       }
     ]
   },
@@ -556,6 +542,48 @@
       {
         "team": "Otago Srl",
         "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Jul 7, 09:30 AM",
+    "title": "Hindukush Strikers - Pamir Legends",
+    "bets": [
+      {
+        "team": "Hindukush Strikers",
+        "odds": "1.66"
+      },
+      {
+        "team": "Pamir Legends",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Jul 7, 10:00 AM",
+    "title": "England - India",
+    "bets": [
+      {
+        "team": "England",
+        "odds": "2.92"
+      },
+      {
+        "team": "India",
+        "odds": "1.34"
+      }
+    ]
+  },
+  {
+    "date": "Jul 7, 01:30 PM",
+    "title": "England A - New Zealand A",
+    "bets": [
+      {
+        "team": "England A",
+        "odds": "1.6"
+      },
+      {
+        "team": "New Zealand A",
+        "odds": "2.24"
       }
     ]
   }
