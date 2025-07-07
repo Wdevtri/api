@@ -1,33 +1,5 @@
 [
   {
-    "date": "Jul 7, 06:00 PM",
-    "title": "Australia SRL - India SRL",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "2.1"
-      },
-      {
-        "team": "India Srl",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Jul 7, 06:30 PM",
-    "title": "Bamboo Blasters - Calabash Giants",
-    "bets": [
-      {
-        "team": "Bamboo Blasters",
-        "odds": "1.71"
-      },
-      {
-        "team": "Calabash Giants",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
     "date": "Jul 7, 08:00 PM",
     "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
     "bets": [
@@ -75,11 +47,11 @@
     "bets": [
       {
         "team": "Indonesia",
-        "odds": "1.21"
+        "odds": "1.18"
       },
       {
         "team": "South Korea",
-        "odds": "4.29"
+        "odds": "4.69"
       }
     ]
   },
@@ -528,6 +500,48 @@
       {
         "team": "India",
         "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Jul 9, 06:00 PM",
+    "title": "Warwickshire - Lancashire",
+    "bets": [
+      {
+        "team": "Warwickshire",
+        "odds": "2.26"
+      },
+      {
+        "team": "Lancashire",
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
+    "date": "Jul 9, 06:00 PM",
+    "title": "Sussex - Kent",
+    "bets": [
+      {
+        "team": "Sussex",
+        "odds": "1.61"
+      },
+      {
+        "team": "Kent",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Jul 9, 06:00 PM",
+    "title": "Gloucestershire - Surrey",
+    "bets": [
+      {
+        "team": "Gloucestershire",
+        "odds": "2.44"
+      },
+      {
+        "team": "Surrey",
+        "odds": "1.51"
       }
     ]
   }
