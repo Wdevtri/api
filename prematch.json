@@ -1,117 +1,5 @@
 [
   {
-    "date": "Jul 7, 12:00 PM",
-    "title": "Melbourne Stars SRL - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Jul 7, 12:30 PM",
-    "title": "Hampshire 2nd XI - Sussex 2nd XI",
-    "bets": [
-      {
-        "team": "Hampshire 2nd XI",
-        "odds": "1.49"
-      },
-      {
-        "team": "Sussex 2nd XI",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
-    "date": "Jul 7, 12:30 PM",
-    "title": "Yanam Royals - Villianur Mohit Kings",
-    "bets": [
-      {
-        "team": "Yanam Royals",
-        "odds": "1.74"
-      },
-      {
-        "team": "Villianur Mohit Kings",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Jul 7, 01:30 PM",
-    "title": "England A - New Zealand A",
-    "bets": [
-      {
-        "team": "England A",
-        "odds": "1.53"
-      },
-      {
-        "team": "New Zealand A",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
-    "date": "Jul 7, 02:00 PM",
-    "title": "Kolkata Knight Riders SRL - Sunrisers Hyderabad SRL",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders SRL",
-        "odds": "1.9"
-      },
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.84"
-      }
-    ]
-  },
-  {
-    "date": "Jul 7, 03:00 PM",
-    "title": "Empire CC - BTCC Thundercats",
-    "bets": [
-      {
-        "team": "Empire CC",
-        "odds": "1.35"
-      },
-      {
-        "team": "BTCC Thundercats",
-        "odds": "2.88"
-      }
-    ]
-  },
-  {
-    "date": "Jul 7, 04:00 PM",
-    "title": "Karachi Kings Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "2.04"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Jul 7, 04:00 PM",
-    "title": "Iyanola Heritage - Whiptail Smashers",
-    "bets": [
-      {
-        "team": "Iyanola Heritage",
-        "odds": "1.63"
-      },
-      {
-        "team": "Whiptail Smashers",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
     "date": "Jul 7, 06:00 PM",
     "title": "Australia SRL - India SRL",
     "bets": [
@@ -182,6 +70,20 @@
     ]
   },
   {
+    "date": "Jul 8, 01:30 AM",
+    "title": "Indonesia - South Korea",
+    "bets": [
+      {
+        "team": "Indonesia",
+        "odds": "1.22"
+      },
+      {
+        "team": "South Korea",
+        "odds": "4.18"
+      }
+    ]
+  },
+  {
     "date": "Jul 8, 02:00 AM",
     "title": "Perth Scorchers Srl - Hobart Hurricanes Srl",
     "bets": [
@@ -192,6 +94,20 @@
       {
         "team": "Hobart Hurricanes Srl",
         "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 03:30 AM",
+    "title": "Vk 18 Cricket Academy - Dev Raj Sports Club",
+    "bets": [
+      {
+        "team": "Vk 18 Cricket Academy",
+        "odds": "1.8"
+      },
+      {
+        "team": "Dev Raj Sports Club",
+        "odds": "1.88"
       }
     ]
   },
@@ -238,6 +154,34 @@
     ]
   },
   {
+    "date": "Jul 8, 06:15 AM",
+    "title": "Bulgaria (Women) - Greece (Women)",
+    "bets": [
+      {
+        "team": "Bulgaria (Women)",
+        "odds": "6.6"
+      },
+      {
+        "team": "Greece (w)",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 06:45 AM",
+    "title": "Gent Wolves - Hasselt Titans",
+    "bets": [
+      {
+        "team": "Gent Wolves",
+        "odds": "1.95"
+      },
+      {
+        "team": "Hasselt Titans",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
     "date": "Jul 8, 08:00 AM",
     "title": "Lucknow Super Giants Srl - Royal Challengers Bangalore SRL",
     "bets": [
@@ -248,6 +192,34 @@
       {
         "team": "Royal Challengers Bangalore SRL",
         "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 08:00 AM",
+    "title": "Citizen Cricket Club - SB Youth Cricket Club",
+    "bets": [
+      {
+        "team": "Citizen Cricket Club",
+        "odds": "1.85"
+      },
+      {
+        "team": "SB Youth Cricket Club",
+        "odds": "1.82"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 08:30 AM",
+    "title": "Ruby White Town Legends - Villianur Mohit Kings",
+    "bets": [
+      {
+        "team": "Ruby White Town Legends",
+        "odds": "1.96"
+      },
+      {
+        "team": "Villianur Mohit Kings",
+        "odds": "1.72"
       }
     ]
   },
@@ -322,6 +294,34 @@
     ]
   },
   {
+    "date": "Jul 8, 12:30 PM",
+    "title": "Yanam Royals - Mahe Megalo Strikers",
+    "bets": [
+      {
+        "team": "Yanam Royals",
+        "odds": "2.08"
+      },
+      {
+        "team": "Mahe Megalo Strikers",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 01:30 PM",
+    "title": "Somerset - Essex",
+    "bets": [
+      {
+        "team": "Somerset",
+        "odds": "2.14"
+      },
+      {
+        "team": "Essex",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
     "date": "Jul 8, 02:00 PM",
     "title": "Scotland - Netherlands",
     "bets": [
@@ -383,11 +383,11 @@
     "bets": [
       {
         "team": "Somerset",
-        "odds": "1.5"
+        "odds": "1.41"
       },
       {
         "team": "Essex",
-        "odds": "2.48"
+        "odds": "2.76"
       }
     ]
   },
@@ -434,6 +434,20 @@
     ]
   },
   {
+    "date": "Jul 9, 12:00 AM",
+    "title": "Washington Freedom - Texas Super Kings",
+    "bets": [
+      {
+        "team": "Washington Freedom",
+        "odds": "1.7"
+      },
+      {
+        "team": "Texas Super Kings",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
     "date": "Jul 9, 12:30 AM",
     "title": "Australia A - Sri Lanka A",
     "bets": [
@@ -458,6 +472,34 @@
       {
         "team": "Colts",
         "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Jul 9, 01:00 PM",
+    "title": "Hampshire - Lancashire Thunder",
+    "bets": [
+      {
+        "team": "Hampshire",
+        "odds": "1.62"
+      },
+      {
+        "team": "Lancashire Thunder",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Jul 9, 04:00 PM",
+    "title": "Middlesex - Hampshire",
+    "bets": [
+      {
+        "team": "Middlesex",
+        "odds": "2.2"
+      },
+      {
+        "team": "Hampshire",
+        "odds": "1.62"
       }
     ]
   }
