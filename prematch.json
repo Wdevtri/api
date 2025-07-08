@@ -1,159 +1,5 @@
 [
   {
-    "date": "Jul 7, 08:00 PM",
-    "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Jul 7, 10:00 PM",
-    "title": "Auckland Srl - Wellington Srl",
-    "bets": [
-      {
-        "team": "Auckland Srl",
-        "odds": "1.95"
-      },
-      {
-        "team": "Wellington Srl",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Jul 8, 12:00 AM",
-    "title": "St Lucia Kings Srl - Antigua And Barbuda Falcons Srl",
-    "bets": [
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Antigua And Barbuda Falcons Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Jul 8, 01:30 AM",
-    "title": "Indonesia - South Korea",
-    "bets": [
-      {
-        "team": "Indonesia",
-        "odds": "1.18"
-      },
-      {
-        "team": "South Korea",
-        "odds": "4.69"
-      }
-    ]
-  },
-  {
-    "date": "Jul 8, 02:00 AM",
-    "title": "Perth Scorchers Srl - Hobart Hurricanes Srl",
-    "bets": [
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.74"
-      },
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Jul 8, 03:30 AM",
-    "title": "Vk 18 Cricket Academy - Dev Raj Sports Club",
-    "bets": [
-      {
-        "team": "Vk 18 Cricket Academy",
-        "odds": "1.8"
-      },
-      {
-        "team": "Dev Raj Sports Club",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Jul 8, 04:00 AM",
-    "title": "Multan Sultans Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.3"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Jul 8, 04:15 AM",
-    "title": "Panadura Sports Club - Nondescripts",
-    "bets": [
-      {
-        "team": "Panadura Sports Club",
-        "odds": "2.55"
-      },
-      {
-        "team": "Nondescripts",
-        "odds": "1.43"
-      }
-    ]
-  },
-  {
-    "date": "Jul 8, 06:00 AM",
-    "title": "Afghanistan Srl - Sri Lanka Srl",
-    "bets": [
-      {
-        "team": "Afghanistan Srl",
-        "odds": "1.95"
-      },
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Jul 8, 06:15 AM",
-    "title": "Bulgaria (Women) - Greece (Women)",
-    "bets": [
-      {
-        "team": "Bulgaria (Women)",
-        "odds": "6.6"
-      },
-      {
-        "team": "Greece (w)",
-        "odds": "1.08"
-      }
-    ]
-  },
-  {
-    "date": "Jul 8, 06:45 AM",
-    "title": "Gent Wolves - Hasselt Titans",
-    "bets": [
-      {
-        "team": "Gent Wolves",
-        "odds": "1.95"
-      },
-      {
-        "team": "Hasselt Titans",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
     "date": "Jul 8, 08:00 AM",
     "title": "Lucknow Super Giants Srl - Royal Challengers Bangalore SRL",
     "bets": [
@@ -201,11 +47,11 @@
     "bets": [
       {
         "team": "Sri Lanka",
-        "odds": "1.37"
+        "odds": "1.35"
       },
       {
         "team": "Bangladesh",
-        "odds": "2.94"
+        "odds": "3.05"
       }
     ]
   },
@@ -215,11 +61,25 @@
     "bets": [
       {
         "team": "Guernsey",
-        "odds": "2.86"
+        "odds": "3.35"
       },
       {
         "team": "Jersey",
-        "odds": "1.35"
+        "odds": "1.26"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 09:30 AM",
+    "title": "India - USA",
+    "bets": [
+      {
+        "team": "India",
+        "odds": "1.12"
+      },
+      {
+        "team": "USA",
+        "odds": "5.25"
       }
     ]
   },
@@ -248,6 +108,20 @@
       {
         "team": "Sunrisers Eastern Cape Srl",
         "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 11:45 AM",
+    "title": "Tanzania - Bahrain",
+    "bets": [
+      {
+        "team": "Tanzania",
+        "odds": "3.25"
+      },
+      {
+        "team": "Bahrain",
+        "odds": "1.28"
       }
     ]
   },
@@ -281,15 +155,57 @@
   },
   {
     "date": "Jul 8, 01:30 PM",
+    "title": "Windward Islands U19 (Women) - Barbados U19 (Women)",
+    "bets": [
+      {
+        "team": "Windward Islands U19 (Women)",
+        "odds": "1.94"
+      },
+      {
+        "team": "Barbados U19 (Women)",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 01:30 PM",
+    "title": "Trinidad and Tobago U19 (Women) - Leeward Islands U19 (Women)",
+    "bets": [
+      {
+        "team": "Trinidad and Tobago U19 (Women)",
+        "odds": "1.7"
+      },
+      {
+        "team": "Leeward Islands U19 (Women)",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 01:30 PM",
+    "title": "Guyana U19 (Women) - Jamaica U19 (Women)",
+    "bets": [
+      {
+        "team": "Guyana U19 (Women)",
+        "odds": "1.64"
+      },
+      {
+        "team": "Jamaica U19 (Women)",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 01:30 PM",
     "title": "Somerset - Essex",
     "bets": [
       {
         "team": "Somerset",
-        "odds": "2.14"
+        "odds": "2"
       },
       {
         "team": "Essex",
-        "odds": "1.6"
+        "odds": "1.7"
       }
     ]
   },
@@ -327,11 +243,25 @@
     "bets": [
       {
         "team": "Northern Knights",
-        "odds": "1.51"
+        "odds": "1.52"
       },
       {
         "team": "North-West Warriors",
-        "odds": "2.34"
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 03:00 PM",
+    "title": "BTCC Thundercats - FinCC Gladiators",
+    "bets": [
+      {
+        "team": "BTCC Thundercats",
+        "odds": "1.2"
+      },
+      {
+        "team": "FinCC Gladiators",
+        "odds": "3.95"
       }
     ]
   },
@@ -346,6 +276,20 @@
       {
         "team": "Islamabad United Srl",
         "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 04:00 PM",
+    "title": "Whiptail Smashers - Piton Strikers",
+    "bets": [
+      {
+        "team": "Whiptail Smashers",
+        "odds": "1.8"
+      },
+      {
+        "team": "Piton Strikers",
+        "odds": "1.87"
       }
     ]
   },
@@ -374,6 +318,20 @@
       {
         "team": "South Africa Srl",
         "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Jul 8, 06:30 PM",
+    "title": "Amazonian Warriors - Iyanola Heritage",
+    "bets": [
+      {
+        "team": "Amazonian Warriors",
+        "odds": "1.61"
+      },
+      {
+        "team": "Iyanola Heritage",
+        "odds": "2.12"
       }
     ]
   },
@@ -434,16 +392,30 @@
     ]
   },
   {
+    "date": "Jul 9, 01:30 AM",
+    "title": "Philippines - South Korea",
+    "bets": [
+      {
+        "team": "Philippines",
+        "odds": "1.05"
+      },
+      {
+        "team": "South Korea",
+        "odds": "8.96"
+      }
+    ]
+  },
+  {
     "date": "Jul 9, 04:15 AM",
     "title": "Nugegoda Sports Welfare Club - Colts",
     "bets": [
       {
         "team": "Nugegoda Sports Welfare Club",
-        "odds": "2.37"
+        "odds": "2.59"
       },
       {
         "team": "Colts",
-        "odds": "1.5"
+        "odds": "1.42"
       }
     ]
   },
@@ -481,11 +453,11 @@
     "bets": [
       {
         "team": "Middlesex",
-        "odds": "2.2"
+        "odds": "2.26"
       },
       {
         "team": "Hampshire",
-        "odds": "1.62"
+        "odds": "1.6"
       }
     ]
   },
@@ -509,11 +481,11 @@
     "bets": [
       {
         "team": "Warwickshire",
-        "odds": "2.26"
+        "odds": "2.22"
       },
       {
         "team": "Lancashire",
-        "odds": "1.59"
+        "odds": "1.62"
       }
     ]
   },
@@ -523,11 +495,11 @@
     "bets": [
       {
         "team": "Sussex",
-        "odds": "1.61"
+        "odds": "1.64"
       },
       {
         "team": "Kent",
-        "odds": "2.22"
+        "odds": "2.18"
       }
     ]
   },
@@ -537,11 +509,25 @@
     "bets": [
       {
         "team": "Gloucestershire",
-        "odds": "2.44"
+        "odds": "2.48"
       },
       {
         "team": "Surrey",
-        "odds": "1.51"
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 12:00 AM",
+    "title": "San Francisco Unicorns - Mi New York",
+    "bets": [
+      {
+        "team": "San Francisco Unicorns",
+        "odds": "1.76"
+      },
+      {
+        "team": "Mi New York",
+        "odds": "1.99"
       }
     ]
   }
