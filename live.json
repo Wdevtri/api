@@ -1,1 +1,320 @@
-[]
+[
+  {
+    "date": "Jul 10, 10:00 AM",
+    "title": "England - India",
+    "bets": [
+      {
+        "team": "England",
+        "odds": "1.9"
+      },
+      {
+        "team": "Draw",
+        "odds": "3.85"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 06:00 PM",
+    "title": "Derbyshire - Worcestershire",
+    "bets": [
+      {
+        "team": "Derbyshire",
+        "odds": "1.86"
+      },
+      {
+        "team": "Worcestershire",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:30 PM",
+    "title": "Leicestershire - Northamptonshire",
+    "bets": [
+      {
+        "team": "Leicestershire",
+        "odds": "1.83"
+      },
+      {
+        "team": "Northamptonshire",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 06:00 PM",
+    "title": "Hampshire - Glamorgan",
+    "bets": [
+      {
+        "team": "Hampshire",
+        "odds": "1.71"
+      },
+      {
+        "team": "Glamorgan",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 02:45 PM",
+    "title": "Leinster Lightning - Northern Knights",
+    "bets": [
+      {
+        "team": "Leinster Lightning",
+        "odds": "1.3"
+      },
+      {
+        "team": "Northern Knights",
+        "odds": "3.1"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 04:00 PM",
+    "title": "Lahore Qalanders Srl - Quetta Gladiators Srl",
+    "bets": [
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "14"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 04:35 PM",
+    "title": "Mumbai Indians (cyber) - Gujarat Titans (cyber)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (cyber)",
+        "odds": "4.24"
+      },
+      {
+        "team": "Gujarat Titans (cyber)",
+        "odds": "1.1"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:05 PM",
+    "title": "Thailand (cyber) - Zimbabwe (cyber)",
+    "bets": [
+      {
+        "team": "Thailand (cyber)",
+        "odds": "1.76"
+      },
+      {
+        "team": "Zimbabwe (cyber)",
+        "odds": "1.84"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:00 PM",
+    "title": "Agra Royals (Women) - AG Sports (Women)",
+    "bets": [
+      {
+        "team": "Agra Royals (w)",
+        "odds": "2.53"
+      },
+      {
+        "team": "AG Sports (w)",
+        "odds": "1.44"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:30 PM",
+    "title": "Triumphants1 - Indoorheroes",
+    "bets": [
+      {
+        "team": "Triumphants1",
+        "odds": "3.09"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.52"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:35 PM",
+    "title": "Punjab Kings (cyber) - Kolkata Knight Riders (cyber)",
+    "bets": [
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "1.18"
+      },
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "3.52"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:30 PM",
+    "title": "India Blue (Scalpel) - India Red (Azazel)",
+    "bets": [
+      {
+        "team": "India Blue (Scalpel)",
+        "odds": "1.06"
+      },
+      {
+        "team": "India Red (Azazel)",
+        "odds": "6.91"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 06:05 PM",
+    "title": "India (cyber) - Sri Lanka (cyber)",
+    "bets": [
+      {
+        "team": "India (cyber)",
+        "odds": "1.07"
+      },
+      {
+        "team": "Sri Lanka (cyber)",
+        "odds": "4.69"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 03:52 PM",
+    "title": "Delhi Capitals (V-w) - Gujarat Giants (V-w)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (V-w)",
+        "odds": "1.16"
+      },
+      {
+        "team": "Gujarat Giants (V-w)",
+        "odds": "4.64"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 04:28 PM",
+    "title": "Joburg Super Kings (V) - Sunrisers Eastern Cape (V)",
+    "bets": [
+      {
+        "team": "Joburg Super Kings (V)",
+        "odds": "1.21"
+      },
+      {
+        "team": "Sunrisers Eastern Cape (V)",
+        "odds": "3.92"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 04:30 PM",
+    "title": "Bader & Nie CC - Chennai Kings CA",
+    "bets": [
+      {
+        "team": "Bader & Nie CC",
+        "odds": "9.6"
+      },
+      {
+        "team": "Chennai Kings CA",
+        "odds": "1.04"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 04:00 PM",
+    "title": "Dharani Village Bihar - Shani Shignapur Sports",
+    "bets": [
+      {
+        "team": "Dharani Village Bihar",
+        "odds": "2.31"
+      },
+      {
+        "team": "Shani Shignapur Sports",
+        "odds": "1.55"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:33 PM",
+    "title": "Lucknow Super Giants (V) - Delhi Capitals (V)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (V)",
+        "odds": "2.31"
+      },
+      {
+        "team": "Delhi Capitals (V)",
+        "odds": "1.54"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:43 PM",
+    "title": "Pakistan (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "1.36"
+      },
+      {
+        "team": "Sri Lanka (V)",
+        "odds": "2.92"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:30 PM",
+    "title": "Night Avengers - Courageous",
+    "bets": [
+      {
+        "team": "Night Avengers",
+        "odds": "1.66"
+      },
+      {
+        "team": "Courageous",
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:54 PM",
+    "title": "Bangladesh (V) - South Africa (V)",
+    "bets": [
+      {
+        "team": "Bangladesh (V)",
+        "odds": "2"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:56 PM",
+    "title": "Delhi Capitals (V) - Sunrisers Hyderabad (V)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (V)",
+        "odds": "2.4"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jul 10, 05:58 PM",
+    "title": "Sri Lanka (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "Sri Lanka (V)",
+        "odds": "2.75"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  }
+]
