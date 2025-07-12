@@ -1,281 +1,15 @@
 [
   {
-    "date": "Jul 12, 06:00 AM",
-    "title": "Australia SRL - New Zealand SRL",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "1.59"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 06:45 AM",
-    "title": "Belgium Belforts (Women) - French Eiffels (Women)",
-    "bets": [
-      {
-        "team": "Belgium Belforts (Women)",
-        "odds": "3.21"
-      },
-      {
-        "team": "French Eiffels (Women)",
-        "odds": "1.29"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 07:00 AM",
-    "title": "Turkiye - Bulgaria",
-    "bets": [
-      {
-        "team": "Turkiye",
-        "odds": "4.6"
-      },
-      {
-        "team": "Bulgaria",
-        "odds": "1.15"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 07:00 AM",
-    "title": "Turkey - Bulgaria",
+    "date": "Jul 12, 11:00 AM",
+    "title": "Turkey - Gibraltar",
     "bets": [
       {
         "team": "Turkey",
-        "odds": "4.34"
-      },
-      {
-        "team": "Bulgaria",
-        "odds": "1.18"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 07:00 AM",
-    "title": "Greater Helsinki - TreCC Amperes",
-    "bets": [
-      {
-        "team": "Greater Helsinki",
-        "odds": "1.55"
-      },
-      {
-        "team": "TreCC Amperes",
-        "odds": "2.23"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 07:30 AM",
-    "title": "Malawi - Bahrain",
-    "bets": [
-      {
-        "team": "Malawi",
-        "odds": "4.8"
-      },
-      {
-        "team": "Bahrain",
-        "odds": "1.13"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 08:00 AM",
-    "title": "Gujarat Titans Srl - Royal Challengers Bangalore SRL",
-    "bets": [
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.93"
-      },
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 08:00 AM",
-    "title": "Vk 18 Cricket Academy - Future Sports Club",
-    "bets": [
-      {
-        "team": "Vk 18 Cricket Academy",
-        "odds": "1.85"
-      },
-      {
-        "team": "Future Sports Club",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 08:00 AM",
-    "title": "91 Yards Club - Nabajyoti Club",
-    "bets": [
-      {
-        "team": "91 Yards Club",
-        "odds": "2.17"
-      },
-      {
-        "team": "Nabajyoti Club",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 08:30 AM",
-    "title": "Kampong Cricket - HCC",
-    "bets": [
-      {
-        "team": "Kampong Cricket",
-        "odds": "1.09"
-      },
-      {
-        "team": "HCC",
-        "odds": "5.75"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 08:30 AM",
-    "title": "HBS - VRA",
-    "bets": [
-      {
-        "team": "HBS",
-        "odds": "1.74"
-      },
-      {
-        "team": "VRA",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 08:30 AM",
-    "title": "Punjab Ghausia 1 - VCC",
-    "bets": [
-      {
-        "team": "Punjab Ghausia 1",
-        "odds": "1.59"
-      },
-      {
-        "team": "VCC",
-        "odds": "2.17"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 08:30 AM",
-    "title": "V.O.C Rotterdam - Sparta",
-    "bets": [
-      {
-        "team": "V.O.C Rotterdam",
-        "odds": "1.39"
-      },
-      {
-        "team": "Sparta",
         "odds": "2.68"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 09:00 AM",
-    "title": "Excelsior 20 - Hermes DVS",
-    "bets": [
-      {
-        "team": "Excelsior 20",
-        "odds": "1.59"
       },
       {
-        "team": "Hermes DVS",
-        "odds": "2.17"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 10:00 AM",
-    "title": "Mi Cape Town Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.58"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 10:30 AM",
-    "title": "Carlton - RH Corstorphine",
-    "bets": [
-      {
-        "team": "Carlton",
-        "odds": "2.02"
-      },
-      {
-        "team": "RH Corstorphine",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 10:30 AM",
-    "title": "Grange - Meigle",
-    "bets": [
-      {
-        "team": "Grange",
-        "odds": "1.04"
-      },
-      {
-        "team": "Meigle",
-        "odds": "7.62"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 10:30 AM",
-    "title": "Falkland - Heriot's",
-    "bets": [
-      {
-        "team": "Falkland",
-        "odds": "5.75"
-      },
-      {
-        "team": "Heriot's",
-        "odds": "1.09"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 10:30 AM",
-    "title": "Arbroath United - Stewart's Melville",
-    "bets": [
-      {
-        "team": "Arbroath United",
-        "odds": "1.59"
-      },
-      {
-        "team": "Stewart's Melville",
-        "odds": "2.17"
-      }
-    ]
-  },
-  {
-    "date": "Jul 12, 10:30 AM",
-    "title": "Edinburgh South - Forfarshire",
-    "bets": [
-      {
-        "team": "Edinburgh South",
-        "odds": "2.38"
-      },
-      {
-        "team": "Forfarshire",
-        "odds": "1.49"
+        "team": "Gibraltar",
+        "odds": "1.41"
       }
     ]
   },
@@ -453,11 +187,11 @@
     "bets": [
       {
         "team": "England",
-        "odds": "1.88"
+        "odds": "1.83"
       },
       {
         "team": "India",
-        "odds": "1.93"
+        "odds": "1.99"
       }
     ]
   },
@@ -481,11 +215,11 @@
     "bets": [
       {
         "team": "West Indies",
-        "odds": "5.8"
+        "odds": "5.7"
       },
       {
         "team": "Draw",
-        "odds": "13"
+        "odds": "14"
       }
     ]
   },
@@ -514,6 +248,48 @@
       {
         "team": "Canterbury Srl",
         "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 12:00 AM",
+    "title": "Barbados Royals Srl - St Lucia Kings Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2"
+      },
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 02:00 AM",
+    "title": "Adelaide Strikers Srl - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "1.86"
+      },
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 04:00 AM",
+    "title": "Islamabad United Srl - Lahore Qalanders Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.8"
       }
     ]
   },
@@ -588,6 +364,34 @@
     ]
   },
   {
+    "date": "Jul 13, 06:00 AM",
+    "title": "Pakistan SRL - Afghanistan Srl",
+    "bets": [
+      {
+        "team": "Pakistan Srl",
+        "odds": "1.6"
+      },
+      {
+        "team": "Afghanistan Srl",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 08:00 AM",
+    "title": "Lucknow Super Giants Srl - Punjab Kings SRL",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants Srl",
+        "odds": "2.08"
+      },
+      {
+        "team": "Punjab Kings SRL",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
     "date": "Jul 13, 09:30 AM",
     "title": "Worcestershire Rapids - Leicestershire Foxes",
     "bets": [
@@ -640,6 +444,76 @@
       {
         "team": "Middlesex",
         "odds": "1.37"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 10:00 AM",
+    "title": "Durban Super Giants Srl - Mi Cape Town Srl",
+    "bets": [
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "2.2"
+      },
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 10:00 AM",
+    "title": "Surrey - Somerset",
+    "bets": [
+      {
+        "team": "Surrey",
+        "odds": "1.33"
+      },
+      {
+        "team": "Somerset",
+        "odds": "2.94"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 10:00 AM",
+    "title": "Hampshire - Warwickshire",
+    "bets": [
+      {
+        "team": "Hampshire",
+        "odds": "2"
+      },
+      {
+        "team": "Warwickshire",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 12:00 PM",
+    "title": "Sydney Sixers SRL - Sydney Thunder Srl",
+    "bets": [
+      {
+        "team": "Sydney Sixers Srl",
+        "odds": "1.92"
+      },
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 01:00 PM",
+    "title": "Essex - The Blaze",
+    "bets": [
+      {
+        "team": "Essex",
+        "odds": "2.62"
+      },
+      {
+        "team": "The Blaze",
+        "odds": "1.41"
       }
     ]
   },
@@ -756,6 +630,20 @@
     ]
   },
   {
+    "date": "Jul 13, 02:00 PM",
+    "title": "Chennai Super Kings SRL - Delhi Capitals SRL",
+    "bets": [
+      {
+        "team": "Chennai Super Kings SRL",
+        "odds": "1.99"
+      },
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
     "date": "Jul 13, 02:30 PM",
     "title": "Surrey - Somerset",
     "bets": [
@@ -780,6 +668,76 @@
       {
         "team": "Middlesex",
         "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 04:00 PM",
+    "title": "Peshawar Zalmi SRL - Multan Sultans Srl",
+    "bets": [
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "1.79"
+      },
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 05:00 PM",
+    "title": "Chennai Kings CA - Stack CC",
+    "bets": [
+      {
+        "team": "Chennai Kings CA",
+        "odds": "5.86"
+      },
+      {
+        "team": "Stack CC",
+        "odds": "1.1"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 06:00 PM",
+    "title": "India SRL - Australia SRL",
+    "bets": [
+      {
+        "team": "India Srl",
+        "odds": "1.69"
+      },
+      {
+        "team": "Australia Srl",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 08:00 PM",
+    "title": "Pretoria Capitals Srl - Paarl Royals Srl",
+    "bets": [
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "2.06"
+      },
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Jul 13, 10:00 PM",
+    "title": "Auckland Srl - Otago Srl",
+    "bets": [
+      {
+        "team": "Auckland Srl",
+        "odds": "1.68"
+      },
+      {
+        "team": "Otago Srl",
+        "odds": "2.1"
       }
     ]
   }
