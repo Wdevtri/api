@@ -1,19 +1,5 @@
 [
   {
-    "date": "Jul 13, 06:00 PM",
-    "title": "India SRL - Australia SRL",
-    "bets": [
-      {
-        "team": "India Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Australia Srl",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
     "date": "Jul 13, 08:00 PM",
     "title": "Pretoria Capitals Srl - Paarl Royals Srl",
     "bets": [
@@ -332,6 +318,20 @@
       {
         "team": "Bud Cricket Club",
         "odds": "2.59"
+      }
+    ]
+  },
+  {
+    "date": "Jul 15, 05:30 PM",
+    "title": "Durham - Leicestershire",
+    "bets": [
+      {
+        "team": "Durham",
+        "odds": "1.69"
+      },
+      {
+        "team": "Leicestershire",
+        "odds": "2.08"
       }
     ]
   }
