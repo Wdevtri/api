@@ -1,75 +1,5 @@
 [
   {
-    "date": "Jul 15, 07:15 AM",
-    "title": "Bajaj Khadak Warriors - Royal Challengers Barhi Birpur",
-    "bets": [
-      {
-        "team": "Bajaj Khadak Warriors",
-        "odds": "2.13"
-      },
-      {
-        "team": "Royal Challengers Barhi Birpur",
-        "odds": "1.6"
-      }
-    ]
-  },
-  {
-    "date": "Jul 15, 08:00 AM",
-    "title": "Rajasthan Royals SRL - Royal Challengers Bangalore SRL",
-    "bets": [
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "2.18"
-      },
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Jul 15, 08:00 AM",
-    "title": "Dev Raj Sports Club - SB Youth Cricket Club",
-    "bets": [
-      {
-        "team": "Dev Raj Sports Club",
-        "odds": "1.4"
-      },
-      {
-        "team": "SB Youth Cricket Club",
-        "odds": "2.66"
-      }
-    ]
-  },
-  {
-    "date": "Jul 15, 08:00 AM",
-    "title": "Gauhati Town Club - Bud Cricket Club",
-    "bets": [
-      {
-        "team": "Gauhati Town Club",
-        "odds": "1.39"
-      },
-      {
-        "team": "Bud Cricket Club",
-        "odds": "2.77"
-      }
-    ]
-  },
-  {
-    "date": "Jul 15, 08:30 AM",
-    "title": "Karaikal Knights - Ruby White Town Legends",
-    "bets": [
-      {
-        "team": "Karaikal Knights",
-        "odds": "1.87"
-      },
-      {
-        "team": "Ruby White Town Legends",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
     "date": "Jul 15, 10:00 AM",
     "title": "Mi Cape Town Srl - Joburg Super Kings Srl",
     "bets": [
@@ -117,11 +47,11 @@
     "bets": [
       {
         "team": "Guyana U19 (w)",
-        "odds": "3.79"
+        "odds": "3.69"
       },
       {
         "team": "Leeward Islands U19 (w)",
-        "odds": "1.21"
+        "odds": "1.22"
       }
     ]
   },
@@ -145,11 +75,11 @@
     "bets": [
       {
         "team": "Jamaica U19 (w)",
-        "odds": "1.88"
+        "odds": "1.87"
       },
       {
         "team": "Barbados U19 (w)",
-        "odds": "1.79"
+        "odds": "1.8"
       }
     ]
   },
