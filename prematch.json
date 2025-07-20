@@ -1,61 +1,5 @@
 [
   {
-    "date": "Jul 19, 10:00 PM",
-    "title": "Auckland Srl - Northern Districts Srl",
-    "bets": [
-      {
-        "team": "Auckland Srl",
-        "odds": "1.73"
-      },
-      {
-        "team": "Northern Districts Srl",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Jul 20, 12:00 AM",
-    "title": "Antigua And Barbuda Falcons Srl - Trinbago Knight Riders SRL",
-    "bets": [
-      {
-        "team": "Antigua And Barbuda Falcons Srl",
-        "odds": "2.14"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "Jul 20, 01:00 AM",
-    "title": "Singapore - Hong Kong, China",
-    "bets": [
-      {
-        "team": "Singapore",
-        "odds": "4.2"
-      },
-      {
-        "team": "Hong Kong, China",
-        "odds": "1.17"
-      }
-    ]
-  },
-  {
-    "date": "Jul 20, 02:00 AM",
-    "title": "Melbourne Stars SRL - Hobart Hurricanes Srl",
-    "bets": [
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.95"
-      },
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
     "date": "Jul 20, 04:00 AM",
     "title": "Karachi Kings Srl - Multan Sultans Srl",
     "bets": [
@@ -145,11 +89,11 @@
     "bets": [
       {
         "team": "Western Warriors (w)",
-        "odds": "3.16"
+        "odds": "3.49"
       },
       {
         "team": "DJK Munich (w)",
-        "odds": "1.29"
+        "odds": "1.24"
       }
     ]
   },
@@ -257,11 +201,11 @@
     "bets": [
       {
         "team": "Villianur Mohit Kings",
-        "odds": "1.7"
+        "odds": "1.64"
       },
       {
         "team": "Ruby White Town Legends",
-        "odds": "2"
+        "odds": "2.08"
       }
     ]
   },
@@ -313,11 +257,11 @@
     "bets": [
       {
         "team": "Bangladesh",
-        "odds": "2.7"
+        "odds": "2.56"
       },
       {
         "team": "Pakistan",
-        "odds": "1.47"
+        "odds": "1.51"
       }
     ]
   },
@@ -341,11 +285,11 @@
     "bets": [
       {
         "team": "Mahe Megalo Strikers",
-        "odds": "1.73"
+        "odds": "1.67"
       },
       {
         "team": "Karaikal Knights",
-        "odds": "1.96"
+        "odds": "2.04"
       }
     ]
   },
@@ -383,11 +327,11 @@
     "bets": [
       {
         "team": "Worcestershire Rapids",
-        "odds": "3.45"
+        "odds": "3.6"
       },
       {
         "team": "Yorkshire",
-        "odds": "1.25"
+        "odds": "1.23"
       }
     ]
   },
@@ -397,11 +341,11 @@
     "bets": [
       {
         "team": "Derbyshire Falcons",
-        "odds": "2.06"
+        "odds": "2.14"
       },
       {
         "team": "Leicestershire Foxes",
-        "odds": "1.66"
+        "odds": "1.61"
       }
     ]
   },
@@ -434,16 +378,30 @@
     ]
   },
   {
+    "date": "Jul 20, 03:00 PM",
+    "title": "Cayman Bay Stingrays - Grand Cayman Falcons",
+    "bets": [
+      {
+        "team": "Cayman Bay Stingrays",
+        "odds": "1.44"
+      },
+      {
+        "team": "Grand Cayman Falcons",
+        "odds": "2.52"
+      }
+    ]
+  },
+  {
     "date": "Jul 20, 03:30 PM",
     "title": "India Champions - Pakistan Champions",
     "bets": [
       {
         "team": "India Champions",
-        "odds": "1.85"
+        "odds": "1.76"
       },
       {
         "team": "Pakistan Champions",
-        "odds": "1.85"
+        "odds": "1.95"
       }
     ]
   },
@@ -467,11 +425,11 @@
     "bets": [
       {
         "team": "Vegas Vikings",
-        "odds": "2.32"
+        "odds": "2.5"
       },
       {
         "team": "Caribbean Tigers",
-        "odds": "1.52"
+        "odds": "1.45"
       }
     ]
   },
@@ -537,11 +495,11 @@
     "bets": [
       {
         "team": "West Indies",
-        "odds": "2.56"
+        "odds": "2.5"
       },
       {
         "team": "Australia",
-        "odds": "1.52"
+        "odds": "1.54"
       }
     ]
   },
