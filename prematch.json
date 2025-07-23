@@ -1,19 +1,5 @@
 [
   {
-    "date": "Jul 23, 05:15 PM",
-    "title": "MEC Study Group - Chennai Kings CA",
-    "bets": [
-      {
-        "team": "MEC Study Group",
-        "odds": "1.24"
-      },
-      {
-        "team": "Chennai Kings CA",
-        "odds": "3.5"
-      }
-    ]
-  },
-  {
     "date": "Jul 23, 06:00 PM",
     "title": "South Africa SRL - New Zealand SRL",
     "bets": [
@@ -24,20 +10,6 @@
       {
         "team": "New Zealand Srl",
         "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Jul 23, 06:45 PM",
-    "title": "Vegas Vikings - Grand Cayman Falcons",
-    "bets": [
-      {
-        "team": "Vegas Vikings",
-        "odds": "1.52"
-      },
-      {
-        "team": "Grand Cayman Falcons",
-        "odds": "2.32"
       }
     ]
   },
@@ -145,11 +117,11 @@
     "bets": [
       {
         "team": "Bud Cricket Club",
-        "odds": "1.85"
+        "odds": "1.96"
       },
       {
         "team": "91 Yards Club",
-        "odds": "1.85"
+        "odds": "1.75"
       }
     ]
   },
