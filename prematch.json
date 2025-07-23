@@ -1,47 +1,5 @@
 [
   {
-    "date": "Jul 23, 06:00 PM",
-    "title": "South Africa SRL - New Zealand SRL",
-    "bets": [
-      {
-        "team": "South Africa Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Jul 23, 08:00 PM",
-    "title": "Mi Cape Town Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Jul 23, 10:00 PM",
-    "title": "Central Districts Srl - Otago Srl",
-    "bets": [
-      {
-        "team": "Central Districts Srl",
-        "odds": "1.97"
-      },
-      {
-        "team": "Otago Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
     "date": "Jul 24, 12:00 AM",
     "title": "Barbados Royals Srl - Guyana Amazon Warriors Srl",
     "bets": [
@@ -103,11 +61,11 @@
     "bets": [
       {
         "team": "Amo Sharks",
-        "odds": "1.72"
+        "odds": "1.67"
       },
       {
         "team": "Speen Ghar Tigers",
-        "odds": "2"
+        "odds": "2.08"
       }
     ]
   },
@@ -117,11 +75,11 @@
     "bets": [
       {
         "team": "Bud Cricket Club",
-        "odds": "1.96"
+        "odds": "1.85"
       },
       {
         "team": "91 Yards Club",
-        "odds": "1.75"
+        "odds": "1.85"
       }
     ]
   },
@@ -154,6 +112,48 @@
     ]
   },
   {
+    "date": "Jul 24, 06:45 AM",
+    "title": "Jinnah CC Stockholm - Marsta CC",
+    "bets": [
+      {
+        "team": "Jinnah CC Stockholm",
+        "odds": "2.19"
+      },
+      {
+        "team": "Marsta CC",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
+    "date": "Jul 24, 07:30 AM",
+    "title": "Cameroon (w) - Eswatini (w)",
+    "bets": [
+      {
+        "team": "Cameroon (w)",
+        "odds": "1.07"
+      },
+      {
+        "team": "Eswatini (w)",
+        "odds": "6.64"
+      }
+    ]
+  },
+  {
+    "date": "Jul 24, 07:30 AM",
+    "title": "Rwanda (w) - Botswana (w)",
+    "bets": [
+      {
+        "team": "Rwanda (w)",
+        "odds": "1.04"
+      },
+      {
+        "team": "Botswana (w)",
+        "odds": "8.3"
+      }
+    ]
+  },
+  {
     "date": "Jul 24, 08:00 AM",
     "title": "Chennai Super Kings SRL - Sunrisers Hyderabad SRL",
     "bets": [
@@ -164,6 +164,20 @@
       {
         "team": "Sunrisers Hyderabad SRL",
         "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Jul 24, 08:45 AM",
+    "title": "Rising Phoenix - Huddinge",
+    "bets": [
+      {
+        "team": "Rising Phoenix",
+        "odds": "2.52"
+      },
+      {
+        "team": "Huddinge",
+        "odds": "1.44"
       }
     ]
   },
@@ -266,6 +280,34 @@
     ]
   },
   {
+    "date": "Jul 24, 12:00 PM",
+    "title": "Mozambique (w) - Lesotho (w)",
+    "bets": [
+      {
+        "team": "Mozambique (w)",
+        "odds": "1.04"
+      },
+      {
+        "team": "Lesotho (w)",
+        "odds": "8.65"
+      }
+    ]
+  },
+  {
+    "date": "Jul 24, 12:00 PM",
+    "title": "Sierra Leone (w) - Malawi (w)",
+    "bets": [
+      {
+        "team": "Sierra Leone (w)",
+        "odds": "1.33"
+      },
+      {
+        "team": "Malawi (w)",
+        "odds": "3.03"
+      }
+    ]
+  },
+  {
     "date": "Jul 24, 01:30 PM",
     "title": "Ruby White Town Legends - Mahe Megalo Strikers",
     "bets": [
@@ -341,11 +383,11 @@
     "bets": [
       {
         "team": "England Champions",
-        "odds": "2.11"
+        "odds": "2.39"
       },
       {
         "team": "South Africa Champions",
-        "odds": "1.65"
+        "odds": "1.51"
       }
     ]
   },
@@ -364,6 +406,20 @@
     ]
   },
   {
+    "date": "Jul 24, 04:30 PM",
+    "title": "Bader & Nie CC - Tally Rangers",
+    "bets": [
+      {
+        "team": "Bader & Nie CC",
+        "odds": "4.2"
+      },
+      {
+        "team": "Tally Rangers",
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
     "date": "Jul 24, 06:00 PM",
     "title": "Australia SRL - Pakistan SRL",
     "bets": [
@@ -374,6 +430,20 @@
       {
         "team": "Pakistan Srl",
         "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Jul 24, 07:45 PM",
+    "title": "Stack CC - CECC",
+    "bets": [
+      {
+        "team": "Stack CC",
+        "odds": "1.33"
+      },
+      {
+        "team": "CECC",
+        "odds": "2.93"
       }
     ]
   },
@@ -406,6 +476,20 @@
     ]
   },
   {
+    "date": "Jul 25, 06:30 AM",
+    "title": "Kenya - Uganda",
+    "bets": [
+      {
+        "team": "Kenya",
+        "odds": "3.64"
+      },
+      {
+        "team": "Uganda",
+        "odds": "1.24"
+      }
+    ]
+  },
+  {
     "date": "Jul 25, 09:00 AM",
     "title": "Police Sports Club - Colts Cricket Club",
     "bets": [
@@ -416,6 +500,20 @@
       {
         "team": "Colts CC",
         "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Jul 25, 10:30 AM",
+    "title": "Nigeria - Namibia A",
+    "bets": [
+      {
+        "team": "Nigeria",
+        "odds": "4.73"
+      },
+      {
+        "team": "Namibia A",
+        "odds": "1.15"
       }
     ]
   }
