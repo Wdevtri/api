@@ -1,19 +1,5 @@
 [
   {
-    "date": "Jul 24, 10:00 PM",
-    "title": "Northern Districts Srl - Canterbury Srl",
-    "bets": [
-      {
-        "team": "Northern Districts Srl",
-        "odds": "2.24"
-      },
-      {
-        "team": "Canterbury Srl",
-        "odds": "1.6"
-      }
-    ]
-  },
-  {
     "date": "Jul 25, 12:00 AM",
     "title": "Antigua And Barbuda Falcons Srl - St Kitts And Nevis Patriots Srl",
     "bets": [
@@ -187,11 +173,11 @@
     "bets": [
       {
         "team": "Nigeria",
-        "odds": "4.16"
+        "odds": "4.68"
       },
       {
         "team": "Namibia A",
-        "odds": "1.19"
+        "odds": "1.15"
       }
     ]
   },
@@ -257,11 +243,11 @@
     "bets": [
       {
         "team": "Pakistan Champions",
-        "odds": "2.13"
+        "odds": "2.19"
       },
       {
         "team": "South Africa Champions",
-        "odds": "1.64"
+        "odds": "1.6"
       }
     ]
   },
