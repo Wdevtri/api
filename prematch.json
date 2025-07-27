@@ -1,61 +1,5 @@
 [
   {
-    "date": "Jul 26, 10:00 PM",
-    "title": "Otago Srl - Northern Districts Srl",
-    "bets": [
-      {
-        "team": "Otago Srl",
-        "odds": "1.93"
-      },
-      {
-        "team": "Northern Districts Srl",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 11:00 PM",
-    "title": "West Indies - Australia",
-    "bets": [
-      {
-        "team": "West Indies",
-        "odds": "2.52"
-      },
-      {
-        "team": "Australia",
-        "odds": "1.53"
-      }
-    ]
-  },
-  {
-    "date": "Jul 27, 12:00 AM",
-    "title": "St Kitts And Nevis Patriots Srl - Barbados Royals Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "1.97"
-      },
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Jul 27, 02:00 AM",
-    "title": "Sydney Thunder Srl - Hobart Hurricanes Srl",
-    "bets": [
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.77"
-      },
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
     "date": "Jul 27, 04:00 AM",
     "title": "Islamabad United Srl - Quetta Gladiators Srl",
     "bets": [
@@ -159,11 +103,11 @@
     "bets": [
       {
         "team": "Austria",
-        "odds": "1.56"
+        "odds": "1.51"
       },
       {
         "team": "Romania",
-        "odds": "2.24"
+        "odds": "2.34"
       }
     ]
   },
@@ -201,11 +145,11 @@
     "bets": [
       {
         "team": "The Blaze",
-        "odds": "1.45"
+        "odds": "1.4"
       },
       {
         "team": "Warwickshire",
-        "odds": "2.52"
+        "odds": "2.68"
       }
     ]
   },
