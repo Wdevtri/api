@@ -1,75 +1,5 @@
 [
   {
-    "date": "Jul 27, 03:30 PM",
-    "title": "Surrey - Warwickshire",
-    "bets": [
-      {
-        "team": "Surrey",
-        "odds": "1.38"
-      },
-      {
-        "team": "Warwickshire",
-        "odds": "2.76"
-      }
-    ]
-  },
-  {
-    "date": "Jul 27, 03:30 PM",
-    "title": "India Champions - England Champions",
-    "bets": [
-      {
-        "team": "India Champions",
-        "odds": "1.27"
-      },
-      {
-        "team": "England Champions",
-        "odds": "3.4"
-      }
-    ]
-  },
-  {
-    "date": "Jul 27, 04:00 PM",
-    "title": "Peshawar Zalmi SRL - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Jul 27, 05:00 PM",
-    "title": "Chennai Kings CA - Tally Rangers",
-    "bets": [
-      {
-        "team": "Chennai Kings CA",
-        "odds": "9"
-      },
-      {
-        "team": "Tally Rangers",
-        "odds": "1.02"
-      }
-    ]
-  },
-  {
-    "date": "Jul 27, 06:00 PM",
-    "title": "England SRL - South Africa SRL",
-    "bets": [
-      {
-        "team": "England Srl",
-        "odds": "1.85"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
     "date": "Jul 27, 08:00 PM",
     "title": "Pretoria Capitals Srl - Mi Cape Town Srl",
     "bets": [
@@ -145,11 +75,11 @@
     "bets": [
       {
         "team": "Band-e-Amir Dragons",
-        "odds": "2"
+        "odds": "1.98"
       },
       {
         "team": "Boost Defenders",
-        "odds": "1.72"
+        "odds": "1.74"
       }
     ]
   },
@@ -196,6 +126,20 @@
     ]
   },
   {
+    "date": "Jul 28, 09:00 AM",
+    "title": "Twickenham CC - Banstead",
+    "bets": [
+      {
+        "team": "Twickenham CC",
+        "odds": "2.29"
+      },
+      {
+        "team": "Banstead",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
     "date": "Jul 28, 09:30 AM",
     "title": "Speen Ghar Tigers - Mis Ainak Knights",
     "bets": [
@@ -215,11 +159,11 @@
     "bets": [
       {
         "team": "Ireland",
-        "odds": "1.04"
+        "odds": "1.03"
       },
       {
         "team": "Zimbabwe",
-        "odds": "9"
+        "odds": "9.6"
       }
     ]
   },
