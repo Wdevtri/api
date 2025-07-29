@@ -1,169 +1,15 @@
 [
   {
-    "date": "Jul 28, 08:00 PM",
-    "title": "Mi Cape Town Srl - Durban Super Giants Srl",
+    "date": "Jul 29, 09:00 AM",
+    "title": "Weybridge - East Molesey",
     "bets": [
       {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.63"
+        "team": "Weybridge",
+        "odds": "3.13"
       },
       {
-        "team": "Durban Super Giants Srl",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Jul 28, 10:00 PM",
-    "title": "Otago Srl - Auckland Srl",
-    "bets": [
-      {
-        "team": "Otago Srl",
-        "odds": "2.1"
-      },
-      {
-        "team": "Auckland Srl",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Jul 28, 11:00 PM",
-    "title": "West Indies - Australia",
-    "bets": [
-      {
-        "team": "West Indies",
-        "odds": "2.54"
-      },
-      {
-        "team": "Australia",
-        "odds": "1.52"
-      }
-    ]
-  },
-  {
-    "date": "Jul 29, 12:00 AM",
-    "title": "Guyana Amazon Warriors Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.82"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Jul 29, 02:00 AM",
-    "title": "Hobart Hurricanes Srl - Melbourne Stars SRL",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.81"
-      },
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.93"
-      }
-    ]
-  },
-  {
-    "date": "Jul 29, 03:30 AM",
-    "title": "Guwahati Giants - Navarang Club",
-    "bets": [
-      {
-        "team": "Guwahati Giants",
-        "odds": "1.45"
-      },
-      {
-        "team": "Navarang Club",
-        "odds": "2.56"
-      }
-    ]
-  },
-  {
-    "date": "Jul 29, 04:00 AM",
-    "title": "Multan Sultans Srl - Peshawar Zalmi SRL",
-    "bets": [
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "1.96"
-      },
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Jul 29, 04:30 AM",
-    "title": "Amo Sharks - Boost Defenders",
-    "bets": [
-      {
-        "team": "Amo Sharks",
-        "odds": "1.78"
-      },
-      {
-        "team": "Boost Defenders",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Jul 29, 06:00 AM",
-    "title": "England SRL - West Indies Srl",
-    "bets": [
-      {
-        "team": "England Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "West Indies Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Jul 29, 07:15 AM",
-    "title": "Zimbabwe - South Africa",
-    "bets": [
-      {
-        "team": "Zimbabwe",
-        "odds": "5.2"
-      },
-      {
-        "team": "South Africa",
-        "odds": "1.11"
-      }
-    ]
-  },
-  {
-    "date": "Jul 29, 07:45 AM",
-    "title": "City Cricket Club - Gauhati Town Club",
-    "bets": [
-      {
-        "team": "City Cricket Club",
-        "odds": "2.38"
-      },
-      {
-        "team": "Gauhati Town Club",
-        "odds": "1.51"
-      }
-    ]
-  },
-  {
-    "date": "Jul 29, 08:00 AM",
-    "title": "Chennai Super Kings SRL - Rajasthan Royals SRL",
-    "bets": [
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "1.88"
-      },
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "1.85"
+        "team": "East Molesey",
+        "odds": "1.29"
       }
     ]
   },
@@ -229,11 +75,11 @@
     "bets": [
       {
         "team": "Australia Champions",
-        "odds": "1.64"
+        "odds": "1.54"
       },
       {
         "team": "Pakistan Champions",
-        "odds": "2.13"
+        "odds": "2.32"
       }
     ]
   },
@@ -285,11 +131,11 @@
     "bets": [
       {
         "team": "India Champions",
-        "odds": "1.47"
+        "odds": "1.4"
       },
       {
         "team": "West Indies Champions",
-        "odds": "2.51"
+        "odds": "2.74"
       }
     ]
   },
@@ -304,6 +150,20 @@
       {
         "team": "Karachi Kings Srl",
         "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 04:45 PM",
+    "title": "Phoenix Cricketers - Bihar CC",
+    "bets": [
+      {
+        "team": "Phoenix Cricketers",
+        "odds": "1.5"
+      },
+      {
+        "team": "Bihar CC",
+        "odds": "2.41"
       }
     ]
   },
@@ -350,6 +210,48 @@
     ]
   },
   {
+    "date": "Jul 30, 12:00 AM",
+    "title": "Barbados Royals Srl - Trinbago Knight Riders SRL",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Jul 30, 02:00 AM",
+    "title": "Sydney Thunder Srl - Adelaide Strikers Srl",
+    "bets": [
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.65"
+      },
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Jul 30, 04:00 AM",
+    "title": "Islamabad United Srl - Peshawar Zalmi SRL",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.74"
+      },
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "2.02"
+      }
+    ]
+  },
+  {
     "date": "Jul 30, 08:00 AM",
     "title": "Zimbabwe - New Zealand",
     "bets": [
@@ -369,11 +271,11 @@
     "bets": [
       {
         "team": "Police Sports Club",
-        "odds": "1.94"
+        "odds": "2.1"
       },
       {
         "team": "Colombo CC",
-        "odds": "1.74"
+        "odds": "1.63"
       }
     ]
   },
@@ -383,11 +285,11 @@
     "bets": [
       {
         "team": "Lancashire Thunder",
-        "odds": "1.36"
+        "odds": "1.4"
       },
       {
         "team": "Essex",
-        "odds": "2.82"
+        "odds": "2.66"
       }
     ]
   },
@@ -397,11 +299,11 @@
     "bets": [
       {
         "team": "Somerset",
-        "odds": "2.44"
+        "odds": "2.32"
       },
       {
         "team": "Durham",
-        "odds": "1.47"
+        "odds": "1.52"
       }
     ]
   },
@@ -411,11 +313,11 @@
     "bets": [
       {
         "team": "Hampshire",
-        "odds": "2.3"
+        "odds": "2.24"
       },
       {
         "team": "The Blaze",
-        "odds": "1.53"
+        "odds": "1.55"
       }
     ]
   },
@@ -430,6 +332,20 @@
       {
         "team": "Surrey",
         "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Jul 30, 09:30 AM",
+    "title": "Speen Ghar Tigers - Boost Defenders",
+    "bets": [
+      {
+        "team": "Speen Ghar Tigers",
+        "odds": "1.92"
+      },
+      {
+        "team": "Boost Defenders",
+        "odds": "1.78"
       }
     ]
   }
