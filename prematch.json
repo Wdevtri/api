@@ -1,33 +1,5 @@
 [
   {
-    "date": "Jul 30, 04:00 PM",
-    "title": "Karachi Kings Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "2.04"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Jul 30, 04:45 PM",
-    "title": "Royal Trivianz - Keraniganj Challengers",
-    "bets": [
-      {
-        "team": "Royal Trivianz",
-        "odds": "2.35"
-      },
-      {
-        "team": "Keraniganj Challengers",
-        "odds": "1.5"
-      }
-    ]
-  },
-  {
     "date": "Jul 30, 06:00 PM",
     "title": "South Africa SRL - West Indies Srl",
     "bets": [
@@ -145,11 +117,11 @@
     "bets": [
       {
         "team": "Amo Sharks",
-        "odds": "1.85"
+        "odds": "1.9"
       },
       {
         "team": "Mis Ainak Knights",
-        "odds": "1.85"
+        "odds": "1.8"
       }
     ]
   },
@@ -285,11 +257,11 @@
     "bets": [
       {
         "team": "South Africa Champions",
-        "odds": "1.69"
+        "odds": "1.75"
       },
       {
         "team": "Australia Champions",
-        "odds": "2.04"
+        "odds": "1.96"
       }
     ]
   },
