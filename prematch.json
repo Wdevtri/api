@@ -1,131 +1,5 @@
 [
   {
-    "date": "Jul 31, 09:15 AM",
-    "title": "Wales Over-40s - Ireland Over-40s",
-    "bets": [
-      {
-        "team": "Wales Over-40s",
-        "odds": "1.45"
-      },
-      {
-        "team": "Ireland Over-40s",
-        "odds": "2.48"
-      }
-    ]
-  },
-  {
-    "date": "Jul 31, 09:15 AM",
-    "title": "Scotland Over-40s - England Over-40s",
-    "bets": [
-      {
-        "team": "Scotland Over-40s",
-        "odds": "6"
-      },
-      {
-        "team": "England Over-40s",
-        "odds": "1.08"
-      }
-    ]
-  },
-  {
-    "date": "Jul 31, 10:00 AM",
-    "title": "England - India",
-    "bets": [
-      {
-        "team": "England",
-        "odds": "2.56"
-      },
-      {
-        "team": "Draw",
-        "odds": "2.56"
-      }
-    ]
-  },
-  {
-    "date": "Jul 31, 10:00 AM",
-    "title": "Paarl Royals Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Jul 31, 10:00 AM",
-    "title": "Netherlands U-19 - Guernsey U-19",
-    "bets": [
-      {
-        "team": "Netherlands U-19",
-        "odds": "1.9"
-      },
-      {
-        "team": "Guernsey U-19",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Jul 31, 10:00 AM",
-    "title": "Jersey U-19 - Denmark U-19",
-    "bets": [
-      {
-        "team": "Jersey U-19",
-        "odds": "1.15"
-      },
-      {
-        "team": "",
-        "odds": "4.75"
-      }
-    ]
-  },
-  {
-    "date": "Jul 31, 10:00 AM",
-    "title": "Sweden U-19 - Scotland U-19",
-    "bets": [
-      {
-        "team": "Sweden U-19",
-        "odds": "7.12"
-      },
-      {
-        "team": "Scotland U-19",
-        "odds": "1.06"
-      }
-    ]
-  },
-  {
-    "date": "Jul 31, 12:00 PM",
-    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Jul 31, 12:00 PM",
-    "title": "Spike Sports - NexGen/FCA",
-    "bets": [
-      {
-        "team": "Spike Sports",
-        "odds": "1.7"
-      },
-      {
-        "team": "NexGen/FCA",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
     "date": "Jul 31, 02:00 PM",
     "title": "Punjab Kings SRL - Chennai Super Kings SRL",
     "bets": [
@@ -145,11 +19,11 @@
     "bets": [
       {
         "team": "South Africa Champions",
-        "odds": "1.8"
+        "odds": "1.74"
       },
       {
         "team": "Australia Champions",
-        "odds": "1.9"
+        "odds": "1.97"
       }
     ]
   },
@@ -444,6 +318,20 @@
       {
         "team": "Canterbury Srl",
         "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Aug 2, 09:30 AM",
+    "title": "Sussex Sharks - Gloucestershire",
+    "bets": [
+      {
+        "team": "Sussex Sharks",
+        "odds": "1.45"
+      },
+      {
+        "team": "Gloucestershire",
+        "odds": "2.64"
       }
     ]
   }
