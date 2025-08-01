@@ -1,19 +1,5 @@
 [
   {
-    "date": "Aug 1, 07:30 PM",
-    "title": "Keraniganj Challengers - Jhelum Jaguars",
-    "bets": [
-      {
-        "team": "Keraniganj Challengers",
-        "odds": "1.98"
-      },
-      {
-        "team": "Jhelum Jaguars",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
     "date": "Aug 1, 08:00 PM",
     "title": "Mi Cape Town Srl - Paarl Royals Srl",
     "bets": [
@@ -164,6 +150,20 @@
       {
         "team": "SKK Rapids",
         "odds": "1.32"
+      }
+    ]
+  },
+  {
+    "date": "Aug 2, 07:30 AM",
+    "title": "NPL Bears - Pupkewitz Wildcats",
+    "bets": [
+      {
+        "team": "NPL Bears",
+        "odds": "1.72"
+      },
+      {
+        "team": "Pupkewitz Wildcats",
+        "odds": "2"
       }
     ]
   },
@@ -378,6 +378,20 @@
     ]
   },
   {
+    "date": "Aug 2, 12:00 PM",
+    "title": "Paratus Jets - Eavion Eagles",
+    "bets": [
+      {
+        "team": "Paratus Jets",
+        "odds": "1.78"
+      },
+      {
+        "team": "Eavion Eagles",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
     "date": "Aug 2, 02:00 PM",
     "title": "Kolkata Knight Riders SRL - Punjab Kings SRL",
     "bets": [
@@ -448,6 +462,20 @@
     ]
   },
   {
+    "date": "Aug 2, 05:00 PM",
+    "title": "ACE KRM Panthers - Fakhr-e-Kashmir",
+    "bets": [
+      {
+        "team": "ACE KRM Panthers",
+        "odds": "1.65"
+      },
+      {
+        "team": "Fakhr-e-Kashmir",
+        "odds": "2.05"
+      }
+    ]
+  },
+  {
     "date": "Aug 2, 06:00 PM",
     "title": "England SRL - India SRL",
     "bets": [
@@ -514,6 +542,20 @@
       {
         "team": "Excelsior 20",
         "odds": "2.27"
+      }
+    ]
+  },
+  {
+    "date": "Aug 3, 08:30 AM",
+    "title": "Kampong Cricket - VCC",
+    "bets": [
+      {
+        "team": "Kampong Cricket",
+        "odds": "1.29"
+      },
+      {
+        "team": "VCC",
+        "odds": "3.16"
       }
     ]
   },
