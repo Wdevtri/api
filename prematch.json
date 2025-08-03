@@ -1,313 +1,5 @@
 [
   {
-    "date": "Aug 2, 11:00 PM",
-    "title": "Rockets - Marlins",
-    "bets": [
-      {
-        "team": "Rockets",
-        "odds": "1.51"
-      },
-      {
-        "team": "Marlins",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 12:00 AM",
-    "title": "West Indies - Pakistan",
-    "bets": [
-      {
-        "team": "West Indies",
-        "odds": "1.89"
-      },
-      {
-        "team": "Pakistan",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 12:00 AM",
-    "title": "St Lucia Kings Srl - Trinbago Knight Riders SRL",
-    "bets": [
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.86"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 02:00 AM",
-    "title": "Perth Scorchers Srl - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 03:30 AM",
-    "title": "Nabajyoti Club - City Cricket Club",
-    "bets": [
-      {
-        "team": "Nabajyoti Club",
-        "odds": "2.24"
-      },
-      {
-        "team": "City Cricket Club",
-        "odds": "1.57"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 04:00 AM",
-    "title": "Quetta Gladiators Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.84"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 06:00 AM",
-    "title": "New Zealand SRL - West Indies Srl",
-    "bets": [
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.88"
-      },
-      {
-        "team": "West Indies Srl",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 06:45 AM",
-    "title": "Gaming CC - Rugby CC",
-    "bets": [
-      {
-        "team": "Gaming CC",
-        "odds": "4.62"
-      },
-      {
-        "team": "Rugby CC",
-        "odds": "1.14"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 07:30 AM",
-    "title": "Paratus Jets - Pupkewitz Wildcats",
-    "bets": [
-      {
-        "team": "Paratus Jets",
-        "odds": "1.82"
-      },
-      {
-        "team": "Pupkewitz Wildcats",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 07:45 AM",
-    "title": "Bud Cricket Club - Navarang Club",
-    "bets": [
-      {
-        "team": "Bud Cricket Club",
-        "odds": "1.39"
-      },
-      {
-        "team": "Navarang Club",
-        "odds": "2.77"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 08:00 AM",
-    "title": "Lucknow Super Giants Srl - Mumbai Indians SRL",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants Srl",
-        "odds": "2.24"
-      },
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 08:30 AM",
-    "title": "HBS - Excelsior 20",
-    "bets": [
-      {
-        "team": "HBS",
-        "odds": "1.45"
-      },
-      {
-        "team": "Excelsior 20",
-        "odds": "2.5"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 08:30 AM",
-    "title": "Kampong Cricket - VCC",
-    "bets": [
-      {
-        "team": "Kampong Cricket",
-        "odds": "1.2"
-      },
-      {
-        "team": "VCC",
-        "odds": "3.95"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 08:30 AM",
-    "title": "Sparta - Hermes DVS",
-    "bets": [
-      {
-        "team": "Sparta",
-        "odds": "4.19"
-      },
-      {
-        "team": "Hermes DVS",
-        "odds": "1.17"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 08:30 AM",
-    "title": "HCC - Punjab Ghausia 1",
-    "bets": [
-      {
-        "team": "HCC",
-        "odds": "2.38"
-      },
-      {
-        "team": "Punjab Ghausia 1",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 08:30 AM",
-    "title": "VRA - V.O.C Rotterdam",
-    "bets": [
-      {
-        "team": "VRA",
-        "odds": "1.29"
-      },
-      {
-        "team": "V.O.C Rotterdam",
-        "odds": "3.16"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 08:30 AM",
-    "title": "North Delhi Strikers - Central Delhi Kings",
-    "bets": [
-      {
-        "team": "North Delhi Strikers",
-        "odds": "1.92"
-      },
-      {
-        "team": "Central Delhi Kings",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 09:30 AM",
-    "title": "Worcestershire Rapids - Kent",
-    "bets": [
-      {
-        "team": "Worcestershire Rapids",
-        "odds": "1.54"
-      },
-      {
-        "team": "Kent",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 10:00 AM",
-    "title": "Sunrisers Eastern Cape Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 10:00 AM",
-    "title": "Sweden U-19 - Denmark U-19",
-    "bets": [
-      {
-        "team": "Sweden U-19",
-        "odds": "1.29"
-      },
-      {
-        "team": "Denmark U-19",
-        "odds": "3.16"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 10:00 AM",
-    "title": "Scotland U-19 - Guernsey U-19",
-    "bets": [
-      {
-        "team": "Scotland U-19",
-        "odds": "1.12"
-      },
-      {
-        "team": "Guernsey U-19",
-        "odds": "5.09"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 10:00 AM",
-    "title": "Netherlands U-19 - Jersey U-19",
-    "bets": [
-      {
-        "team": "Netherlands U-19",
-        "odds": "1.73"
-      },
-      {
-        "team": "Jersey U-19",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
     "date": "Aug 3, 12:00 PM",
     "title": "Sydney Sixers SRL - Brisbane Heat Srl",
     "bets": [
@@ -327,11 +19,67 @@
     "bets": [
       {
         "team": "NPL Bears",
-        "odds": "1.59"
+        "odds": "1.72"
       },
       {
         "team": "Eavion Eagles",
-        "odds": "2.22"
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 3, 12:00 PM",
+    "title": "Miri Piri CC - Brampton Royals Gold",
+    "bets": [
+      {
+        "team": "Miri Piri CC",
+        "odds": "2.64"
+      },
+      {
+        "team": "Brampton Royals Gold",
+        "odds": "1.4"
+      }
+    ]
+  },
+  {
+    "date": "Aug 3, 12:00 PM",
+    "title": "Patiala Shahi CC - Spartan CC",
+    "bets": [
+      {
+        "team": "Patiala Shahi CC",
+        "odds": "2.35"
+      },
+      {
+        "team": "Spartan CC",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Aug 3, 12:00 PM",
+    "title": "Watan Warriors - Royal Tigers",
+    "bets": [
+      {
+        "team": "Watan Warriors",
+        "odds": "1.83"
+      },
+      {
+        "team": "Royal Tigers",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Aug 3, 12:30 PM",
+    "title": "Brampton Pacers CC - Punjab CC",
+    "bets": [
+      {
+        "team": "Brampton Pacers CC",
+        "odds": "1.98"
+      },
+      {
+        "team": "Punjab CC",
+        "odds": "1.7"
       }
     ]
   },
@@ -341,11 +89,11 @@
     "bets": [
       {
         "team": "Outer Delhi Warriors",
-        "odds": "1.96"
+        "odds": "1.9"
       },
       {
         "team": "New Delhi Tigers",
-        "odds": "1.75"
+        "odds": "1.8"
       }
     ]
   },
@@ -364,6 +112,20 @@
     ]
   },
   {
+    "date": "Aug 3, 03:45 PM",
+    "title": "St Edmunds CC - Brampton Royals",
+    "bets": [
+      {
+        "team": "St Edmunds CC",
+        "odds": "1.55"
+      },
+      {
+        "team": "Brampton Royals",
+        "odds": "2.23"
+      }
+    ]
+  },
+  {
     "date": "Aug 3, 04:00 PM",
     "title": "Karachi Kings Srl - Peshawar Zalmi SRL",
     "bets": [
@@ -374,6 +136,20 @@
       {
         "team": "Peshawar Zalmi Srl",
         "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Aug 3, 04:00 PM",
+    "title": "Spike Sports - Aston CC",
+    "bets": [
+      {
+        "team": "Spike Sports",
+        "odds": "2.35"
+      },
+      {
+        "team": "Aston CC",
+        "odds": "1.5"
       }
     ]
   },
@@ -434,6 +210,90 @@
     ]
   },
   {
+    "date": "Aug 4, 12:00 AM",
+    "title": "St Kitts And Nevis Patriots Srl - Barbados Royals Srl",
+    "bets": [
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "1.97"
+      },
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 12:00 AM",
+    "title": "West Indies - Pakistan",
+    "bets": [
+      {
+        "team": "West Indies",
+        "odds": "1.86"
+      },
+      {
+        "team": "Pakistan",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 02:00 AM",
+    "title": "Sydney Thunder Srl - Hobart Hurricanes Srl",
+    "bets": [
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.77"
+      },
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 03:30 AM",
+    "title": "Gauhati Town Club - Nabajyoti Club",
+    "bets": [
+      {
+        "team": "Gauhati Town Club",
+        "odds": "1.53"
+      },
+      {
+        "team": "Nabajyoti Club",
+        "odds": "2.35"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 04:00 AM",
+    "title": "Islamabad United Srl - Quetta Gladiators Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.99"
+      },
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 06:00 AM",
+    "title": "South Africa SRL - Australia SRL",
+    "bets": [
+      {
+        "team": "South Africa Srl",
+        "odds": "1.96"
+      },
+      {
+        "team": "Australia Srl",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
     "date": "Aug 4, 07:15 AM",
     "title": "Zimbabwe - South Africa",
     "bets": [
@@ -444,6 +304,132 @@
       {
         "team": "South Africa",
         "odds": "1.09"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 07:45 AM",
+    "title": "91 Yards Club - City Cricket Club",
+    "bets": [
+      {
+        "team": "91 Yards Club",
+        "odds": "1.69"
+      },
+      {
+        "team": "City Cricket Club",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 08:00 AM",
+    "title": "Rajasthan Royals SRL - Delhi Capitals SRL",
+    "bets": [
+      {
+        "team": "Rajasthan Royals SRL",
+        "odds": "1.99"
+      },
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 10:00 AM",
+    "title": "Durban Super Giants Srl - Sunrisers Eastern Cape Srl",
+    "bets": [
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "1.91"
+      },
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 12:00 PM",
+    "title": "Melbourne Stars SRL - Melbourne Renegades Srl",
+    "bets": [
+      {
+        "team": "Melbourne Stars Srl",
+        "odds": "1.81"
+      },
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 02:00 PM",
+    "title": "Punjab Kings SRL - Gujarat Titans Srl",
+    "bets": [
+      {
+        "team": "Punjab Kings SRL",
+        "odds": "1.86"
+      },
+      {
+        "team": "Gujarat Titans Srl",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 04:00 PM",
+    "title": "Peshawar Zalmi SRL - Lahore Qalanders Srl",
+    "bets": [
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "2.12"
+      },
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 06:00 PM",
+    "title": "Bangladesh Srl - Afghanistan Srl",
+    "bets": [
+      {
+        "team": "Bangladesh Srl",
+        "odds": "2.16"
+      },
+      {
+        "team": "Afghanistan Srl",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 08:00 PM",
+    "title": "Pretoria Capitals Srl - Mi Cape Town Srl",
+    "bets": [
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "2.28"
+      },
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Aug 4, 10:00 PM",
+    "title": "Northern Districts Srl - Auckland Srl",
+    "bets": [
+      {
+        "team": "Northern Districts Srl",
+        "odds": "2.04"
+      },
+      {
+        "team": "Auckland Srl",
+        "odds": "1.73"
       }
     ]
   }
