@@ -1,61 +1,5 @@
 [
   {
-    "date": "Aug 3, 12:30 PM",
-    "title": "Brampton Pacers CC - Punjab CC",
-    "bets": [
-      {
-        "team": "Brampton Pacers CC",
-        "odds": "2.1"
-      },
-      {
-        "team": "Punjab CC",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 12:45 PM",
-    "title": "Gaming CC - Pirates",
-    "bets": [
-      {
-        "team": "Gaming CC",
-        "odds": "6.23"
-      },
-      {
-        "team": "Pirates",
-        "odds": "1.07"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 01:30 PM",
-    "title": "Outer Delhi Warriors - New Delhi Tigers",
-    "bets": [
-      {
-        "team": "Outer Delhi Warriors",
-        "odds": "1.85"
-      },
-      {
-        "team": "New Delhi Tigers",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 02:00 PM",
-    "title": "Royal Challengers Bangalore SRL - Chennai Super Kings SRL",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.66"
-      },
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
     "date": "Aug 3, 03:45 PM",
     "title": "St Edmunds CC - Brampton Royals",
     "bets": [
@@ -336,6 +280,20 @@
     ]
   },
   {
+    "date": "Aug 4, 05:00 PM",
+    "title": "Helsinki Titans - Vantaa Legends",
+    "bets": [
+      {
+        "team": "Helsinki Titans",
+        "odds": "1.77"
+      },
+      {
+        "team": "Vantaa Legends",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
     "date": "Aug 4, 06:00 PM",
     "title": "Bangladesh Srl - Afghanistan Srl",
     "bets": [
@@ -374,6 +332,20 @@
       {
         "team": "Auckland Srl",
         "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Aug 5, 01:45 PM",
+    "title": "London Spirit (w) - Oval Invincibles (w)",
+    "bets": [
+      {
+        "team": "London Spirit (w)",
+        "odds": "2.41"
+      },
+      {
+        "team": "Oval Invincibles (w)",
+        "odds": "1.53"
       }
     ]
   }
