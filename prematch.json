@@ -1,85 +1,29 @@
 [
   {
-    "date": "Aug 3, 12:00 PM",
-    "title": "Sydney Sixers SRL - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 12:00 PM",
-    "title": "NPL Bears - Eavion Eagles",
-    "bets": [
-      {
-        "team": "NPL Bears",
-        "odds": "1.72"
-      },
-      {
-        "team": "Eavion Eagles",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 12:00 PM",
-    "title": "Miri Piri CC - Brampton Royals Gold",
-    "bets": [
-      {
-        "team": "Miri Piri CC",
-        "odds": "2.64"
-      },
-      {
-        "team": "Brampton Royals Gold",
-        "odds": "1.4"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 12:00 PM",
-    "title": "Patiala Shahi CC - Spartan CC",
-    "bets": [
-      {
-        "team": "Patiala Shahi CC",
-        "odds": "2.35"
-      },
-      {
-        "team": "Spartan CC",
-        "odds": "1.5"
-      }
-    ]
-  },
-  {
-    "date": "Aug 3, 12:00 PM",
-    "title": "Watan Warriors - Royal Tigers",
-    "bets": [
-      {
-        "team": "Watan Warriors",
-        "odds": "1.83"
-      },
-      {
-        "team": "Royal Tigers",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
     "date": "Aug 3, 12:30 PM",
     "title": "Brampton Pacers CC - Punjab CC",
     "bets": [
       {
         "team": "Brampton Pacers CC",
-        "odds": "1.98"
+        "odds": "2.1"
       },
       {
         "team": "Punjab CC",
-        "odds": "1.7"
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Aug 3, 12:45 PM",
+    "title": "Gaming CC - Pirates",
+    "bets": [
+      {
+        "team": "Gaming CC",
+        "odds": "6.23"
+      },
+      {
+        "team": "Pirates",
+        "odds": "1.07"
       }
     ]
   },
@@ -89,11 +33,11 @@
     "bets": [
       {
         "team": "Outer Delhi Warriors",
-        "odds": "1.9"
+        "odds": "1.85"
       },
       {
         "team": "New Delhi Tigers",
-        "odds": "1.8"
+        "odds": "1.85"
       }
     ]
   },
