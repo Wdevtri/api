@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "date": "Aug 6, 10:00 PM",
+    "title": "Canterbury Srl - Otago Srl",
+    "bets": [
+      {
+        "team": "Canterbury Srl",
+        "odds": "2.54"
+      },
+      {
+        "team": "Otago Srl",
+        "odds": "1.48"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 09:35 PM",
+    "title": "Lucknow Super Giants (cyber) - Gujarat Titans (cyber)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 10:05 PM",
+    "title": "Australia (cyber) - England (cyber)",
+    "bets": [
+      {
+        "team": "Australia (cyber)",
+        "odds": "2.74"
+      },
+      {
+        "team": "England (cyber)",
+        "odds": "1.34"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 10:35 PM",
+    "title": "Kolkata Knight Riders (cyber) - Delhi Capitals (cyber)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "1.62"
+      },
+      {
+        "team": "Delhi Capitals (cyber)",
+        "odds": "2.03"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 10:30 PM",
+    "title": "Indoorheroes - Sportable",
+    "bets": [
+      {
+        "team": "Indoorheroes",
+        "odds": "2.25"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.54"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 11:00 PM",
+    "title": "Fortner Boys - Stunners Indoor",
+    "bets": [
+      {
+        "team": "Fortner Boys",
+        "odds": "1.87"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.53"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 11:05 PM",
+    "title": "Sri Lanka (cyber) - India (cyber)",
+    "bets": [
+      {
+        "team": "Sri Lanka (cyber)",
+        "odds": "4.51"
+      },
+      {
+        "team": "India (cyber)",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 09:48 PM",
+    "title": "Saint Lucia Kings (V) - Barbados Royals (V)",
+    "bets": [
+      {
+        "team": "Saint Lucia Kings (V)",
+        "odds": "1.25"
+      },
+      {
+        "team": "Barbados Royals (V)",
+        "odds": "3.55"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 10:16 PM",
+    "title": "Sunrisers Hyderabad (V) - Rajasthan Royals (V)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (V)",
+        "odds": "1.49"
+      },
+      {
+        "team": "Rajasthan Royals (V)",
+        "odds": "2.45"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 10:44 PM",
+    "title": "Dambulla Sixers (V) - B-Love Kandy (V)",
+    "bets": [
+      {
+        "team": "Dambulla Sixers (V)",
+        "odds": "1.75"
+      },
+      {
+        "team": "B-Love Kandy (V)",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 10:53 PM",
+    "title": "Delhi Capitals (V) - Royal Challengers Bengaluru (V)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (V)",
+        "odds": "1.04"
+      },
+      {
+        "team": "Royal Challengers Bengaluru (V)",
+        "odds": "7.5"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 10:55 PM",
+    "title": "India (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "India (V)",
+        "odds": "3.25"
+      },
+      {
+        "team": "Draw",
+        "odds": "10"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 10:53 PM",
+    "title": "Pakistan (V) - England (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "1.52"
+      },
+      {
+        "team": "England (V)",
+        "odds": "2.36"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 10:57 PM",
+    "title": "Brisbane Heat (V) - Sydney Thunder (V)",
+    "bets": [
+      {
+        "team": "Brisbane Heat (V)",
+        "odds": "1.22"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 11:00 PM",
+    "title": "Sri Lanka (V) - Ireland (V)",
+    "bets": [
+      {
+        "team": "Sri Lanka (V)",
+        "odds": "1.35"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Aug 6, 11:02 PM",
+    "title": "Royal Challengers Bengaluru (V) - Chennai Super Kings (V)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bengaluru (V)",
+        "odds": "2.75"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  }
+]
