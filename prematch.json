@@ -1,47 +1,5 @@
 [
   {
-    "date": "Aug 7, 03:15 PM",
-    "title": "Wimbledon - Weybridge",
-    "bets": [
-      {
-        "team": "Wimbledon",
-        "odds": "1.25"
-      },
-      {
-        "team": "Weybridge",
-        "odds": "3.41"
-      }
-    ]
-  },
-  {
-    "date": "Aug 7, 04:00 PM",
-    "title": "Karachi Kings Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "2.04"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Aug 7, 05:30 PM",
-    "title": "Northern Superchargers - Welsh Fire",
-    "bets": [
-      {
-        "team": "Northern Superchargers",
-        "odds": "1.65"
-      },
-      {
-        "team": "Welsh Fire",
-        "odds": "2.26"
-      }
-    ]
-  },
-  {
     "date": "Aug 7, 06:00 PM",
     "title": "Australia SRL - India SRL",
     "bets": [
@@ -103,11 +61,11 @@
     "bets": [
       {
         "team": "Selangor",
-        "odds": "2.06"
+        "odds": "2.55"
       },
       {
         "team": "Perak",
-        "odds": "1.68"
+        "odds": "1.45"
       }
     ]
   },
@@ -122,6 +80,20 @@
       {
         "team": "Hobart Hurricanes Srl",
         "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Aug 8, 03:30 AM",
+    "title": "Gauhati Town Club - 91 Yards Club",
+    "bets": [
+      {
+        "team": "Gauhati Town Club",
+        "odds": "2.02"
+      },
+      {
+        "team": "91 Yards Club",
+        "odds": "1.71"
       }
     ]
   },
@@ -178,6 +150,20 @@
       {
         "team": "Kuala Lumpur",
         "odds": "1.11"
+      }
+    ]
+  },
+  {
+    "date": "Aug 8, 07:00 AM",
+    "title": "Croatia - Cyprus",
+    "bets": [
+      {
+        "team": "Croatia",
+        "odds": "4"
+      },
+      {
+        "team": "Cyprus",
+        "odds": "1.19"
       }
     ]
   },
@@ -253,15 +239,43 @@
   },
   {
     "date": "Aug 8, 08:30 AM",
+    "title": "France - Norway",
+    "bets": [
+      {
+        "team": "France",
+        "odds": "1.94"
+      },
+      {
+        "team": "Norway",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Aug 8, 08:30 AM",
     "title": "East Delhi Riders - Outer Delhi Warriors",
     "bets": [
       {
         "team": "East Delhi Riders",
-        "odds": "1.88"
+        "odds": "1.85"
       },
       {
         "team": "Outer Delhi Warriors",
-        "odds": "1.82"
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Aug 8, 09:00 AM",
+    "title": "Banstead - Spencer CC",
+    "bets": [
+      {
+        "team": "Banstead",
+        "odds": "1.48"
+      },
+      {
+        "team": "Spencer CC",
+        "odds": "2.4"
       }
     ]
   },
@@ -308,6 +322,34 @@
     ]
   },
   {
+    "date": "Aug 8, 11:00 AM",
+    "title": "Wimbledon - East Molesey",
+    "bets": [
+      {
+        "team": "Wimbledon",
+        "odds": "1.52"
+      },
+      {
+        "team": "East Molesey",
+        "odds": "2.29"
+      }
+    ]
+  },
+  {
+    "date": "Aug 8, 11:30 AM",
+    "title": "Mumbai Stars - Royal Challengers Delhi",
+    "bets": [
+      {
+        "team": "Mumbai Stars",
+        "odds": "1.88"
+      },
+      {
+        "team": "Royal Challengers Delhi",
+        "odds": "1.82"
+      }
+    ]
+  },
+  {
     "date": "Aug 8, 12:00 PM",
     "title": "Sydney Sixers SRL - Melbourne Renegades Srl",
     "bets": [
@@ -336,6 +378,20 @@
     ]
   },
   {
+    "date": "Aug 8, 12:30 PM",
+    "title": "Sweden - Austria",
+    "bets": [
+      {
+        "team": "Sweden",
+        "odds": "2.18"
+      },
+      {
+        "team": "Austria",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
     "date": "Aug 8, 01:00 PM",
     "title": "Somerset - Durham",
     "bets": [
@@ -346,6 +402,20 @@
       {
         "team": "Durham",
         "odds": "2.34"
+      }
+    ]
+  },
+  {
+    "date": "Aug 8, 01:30 PM",
+    "title": "Bengal Tigers - Rajasthan Raiders",
+    "bets": [
+      {
+        "team": "Bengal Tigers",
+        "odds": "1.9"
+      },
+      {
+        "team": "Rajasthan Raiders",
+        "odds": "1.8"
       }
     ]
   },
@@ -420,16 +490,30 @@
     ]
   },
   {
+    "date": "Aug 8, 02:30 PM",
+    "title": "TreCC Amperes - Helsinki Titans",
+    "bets": [
+      {
+        "team": "TreCC Amperes",
+        "odds": "1.96"
+      },
+      {
+        "team": "Helsinki Titans",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
     "date": "Aug 8, 03:00 PM",
     "title": "Ireland - Pakistan",
     "bets": [
       {
         "team": "Ireland",
-        "odds": "2.06"
+        "odds": "2.04"
       },
       {
         "team": "Pakistan",
-        "odds": "1.65"
+        "odds": "1.66"
       }
     ]
   },
@@ -467,11 +551,11 @@
     "bets": [
       {
         "team": "West Indies",
-        "odds": "2.5"
+        "odds": "2.48"
       },
       {
         "team": "Pakistan",
-        "odds": "1.54"
+        "odds": "1.55"
       }
     ]
   },
@@ -612,6 +696,20 @@
       {
         "team": "Manchester Originals",
         "odds": "2.4"
+      }
+    ]
+  },
+  {
+    "date": "Aug 9, 01:30 PM",
+    "title": "Welsh Fire - London Spirit",
+    "bets": [
+      {
+        "team": "Welsh Fire",
+        "odds": "1.94"
+      },
+      {
+        "team": "London Spirit",
+        "odds": "1.87"
       }
     ]
   }
