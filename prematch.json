@@ -1,43 +1,15 @@
 [
   {
-    "date": "Aug 7, 12:00 AM",
-    "title": "Barbados Royals Srl - Trinbago Knight Riders SRL",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "Aug 7, 02:00 AM",
-    "title": "Sydney Thunder Srl - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
     "date": "Aug 7, 03:30 AM",
     "title": "91 Yards Club - Navarang Club",
     "bets": [
       {
         "team": "91 Yards Club",
-        "odds": "1.51"
+        "odds": "1.45"
       },
       {
         "team": "Navarang Club",
-        "odds": "2.38"
+        "odds": "2.56"
       }
     ]
   },
@@ -131,11 +103,11 @@
     "bets": [
       {
         "team": "Zimbabwe",
-        "odds": "10.5"
+        "odds": "11"
       },
       {
         "team": "Draw",
-        "odds": "21"
+        "odds": "19"
       }
     ]
   },
@@ -173,11 +145,11 @@
     "bets": [
       {
         "team": "Purani Delhi 6",
-        "odds": "2.5"
+        "odds": "2.52"
       },
       {
         "team": "West Delhi Lions",
-        "odds": "1.47"
+        "odds": "1.46"
       }
     ]
   },
@@ -229,11 +201,11 @@
     "bets": [
       {
         "team": "Nottinghamshire",
-        "odds": "1.74"
+        "odds": "1.89"
       },
       {
         "team": "Worcestershire",
-        "odds": "2.02"
+        "odds": "1.85"
       }
     ]
   },
@@ -313,11 +285,11 @@
     "bets": [
       {
         "team": "Central Delhi Kings",
-        "odds": "1.54"
+        "odds": "1.56"
       },
       {
         "team": "South Delhi Superstarz",
-        "odds": "2.32"
+        "odds": "2.27"
       }
     ]
   },
@@ -327,11 +299,11 @@
     "bets": [
       {
         "team": "Northern Superchargers",
-        "odds": "2.18"
+        "odds": "2.08"
       },
       {
         "team": "Welsh Fire",
-        "odds": "1.69"
+        "odds": "1.75"
       }
     ]
   },
