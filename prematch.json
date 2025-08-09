@@ -1,47 +1,5 @@
 [
   {
-    "date": "Aug 9, 04:00 PM",
-    "title": "Quetta Gladiators Srl - Peshawar Zalmi SRL",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Aug 9, 05:00 PM",
-    "title": "Welsh Fire - London Spirit",
-    "bets": [
-      {
-        "team": "Welsh Fire",
-        "odds": "1.89"
-      },
-      {
-        "team": "London Spirit",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Aug 9, 06:00 PM",
-    "title": "Pakistan SRL - Australia SRL",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Australia Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
     "date": "Aug 9, 08:00 PM",
     "title": "Sunrisers Eastern Cape Srl - Pretoria Capitals Srl",
     "bets": [
@@ -182,6 +140,20 @@
     ]
   },
   {
+    "date": "Aug 10, 06:30 AM",
+    "title": "Sweden - France",
+    "bets": [
+      {
+        "team": "Sweden",
+        "odds": "1.51"
+      },
+      {
+        "team": "France",
+        "odds": "2.34"
+      }
+    ]
+  },
+  {
     "date": "Aug 10, 07:00 AM",
     "title": "HBS - Punjab Ghausia 1",
     "bets": [
@@ -201,11 +173,25 @@
     "bets": [
       {
         "team": "Hermes DVS",
-        "odds": "1.39"
+        "odds": "1.35"
       },
       {
         "team": "Rood en Wit",
-        "odds": "2.68"
+        "odds": "2.88"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 07:00 AM",
+    "title": "Croatia - Cyprus",
+    "bets": [
+      {
+        "team": "Croatia",
+        "odds": "1.54"
+      },
+      {
+        "team": "Cyprus",
+        "odds": "2.32"
       }
     ]
   },
@@ -220,6 +206,20 @@
       {
         "team": "South Africa",
         "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 07:30 AM",
+    "title": "NPL Bears - Eavion Eagles",
+    "bets": [
+      {
+        "team": "NPL Bears",
+        "odds": "1.75"
+      },
+      {
+        "team": "Eavion Eagles",
+        "odds": "1.96"
       }
     ]
   },
@@ -271,11 +271,39 @@
     "bets": [
       {
         "team": "Australia A (w)",
-        "odds": "1.2"
+        "odds": "1.21"
       },
       {
         "team": "India A (w)",
-        "odds": "3.89"
+        "odds": "3.81"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 08:00 AM",
+    "title": "Kakinada Kings - Vijayawada Sunshiners",
+    "bets": [
+      {
+        "team": "Kakinada Kings",
+        "odds": "1.92"
+      },
+      {
+        "team": "Vijayawada Sunshiners",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 08:30 AM",
+    "title": "Purani Delhi 6 - North Delhi Strikers",
+    "bets": [
+      {
+        "team": "Purani Delhi 6",
+        "odds": "1.75"
+      },
+      {
+        "team": "North Delhi Strikers",
+        "odds": "1.96"
       }
     ]
   },
@@ -420,6 +448,20 @@
     ]
   },
   {
+    "date": "Aug 10, 10:00 AM",
+    "title": "Austria - Norway",
+    "bets": [
+      {
+        "team": "Austria",
+        "odds": "1.48"
+      },
+      {
+        "team": "Norway",
+        "odds": "2.4"
+      }
+    ]
+  },
+  {
     "date": "Aug 10, 11:30 AM",
     "title": "Excelsior 20 - VCC",
     "bets": [
@@ -462,6 +504,34 @@
     ]
   },
   {
+    "date": "Aug 10, 12:00 PM",
+    "title": "Paratus Jets - Pupkewitz Wildcats",
+    "bets": [
+      {
+        "team": "Paratus Jets",
+        "odds": "2.04"
+      },
+      {
+        "team": "Pupkewitz Wildcats",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 01:00 PM",
+    "title": "Bhimavaram Bulls - Royals of Rayalaseema",
+    "bets": [
+      {
+        "team": "Bhimavaram Bulls",
+        "odds": "1.72"
+      },
+      {
+        "team": "Royals of Rayalaseema",
+        "odds": "2"
+      }
+    ]
+  },
+  {
     "date": "Aug 10, 01:30 PM",
     "title": "Trent Rockets - Northern Superchargers",
     "bets": [
@@ -481,11 +551,11 @@
     "bets": [
       {
         "team": "Southern Brave",
-        "odds": "1.95"
+        "odds": "1.82"
       },
       {
         "team": "Birmingham Phoenix",
-        "odds": "1.86"
+        "odds": "2"
       }
     ]
   },
@@ -500,6 +570,20 @@
       {
         "team": "Pakistan",
         "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 01:30 PM",
+    "title": "West Delhi Lions - East Delhi Riders",
+    "bets": [
+      {
+        "team": "West Delhi Lions",
+        "odds": "1.78"
+      },
+      {
+        "team": "East Delhi Riders",
+        "odds": "1.92"
       }
     ]
   },
@@ -551,11 +635,11 @@
     "bets": [
       {
         "team": "Trent Rockets",
-        "odds": "2.02"
+        "odds": "2"
       },
       {
         "team": "Northern Superchargers",
-        "odds": "1.8"
+        "odds": "1.82"
       }
     ]
   },
@@ -598,6 +682,20 @@
       {
         "team": "Auckland Srl",
         "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Aug 11, 02:00 PM",
+    "title": "Manchester Originals - London Spirit",
+    "bets": [
+      {
+        "team": "Manchester Originals",
+        "odds": "1.72"
+      },
+      {
+        "team": "London Spirit",
+        "odds": "2.14"
       }
     ]
   }
