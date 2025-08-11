@@ -1,285 +1,5 @@
 [
   {
-    "date": "Aug 11, 04:00 AM",
-    "title": "Peshawar Zalmi SRL - Karachi Kings Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "1.94"
-      },
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 06:00 AM",
-    "title": "England SRL - Pakistan SRL",
-    "bets": [
-      {
-        "team": "England Srl",
-        "odds": "1.68"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 06:45 AM",
-    "title": "Zagreb Warriors - Zagreb Sokol",
-    "bets": [
-      {
-        "team": "Zagreb Warriors",
-        "odds": "4.84"
-      },
-      {
-        "team": "Zagreb Sokol",
-        "odds": "1.13"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 07:45 AM",
-    "title": "Navarang Club - Guwahati Giants",
-    "bets": [
-      {
-        "team": "Navarang Club",
-        "odds": "2.94"
-      },
-      {
-        "team": "Guwahati Giants",
-        "odds": "1.35"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 08:00 AM",
-    "title": "Chennai Super Kings SRL - Mumbai Indians SRL",
-    "bets": [
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.28"
-      },
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 08:00 AM",
-    "title": "SLC Greens - SLC Blues",
-    "bets": [
-      {
-        "team": "SLC Greens",
-        "odds": "1.85"
-      },
-      {
-        "team": "SLC Blues",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 08:00 AM",
-    "title": "Amaravati Royals - Tungabhadra Warriors",
-    "bets": [
-      {
-        "team": "Amaravati Royals",
-        "odds": "1.68"
-      },
-      {
-        "team": "Tungabhadra Warriors",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 08:30 AM",
-    "title": "South Delhi Superstarz - New Delhi Tigers",
-    "bets": [
-      {
-        "team": "South Delhi Superstarz",
-        "odds": "1.98"
-      },
-      {
-        "team": "New Delhi Tigers",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 09:45 AM",
-    "title": "Gulbarga Mystics - Mangaluru Dragons",
-    "bets": [
-      {
-        "team": "Gulbarga Mystics",
-        "odds": "1.69"
-      },
-      {
-        "team": "Mangaluru Dragons",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 10:00 AM",
-    "title": "Pretoria Capitals Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.91"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 12:00 PM",
-    "title": "Hobart Hurricanes Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.74"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 01:00 PM",
-    "title": "Simhadri Vizag Lions - Kakinada Kings",
-    "bets": [
-      {
-        "team": "Simhadri Vizag Lions",
-        "odds": "2.08"
-      },
-      {
-        "team": "Kakinada Kings",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 01:30 PM",
-    "title": "North Delhi Strikers - West Delhi Lions",
-    "bets": [
-      {
-        "team": "North Delhi Strikers",
-        "odds": "2.13"
-      },
-      {
-        "team": "West Delhi Lions",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 01:45 PM",
-    "title": "Bengaluru Blasters - Mysore Warriors",
-    "bets": [
-      {
-        "team": "Bengaluru Blasters",
-        "odds": "2.22"
-      },
-      {
-        "team": "Mysore Warriors",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 02:00 PM",
-    "title": "Manchester Originals - London Spirit",
-    "bets": [
-      {
-        "team": "Manchester Originals",
-        "odds": "1.76"
-      },
-      {
-        "team": "London Spirit",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 02:00 PM",
-    "title": "Delhi Capitals SRL - Sunrisers Hyderabad SRL",
-    "bets": [
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "1.89"
-      },
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 04:00 PM",
-    "title": "Quetta Gladiators Srl - Islamabad United Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.77"
-      },
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 05:30 PM",
-    "title": "Manchester Originals - London Spirit",
-    "bets": [
-      {
-        "team": "Manchester Originals",
-        "odds": "1.96"
-      },
-      {
-        "team": "London Spirit",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 06:00 PM",
-    "title": "West Indies Srl - Afghanistan Srl",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "1.62"
-      },
-      {
-        "team": "Afghanistan Srl",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Aug 11, 08:00 PM",
-    "title": "Sunrisers Eastern Cape Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
     "date": "Aug 11, 10:00 PM",
     "title": "Northern Districts Srl - Otago Srl",
     "bets": [
@@ -308,6 +28,20 @@
     ]
   },
   {
+    "date": "Aug 12, 01:30 AM",
+    "title": "Kuala Lumpur - Johor",
+    "bets": [
+      {
+        "team": "Kuala Lumpur",
+        "odds": "1.31"
+      },
+      {
+        "team": "Johor",
+        "odds": "3.12"
+      }
+    ]
+  },
+  {
     "date": "Aug 12, 02:00 AM",
     "title": "Sydney Thunder Srl - Melbourne Stars SRL",
     "bets": [
@@ -318,6 +52,20 @@
       {
         "team": "Melbourne Stars Srl",
         "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 03:30 AM",
+    "title": "Gauhati Town Club - City Cricket Club",
+    "bets": [
+      {
+        "team": "Gauhati Town Club",
+        "odds": "1.71"
+      },
+      {
+        "team": "City Cricket Club",
+        "odds": "2.02"
       }
     ]
   },
@@ -350,6 +98,48 @@
     ]
   },
   {
+    "date": "Aug 12, 06:00 AM",
+    "title": "Perak - Selangor",
+    "bets": [
+      {
+        "team": "Perak",
+        "odds": "1.26"
+      },
+      {
+        "team": "Selangor",
+        "odds": "3.44"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 06:45 AM",
+    "title": "Zagreb Warriors - Zagreb Sokol",
+    "bets": [
+      {
+        "team": "Zagreb Warriors",
+        "odds": "5.22"
+      },
+      {
+        "team": "Zagreb Sokol",
+        "odds": "1.11"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 07:45 AM",
+    "title": "Bud Cricket Club - Nabajyoti Club",
+    "bets": [
+      {
+        "team": "Bud Cricket Club",
+        "odds": "1.44"
+      },
+      {
+        "team": "Nabajyoti Club",
+        "odds": "2.59"
+      }
+    ]
+  },
+  {
     "date": "Aug 12, 08:00 AM",
     "title": "Gujarat Titans Srl - Royal Challengers Bangalore SRL",
     "bets": [
@@ -364,16 +154,58 @@
     ]
   },
   {
+    "date": "Aug 12, 08:00 AM",
+    "title": "Bhimavaram Bulls - Amaravati Royals",
+    "bets": [
+      {
+        "team": "Bhimavaram Bulls",
+        "odds": "1.85"
+      },
+      {
+        "team": "Amaravati Royals",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 08:30 AM",
+    "title": "Outer Delhi Warriors - Central Delhi Kings",
+    "bets": [
+      {
+        "team": "Outer Delhi Warriors",
+        "odds": "2.06"
+      },
+      {
+        "team": "Central Delhi Kings",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
     "date": "Aug 12, 09:15 AM",
     "title": "Australia - South Africa",
     "bets": [
       {
         "team": "Australia",
-        "odds": "1.33"
+        "odds": "1.32"
       },
       {
         "team": "South Africa",
-        "odds": "3.35"
+        "odds": "3.45"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 09:45 AM",
+    "title": "Hubli Tigers - Shivamogga Lions",
+    "bets": [
+      {
+        "team": "Hubli Tigers",
+        "odds": "1.53"
+      },
+      {
+        "team": "Shivamogga Lions",
+        "odds": "2.35"
       }
     ]
   },
@@ -420,16 +252,58 @@
     ]
   },
   {
+    "date": "Aug 12, 01:00 PM",
+    "title": "Vijayawada Sunshiners - Simhadri Vizag Lions",
+    "bets": [
+      {
+        "team": "Vijayawada Sunshiners",
+        "odds": "1.69"
+      },
+      {
+        "team": "Simhadri Vizag Lions",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
     "date": "Aug 12, 01:30 PM",
     "title": "West Indies - Pakistan",
     "bets": [
       {
         "team": "West Indies",
-        "odds": "2.32"
+        "odds": "2.36"
       },
       {
         "team": "Pakistan",
-        "odds": "1.61"
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 01:30 PM",
+    "title": "Purani Delhi 6 - East Delhi Riders",
+    "bets": [
+      {
+        "team": "Purani Delhi 6",
+        "odds": "2.13"
+      },
+      {
+        "team": "East Delhi Riders",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 01:45 PM",
+    "title": "Mysuru Warriors - Gulbarga Mystics",
+    "bets": [
+      {
+        "team": "Mysuru Warriors",
+        "odds": "1.69"
+      },
+      {
+        "team": "Gulbarga Mystics",
+        "odds": "2.04"
       }
     ]
   },
@@ -439,11 +313,11 @@
     "bets": [
       {
         "team": "Birmingham Phoenix",
-        "odds": "1.97"
+        "odds": "2"
       },
       {
         "team": "Oval Invincibles",
-        "odds": "1.84"
+        "odds": "1.81"
       }
     ]
   },
@@ -481,11 +355,95 @@
     "bets": [
       {
         "team": "Birmingham Phoenix",
-        "odds": "2.22"
+        "odds": "2.28"
       },
       {
         "team": "Oval Invincibles",
-        "odds": "1.66"
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 06:00 PM",
+    "title": "South Africa SRL - England SRL",
+    "bets": [
+      {
+        "team": "South Africa Srl",
+        "odds": "1.9"
+      },
+      {
+        "team": "England Srl",
+        "odds": "1.84"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 08:00 PM",
+    "title": "Paarl Royals Srl - Joburg Super Kings Srl",
+    "bets": [
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.75"
+      },
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 12, 10:00 PM",
+    "title": "Wellington Srl - Canterbury Srl",
+    "bets": [
+      {
+        "team": "Wellington Srl",
+        "odds": "1.97"
+      },
+      {
+        "team": "Canterbury Srl",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 10:30 AM",
+    "title": "Southern Brave - Northern Superchargers",
+    "bets": [
+      {
+        "team": "Southern Brave",
+        "odds": "1.79"
+      },
+      {
+        "team": "Northern Superchargers",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 02:00 PM",
+    "title": "Southern Brave - Northern Superchargers",
+    "bets": [
+      {
+        "team": "Southern Brave",
+        "odds": "1.79"
+      },
+      {
+        "team": "Northern Superchargers",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 02:00 PM",
+    "title": "Welsh Fire - Manchester Originals",
+    "bets": [
+      {
+        "team": "Welsh Fire",
+        "odds": "1.85"
+      },
+      {
+        "team": "Manchester Originals",
+        "odds": "1.97"
       }
     ]
   }
