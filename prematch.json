@@ -1,33 +1,5 @@
 [
   {
-    "date": "Aug 14, 06:00 PM",
-    "title": "Sri Lanka Srl - Bangladesh Srl",
-    "bets": [
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "1.58"
-      },
-      {
-        "team": "Bangladesh Srl",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 08:00 PM",
-    "title": "Pretoria Capitals Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.92"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
     "date": "Aug 14, 10:00 PM",
     "title": "Canterbury Srl - Central Districts Srl",
     "bets": [
@@ -173,11 +145,39 @@
     "bets": [
       {
         "team": "Chicago Kingsmen",
-        "odds": "4.53"
+        "odds": "3.91"
       },
       {
         "team": "Perth Scorchers Academy",
-        "odds": "1.16"
+        "odds": "1.21"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 06:45 AM",
+    "title": "Zagreb Sokol - Sir Oliver Split",
+    "bets": [
+      {
+        "team": "Zagreb Sokol",
+        "odds": "1.44"
+      },
+      {
+        "team": "Sir Oliver Split",
+        "odds": "2.52"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 07:15 AM",
+    "title": "Norway - Hungary",
+    "bets": [
+      {
+        "team": "Norway",
+        "odds": "1.96"
+      },
+      {
+        "team": "Hungary",
+        "odds": "1.75"
       }
     ]
   },
@@ -220,6 +220,34 @@
       {
         "team": "Nepal",
         "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 08:45 AM",
+    "title": "Rijeka Markhors - Zagreb Assassins",
+    "bets": [
+      {
+        "team": "Rijeka Markhors",
+        "odds": "1.58"
+      },
+      {
+        "team": "Zagreb Assassins",
+        "odds": "2.17"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 09:45 AM",
+    "title": "Shivamogga Lions - Bengaluru Blasters",
+    "bets": [
+      {
+        "team": "Shivamogga Lions",
+        "odds": "2.22"
+      },
+      {
+        "team": "Bengaluru Blasters",
+        "odds": "1.59"
       }
     ]
   },
@@ -299,11 +327,11 @@
     "bets": [
       {
         "team": "Essex",
-        "odds": "1.97"
+        "odds": "1.88"
       },
       {
         "team": "Surrey",
-        "odds": "1.77"
+        "odds": "1.86"
       }
     ]
   },
@@ -710,6 +738,20 @@
       {
         "team": "Welsh Fire",
         "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 16, 01:30 PM",
+    "title": "Trent Rockets - Southern Brave",
+    "bets": [
+      {
+        "team": "Trent Rockets",
+        "odds": "2.08"
+      },
+      {
+        "team": "Southern Brave",
+        "odds": "1.75"
       }
     ]
   },
