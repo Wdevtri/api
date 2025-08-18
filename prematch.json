@@ -1,19 +1,5 @@
 [
   {
-    "date": "Aug 18, 06:00 PM",
-    "title": "Sri Lanka Srl - Pakistan SRL",
-    "bets": [
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.14"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
     "date": "Aug 18, 08:00 PM",
     "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
     "bets": [
@@ -154,6 +140,20 @@
     ]
   },
   {
+    "date": "Aug 19, 07:15 AM",
+    "title": "1. Kieler HTC - Masroor SC",
+    "bets": [
+      {
+        "team": "1. Kieler HTC",
+        "odds": "1.52"
+      },
+      {
+        "team": "Masroor SC",
+        "odds": "2.29"
+      }
+    ]
+  },
+  {
     "date": "Aug 19, 08:00 AM",
     "title": "Royal Challengers Bangalore SRL - Mumbai Indians SRL",
     "bets": [
@@ -178,6 +178,34 @@
       {
         "team": "Bhimavaram Bulls",
         "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Aug 19, 08:30 AM",
+    "title": "South Delhi Superstarz (w) - East Delhi Riders (w)",
+    "bets": [
+      {
+        "team": "South Delhi Superstarz (w)",
+        "odds": "1.72"
+      },
+      {
+        "team": "East Delhi Riders (w)",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 19, 09:15 AM",
+    "title": "THCC Rot-Gelb Hamburg - KSV Kings",
+    "bets": [
+      {
+        "team": "THCC Rot-Gelb Hamburg",
+        "odds": "2.59"
+      },
+      {
+        "team": "KSV Kings",
+        "odds": "1.42"
       }
     ]
   },
@@ -252,6 +280,20 @@
     ]
   },
   {
+    "date": "Aug 19, 01:00 PM",
+    "title": "Amaravati Royals - Vijayawada Sunshiners",
+    "bets": [
+      {
+        "team": "Amaravati Royals",
+        "odds": "1.65"
+      },
+      {
+        "team": "Vijayawada Sunshiners",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
     "date": "Aug 19, 01:30 PM",
     "title": "East Delhi Riders - Purani Delhi 6",
     "bets": [
@@ -290,6 +332,20 @@
       {
         "team": "Gujarat Titans Srl",
         "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Aug 19, 02:00 PM",
+    "title": "Meerut Mavericks - Lucknow Falcons",
+    "bets": [
+      {
+        "team": "Meerut Mavericks",
+        "odds": "1.49"
+      },
+      {
+        "team": "Lucknow Falcons",
+        "odds": "2.44"
       }
     ]
   },
@@ -369,11 +425,11 @@
     "bets": [
       {
         "team": "St Kitts and Nevis Patriots",
-        "odds": "1.94"
+        "odds": "1.9"
       },
       {
         "team": "Saint Lucia Kings",
-        "odds": "1.86"
+        "odds": "1.9"
       }
     ]
   },
@@ -458,6 +514,20 @@
       {
         "team": "Northern Superchargers",
         "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 05:30 PM",
+    "title": "London Spirit - Northern Superchargers",
+    "bets": [
+      {
+        "team": "London Spirit",
+        "odds": "2.14"
+      },
+      {
+        "team": "Northern Superchargers",
+        "odds": "1.72"
       }
     ]
   }
