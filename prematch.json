@@ -1,19 +1,5 @@
 [
   {
-    "date": "Aug 18, 07:15 AM",
-    "title": "THCC Rot-Gelb Hamburg - Masroor SC",
-    "bets": [
-      {
-        "team": "THCC Rot-Gelb Hamburg",
-        "odds": "1.52"
-      },
-      {
-        "team": "Masroor SC",
-        "odds": "2.29"
-      }
-    ]
-  },
-  {
     "date": "Aug 18, 08:00 AM",
     "title": "Rajasthan Royals SRL - Sunrisers Hyderabad SRL",
     "bets": [
@@ -43,20 +29,6 @@
   },
   {
     "date": "Aug 18, 08:30 AM",
-    "title": "East Delhi Riders - Central Delhi Queens",
-    "bets": [
-      {
-        "team": "East Delhi Riders",
-        "odds": "1.64"
-      },
-      {
-        "team": "Central Delhi Queens",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Aug 18, 08:30 AM",
     "title": "Melbourne Renegades Academy - Pakistan A",
     "bets": [
       {
@@ -66,6 +38,20 @@
       {
         "team": "Pakistan A",
         "odds": "1.48"
+      }
+    ]
+  },
+  {
+    "date": "Aug 18, 08:30 AM",
+    "title": "East Delhi Riders (w) - Central Delhi Queens (w)",
+    "bets": [
+      {
+        "team": "East Delhi Riders (w)",
+        "odds": "1.71"
+      },
+      {
+        "team": "Central Delhi Queens (w)",
+        "odds": "2.02"
       }
     ]
   },
