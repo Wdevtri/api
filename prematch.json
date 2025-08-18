@@ -1,19 +1,5 @@
 [
   {
-    "date": "Aug 18, 08:00 PM",
-    "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
     "date": "Aug 18, 10:00 PM",
     "title": "Wellington Srl - Auckland Srl",
     "bets": [
@@ -486,6 +472,20 @@
       {
         "team": "Southern Brave",
         "odds": "1.53"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 12:30 PM",
+    "title": "Hurricanes - Seafarers",
+    "bets": [
+      {
+        "team": "Hurricanes",
+        "odds": "1.94"
+      },
+      {
+        "team": "Seafarers",
+        "odds": "1.74"
       }
     ]
   },
