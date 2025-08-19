@@ -1,75 +1,5 @@
 [
   {
-    "date": "Aug 18, 10:00 PM",
-    "title": "Wellington Srl - Auckland Srl",
-    "bets": [
-      {
-        "team": "Wellington Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Auckland Srl",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 12:00 AM",
-    "title": "Central Districts Srl - Otago Srl",
-    "bets": [
-      {
-        "team": "Central Districts Srl",
-        "odds": "1.97"
-      },
-      {
-        "team": "Otago Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 12:30 AM",
-    "title": "Adelaide Strikers Academy - Perth Scorchers Academy",
-    "bets": [
-      {
-        "team": "Adelaide Strikers Academy",
-        "odds": "1.85"
-      },
-      {
-        "team": "Perth Scorchers Academy",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 02:00 AM",
-    "title": "Sydney Sixers SRL - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 03:30 AM",
-    "title": "Chicago Kingsmen - Pakistan A",
-    "bets": [
-      {
-        "team": "Chicago Kingsmen",
-        "odds": "2.53"
-      },
-      {
-        "team": "Pakistan A",
-        "odds": "1.46"
-      }
-    ]
-  },
-  {
     "date": "Aug 19, 04:00 AM",
     "title": "Islamabad United Srl - Quetta Gladiators Srl",
     "bets": [
@@ -103,11 +33,11 @@
     "bets": [
       {
         "team": "Nepal",
-        "odds": "2.22"
+        "odds": "2.32"
       },
       {
         "team": "Hobart Hurricanes Academy",
-        "odds": "1.59"
+        "odds": "1.54"
       }
     ]
   },
@@ -159,7 +89,7 @@
     "bets": [
       {
         "team": "Kakinada Kings",
-        "odds": "1.93"
+        "odds": "1.92"
       },
       {
         "team": "Bhimavaram Bulls",
@@ -215,11 +145,25 @@
     "bets": [
       {
         "team": "Kanpur Superstars",
-        "odds": "2.06"
+        "odds": "2.1"
       },
       {
         "team": "Kashi Rudras",
-        "odds": "1.68"
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Aug 19, 09:45 AM",
+    "title": "Gulbarga Mystics - Shivamogga Lions",
+    "bets": [
+      {
+        "team": "Gulbarga Mystics",
+        "odds": "1.51"
+      },
+      {
+        "team": "Shivamogga Lions",
+        "odds": "2.38"
       }
     ]
   },
@@ -229,11 +173,11 @@
     "bets": [
       {
         "team": "Middlesex",
-        "odds": "1.67"
+        "odds": "1.65"
       },
       {
         "team": "Kent",
-        "odds": "2.12"
+        "odds": "2.16"
       }
     ]
   },
@@ -248,6 +192,20 @@
       {
         "team": "Joburg Super Kings Srl",
         "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Aug 19, 11:30 AM",
+    "title": "Oman Stallions - Renaissance Challengers",
+    "bets": [
+      {
+        "team": "Oman Stallions",
+        "odds": "1.61"
+      },
+      {
+        "team": "Renaissance Challengers",
+        "odds": "2.17"
       }
     ]
   },
@@ -285,11 +243,25 @@
     "bets": [
       {
         "team": "East Delhi Riders",
-        "odds": "1.51"
+        "odds": "1.54"
       },
       {
         "team": "Purani Delhi 6",
-        "odds": "2.38"
+        "odds": "2.33"
+      }
+    ]
+  },
+  {
+    "date": "Aug 19, 01:45 PM",
+    "title": "Mangaluru Dragons - Hubli Tigers",
+    "bets": [
+      {
+        "team": "Mangaluru Dragons",
+        "odds": "2.06"
+      },
+      {
+        "team": "Hubli Tigers",
+        "odds": "1.68"
       }
     ]
   },
@@ -327,11 +299,25 @@
     "bets": [
       {
         "team": "Meerut Mavericks",
-        "odds": "1.49"
+        "odds": "1.54"
       },
       {
         "team": "Lucknow Falcons",
-        "odds": "2.44"
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Aug 19, 03:30 PM",
+    "title": "Muscat Thunders - Yalla Shabab Giants",
+    "bets": [
+      {
+        "team": "Muscat Thunders",
+        "odds": "1.96"
+      },
+      {
+        "team": "Yalla Shabab Giants",
+        "odds": "1.75"
       }
     ]
   },
@@ -355,11 +341,25 @@
     "bets": [
       {
         "team": "Trent Rockets",
-        "odds": "1.75"
+        "odds": "1.73"
       },
       {
         "team": "Manchester Originals",
-        "odds": "2.1"
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Aug 19, 05:30 PM",
+    "title": "Little Tobago Islanders - Buccoo Reef Divers",
+    "bets": [
+      {
+        "team": "Little Tobago Islanders",
+        "odds": "1.85"
+      },
+      {
+        "team": "Buccoo Reef Divers",
+        "odds": "1.85"
       }
     ]
   },
@@ -388,6 +388,20 @@
       {
         "team": "Paarl Royals Srl",
         "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Aug 19, 08:00 PM",
+    "title": "Fort King George Gunners - Guyana Rainforest Rangers",
+    "bets": [
+      {
+        "team": "Fort King George Gunners",
+        "odds": "1.72"
+      },
+      {
+        "team": "Guyana Rainforest Rangers",
+        "odds": "2"
       }
     ]
   },
@@ -425,11 +439,11 @@
     "bets": [
       {
         "team": "Lancashire",
-        "odds": "1.94"
+        "odds": "2.02"
       },
       {
         "team": "Durham",
-        "odds": "1.8"
+        "odds": "1.74"
       }
     ]
   },
@@ -467,11 +481,11 @@
     "bets": [
       {
         "team": "Welsh Fire",
-        "odds": "2.54"
+        "odds": "2.46"
       },
       {
         "team": "Southern Brave",
-        "odds": "1.53"
+        "odds": "1.55"
       }
     ]
   },
@@ -495,11 +509,11 @@
     "bets": [
       {
         "team": "Essex",
-        "odds": "1.62"
+        "odds": "1.55"
       },
       {
         "team": "Glamorgan",
-        "odds": "2.22"
+        "odds": "2.34"
       }
     ]
   },
@@ -509,11 +523,25 @@
     "bets": [
       {
         "team": "London Spirit",
-        "odds": "1.8"
+        "odds": "1.77"
       },
       {
         "team": "Northern Superchargers",
-        "odds": "2.02"
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 02:00 PM",
+    "title": "Welsh Fire - Southern Brave",
+    "bets": [
+      {
+        "team": "Welsh Fire",
+        "odds": "2.1"
+      },
+      {
+        "team": "Southern Brave",
+        "odds": "1.75"
       }
     ]
   },
@@ -523,11 +551,25 @@
     "bets": [
       {
         "team": "London Spirit",
-        "odds": "2.14"
+        "odds": "2.22"
       },
       {
         "team": "Northern Superchargers",
-        "odds": "1.72"
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 11:00 PM",
+    "title": "Antigua and Barbuda Falcons - Trinbago Knight Riders",
+    "bets": [
+      {
+        "team": "Antigua and Barbuda Falcons",
+        "odds": "2.93"
+      },
+      {
+        "team": "Trinbago Knight Riders",
+        "odds": "1.41"
       }
     ]
   }
