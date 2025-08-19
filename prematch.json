@@ -1,33 +1,5 @@
 [
   {
-    "date": "Aug 19, 04:00 AM",
-    "title": "Islamabad United Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.99"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 04:30 AM",
-    "title": "Australia - South Africa",
-    "bets": [
-      {
-        "team": "Australia",
-        "odds": "1.43"
-      },
-      {
-        "team": "South Africa",
-        "odds": "2.86"
-      }
-    ]
-  },
-  {
     "date": "Aug 19, 05:30 AM",
     "title": "Nepal - Hobart Hurricanes Academy",
     "bets": [
