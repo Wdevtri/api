@@ -1,187 +1,5 @@
 [
   {
-    "date": "Aug 20, 08:00 AM",
-    "title": "Punjab Kings SRL - Rajasthan Royals SRL",
-    "bets": [
-      {
-        "team": "Punjab Kings SRL",
-        "odds": "1.67"
-      },
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "2.12"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 08:30 AM",
-    "title": "North Delhi Strikers (w) - Central Delhi Queens (w)",
-    "bets": [
-      {
-        "team": "North Delhi Strikers (w)",
-        "odds": "1.71"
-      },
-      {
-        "team": "Central Delhi Queens (w)",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 09:00 AM",
-    "title": "Netherlands (w) - Italy (w)",
-    "bets": [
-      {
-        "team": "Netherlands (w)",
-        "odds": "1.03"
-      },
-      {
-        "team": "Italy (w)",
-        "odds": "9.07"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 09:30 AM",
-    "title": "Noida Super Kings - Gorakhpur Lions",
-    "bets": [
-      {
-        "team": "Noida Super Kings",
-        "odds": "1.85"
-      },
-      {
-        "team": "Gorakhpur Lions",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 09:30 AM",
-    "title": "Pakistan A - Adelaide Strikers Academy",
-    "bets": [
-      {
-        "team": "Pakistan A",
-        "odds": "1.57"
-      },
-      {
-        "team": "Adelaide Strikers Academy",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 09:45 AM",
-    "title": "North West Warriors - Munster Reds",
-    "bets": [
-      {
-        "team": "North West Warriors",
-        "odds": "1.69"
-      },
-      {
-        "team": "Munster Reds",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 09:45 AM",
-    "title": "Northern Knights - Leinster Lightning",
-    "bets": [
-      {
-        "team": "Northern Knights",
-        "odds": "2.38"
-      },
-      {
-        "team": "Leinster Lightning",
-        "odds": "1.51"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 09:45 AM",
-    "title": "Gulbarga Mystics - Mysuru Warriors",
-    "bets": [
-      {
-        "team": "Gulbarga Mystics",
-        "odds": "1.74"
-      },
-      {
-        "team": "Mysuru Warriors",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 10:00 AM",
-    "title": "Lancashire - Durham",
-    "bets": [
-      {
-        "team": "Lancashire",
-        "odds": "2.02"
-      },
-      {
-        "team": "Durham",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 10:00 AM",
-    "title": "Hampshire - Nottinghamshire",
-    "bets": [
-      {
-        "team": "Hampshire",
-        "odds": "1.52"
-      },
-      {
-        "team": "Nottinghamshire",
-        "odds": "2.42"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 10:00 AM",
-    "title": "Leicestershire - Derbyshire",
-    "bets": [
-      {
-        "team": "Leicestershire",
-        "odds": "1.55"
-      },
-      {
-        "team": "Derbyshire",
-        "odds": "2.36"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 10:00 AM",
-    "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.96"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 10:30 AM",
-    "title": "Welsh Fire - Southern Brave",
-    "bets": [
-      {
-        "team": "Welsh Fire",
-        "odds": "2.36"
-      },
-      {
-        "team": "Southern Brave",
-        "odds": "1.6"
-      }
-    ]
-  },
-  {
     "date": "Aug 20, 12:00 PM",
     "title": "Perth Scorchers Srl - Melbourne Renegades Srl",
     "bets": [
@@ -201,11 +19,11 @@
     "bets": [
       {
         "team": "Essex",
-        "odds": "1.53"
+        "odds": "1.49"
       },
       {
         "team": "Glamorgan",
-        "odds": "2.4"
+        "odds": "2.52"
       }
     ]
   },
@@ -267,11 +85,11 @@
     "bets": [
       {
         "team": "London Spirit",
-        "odds": "1.77"
+        "odds": "1.84"
       },
       {
         "team": "Northern Superchargers",
-        "odds": "2.06"
+        "odds": "1.98"
       }
     ]
   },
@@ -281,11 +99,11 @@
     "bets": [
       {
         "team": "Welsh Fire",
-        "odds": "1.99"
+        "odds": "2.04"
       },
       {
         "team": "Southern Brave",
-        "odds": "1.83"
+        "odds": "1.79"
       }
     ]
   },
@@ -332,6 +150,90 @@
     ]
   },
   {
+    "date": "Aug 20, 03:00 PM",
+    "title": "North Bears - South Leaders",
+    "bets": [
+      {
+        "team": "North Bears",
+        "odds": "1.32"
+      },
+      {
+        "team": "South Leaders",
+        "odds": "2.98"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 03:00 PM",
+    "title": "North Knights - South Panthers",
+    "bets": [
+      {
+        "team": "North Knights",
+        "odds": "3.61"
+      },
+      {
+        "team": "South Panthers",
+        "odds": "1.23"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 03:00 PM",
+    "title": "North Spartans - ABoys",
+    "bets": [
+      {
+        "team": "North Spartans",
+        "odds": "1.98"
+      },
+      {
+        "team": "ABoys",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 03:00 PM",
+    "title": "SF Saints - South Stallions",
+    "bets": [
+      {
+        "team": "SF Saints",
+        "odds": "2.58"
+      },
+      {
+        "team": "South Stallions",
+        "odds": "1.42"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 03:00 PM",
+    "title": "West Lions - Central East Stars",
+    "bets": [
+      {
+        "team": "West Lions",
+        "odds": "2.13"
+      },
+      {
+        "team": "Central East Stars",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 03:00 PM",
+    "title": "West Warriors - East Broncos",
+    "bets": [
+      {
+        "team": "West Warriors",
+        "odds": "1.25"
+      },
+      {
+        "team": "East Broncos",
+        "odds": "3.43"
+      }
+    ]
+  },
+  {
     "date": "Aug 20, 04:00 PM",
     "title": "Lahore Qalanders Srl - Islamabad United Srl",
     "bets": [
@@ -351,11 +253,11 @@
     "bets": [
       {
         "team": "London Spirit",
-        "odds": "2.2"
+        "odds": "2.14"
       },
       {
         "team": "Northern Superchargers",
-        "odds": "1.68"
+        "odds": "1.71"
       }
     ]
   },
@@ -514,16 +416,16 @@
     ]
   },
   {
-    "date": "Aug 21, 08:00 AM",
-    "title": "Vijayawada Sunshiners - Bhimavaram Bulls",
+    "date": "Aug 21, 09:00 AM",
+    "title": "Kollam Sailors - Calicut Globstars",
     "bets": [
       {
-        "team": "Vijayawada Sunshiners",
-        "odds": "1.73"
+        "team": "Kollam Sailors",
+        "odds": "1.8"
       },
       {
-        "team": "Bhimavaram Bulls",
-        "odds": "1.98"
+        "team": "Calicut Globstars",
+        "odds": "1.9"
       }
     ]
   },
@@ -538,6 +440,20 @@
       {
         "team": "Mi Cape Town Srl",
         "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 10:00 AM",
+    "title": "Kenya - Jersey",
+    "bets": [
+      {
+        "team": "Kenya",
+        "odds": "2.44"
+      },
+      {
+        "team": "Jersey",
+        "odds": "1.49"
       }
     ]
   },
@@ -575,11 +491,11 @@
     "bets": [
       {
         "team": "Oval Invincibles",
-        "odds": "1.63"
+        "odds": "1.66"
       },
       {
         "team": "Trent Rockets",
-        "odds": "2.28"
+        "odds": "2.24"
       }
     ]
   },
@@ -594,6 +510,20 @@
       {
         "team": "Gujarat Titans Srl",
         "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 02:15 PM",
+    "title": "Trivandrum Royals - Kochi Blue Tigers",
+    "bets": [
+      {
+        "team": "Trivandrum Royals",
+        "odds": "2"
+      },
+      {
+        "team": "Kochi Blue Tigers",
+        "odds": "1.72"
       }
     ]
   },
@@ -673,11 +603,11 @@
     "bets": [
       {
         "team": "St Kitts and Nevis Patriots",
-        "odds": "2.06"
+        "odds": "2.1"
       },
       {
         "team": "Barbados Royals",
-        "odds": "1.77"
+        "odds": "1.74"
       }
     ]
   },
