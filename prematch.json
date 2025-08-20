@@ -1,61 +1,5 @@
 [
   {
-    "date": "Aug 20, 08:00 PM",
-    "title": "Paarl Royals Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.76"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 08:00 PM",
-    "title": "Buccoo Reef Divers - Guyana Rainforest Rangers",
-    "bets": [
-      {
-        "team": "Buccoo Reef Divers",
-        "odds": "2.09"
-      },
-      {
-        "team": "Guyana Rainforest Rangers",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 10:00 PM",
-    "title": "Otago Srl - Northern Districts Srl",
-    "bets": [
-      {
-        "team": "Otago Srl",
-        "odds": "1.93"
-      },
-      {
-        "team": "Northern Districts Srl",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Aug 20, 11:00 PM",
-    "title": "Antigua and Barbuda Falcons - Trinbago Knight Riders",
-    "bets": [
-      {
-        "team": "Antigua and Barbuda Falcons",
-        "odds": "3.05"
-      },
-      {
-        "team": "Trinbago Knight Riders",
-        "odds": "1.38"
-      }
-    ]
-  },
-  {
     "date": "Aug 21, 12:00 AM",
     "title": "Canterbury Srl - Wellington Srl",
     "bets": [
@@ -173,11 +117,11 @@
     "bets": [
       {
         "team": "Eastern Titans",
-        "odds": "1.32"
+        "odds": "1.31"
       },
       {
         "team": "Amakhosi-2 CC",
-        "odds": "2.98"
+        "odds": "3.04"
       }
     ]
   },
@@ -187,11 +131,11 @@
     "bets": [
       {
         "team": "Mbizo CC",
-        "odds": "3.23"
+        "odds": "3.42"
       },
       {
         "team": "Kadoma CC",
-        "odds": "1.28"
+        "odds": "1.25"
       }
     ]
   },
@@ -271,11 +215,11 @@
     "bets": [
       {
         "team": "Netherlands (w)",
-        "odds": "3.55"
+        "odds": "3.34"
       },
       {
         "team": "Ireland (w)",
-        "odds": "1.25"
+        "odds": "1.28"
       }
     ]
   },
@@ -355,11 +299,11 @@
     "bets": [
       {
         "team": "Northamptonshire",
-        "odds": "1.84"
+        "odds": "1.72"
       },
       {
         "team": "Kent",
-        "odds": "1.9"
+        "odds": "2.04"
       }
     ]
   },
@@ -369,11 +313,11 @@
     "bets": [
       {
         "team": "Sussex",
-        "odds": "2.22"
+        "odds": "2.16"
       },
       {
         "team": "Somerset",
-        "odds": "1.62"
+        "odds": "1.64"
       }
     ]
   },
@@ -397,11 +341,11 @@
     "bets": [
       {
         "team": "Kuwait",
-        "odds": "1.52"
+        "odds": "1.51"
       },
       {
         "team": "Qatar",
-        "odds": "2.36"
+        "odds": "2.39"
       }
     ]
   },
@@ -495,11 +439,11 @@
     "bets": [
       {
         "team": "Oval Invincibles",
-        "odds": "1.66"
+        "odds": "1.63"
       },
       {
         "team": "Trent Rockets",
-        "odds": "2.24"
+        "odds": "2.28"
       }
     ]
   },
@@ -579,11 +523,11 @@
     "bets": [
       {
         "team": "Oval Invincibles",
-        "odds": "1.7"
+        "odds": "1.67"
       },
       {
         "team": "Trent Rockets",
-        "odds": "2.16"
+        "odds": "2.22"
       }
     ]
   },
@@ -691,11 +635,11 @@
     "bets": [
       {
         "team": "Birmingham Phoenix",
-        "odds": "1.71"
+        "odds": "1.68"
       },
       {
         "team": "Welsh Fire",
-        "odds": "2.16"
+        "odds": "2.2"
       }
     ]
   }
