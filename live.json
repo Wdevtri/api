@@ -5,11 +5,7 @@
     "bets": [
       {
         "team": "Oval Invincibles",
-        "odds": "4.6"
-      },
-      {
-        "team": "Trent Rockets",
-        "odds": "1.2"
+        "odds": "18.5"
       }
     ]
   },
@@ -19,11 +15,11 @@
     "bets": [
       {
         "team": "Italy",
-        "odds": "1.13"
+        "odds": "1.06"
       },
       {
         "team": "Germany",
-        "odds": "4.9"
+        "odds": "6.6"
       }
     ]
   },
@@ -43,11 +39,11 @@
     "bets": [
       {
         "team": "Meerut Mavericks",
-        "odds": "1.58"
+        "odds": "1.46"
       },
       {
         "team": "Gorakhpur Lions",
-        "odds": "2.37"
+        "odds": "2.72"
       }
     ]
   },
@@ -57,11 +53,11 @@
     "bets": [
       {
         "team": "Sussex",
-        "odds": "2.78"
+        "odds": "6.2"
       },
       {
         "team": "Somerset",
-        "odds": "1.41"
+        "odds": "1.1"
       }
     ]
   },
@@ -80,16 +76,26 @@
     ]
   },
   {
+    "date": "Aug 21, 02:15 PM",
+    "title": "Trivandrum Royals - Kochi Blue Tigers",
+    "bets": [
+      {
+        "team": "Trivandrum Royals",
+        "odds": "8.48"
+      },
+      {
+        "team": "Kochi Blue Tigers",
+        "odds": "1.05"
+      }
+    ]
+  },
+  {
     "date": "Aug 21, 01:00 PM",
     "title": "Amaravati Royals - Tungabhadra Warriors",
     "bets": [
       {
-        "team": "Amaravati Royals",
-        "odds": "1.01"
-      },
-      {
         "team": "Tungabhadra Warriors",
-        "odds": "12"
+        "odds": "14"
       }
     ]
   },
@@ -99,11 +105,11 @@
     "bets": [
       {
         "team": "Bengaluru Blasters",
-        "odds": "1.04"
+        "odds": "1.01"
       },
       {
         "team": "Shivamogga Lions",
-        "odds": "9.2"
+        "odds": "12"
       }
     ]
   },
@@ -113,11 +119,11 @@
     "bets": [
       {
         "team": "Kuwait",
-        "odds": "1.05"
+        "odds": "1.09"
       },
       {
         "team": "Qatar",
-        "odds": "7.4"
+        "odds": "5.8"
       }
     ]
   },
@@ -127,11 +133,25 @@
     "bets": [
       {
         "team": "Chennai Super Kings SRL",
-        "odds": "2.26"
+        "odds": "1.61"
       },
       {
         "team": "Gujarat Titans Srl",
-        "odds": "1.59"
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 03:30 PM",
+    "title": "Muscat Thunders - IAS Invincibles",
+    "bets": [
+      {
+        "team": "Muscat Thunders",
+        "odds": "1.35"
+      },
+      {
+        "team": "IAS Invincibles",
+        "odds": "2.98"
       }
     ]
   },
@@ -141,11 +161,11 @@
     "bets": [
       {
         "team": "HTB Cricket",
-        "odds": "1.4"
+        "odds": "1.67"
       },
       {
         "team": "Berlin CC",
-        "odds": "2.79"
+        "odds": "2.11"
       }
     ]
   },
@@ -155,7 +175,7 @@
     "bets": [
       {
         "team": "India (cyber)",
-        "odds": "6.83"
+        "odds": "14.85"
       }
     ]
   },
@@ -165,21 +185,11 @@
     "bets": [
       {
         "team": "Rajasthan Royals (cyber)",
-        "odds": "7.83"
-      }
-    ]
-  },
-  {
-    "date": "Aug 21, 03:00 PM",
-    "title": "Ferocious Divas (Women) - Charming Squad (Women)",
-    "bets": [
-      {
-        "team": "Ferocious Divas (Women)",
-        "odds": "2.25"
+        "odds": "4.93"
       },
       {
-        "team": "Draw",
-        "odds": "24.54"
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "1.06"
       }
     ]
   },
@@ -189,21 +199,7 @@
     "bets": [
       {
         "team": "Thailand (cyber)",
-        "odds": "7.52"
-      }
-    ]
-  },
-  {
-    "date": "Aug 21, 03:15 PM",
-    "title": "Pakistan (Jdemen) - Australia (Scalpel)",
-    "bets": [
-      {
-        "team": "Pakistan (Jdemen)",
-        "odds": "1.21"
-      },
-      {
-        "team": "Australia (Scalpel)",
-        "odds": "3.75"
+        "odds": "7.84"
       }
     ]
   },
@@ -213,11 +209,11 @@
     "bets": [
       {
         "team": "Hyperplayers",
-        "odds": "1.87"
+        "odds": "1.99"
       },
       {
         "team": "Draw",
-        "odds": "24.53"
+        "odds": "24.57"
       }
     ]
   },
@@ -227,11 +223,11 @@
     "bets": [
       {
         "team": "Lucknow Super Giants (cyber)",
-        "odds": "1.58"
+        "odds": "1.79"
       },
       {
         "team": "Chennai Super Kings (cyber)",
-        "odds": "2.09"
+        "odds": "1.81"
       }
     ]
   },
@@ -241,11 +237,11 @@
     "bets": [
       {
         "team": "Agra Royals (w)",
-        "odds": "1.2"
+        "odds": "1.01"
       },
       {
         "team": "The Blossoms (w)",
-        "odds": "4.05"
+        "odds": "14"
       }
     ]
   },
@@ -255,39 +251,11 @@
     "bets": [
       {
         "team": "Chitkul CA",
-        "odds": "2.95"
+        "odds": "4.05"
       },
       {
         "team": "Screaming Eagles",
-        "odds": "1.35"
-      }
-    ]
-  },
-  {
-    "date": "Aug 21, 02:15 PM",
-    "title": "Lucknow Super Giants (V) - Delhi Capitals (V)",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants (V)",
-        "odds": "3.89"
-      },
-      {
-        "team": "Delhi Capitals (V)",
-        "odds": "1.22"
-      }
-    ]
-  },
-  {
-    "date": "Aug 21, 02:15 PM",
-    "title": "Trivandrum Royals - Kochi Blue Tigers",
-    "bets": [
-      {
-        "team": "Trivandrum Royals",
-        "odds": "8.18"
-      },
-      {
-        "team": "Kochi Blue Tigers",
-        "odds": "1.06"
+        "odds": "1.2"
       }
     ]
   },
@@ -297,11 +265,11 @@
     "bets": [
       {
         "team": "Antigua And Barbuda Falcons (V)",
-        "odds": "2.23"
+        "odds": "2.02"
       },
       {
         "team": "Saint Lucia Kings (V)",
-        "odds": "1.58"
+        "odds": "1.71"
       }
     ]
   },
@@ -311,53 +279,109 @@
     "bets": [
       {
         "team": "Chitrakoot Tribes",
-        "odds": "2.15"
+        "odds": "1.85"
       },
       {
         "team": "Amethi Sunrisers",
-        "odds": "1.63"
+        "odds": "1.85"
       }
     ]
   },
   {
-    "date": "Aug 21, 03:21 PM",
-    "title": "England (V) - Pakistan (V)",
-    "bets": [
-      {
-        "team": "England (V)",
-        "odds": "4.35"
-      },
-      {
-        "team": "Draw",
-        "odds": "12"
-      }
-    ]
-  },
-  {
-    "date": "Aug 21, 03:23 PM",
-    "title": "Punjab Kings (V) - Mumbai Indians (V)",
-    "bets": [
-      {
-        "team": "Punjab Kings (V)",
-        "odds": "3.5"
-      },
-      {
-        "team": "Draw",
-        "odds": "13"
-      }
-    ]
-  },
-  {
-    "date": "Aug 21, 03:25 PM",
-    "title": "India (V) - Bangladesh (V)",
+    "date": "Aug 21, 03:34 PM",
+    "title": "India (V) - Pakistan (V)",
     "bets": [
       {
         "team": "India (V)",
-        "odds": "1.66"
+        "odds": "1.95"
       },
       {
         "team": "Draw",
         "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 03:36 PM",
+    "title": "Melbourne Stars (V) - Hobart Hurricanes (V)",
+    "bets": [
+      {
+        "team": "Melbourne Stars (V)",
+        "odds": "1.22"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 03:35 PM",
+    "title": "South Africa (V) - West Indies (V)",
+    "bets": [
+      {
+        "team": "South Africa (V)",
+        "odds": "1.97"
+      },
+      {
+        "team": "West Indies (V)",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 03:39 PM",
+    "title": "England (V) - Zimbabwe (V)",
+    "bets": [
+      {
+        "team": "England (V)",
+        "odds": "1.55"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 03:37 PM",
+    "title": "Chennai Super Kings (V) - Royal Challengers Bengaluru (V)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (V)",
+        "odds": "1.09"
+      },
+      {
+        "team": "Royal Challengers Bengaluru (V)",
+        "odds": "6.41"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 03:41 PM",
+    "title": "Sunrisers Hyderabad (V) - Kolkata Knight Riders (V)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (V)",
+        "odds": "2.2"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 03:43 PM",
+    "title": "Pakistan (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "1.44"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
       }
     ]
   }

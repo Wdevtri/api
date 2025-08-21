@@ -1,19 +1,5 @@
 [
   {
-    "date": "Aug 21, 03:30 PM",
-    "title": "Muscat Thunders - IAS Invincibles",
-    "bets": [
-      {
-        "team": "Muscat Thunders",
-        "odds": "1.52"
-      },
-      {
-        "team": "IAS Invincibles",
-        "odds": "2.37"
-      }
-    ]
-  },
-  {
     "date": "Aug 21, 04:00 PM",
     "title": "Quetta Gladiators Srl - Karachi Kings Srl",
     "bets": [
@@ -168,6 +154,20 @@
     ]
   },
   {
+    "date": "Aug 22, 05:30 AM",
+    "title": "Nt Strike - Perth Scorchers Academy",
+    "bets": [
+      {
+        "team": "Nt Strike",
+        "odds": "1.84"
+      },
+      {
+        "team": "Perth Scorchers Academy",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
     "date": "Aug 22, 06:00 AM",
     "title": "Pakistan SRL - West Indies Srl",
     "bets": [
@@ -192,6 +192,20 @@
       {
         "team": "Rajasthan Royals SRL",
         "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 08:30 AM",
+    "title": "North Delhi Strikers - East Delhi Riders",
+    "bets": [
+      {
+        "team": "North Delhi Strikers",
+        "odds": "1.56"
+      },
+      {
+        "team": "East Delhi Riders",
+        "odds": "2.22"
       }
     ]
   },
