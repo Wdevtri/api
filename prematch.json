@@ -1,47 +1,5 @@
 [
   {
-    "date": "Aug 23, 06:00 PM",
-    "title": "South Africa SRL - New Zealand SRL",
-    "bets": [
-      {
-        "team": "South Africa Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Aug 23, 08:00 PM",
-    "title": "Mi Cape Town Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Aug 23, 08:00 PM",
-    "title": "Little Tobago Islanders - Buccoo Reef Divers",
-    "bets": [
-      {
-        "team": "Little Tobago Islanders",
-        "odds": "1.51"
-      },
-      {
-        "team": "Buccoo Reef Divers",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
     "date": "Aug 23, 10:00 PM",
     "title": "Central Districts Srl - Northern Districts Srl",
     "bets": [
@@ -61,11 +19,11 @@
     "bets": [
       {
         "team": "Saint Lucia Kings",
-        "odds": "2.5"
+        "odds": "2.3"
       },
       {
         "team": "Trinbago Knight Riders",
-        "odds": "1.53"
+        "odds": "1.62"
       }
     ]
   },
@@ -318,6 +276,34 @@
     ]
   },
   {
+    "date": "Aug 24, 07:30 AM",
+    "title": "Austria - Belgium",
+    "bets": [
+      {
+        "team": "Austria",
+        "odds": "1.54"
+      },
+      {
+        "team": "Belgium",
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Aug 24, 07:30 AM",
+    "title": "HCC - VOC",
+    "bets": [
+      {
+        "team": "HCC",
+        "odds": "1.6"
+      },
+      {
+        "team": "VOC",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
     "date": "Aug 24, 08:00 AM",
     "title": "Chennai Super Kings SRL - Sunrisers Hyderabad SRL",
     "bets": [
@@ -346,12 +332,54 @@
     ]
   },
   {
+    "date": "Aug 24, 08:30 AM",
+    "title": "Excelsior'20 CC - VRA",
+    "bets": [
+      {
+        "team": "Excelsior'20 CC",
+        "odds": "1.69"
+      },
+      {
+        "team": "VRA",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 24, 08:30 AM",
+    "title": "Rood en Wit - HBS",
+    "bets": [
+      {
+        "team": "Rood en Wit",
+        "odds": "2.32"
+      },
+      {
+        "team": "HBS",
+        "odds": "1.51"
+      }
+    ]
+  },
+  {
     "date": "Aug 24, 09:00 AM",
     "title": "Germany - Ireland",
     "bets": [
       {
         "team": "Germany",
         "odds": "11"
+      }
+    ]
+  },
+  {
+    "date": "Aug 24, 09:00 AM",
+    "title": "Calicut Globstars - Trivandrum Royals",
+    "bets": [
+      {
+        "team": "Calicut Globstars",
+        "odds": "1.77"
+      },
+      {
+        "team": "Trivandrum Royals",
+        "odds": "1.94"
       }
     ]
   },
@@ -366,6 +394,20 @@
       {
         "team": "Noida Super Kings",
         "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Aug 24, 09:45 AM",
+    "title": "Bengaluru Blasters - Mangaluru Dragons",
+    "bets": [
+      {
+        "team": "Bengaluru Blasters",
+        "odds": "1.87"
+      },
+      {
+        "team": "Mangaluru Dragons",
+        "odds": "1.87"
       }
     ]
   },
@@ -538,6 +580,20 @@
     ]
   },
   {
+    "date": "Aug 24, 11:30 AM",
+    "title": "Yalla Shabab Giants - Oman Stallions",
+    "bets": [
+      {
+        "team": "Yalla Shabab Giants",
+        "odds": "1.8"
+      },
+      {
+        "team": "Oman Stallions",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
     "date": "Aug 24, 12:00 PM",
     "title": "Brisbane Heat Srl - Perth Scorchers Srl",
     "bets": [
@@ -674,6 +730,20 @@
       {
         "team": "St Kitts and Nevis Patriots",
         "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Aug 24, 03:30 PM",
+    "title": "Majees Titans - Renaissance Challengers",
+    "bets": [
+      {
+        "team": "Majees Titans",
+        "odds": "1.51"
+      },
+      {
+        "team": "Renaissance Challengers",
+        "odds": "2.4"
       }
     ]
   },
