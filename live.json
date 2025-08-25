@@ -1,1 +1,236 @@
-[]
+[
+  {
+    "date": "Aug 25, 02:00 AM",
+    "title": "Hobart Hurricanes Srl - Sydney Thunder Srl",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "7.4"
+      },
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.07"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 02:35 AM",
+    "title": "Chennai Super Kings (cyber) - Lucknow Super Giants (cyber)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:05 AM",
+    "title": "Australia (cyber) - India (cyber)",
+    "bets": [
+      {
+        "team": "Australia (cyber)",
+        "odds": "1.69"
+      },
+      {
+        "team": "India (cyber)",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:00 AM",
+    "title": "Rapid Falcons (Women) - Cricket Queens (Women)",
+    "bets": [
+      {
+        "team": "Rapid Falcons (w)",
+        "odds": "6.35"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.22"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:30 AM",
+    "title": "Dexterous - Tuskers Jammu",
+    "bets": [
+      {
+        "team": "Dexterous",
+        "odds": "2.08"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.61"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:35 AM",
+    "title": "Punjab Kings (cyber) - Kolkata Knight Riders (cyber)",
+    "bets": [
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "2.63"
+      },
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "1.37"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 02:49 AM",
+    "title": "St Kitts and Nevis Patriots (V) - Antigua And Barbuda Falcons (V)",
+    "bets": [
+      {
+        "team": "St Kitts and Nevis Patriots (V)",
+        "odds": "1.19"
+      },
+      {
+        "team": "Antigua And Barbuda Falcons (V)",
+        "odds": "4.26"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 02:30 AM",
+    "title": "J Warriors - Eleven Kings",
+    "bets": [
+      {
+        "team": "J Warriors",
+        "odds": "1.72"
+      },
+      {
+        "team": "Eleven Kings",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:04 AM",
+    "title": "Mumbai Indians (V) - Chennai Super Kings (V)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (V)",
+        "odds": "2.17"
+      },
+      {
+        "team": "Chennai Super Kings (V)",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:25 AM",
+    "title": "South Africa (V) - England (V)",
+    "bets": [
+      {
+        "team": "South Africa (V)",
+        "odds": "1.21"
+      },
+      {
+        "team": "England (V)",
+        "odds": "3.97"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:30 AM",
+    "title": "Chitkul CA - Gamdevi CC",
+    "bets": [
+      {
+        "team": "Chitkul CA",
+        "odds": "1.72"
+      },
+      {
+        "team": "Gamdevi CC",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:36 AM",
+    "title": "Sydney Sixers (V) - Brisbane Heat (V)",
+    "bets": [
+      {
+        "team": "Sydney Sixers (V)",
+        "odds": "1.25"
+      },
+      {
+        "team": "Draw",
+        "odds": "5.5"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:39 AM",
+    "title": "Zimbabwe (V) - New Zealand (V)",
+    "bets": [
+      {
+        "team": "Zimbabwe (V)",
+        "odds": "6"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:41 AM",
+    "title": "Kolkata Knight Riders (V) - Gujarat Titans (V)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (V)",
+        "odds": "1.27"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:43 AM",
+    "title": "Pakistan (V) - India (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "2.2"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:40 AM",
+    "title": "Gujarat Titans (V) - Rajasthan Royals (V)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "1.69"
+      },
+      {
+        "team": "Rajasthan Royals (V)",
+        "odds": "2.05"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 03:45 AM",
+    "title": "Melbourne Renegades (V) - Adelaide Strikers (V)",
+    "bets": [
+      {
+        "team": "Melbourne Renegades (V)",
+        "odds": "2"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  }
+]
