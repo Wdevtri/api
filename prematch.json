@@ -1,225 +1,15 @@
 [
   {
-    "date": "Aug 25, 04:00 AM",
-    "title": "Peshawar Zalmi SRL - Quetta Gladiators Srl",
+    "date": "Aug 25, 12:30 PM",
+    "title": "Sharjah Warriorz Development - Abu Dhabi Knight Riders Development",
     "bets": [
       {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.18"
+        "team": "Sharjah Warriorz Development",
+        "odds": "2.08"
       },
       {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 04:30 AM",
-    "title": "Boost Region - Speen Ghar Region",
-    "bets": [
-      {
-        "team": "Boost Region",
-        "odds": "1.72"
-      },
-      {
-        "team": "Speen Ghar Region",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 06:00 AM",
-    "title": "West Indies Srl - Sri Lanka Srl",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "1.68"
-      },
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 08:00 AM",
-    "title": "Gujarat Titans Srl - Rajasthan Royals SRL",
-    "bets": [
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 08:00 AM",
-    "title": "Northern Suburbs - Gold Coast",
-    "bets": [
-      {
-        "team": "Northern Suburbs",
-        "odds": "1.7"
-      },
-      {
-        "team": "Gold Coast",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 08:30 AM",
-    "title": "South Delhi Superstarz - West Delhi Lions",
-    "bets": [
-      {
-        "team": "South Delhi Superstarz",
-        "odds": "2.18"
-      },
-      {
-        "team": "West Delhi Lions",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 09:00 AM",
-    "title": "Kollam Sailors - Thrissur Titans",
-    "bets": [
-      {
-        "team": "Kollam Sailors",
-        "odds": "1.88"
-      },
-      {
-        "team": "Thrissur Titans",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 09:30 AM",
-    "title": "Sussex Sharks - Middlesex",
-    "bets": [
-      {
-        "team": "Sussex Sharks",
-        "odds": "2.5"
-      },
-      {
-        "team": "Middlesex",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 09:30 AM",
-    "title": "Worcestershire Rapids - Glamorgan",
-    "bets": [
-      {
-        "team": "Worcestershire Rapids",
-        "odds": "2.32"
-      },
-      {
-        "team": "Glamorgan",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 09:30 AM",
-    "title": "Gloucestershire - Kent",
-    "bets": [
-      {
-        "team": "Gloucestershire",
-        "odds": "1.62"
-      },
-      {
-        "team": "Kent",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 09:30 AM",
-    "title": "Kanpur Superstars - Meerut Mavericks",
-    "bets": [
-      {
-        "team": "Kanpur Superstars",
-        "odds": "2.38"
-      },
-      {
-        "team": "Meerut Mavericks",
-        "odds": "1.51"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 09:45 AM",
-    "title": "Shivamogga Lions - Hubli Tigers",
-    "bets": [
-      {
-        "team": "Shivamogga Lions",
-        "odds": "2.94"
-      },
-      {
-        "team": "Hubli Tigers",
-        "odds": "1.37"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 10:00 AM",
-    "title": "Jersey - Denmark",
-    "bets": [
-      {
-        "team": "Jersey",
-        "odds": "1.26"
-      },
-      {
-        "team": "Denmark",
-        "odds": "3.35"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 10:00 AM",
-    "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.96"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 11:30 AM",
-    "title": "Renaissance Challengers - Oman Stallions",
-    "bets": [
-      {
-        "team": "Renaissance Challengers",
-        "odds": "3.07"
-      },
-      {
-        "team": "Oman Stallions",
-        "odds": "1.32"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 12:00 PM",
-    "title": "Melbourne Renegades Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "2.14"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.66"
+        "team": "Abu Dhabi Knight Riders Development",
+        "odds": "1.67"
       }
     ]
   },
@@ -271,11 +61,11 @@
     "bets": [
       {
         "team": "Oval Invincibles",
-        "odds": "2.04"
+        "odds": "2"
       },
       {
         "team": "London Spirit",
-        "odds": "1.78"
+        "odds": "1.81"
       }
     ]
   },
@@ -336,16 +126,30 @@
     ]
   },
   {
+    "date": "Aug 25, 04:30 PM",
+    "title": "Gulf Giants Development - Dubai Capitals Development",
+    "bets": [
+      {
+        "team": "Gulf Giants Development",
+        "odds": "1.9"
+      },
+      {
+        "team": "Dubai Capitals Development",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
     "date": "Aug 25, 05:30 PM",
     "title": "Oval Invincibles - London Spirit",
     "bets": [
       {
         "team": "Oval Invincibles",
-        "odds": "1.61"
+        "odds": "1.6"
       },
       {
         "team": "London Spirit",
-        "odds": "2.34"
+        "odds": "2.36"
       }
     ]
   },
@@ -434,6 +238,20 @@
     ]
   },
   {
+    "date": "Aug 26, 04:30 AM",
+    "title": "Amo Region - Mis Ainak Region",
+    "bets": [
+      {
+        "team": "Amo Region",
+        "odds": "2.2"
+      },
+      {
+        "team": "Mis Ainak Region",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
     "date": "Aug 26, 06:00 AM",
     "title": "Pakistan SRL - England SRL",
     "bets": [
@@ -490,16 +308,184 @@
     ]
   },
   {
+    "date": "Aug 26, 09:00 AM",
+    "title": "Germany - Italy",
+    "bets": [
+      {
+        "team": "Germany",
+        "odds": "5.1"
+      },
+      {
+        "team": "Italy",
+        "odds": "1.12"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 09:30 AM",
+    "title": "Lucknow Falcons - Noida Super Kings",
+    "bets": [
+      {
+        "team": "Lucknow Falcons",
+        "odds": "1.59"
+      },
+      {
+        "team": "Noida Super Kings",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 10:00 AM",
+    "title": "Sunrisers Eastern Cape Srl - Mi Cape Town Srl",
+    "bets": [
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "2.12"
+      },
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 10:00 AM",
+    "title": "Kent - Yorkshire",
+    "bets": [
+      {
+        "team": "Kent",
+        "odds": "2.48"
+      },
+      {
+        "team": "Yorkshire",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 10:00 AM",
+    "title": "Worcestershire - Surrey",
+    "bets": [
+      {
+        "team": "Worcestershire",
+        "odds": "1.53"
+      },
+      {
+        "team": "Surrey",
+        "odds": "2.4"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 10:00 AM",
+    "title": "Warwickshire - Sussex",
+    "bets": [
+      {
+        "team": "Warwickshire",
+        "odds": "1.61"
+      },
+      {
+        "team": "Sussex",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 10:00 AM",
+    "title": "Lancashire - Middlesex",
+    "bets": [
+      {
+        "team": "Lancashire",
+        "odds": "2.32"
+      },
+      {
+        "team": "Middlesex",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 10:00 AM",
+    "title": "Somerset - Northamptonshire",
+    "bets": [
+      {
+        "team": "Somerset",
+        "odds": "1.4"
+      },
+      {
+        "team": "Northamptonshire",
+        "odds": "2.8"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 12:00 PM",
+    "title": "Sydney Sixers SRL - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Sydney Sixers Srl",
+        "odds": "1.69"
+      },
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 01:45 PM",
+    "title": "Ireland - Netherlands",
+    "bets": [
+      {
+        "team": "Ireland",
+        "odds": "1.11"
+      },
+      {
+        "team": "Netherlands",
+        "odds": "5.4"
+      }
+    ]
+  },
+  {
     "date": "Aug 26, 02:00 PM",
     "title": "Northern Superchargers - Manchester Originals",
     "bets": [
       {
         "team": "Northern Superchargers",
-        "odds": "1.81"
+        "odds": "1.75"
       },
       {
         "team": "Manchester Originals",
-        "odds": "2.02"
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 02:00 PM",
+    "title": "Royal Challengers Bangalore SRL - Chennai Super Kings SRL",
+    "bets": [
+      {
+        "team": "Royal Challengers Bangalore SRL",
+        "odds": "1.66"
+      },
+      {
+        "team": "Chennai Super Kings SRL",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 04:00 PM",
+    "title": "Karachi Kings Srl - Peshawar Zalmi SRL",
+    "bets": [
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "1.81"
+      },
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "1.94"
       }
     ]
   },
@@ -509,11 +495,81 @@
     "bets": [
       {
         "team": "Northern Superchargers",
-        "odds": "1.68"
+        "odds": "1.66"
       },
       {
         "team": "Manchester Originals",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 06:00 PM",
+    "title": "Afghanistan Srl - West Indies Srl",
+    "bets": [
+      {
+        "team": "Afghanistan Srl",
         "odds": "2.2"
+      },
+      {
+        "team": "West Indies Srl",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 08:00 PM",
+    "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
+    "bets": [
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "1.83"
+      },
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 10:00 PM",
+    "title": "Otago Srl - Central Districts Srl",
+    "bets": [
+      {
+        "team": "Otago Srl",
+        "odds": "1.78"
+      },
+      {
+        "team": "Central Districts Srl",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 11:00 PM",
+    "title": "Saint Lucia Kings - Guyana Amazon Warriors",
+    "bets": [
+      {
+        "team": "Saint Lucia Kings",
+        "odds": "2.31"
+      },
+      {
+        "team": "Guyana Amazon Warriors",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 08:00 AM",
+    "title": "Toombul - Western Suburbs",
+    "bets": [
+      {
+        "team": "Toombul",
+        "odds": "1.73"
+      },
+      {
+        "team": "Western Suburbs",
+        "odds": "1.99"
       }
     ]
   }
