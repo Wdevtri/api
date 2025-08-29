@@ -14,34 +14,6 @@
     ]
   },
   {
-    "date": "Aug 29, 02:00 PM",
-    "title": "Delhi Capitals SRL - Punjab Kings SRL",
-    "bets": [
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "2"
-      },
-      {
-        "team": "Punjab Kings SRL",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Aug 29, 02:00 PM",
-    "title": "Manhattan Yorkers - NYC Titans",
-    "bets": [
-      {
-        "team": "Manhattan Yorkers",
-        "odds": "1.23"
-      },
-      {
-        "team": "NYC Titans",
-        "odds": "3.61"
-      }
-    ]
-  },
-  {
     "date": "Aug 29, 02:30 PM",
     "title": "Namibia - Scotland",
     "bets": [
@@ -318,6 +290,20 @@
       {
         "team": "Adelaide Strikers Srl",
         "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Aug 30, 02:30 AM",
+    "title": "Wynnum-Manly - Valley",
+    "bets": [
+      {
+        "team": "Wynnum-Manly",
+        "odds": "5.97"
+      },
+      {
+        "team": "Valley",
+        "odds": "1.09"
       }
     ]
   },
