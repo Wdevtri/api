@@ -1,19 +1,5 @@
 [
   {
-    "date": "Sep 2, 11:00 AM",
-    "title": "Quetta Gladiators Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.84"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
     "date": "Sep 2, 12:00 PM",
     "title": "England - South Africa",
     "bets": [
@@ -145,11 +131,11 @@
     "bets": [
       {
         "team": "Afghanistan",
-        "odds": "2.51"
+        "odds": "2.76"
       },
       {
         "team": "Pakistan",
-        "odds": "1.53"
+        "odds": "1.45"
       }
     ]
   },
@@ -369,11 +355,11 @@
     "bets": [
       {
         "team": "Tanzania",
-        "odds": "1.47"
+        "odds": "1.48"
       },
       {
         "team": "Rwanda",
-        "odds": "2.56"
+        "odds": "2.52"
       }
     ]
   },
