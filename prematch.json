@@ -1,85 +1,15 @@
 [
   {
-    "date": "Sep 4, 06:30 PM",
-    "title": "Pearl Strikers - Boubyan Warriors",
-    "bets": [
-      {
-        "team": "Pearl Strikers",
-        "odds": "1.69"
-      },
-      {
-        "team": "Boubyan Warriors",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 08:00 PM",
-    "title": "Sunrisers Eastern Cape Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.82"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 08:45 PM",
-    "title": "Sauga 6ers - Toronto Peshwas",
-    "bets": [
-      {
-        "team": "Sauga 6ers",
-        "odds": "1.18"
-      },
-      {
-        "team": "Toronto Peshwas",
-        "odds": "4.28"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 10:00 PM",
-    "title": "Wellington Srl - Canterbury Srl",
-    "bets": [
-      {
-        "team": "Wellington Srl",
-        "odds": "1.97"
-      },
-      {
-        "team": "Canterbury Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 11:00 PM",
-    "title": "Auckland Srl - Otago Srl",
-    "bets": [
-      {
-        "team": "Auckland Srl",
-        "odds": "1.68"
-      },
-      {
-        "team": "Otago Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
     "date": "Sep 4, 11:00 PM",
     "title": "Barbados Royals - Guyana Amazon Warriors",
     "bets": [
       {
         "team": "Barbados Royals",
-        "odds": "2.33"
+        "odds": "2.12"
       },
       {
         "team": "Guyana Amazon Warriors",
-        "odds": "1.6"
+        "odds": "1.72"
       }
     ]
   },
@@ -378,6 +308,20 @@
     ]
   },
   {
+    "date": "Sep 5, 09:00 AM",
+    "title": "Thrissur Titans - Aries Kollam Sailors",
+    "bets": [
+      {
+        "team": "Thrissur Titans",
+        "odds": "1.86"
+      },
+      {
+        "team": "Aries Kollam Sailors",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
     "date": "Sep 5, 09:30 AM",
     "title": "England - Bangladesh",
     "bets": [
@@ -448,6 +392,20 @@
     ]
   },
   {
+    "date": "Sep 5, 01:15 PM",
+    "title": "Kochi Blue Tigers - Calicut Globstars",
+    "bets": [
+      {
+        "team": "Kochi Blue Tigers",
+        "odds": "1.71"
+      },
+      {
+        "team": "Calicut Globstars",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
     "date": "Sep 5, 02:00 PM",
     "title": "Multan Sultans Srl - Quetta Gladiators Srl",
     "bets": [
@@ -481,11 +439,11 @@
     "bets": [
       {
         "team": "Afghanistan",
-        "odds": "1.11"
+        "odds": "1.14"
       },
       {
         "team": "United Arab Emirates",
-        "odds": "6.66"
+        "odds": "5.67"
       }
     ]
   },
@@ -644,6 +602,20 @@
     ]
   },
   {
+    "date": "Sep 6, 02:00 PM",
+    "title": "Kashi Rudras - Meerut Mavericks",
+    "bets": [
+      {
+        "team": "Kashi Rudras",
+        "odds": "1.72"
+      },
+      {
+        "team": "Meerut Mavericks",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
     "date": "Sep 6, 05:30 PM",
     "title": "Somerset - Birmingham",
     "bets": [
@@ -668,6 +640,20 @@
       {
         "team": "Warwickshire",
         "odds": "2.23"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 06:00 PM",
+    "title": "Guyana Amazon Warriors - Trinbago Knight Riders",
+    "bets": [
+      {
+        "team": "Guyana Amazon Warriors",
+        "odds": "1.63"
+      },
+      {
+        "team": "Trinbago Knight Riders",
+        "odds": "2.2"
       }
     ]
   }
