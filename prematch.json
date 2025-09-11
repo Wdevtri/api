@@ -1,29 +1,15 @@
 [
   {
     "date": "Sep 11, 11:00 PM",
-    "title": "Northern Districts Srl - Auckland Srl",
-    "bets": [
-      {
-        "team": "Northern Districts Srl",
-        "odds": "2.04"
-      },
-      {
-        "team": "Auckland Srl",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Sep 11, 11:00 PM",
     "title": "Barbados Royals - St Kitts and Nevis Patriots",
     "bets": [
       {
         "team": "Barbados Royals",
-        "odds": "1.75"
+        "odds": "1.68"
       },
       {
         "team": "St Kitts and Nevis Patriots",
-        "odds": "2.08"
+        "odds": "2.19"
       }
     ]
   },
