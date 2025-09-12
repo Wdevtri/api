@@ -1,85 +1,29 @@
 [
   {
-    "date": "Sep 12, 09:30 AM",
-    "title": "England - Bangladesh",
-    "bets": [
-      {
-        "team": "England",
-        "odds": "1.68"
-      },
-      {
-        "team": "Bangladesh",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Sep 12, 10:00 AM",
-    "title": "Quetta Gladiators Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.84"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Sep 12, 10:00 AM",
-    "title": "Lions - Western Province",
-    "bets": [
-      {
-        "team": "Lions",
-        "odds": "1.79"
-      },
-      {
-        "team": "Western Province",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Sep 12, 10:30 AM",
-    "title": "Gujarat Titans (e) - Lucknow Super Giants (e)",
-    "bets": [
-      {
-        "team": "Gujarat Titans (e)",
-        "odds": "3.59"
-      },
-      {
-        "team": "Lucknow Super Giants (e)",
-        "odds": "1.23"
-      }
-    ]
-  },
-  {
-    "date": "Sep 12, 11:00 AM",
-    "title": "Melbourne Renegades Srl - Melbourne Stars SRL",
-    "bets": [
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "1.94"
-      },
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
     "date": "Sep 12, 11:30 AM",
-    "title": "Bin Ali Strikers - Braveheart A",
+    "title": "Eswatini - Mozambique",
     "bets": [
       {
-        "team": "Bin Ali Strikers",
-        "odds": "1.48"
+        "team": "Eswatini",
+        "odds": "2.54"
       },
       {
-        "team": "Braveheart A",
-        "odds": "2.47"
+        "team": "Mozambique",
+        "odds": "1.43"
+      }
+    ]
+  },
+  {
+    "date": "Sep 12, 11:45 AM",
+    "title": "Kolkata Knight Riders (e) - Chennai Super Kings (e)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (e)",
+        "odds": "3.7"
+      },
+      {
+        "team": "Chennai Super Kings (e)",
+        "odds": "1.22"
       }
     ]
   },
@@ -98,6 +42,34 @@
     ]
   },
   {
+    "date": "Sep 12, 12:00 PM",
+    "title": "Dolphins - Titans",
+    "bets": [
+      {
+        "team": "Dolphins",
+        "odds": "2.08"
+      },
+      {
+        "team": "Titans",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Sep 12, 12:45 PM",
+    "title": "Kolkata Knight Riders (e) - Gujarat Titans (e)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (e)",
+        "odds": "3.32"
+      },
+      {
+        "team": "Gujarat Titans (e)",
+        "odds": "1.26"
+      }
+    ]
+  },
+  {
     "date": "Sep 12, 01:00 PM",
     "title": "Chennai Super Kings SRL - Sunrisers Hyderabad SRL",
     "bets": [
@@ -108,20 +80,6 @@
       {
         "team": "Sunrisers Hyderabad SRL",
         "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Sep 12, 01:00 PM",
-    "title": "Dolphins - Titans",
-    "bets": [
-      {
-        "team": "Dolphins",
-        "odds": "2.08"
-      },
-      {
-        "team": "Titans",
-        "odds": "1.64"
       }
     ]
   },
@@ -308,6 +266,34 @@
     ]
   },
   {
+    "date": "Sep 12, 09:00 PM",
+    "title": "Fiji (w) - Philippines (w)",
+    "bets": [
+      {
+        "team": "Fiji (w)",
+        "odds": "1.18"
+      },
+      {
+        "team": "Philippines (w)",
+        "odds": "4.34"
+      }
+    ]
+  },
+  {
+    "date": "Sep 12, 09:00 PM",
+    "title": "Samoa (w) - Cook Islands (w)",
+    "bets": [
+      {
+        "team": "Samoa (w)",
+        "odds": "1.16"
+      },
+      {
+        "team": "Cook Islands (w)",
+        "odds": "4.53"
+      }
+    ]
+  },
+  {
     "date": "Sep 12, 10:00 PM",
     "title": "Canterbury Srl - Otago Srl",
     "bets": [
@@ -472,6 +458,34 @@
       {
         "team": "Adelaide Strikers Srl",
         "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Sep 13, 01:30 AM",
+    "title": "Papua New Guinea (w) - Indonesia (w)",
+    "bets": [
+      {
+        "team": "Papua New Guinea (w)",
+        "odds": "1.49"
+      },
+      {
+        "team": "Indonesia (w)",
+        "odds": "2.44"
+      }
+    ]
+  },
+  {
+    "date": "Sep 13, 01:30 AM",
+    "title": "Vanuatu (w) - Japan (w)",
+    "bets": [
+      {
+        "team": "Vanuatu (w)",
+        "odds": "1.61"
+      },
+      {
+        "team": "Japan (w)",
+        "odds": "2.17"
       }
     ]
   },
@@ -658,6 +672,20 @@
     ]
   },
   {
+    "date": "Sep 13, 09:30 AM",
+    "title": "Durham - Surrey",
+    "bets": [
+      {
+        "team": "Durham",
+        "odds": "2.02"
+      },
+      {
+        "team": "Surrey",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
     "date": "Sep 13, 10:00 AM",
     "title": "Peshawar Zalmi SRL - Lahore Qalanders Srl",
     "bets": [
@@ -677,11 +705,11 @@
     "bets": [
       {
         "team": "Lancashire",
-        "odds": "2.26"
+        "odds": "2.16"
       },
       {
         "team": "Somerset",
-        "odds": "1.6"
+        "odds": "1.65"
       }
     ]
   },
@@ -906,6 +934,20 @@
       {
         "team": "Draw",
         "odds": "3"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 11:00 AM",
+    "title": "Right Guards CC - Indorwa CC",
+    "bets": [
+      {
+        "team": "Right Guards CC",
+        "odds": "1.85"
+      },
+      {
+        "team": "Indorwa CC",
+        "odds": "1.85"
       }
     ]
   }
