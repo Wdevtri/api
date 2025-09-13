@@ -1,47 +1,5 @@
 [
   {
-    "date": "Sep 13, 09:30 AM",
-    "title": "Hampshire - Lancashire Thunder",
-    "bets": [
-      {
-        "team": "Hampshire",
-        "odds": "1.71"
-      },
-      {
-        "team": "Lancashire Thunder",
-        "odds": "1.97"
-      }
-    ]
-  },
-  {
-    "date": "Sep 13, 10:00 AM",
-    "title": "Peshawar Zalmi SRL - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Sep 13, 10:00 AM",
-    "title": "Lancashire - Somerset",
-    "bets": [
-      {
-        "team": "Lancashire",
-        "odds": "2.36"
-      },
-      {
-        "team": "Somerset",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
     "date": "Sep 13, 11:00 AM",
     "title": "Melbourne Stars SRL - Hobart Hurricanes Srl",
     "bets": [
@@ -52,6 +10,34 @@
       {
         "team": "Hobart Hurricanes Srl",
         "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Sep 13, 11:10 AM",
+    "title": "Titans - Western Province",
+    "bets": [
+      {
+        "team": "Titans",
+        "odds": "1.6"
+      },
+      {
+        "team": "Western Province",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Sep 13, 11:30 AM",
+    "title": "IAS Invincibles - Muscat Thunders",
+    "bets": [
+      {
+        "team": "IAS Invincibles",
+        "odds": "1.61"
+      },
+      {
+        "team": "Muscat Thunders",
+        "odds": "2.13"
       }
     ]
   },
@@ -98,7 +84,7 @@
     ]
   },
   {
-    "date": "Sep 13, 01:30 PM",
+    "date": "Sep 13, 01:25 PM",
     "title": "Northamptonshire - Hampshire",
     "bets": [
       {
@@ -117,11 +103,11 @@
     "bets": [
       {
         "team": "Manhattan Yorkers",
-        "odds": "5.12"
+        "odds": "5.41"
       },
       {
         "team": "New Jersey Stallions",
-        "odds": "1.13"
+        "odds": "1.12"
       }
     ]
   },
@@ -145,11 +131,11 @@
     "bets": [
       {
         "team": "New England Eagles",
-        "odds": "4.26"
+        "odds": "4.6"
       },
       {
         "team": "New Jersey Somerset Cavaliers",
-        "odds": "1.18"
+        "odds": "1.16"
       }
     ]
   },
@@ -206,6 +192,20 @@
       {
         "team": "Chennai Super Kings SRL",
         "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Sep 13, 04:15 PM",
+    "title": "Yalla Shabab Giants - IAS Invincibles",
+    "bets": [
+      {
+        "team": "Yalla Shabab Giants",
+        "odds": "1.5"
+      },
+      {
+        "team": "IAS Invincibles",
+        "odds": "2.35"
       }
     ]
   },
@@ -280,6 +280,20 @@
     ]
   },
   {
+    "date": "Sep 13, 06:30 PM",
+    "title": "Oman Stallions - Renaissance Challengers",
+    "bets": [
+      {
+        "team": "Oman Stallions",
+        "odds": "1.17"
+      },
+      {
+        "team": "Renaissance Challengers",
+        "odds": "4.26"
+      }
+    ]
+  },
+  {
     "date": "Sep 13, 07:15 PM",
     "title": "Chicago Kingsmen - Michigan Cricket Stars",
     "bets": [
@@ -341,11 +355,11 @@
     "bets": [
       {
         "team": "Orlando Galaxy",
-        "odds": "4.05"
+        "odds": "4.16"
       },
       {
         "team": "Baltimore Royals",
-        "odds": "1.2"
+        "odds": "1.19"
       }
     ]
   },
@@ -364,6 +378,76 @@
     ]
   },
   {
+    "date": "Sep 13, 11:00 PM",
+    "title": "Central Districts Srl - Auckland Srl",
+    "bets": [
+      {
+        "team": "Central Districts Srl",
+        "odds": "2.24"
+      },
+      {
+        "team": "Auckland Srl",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 12:00 AM",
+    "title": "New Zealand SRL - Australia SRL",
+    "bets": [
+      {
+        "team": "New Zealand Srl",
+        "odds": "2.28"
+      },
+      {
+        "team": "Australia Srl",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 01:00 AM",
+    "title": "Perth Scorchers Srl - Melbourne Renegades Srl",
+    "bets": [
+      {
+        "team": "Perth Scorchers Srl",
+        "odds": "1.64"
+      },
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 02:00 AM",
+    "title": "Northern Districts Srl - Otago Srl",
+    "bets": [
+      {
+        "team": "Northern Districts Srl",
+        "odds": "1.81"
+      },
+      {
+        "team": "Otago Srl",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 03:00 AM",
+    "title": "Lahore Qalanders Srl - Islamabad United Srl",
+    "bets": [
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.8"
+      },
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
     "date": "Sep 14, 03:30 AM",
     "title": "Rajshahi Division - Dhaka Metropolis",
     "bets": [
@@ -374,6 +458,34 @@
       {
         "team": "Dhaka Metropolis",
         "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 04:00 AM",
+    "title": "Rajasthan Royals SRL - Delhi Capitals SRL",
+    "bets": [
+      {
+        "team": "Rajasthan Royals SRL",
+        "odds": "1.99"
+      },
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 05:00 AM",
+    "title": "England SRL - South Africa SRL",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "1.85"
+      },
+      {
+        "team": "South Africa Srl",
+        "odds": "1.89"
       }
     ]
   },
@@ -542,6 +654,20 @@
       {
         "team": "Sunrisers Hyderabad (e)",
         "odds": "1.2"
+      }
+    ]
+  },
+  {
+    "date": "Sep 15, 10:00 AM",
+    "title": "Lucknow Super Giants (e) - Kolkata Knight Riders (e)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (e)",
+        "odds": "1.15"
+      },
+      {
+        "team": "Kolkata Knight Riders (e)",
+        "odds": "4.42"
       }
     ]
   }
