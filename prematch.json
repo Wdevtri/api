@@ -127,6 +127,20 @@
   },
   {
     "date": "Sep 14, 08:00 AM",
+    "title": "Lions - Western Province",
+    "bets": [
+      {
+        "team": "Lions",
+        "odds": "1.66"
+      },
+      {
+        "team": "Western Province",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 08:00 AM",
     "title": "Chiredzi - Eastern Titans",
     "bets": [
       {
@@ -682,6 +696,20 @@
       {
         "team": "Punjab Kings SRL",
         "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Sep 15, 07:30 AM",
+    "title": "Zimbabwe - Namibia",
+    "bets": [
+      {
+        "team": "Zimbabwe",
+        "odds": "1.36"
+      },
+      {
+        "team": "Namibia",
+        "odds": "2.96"
       }
     ]
   },
