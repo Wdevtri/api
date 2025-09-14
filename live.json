@@ -1,1 +1,250 @@
-[]
+[
+  {
+    "date": "Sep 14, 03:30 AM",
+    "title": "Rajshahi Division - Dhaka Metropolis",
+    "bets": [
+      {
+        "team": "Rajshahi Division",
+        "odds": "2.4"
+      },
+      {
+        "team": "Dhaka Metropolis",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 06:00 AM",
+    "title": "Paarl Royals Srl - Durban Super Giants Srl",
+    "bets": [
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "2.56"
+      },
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 06:00 AM",
+    "title": "Hulu Langat Tornadoes - Sepang Strikers",
+    "bets": [
+      {
+        "team": "Hulu Langat Tornadoes",
+        "odds": "1.44"
+      },
+      {
+        "team": "Sepang Strikers",
+        "odds": "2.62"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 05:00 AM",
+    "title": "England SRL - South Africa SRL",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "1.14"
+      },
+      {
+        "team": "South Africa Srl",
+        "odds": "5.3"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 05:05 AM",
+    "title": "Afghanistan (cyber) - Thailand (cyber)",
+    "bets": [
+      {
+        "team": "Thailand (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 05:35 AM",
+    "title": "Kolkata Knight Riders (cyber) - Punjab Kings (cyber)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "1.22"
+      },
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "3.3"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 06:00 AM",
+    "title": "Rampage Indoor - Top Guns Indoor",
+    "bets": [
+      {
+        "team": "Rampage Indoor",
+        "odds": "2.34"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.54"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 06:00 AM",
+    "title": "Lady Legends (Women) - Sweet Gulls (Women)",
+    "bets": [
+      {
+        "team": "Lady Legends (w)",
+        "odds": "2.8"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.48"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 06:05 AM",
+    "title": "Sri Lanka (cyber) - India (cyber)",
+    "bets": [
+      {
+        "team": "Sri Lanka (cyber)",
+        "odds": "2.74"
+      },
+      {
+        "team": "India (cyber)",
+        "odds": "1.34"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 06:00 AM",
+    "title": "Australia (YudhVeer) - India (Azazel)",
+    "bets": [
+      {
+        "team": "Australia (YudhVeer)",
+        "odds": "2.27"
+      },
+      {
+        "team": "India (Azazel)",
+        "odds": "1.54"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 04:56 AM",
+    "title": "Rajasthan Legends (V) - Mumbai Legends (V)",
+    "bets": [
+      {
+        "team": "Rajasthan Legends (V)",
+        "odds": "1.09"
+      },
+      {
+        "team": "Mumbai Legends (V)",
+        "odds": "6.5"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 05:00 AM",
+    "title": "Winning Star XI - Satrap Sports",
+    "bets": [
+      {
+        "team": "Winning Star XI",
+        "odds": "1.6"
+      },
+      {
+        "team": "Satrap Sports",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 05:18 AM",
+    "title": "Lucknow Super Giants (V) - Delhi Capitals (V)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (V)",
+        "odds": "3.24"
+      },
+      {
+        "team": "Delhi Capitals (V)",
+        "odds": "1.3"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 05:40 AM",
+    "title": "Gamdevi CC - Khimsar Raj Club",
+    "bets": [
+      {
+        "team": "Gamdevi CC",
+        "odds": "1.62"
+      },
+      {
+        "team": "Khimsar Raj Club",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 05:50 AM",
+    "title": "Amethi Sunrisers - Bareilly Thunder",
+    "bets": [
+      {
+        "team": "Amethi Sunrisers",
+        "odds": "2"
+      },
+      {
+        "team": "Bareilly Thunder",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 06:16 AM",
+    "title": "India (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "India (V)",
+        "odds": "2.3"
+      },
+      {
+        "team": "Draw",
+        "odds": "11"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 06:18 AM",
+    "title": "Brisbane Heat (V) - Adelaide Strikers (V)",
+    "bets": [
+      {
+        "team": "Brisbane Heat (V)",
+        "odds": "2.6"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Sep 14, 06:21 AM",
+    "title": "West Indies (V) - Zimbabwe (V)",
+    "bets": [
+      {
+        "team": "West Indies (V)",
+        "odds": "1.4"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  }
+]
