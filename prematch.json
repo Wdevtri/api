@@ -224,6 +224,20 @@
     ]
   },
   {
+    "date": "Sep 20, 02:00 PM",
+    "title": "Morrisville Raptors - Atlanta Lightning",
+    "bets": [
+      {
+        "team": "Morrisville Raptors",
+        "odds": "2.16"
+      },
+      {
+        "team": "Atlanta Lightning",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
     "date": "Sep 20, 02:30 PM",
     "title": "Sri Lanka - Bangladesh",
     "bets": [
@@ -234,6 +248,34 @@
       {
         "team": "Bangladesh",
         "odds": "2.79"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 02:30 PM",
+    "title": "The Philadelphians - New Jersey Stallions",
+    "bets": [
+      {
+        "team": "The Philadelphians",
+        "odds": "3.99"
+      },
+      {
+        "team": "New Jersey Stallions",
+        "odds": "1.2"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 02:45 PM",
+    "title": "Manhattan Yorkers - New Jersey Somerset Cavaliers",
+    "bets": [
+      {
+        "team": "Manhattan Yorkers",
+        "odds": "3.88"
+      },
+      {
+        "team": "New Jersey Somerset Cavaliers",
+        "odds": "1.21"
       }
     ]
   },
@@ -252,6 +294,48 @@
     ]
   },
   {
+    "date": "Sep 20, 04:30 PM",
+    "title": "MetroPlex Tracers - Lone Star Athletics",
+    "bets": [
+      {
+        "team": "MetroPlex Tracers",
+        "odds": "1.73"
+      },
+      {
+        "team": "Lone Star Athletics",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 05:30 PM",
+    "title": "San Ramon Grizzlies - East Bay Blazers",
+    "bets": [
+      {
+        "team": "San Ramon Grizzlies",
+        "odds": "2.98"
+      },
+      {
+        "team": "East Bay Blazers",
+        "odds": "1.34"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 05:30 PM",
+    "title": "Chicago Tigers - Chicago Kingsmen",
+    "bets": [
+      {
+        "team": "Chicago Tigers",
+        "odds": "3.27"
+      },
+      {
+        "team": "Chicago Kingsmen",
+        "odds": "1.29"
+      }
+    ]
+  },
+  {
     "date": "Sep 20, 06:00 PM",
     "title": "Pakistan SRL - Australia SRL",
     "bets": [
@@ -262,6 +346,48 @@
       {
         "team": "Australia Srl",
         "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 06:00 PM",
+    "title": "Atlanta Fire - Baltimore Royals",
+    "bets": [
+      {
+        "team": "Atlanta Fire",
+        "odds": "1.85"
+      },
+      {
+        "team": "Baltimore Royals",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 06:00 PM",
+    "title": "Michigan Cricket Stars - St Louis Americans",
+    "bets": [
+      {
+        "team": "Michigan Cricket Stars",
+        "odds": "2"
+      },
+      {
+        "team": "St Louis Americans",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 06:30 PM",
+    "title": "New England Eagles - NYC Titans",
+    "bets": [
+      {
+        "team": "New England Eagles",
+        "odds": "2.13"
+      },
+      {
+        "team": "NYC Titans",
+        "odds": "1.64"
       }
     ]
   },

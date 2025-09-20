@@ -1,1 +1,292 @@
-[]
+[
+  {
+    "date": "Sep 19, 11:30 PM",
+    "title": "New South Wales Blues - South Australia Redbacks",
+    "bets": [
+      {
+        "team": "New South Wales Blues",
+        "odds": "1.48"
+      },
+      {
+        "team": "South Australia Redbacks",
+        "odds": "2.52"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:00 AM",
+    "title": "Quetta Gladiators Srl - Karachi Kings Srl",
+    "bets": [
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.31"
+      },
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "3.25"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 02:35 AM",
+    "title": "Rajasthan Royals (cyber) - Chennai Carvers (cyber)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "1.98"
+      },
+      {
+        "team": "Chennai Carvers (cyber)",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:05 AM",
+    "title": "Ireland (cyber) - Bangladesh (cyber)",
+    "bets": [
+      {
+        "team": "Ireland (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:30 AM",
+    "title": "Dexterous - Tuskers Jammu",
+    "bets": [
+      {
+        "team": "Dexterous",
+        "odds": "2.22"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.54"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:35 AM",
+    "title": "Punjab Kings (cyber) - Delhi Capitals (cyber)",
+    "bets": [
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "1.6"
+      },
+      {
+        "team": "Delhi Capitals (cyber)",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:45 AM",
+    "title": "Australia (YudhVeer) - India (RajaRogue)",
+    "bets": [
+      {
+        "team": "Australia (YudhVeer)",
+        "odds": "1.05"
+      },
+      {
+        "team": "India (RajaRogue)",
+        "odds": "7.38"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 04:00 AM",
+    "title": "Stunners Indoor - Top Guns Indoor",
+    "bets": [
+      {
+        "team": "Stunners Indoor",
+        "odds": "1.87"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.53"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 04:00 AM",
+    "title": "Rapid Falcons (Women) - Future Stars (Women)",
+    "bets": [
+      {
+        "team": "Rapid Falcons (w)",
+        "odds": "1.87"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.53"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 02:00 AM",
+    "title": "Malaysia XI - Ghani Glass",
+    "bets": [
+      {
+        "team": "Malaysia XI",
+        "odds": "2.5"
+      },
+      {
+        "team": "Ghani Glass",
+        "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:08 AM",
+    "title": "Delhi Legends (V) - Punjab Legends (V)",
+    "bets": [
+      {
+        "team": "Delhi Legends (V)",
+        "odds": "2.13"
+      },
+      {
+        "team": "Punjab Legends (V)",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 02:30 AM",
+    "title": "Mainpuri Monsters - Varanasi Worriers",
+    "bets": [
+      {
+        "team": "Mainpuri Monsters",
+        "odds": "1.23"
+      },
+      {
+        "team": "Varanasi Worriers",
+        "odds": "3.75"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:09 AM",
+    "title": "Chennai Super Kings (V) - Lucknow Super Giants (V)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (V)",
+        "odds": "2.36"
+      },
+      {
+        "team": "Lucknow Super Giants (V)",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:00 AM",
+    "title": "Khimsar Raj Club - Tanaji Cricketers",
+    "bets": [
+      {
+        "team": "Khimsar Raj Club",
+        "odds": "2.6"
+      },
+      {
+        "team": "Tanaji Cricketers",
+        "odds": "1.44"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:00 AM",
+    "title": "The Blossoms (w) - Wonder Womens (w)",
+    "bets": [
+      {
+        "team": "The Blossoms (w)",
+        "odds": "1.75"
+      },
+      {
+        "team": "Wonder Womens (w)",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:17 AM",
+    "title": "Mumbai Indians (V-w) - Gujarat Giants (V-w)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (V-w)",
+        "odds": "2.62"
+      },
+      {
+        "team": "Gujarat Giants (V-w)",
+        "odds": "1.43"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:39 AM",
+    "title": "Pakistan (V) - England (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "1.92"
+      },
+      {
+        "team": "England (V)",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:50 AM",
+    "title": "Punjab Kings (V) - Royal Challengers Bengaluru (V)",
+    "bets": [
+      {
+        "team": "Punjab Kings (V)",
+        "odds": "4.35"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:52 AM",
+    "title": "Pakistan (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "2.6"
+      },
+      {
+        "team": "Draw",
+        "odds": "12"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:54 AM",
+    "title": "Sydney Sixers (V) - Sydney Thunder (V)",
+    "bets": [
+      {
+        "team": "Sydney Sixers (V)",
+        "odds": "1.22"
+      },
+      {
+        "team": "Draw",
+        "odds": "19"
+      }
+    ]
+  },
+  {
+    "date": "Sep 20, 03:57 AM",
+    "title": "Australia (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "Australia (V)",
+        "odds": "1.55"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  }
+]
