@@ -1,1 +1,330 @@
-[]
+[
+  {
+    "date": "Sep 23, 02:30 PM",
+    "title": "Pakistan - Sri Lanka",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.26"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "3.86"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 11:00 AM",
+    "title": "The Real Sultan Sumerbugh - Valley Warriors Srinagar",
+    "bets": [
+      {
+        "team": "The Real Sultan Sumerbugh",
+        "odds": "1.22"
+      },
+      {
+        "team": "Valley Warriors Srinagar",
+        "odds": "3.85"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 02:00 PM",
+    "title": "Islamabad United Srl - Quetta Gladiators Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "2.56"
+      },
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.48"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 02:45 PM",
+    "title": "Gujarat Titans (e) - Delhi Capitals (e)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (e)",
+        "odds": "1.5"
+      },
+      {
+        "team": "Delhi Capitals (e)",
+        "odds": "2.41"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 01:35 PM",
+    "title": "Delhi Capitals (cyber) - Punjab Kings (cyber)",
+    "bets": [
+      {
+        "team": "Over 132.5",
+        "odds": "1.27"
+      },
+      {
+        "team": "Over 134.5",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 02:05 PM",
+    "title": "Australia (cyber) - Sri Lanka (cyber)",
+    "bets": [
+      {
+        "team": "Sri Lanka (cyber)",
+        "odds": "9.9"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 02:30 PM",
+    "title": "Sportable - Triumphants1",
+    "bets": [
+      {
+        "team": "Sportable",
+        "odds": "4.1"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.4"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 02:35 PM",
+    "title": "Gujarat Titans (cyber) - Lucknow Super Giants (cyber)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (cyber)",
+        "odds": "3.27"
+      },
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "1.22"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:00 PM",
+    "title": "Ferocious Divas (Women) - Charming Squad (Women)",
+    "bets": [
+      {
+        "team": "Ferocious Divas (w)",
+        "odds": "1.95"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.53"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:00 PM",
+    "title": "Wizards Indoor - Smashers",
+    "bets": [
+      {
+        "team": "Wizards Indoor",
+        "odds": "1.76"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.57"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:05 PM",
+    "title": "West Indies (cyber) - Germany (cyber)",
+    "bets": [
+      {
+        "team": "Germany (cyber)",
+        "odds": "7.13"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:00 PM",
+    "title": "India (Scalpel) - Pakistan (Jdemen)",
+    "bets": [
+      {
+        "team": "India (Scalpel)",
+        "odds": "9.54"
+      },
+      {
+        "team": "Pakistan (Jdemen)",
+        "odds": "1.02"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 01:15 PM",
+    "title": "Agra Royals (w) - Aryans CA (w)",
+    "bets": [
+      {
+        "team": "Agra Royals (w)",
+        "odds": "1.47"
+      },
+      {
+        "team": "Aryans CA (w)",
+        "odds": "2.5"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 01:14 PM",
+    "title": "Gujarat Giants (V-w) - Delhi Capitals (V-w)",
+    "bets": [
+      {
+        "team": "Gujarat Giants (V-w)",
+        "odds": "5.13"
+      },
+      {
+        "team": "Delhi Capitals (V-w)",
+        "odds": "1.13"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 01:30 PM",
+    "title": "Screaming Eagles - Rewari Racers",
+    "bets": [
+      {
+        "team": "Screaming Eagles",
+        "odds": "1.48"
+      },
+      {
+        "team": "Rewari Racers",
+        "odds": "2.45"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 02:00 PM",
+    "title": "J Warriors - Konditava CC",
+    "bets": [
+      {
+        "team": "J Warriors",
+        "odds": "1.45"
+      },
+      {
+        "team": "Konditava CC",
+        "odds": "2.55"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 02:30 PM",
+    "title": "Kolkata Legends (V) - Hyderabad Legends (V)",
+    "bets": [
+      {
+        "team": "Kolkata Legends (V)",
+        "odds": "4.19"
+      },
+      {
+        "team": "Hyderabad Legends (V)",
+        "odds": "1.19"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 02:44 PM",
+    "title": "Australia (V) - South Africa (V)",
+    "bets": [
+      {
+        "team": "Australia (V)",
+        "odds": "4.89"
+      },
+      {
+        "team": "South Africa (V)",
+        "odds": "1.15"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:05 PM",
+    "title": "Lucknow Super Giants (V) - Kolkata Knight Riders (V)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (V)",
+        "odds": "1.03"
+      },
+      {
+        "team": "Draw",
+        "odds": "19"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:07 PM",
+    "title": "Pakistan (V) - Bangladesh (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "1.08"
+      },
+      {
+        "team": "Draw",
+        "odds": "21"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:09 PM",
+    "title": "Hobart Hurricanes (V) - Melbourne Stars (V)",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes (V)",
+        "odds": "2.3"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:12 PM",
+    "title": "Sri Lanka (V) - India (V)",
+    "bets": [
+      {
+        "team": "Sri Lanka (V)",
+        "odds": "3.25"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:12 PM",
+    "title": "Rajasthan Royals (e) - Chennai Super Kings (e)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (e)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Chennai Super Kings (e)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Sep 23, 03:11 PM",
+    "title": "Gujarat Titans (V) - Rajasthan Royals (V)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "1.91"
+      },
+      {
+        "team": "Rajasthan Royals (V)",
+        "odds": "1.8"
+      }
+    ]
+  }
+]
