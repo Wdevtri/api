@@ -1,117 +1,5 @@
 [
   {
-    "date": "Sep 24, 02:00 PM",
-    "title": "Lahore Qalanders Srl - Islamabad United Srl",
-    "bets": [
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 02:30 PM",
-    "title": "India - Bangladesh",
-    "bets": [
-      {
-        "team": "India",
-        "odds": "1.08"
-      },
-      {
-        "team": "Bangladesh",
-        "odds": "7.77"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 02:30 PM",
-    "title": "Abhishek Sharma - Tanzid Hasan",
-    "bets": [
-      {
-        "team": "Abhishek Sharma",
-        "odds": "1.44"
-      },
-      {
-        "team": "Tanzid Hasan",
-        "odds": "2.67"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 02:30 PM",
-    "title": "Suryakumar Yadav - Litton Das",
-    "bets": [
-      {
-        "team": "Suryakumar Yadav",
-        "odds": "1.47"
-      },
-      {
-        "team": "Litton Das",
-        "odds": "2.57"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 02:30 PM",
-    "title": "Shubman Gill - Saif Hassan",
-    "bets": [
-      {
-        "team": "Shubman Gill",
-        "odds": "1.4"
-      },
-      {
-        "team": "Saif Hassan",
-        "odds": "2.82"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 02:30 PM",
-    "title": "Jasprit Bumrah - Kuldeep Yadav",
-    "bets": [
-      {
-        "team": "Jasprit Bumrah",
-        "odds": "1.87"
-      },
-      {
-        "team": "Kuldeep Yadav",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 02:30 PM",
-    "title": "Varun Chakravarthy - Axar Patel",
-    "bets": [
-      {
-        "team": "Varun Chakravarthy",
-        "odds": "1.65"
-      },
-      {
-        "team": "Axar Patel",
-        "odds": "2.15"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 02:30 PM",
-    "title": "Mustafizur Rahman - Taskin Ahmed",
-    "bets": [
-      {
-        "team": "Mustafizur Rahman",
-        "odds": "1.87"
-      },
-      {
-        "team": "Taskin Ahmed",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
     "date": "Sep 24, 04:00 PM",
     "title": "Gujarat Titans Srl - Lucknow Super Giants Srl",
     "bets": [
@@ -406,6 +294,34 @@
     ]
   },
   {
+    "date": "Sep 25, 08:00 AM",
+    "title": "Delhi Capitals (e) - Rajasthan Royals (e)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (e)",
+        "odds": "1.42"
+      },
+      {
+        "team": "Rajasthan Royals (e)",
+        "odds": "2.59"
+      }
+    ]
+  },
+  {
+    "date": "Sep 25, 08:00 AM",
+    "title": "Hill View Rajouri Cricket Club - Royal Goodwill Cricket Club",
+    "bets": [
+      {
+        "team": "Hill View Rajouri Cricket Club",
+        "odds": "2.64"
+      },
+      {
+        "team": "Royal Goodwill Cricket Club",
+        "odds": "1.4"
+      }
+    ]
+  },
+  {
     "date": "Sep 25, 09:00 AM",
     "title": "Sunrisers Eastern Cape Srl - Joburg Super Kings Srl",
     "bets": [
@@ -462,6 +378,20 @@
     ]
   },
   {
+    "date": "Sep 25, 10:00 AM",
+    "title": "Rajasthan Royals (e) - Kolkata Knight Riders (e)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (e)",
+        "odds": "3.16"
+      },
+      {
+        "team": "Kolkata Knight Riders (e)",
+        "odds": "1.29"
+      }
+    ]
+  },
+  {
     "date": "Sep 25, 11:00 AM",
     "title": "Sydney Thunder Srl - Adelaide Strikers Srl",
     "bets": [
@@ -486,6 +416,20 @@
       {
         "team": "South Africa Srl",
         "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Sep 25, 12:00 PM",
+    "title": "United Imports Srinagar - Sopore Stallions",
+    "bets": [
+      {
+        "team": "United Imports Srinagar",
+        "odds": "1.5"
+      },
+      {
+        "team": "Sopore Stallions",
+        "odds": "2.35"
       }
     ]
   },
@@ -602,6 +546,20 @@
     ]
   },
   {
+    "date": "Sep 26, 12:30 AM",
+    "title": "South Australian Scorpions - Tasmania",
+    "bets": [
+      {
+        "team": "South Australian Scorpions",
+        "odds": "2.28"
+      },
+      {
+        "team": "Tasmania",
+        "odds": "1.54"
+      }
+    ]
+  },
+  {
     "date": "Sep 26, 04:00 AM",
     "title": "Australia - India",
     "bets": [
@@ -682,6 +640,20 @@
       {
         "team": "Botswana",
         "odds": "3.34"
+      }
+    ]
+  },
+  {
+    "date": "Sep 26, 02:30 PM",
+    "title": "India - Sri Lanka",
+    "bets": [
+      {
+        "team": "India",
+        "odds": "1.21"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "4.44"
       }
     ]
   }
