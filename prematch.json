@@ -1,33 +1,5 @@
 [
   {
-    "date": "Sep 24, 04:00 PM",
-    "title": "Gujarat Titans Srl - Lucknow Super Giants Srl",
-    "bets": [
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.72"
-      },
-      {
-        "team": "Lucknow Super Giants Srl",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 06:00 PM",
-    "title": "India SRL - England SRL",
-    "bets": [
-      {
-        "team": "India Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "England Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
     "date": "Sep 24, 08:00 PM",
     "title": "Mi Cape Town Srl - Durban Super Giants Srl",
     "bets": [
@@ -89,11 +61,11 @@
     "bets": [
       {
         "team": "China (Women)",
-        "odds": "1.06"
+        "odds": "1.05"
       },
       {
         "team": "Mongolia (Women)",
-        "odds": "7.03"
+        "odds": "7.95"
       }
     ]
   },
@@ -136,6 +108,34 @@
       {
         "team": "Northern Districts Srl",
         "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Sep 25, 02:00 AM",
+    "title": "Malaysia XI - Ghani Glass",
+    "bets": [
+      {
+        "team": "Malaysia XI",
+        "odds": "2.13"
+      },
+      {
+        "team": "Ghani Glass",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Sep 25, 02:30 AM",
+    "title": "York CA - SKT CA",
+    "bets": [
+      {
+        "team": "York CA",
+        "odds": "2.05"
+      },
+      {
+        "team": "SKT CA",
+        "odds": "1.65"
       }
     ]
   },
@@ -215,11 +215,11 @@
     "bets": [
       {
         "team": "Hong Kong (w)",
-        "odds": "1.5"
+        "odds": "1.3"
       },
       {
         "team": "Myanmar (Women)",
-        "odds": "2.4"
+        "odds": "3.2"
       }
     ]
   },
@@ -248,6 +248,20 @@
       {
         "team": "Western Wonder (w)",
         "odds": "1.45"
+      }
+    ]
+  },
+  {
+    "date": "Sep 25, 06:30 AM",
+    "title": "Lords Balajee CA - Creators CC",
+    "bets": [
+      {
+        "team": "Lords Balajee CA",
+        "odds": "1.86"
+      },
+      {
+        "team": "Creators CC",
+        "odds": "1.8"
       }
     ]
   },
@@ -336,6 +350,20 @@
     ]
   },
   {
+    "date": "Sep 25, 09:00 AM",
+    "title": "Kolkata Knight Riders (e) - Mumbai Indians (e)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (e)",
+        "odds": "2.01"
+      },
+      {
+        "team": "Mumbai Indians (e)",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
     "date": "Sep 25, 09:30 AM",
     "title": "India - England",
     "bets": [
@@ -360,6 +388,20 @@
       {
         "team": "South Africa",
         "odds": "1.1"
+      }
+    ]
+  },
+  {
+    "date": "Sep 25, 09:30 AM",
+    "title": "Pithoragarh Hurricanes - Haridwar Storm",
+    "bets": [
+      {
+        "team": "Pithoragarh Hurricanes",
+        "odds": "2.06"
+      },
+      {
+        "team": "Haridwar Storm",
+        "odds": "1.66"
       }
     ]
   },
@@ -462,16 +504,30 @@
     ]
   },
   {
+    "date": "Sep 25, 02:00 PM",
+    "title": "Mussoorie Thunders - Tehri Queens",
+    "bets": [
+      {
+        "team": "Mussoorie Thunders",
+        "odds": "2.2"
+      },
+      {
+        "team": "Tehri Queens",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
     "date": "Sep 25, 02:30 PM",
     "title": "Pakistan - Bangladesh",
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.47"
+        "odds": "1.35"
       },
       {
         "team": "Bangladesh",
-        "odds": "2.69"
+        "odds": "3.21"
       }
     ]
   },
@@ -588,6 +644,34 @@
     ]
   },
   {
+    "date": "Sep 26, 04:30 AM",
+    "title": "Sri Lanka U-19 (w) - Australia U-19 (w)",
+    "bets": [
+      {
+        "team": "Sri Lanka U-19 (w)",
+        "odds": "1.47"
+      },
+      {
+        "team": "Australia U-19 (w)",
+        "odds": "2.5"
+      }
+    ]
+  },
+  {
+    "date": "Sep 26, 07:15 AM",
+    "title": "Zimbabwe - United Arab Emirates",
+    "bets": [
+      {
+        "team": "Zimbabwe",
+        "odds": "1.57"
+      },
+      {
+        "team": "United Arab Emirates",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
     "date": "Sep 26, 07:30 AM",
     "title": "Nigeria - Malawi",
     "bets": [
@@ -649,11 +733,25 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.21"
+        "odds": "1.2"
       },
       {
         "team": "Sri Lanka",
-        "odds": "4.44"
+        "odds": "4.56"
+      }
+    ]
+  },
+  {
+    "date": "Sep 26, 04:30 PM",
+    "title": "Atlanta Fire - Atlanta Lightning",
+    "bets": [
+      {
+        "team": "Atlanta Fire",
+        "odds": "1.61"
+      },
+      {
+        "team": "Atlanta Lightning",
+        "odds": "2.17"
       }
     ]
   }
