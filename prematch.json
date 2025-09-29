@@ -774,5 +774,33 @@
         "odds": "1.46"
       }
     ]
+  },
+  {
+    "date": "Oct 1, 11:30 AM",
+    "title": "Queens 1 - Amakhosi 1 Cricket Club",
+    "bets": [
+      {
+        "team": "Queens 1",
+        "odds": "2.16"
+      },
+      {
+        "team": "Amakhosi 1 Cricket Club",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Oct 1, 11:30 AM",
+    "title": "Alex Cricket Club - Takashinga Patriots II",
+    "bets": [
+      {
+        "team": "Alex Cricket Club",
+        "odds": "1.9"
+      },
+      {
+        "team": "Takashinga Patriots II",
+        "odds": "1.8"
+      }
+    ]
   }
 ]
