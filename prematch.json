@@ -1,19 +1,5 @@
 [
   {
-    "date": "Oct 4, 08:00 PM",
-    "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.96"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
     "date": "Oct 4, 10:00 PM",
     "title": "Hobart Hurricanes Srl - Sydney Thunder Srl",
     "bets": [
@@ -388,6 +374,20 @@
       {
         "team": "St Lucia Kings Srl",
         "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Oct 5, 11:00 AM",
+    "title": "Lahore Leopards - Narowal Kings",
+    "bets": [
+      {
+        "team": "Lahore Leopards",
+        "odds": "1.71"
+      },
+      {
+        "team": "Narowal Kings",
+        "odds": "1.98"
       }
     ]
   },
