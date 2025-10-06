@@ -1,33 +1,5 @@
 [
   {
-    "date": "Oct 6, 10:00 AM",
-    "title": "Peshawar Zalmi Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 10:00 AM",
-    "title": "Sunrisers Hyderabad (e) - Lucknow Super Giants (e)",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad (e)",
-        "odds": "2.45"
-      },
-      {
-        "team": "Lucknow Super Giants (e)",
-        "odds": "1.46"
-      }
-    ]
-  },
-  {
     "date": "Oct 6, 11:00 AM",
     "title": "Guyana Amazon Warriors Srl - St Kitts And Nevis Patriots Srl",
     "bets": [
@@ -304,6 +276,20 @@
       {
         "team": "Northern Districts Srl",
         "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Oct 7, 04:15 AM",
+    "title": "Fairfirst Insurance - Cdb A",
+    "bets": [
+      {
+        "team": "Fairfirst Insurance",
+        "odds": "1.87"
+      },
+      {
+        "team": "Cdb A",
+        "odds": "1.87"
       }
     ]
   },
@@ -682,6 +668,20 @@
       {
         "team": "Pakistan (w)",
         "odds": "15.15"
+      }
+    ]
+  },
+  {
+    "date": "Oct 8, 10:00 AM",
+    "title": "Afghanistan - Bangladesh",
+    "bets": [
+      {
+        "team": "Afghanistan",
+        "odds": "1.55"
+      },
+      {
+        "team": "Bangladesh",
+        "odds": "2.48"
       }
     ]
   }
