@@ -684,5 +684,47 @@
         "odds": "2.48"
       }
     ]
+  },
+  {
+    "date": "Oct 8, 10:30 AM",
+    "title": "Andhra (w) - Chhattisgarh (w)",
+    "bets": [
+      {
+        "team": "Andhra (w)",
+        "odds": "1.11"
+      },
+      {
+        "team": "Chhattisgarh (w)",
+        "odds": "5.25"
+      }
+    ]
+  },
+  {
+    "date": "Oct 8, 10:30 AM",
+    "title": "Bengal (w) - Madhya Pradesh (w)",
+    "bets": [
+      {
+        "team": "Bengal (w)",
+        "odds": "1.57"
+      },
+      {
+        "team": "Madhya Pradesh (w)",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Oct 8, 10:30 AM",
+    "title": "Delhi (w) - Railways (w)",
+    "bets": [
+      {
+        "team": "Delhi (w)",
+        "odds": "1.83"
+      },
+      {
+        "team": "Railways (w)",
+        "odds": "1.83"
+      }
+    ]
   }
 ]
