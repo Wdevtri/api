@@ -1,19 +1,5 @@
 [
   {
-    "date": "Oct 6, 11:00 AM",
-    "title": "Chennai Super Kings (e) - Delhi Capitals (e)",
-    "bets": [
-      {
-        "team": "Chennai Super Kings (e)",
-        "odds": "1.18"
-      },
-      {
-        "team": "Delhi Capitals (e)",
-        "odds": "4.12"
-      }
-    ]
-  },
-  {
     "date": "Oct 6, 11:30 AM",
     "title": "Zimbabwe - United Arab Emirates",
     "bets": [
@@ -24,6 +10,20 @@
       {
         "team": "United Arab Emirates",
         "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Oct 6, 11:45 AM",
+    "title": "Rhinos - Marylebone Cricket Club",
+    "bets": [
+      {
+        "team": "Rhinos",
+        "odds": "1.96"
+      },
+      {
+        "team": "Marylebone Cricket Club",
+        "odds": "1.72"
       }
     ]
   },
