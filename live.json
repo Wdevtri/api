@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "New Zealand (w)",
-        "odds": "2.22"
+        "odds": "2.08"
       },
       {
         "team": "South Africa (w)",
-        "odds": "1.66"
+        "odds": "1.75"
       }
     ]
   },
@@ -19,7 +19,11 @@
     "bets": [
       {
         "team": "Dhaka Metropolis",
-        "odds": "10.5"
+        "odds": "9.6"
+      },
+      {
+        "team": "Rangpur Division",
+        "odds": "1.01"
       }
     ]
   },
@@ -29,11 +33,11 @@
     "bets": [
       {
         "team": "Pretoria Capitals Srl",
-        "odds": "1.26"
+        "odds": "1.73"
       },
       {
         "team": "Mi Cape Town Srl",
-        "odds": "3.6"
+        "odds": "2.04"
       }
     ]
   },
@@ -43,7 +47,7 @@
     "bets": [
       {
         "team": "Melbourne Stars Srl",
-        "odds": "13.5"
+        "odds": "14"
       }
     ]
   },
@@ -53,11 +57,11 @@
     "bets": [
       {
         "team": "Rhinos",
-        "odds": "3.45"
+        "odds": "2.42"
       },
       {
         "team": "Marylebone Cricket Club",
-        "odds": "1.25"
+        "odds": "1.47"
       }
     ]
   },
@@ -67,25 +71,25 @@
     "bets": [
       {
         "team": "Lucknow Super Giants (e)",
-        "odds": "1.13"
+        "odds": "1.05"
       },
       {
         "team": "Chennai Super Kings (e)",
-        "odds": "5.21"
+        "odds": "8.86"
       }
     ]
   },
   {
-    "date": "Oct 6, 08:05 AM",
-    "title": "Afghanistan (cyber) - Thailand (cyber)",
+    "date": "Oct 6, 07:15 AM",
+    "title": "Kalutara - Matara XI",
     "bets": [
       {
-        "team": "Afghanistan (cyber)",
-        "odds": "1.68"
+        "team": "Kalutara",
+        "odds": "1.96"
       },
       {
-        "team": "Thailand (cyber)",
-        "odds": "1.95"
+        "team": "Matara XI",
+        "odds": "1.75"
       }
     ]
   },
@@ -95,11 +99,11 @@
     "bets": [
       {
         "team": "Delhi Capitals (cyber)",
-        "odds": "1.79"
+        "odds": "1.19"
       },
       {
         "team": "Chennai Super Kings (cyber)",
-        "odds": "1.81"
+        "odds": "3.47"
       }
     ]
   },
@@ -109,11 +113,11 @@
     "bets": [
       {
         "team": "Sunrisers Hyderabad (V)",
-        "odds": "2.64"
+        "odds": "2.58"
       },
       {
         "team": "Delhi Capitals (V)",
-        "odds": "1.43"
+        "odds": "1.44"
       }
     ]
   },
@@ -123,11 +127,11 @@
     "bets": [
       {
         "team": "Rampage Indoor",
-        "odds": "1.87"
+        "odds": "1.44"
       },
       {
         "team": "Draw",
-        "odds": "24.53"
+        "odds": "24.52"
       }
     ]
   },
@@ -137,11 +141,11 @@
     "bets": [
       {
         "team": "Fast Hornets (w)",
-        "odds": "1.32"
+        "odds": "1.87"
       },
       {
         "team": "Draw",
-        "odds": "24.46"
+        "odds": "24.53"
       }
     ]
   },
@@ -151,35 +155,7 @@
     "bets": [
       {
         "team": "Germany (cyber)",
-        "odds": "12.87"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 09:15 AM",
-    "title": "India (Anjidan) - Pakistan (MarkzMan)",
-    "bets": [
-      {
-        "team": "India (Anjidan)",
-        "odds": "1.05"
-      },
-      {
-        "team": "Pakistan (MarkzMan)",
-        "odds": "7.38"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 09:15 AM",
-    "title": "India (V) - West Indies (V)",
-    "bets": [
-      {
-        "team": "India (V)",
-        "odds": "1.44"
-      },
-      {
-        "team": "West Indies (V)",
-        "odds": "2.58"
+        "odds": "8.41"
       }
     ]
   },
@@ -189,39 +165,25 @@
     "bets": [
       {
         "team": "Tuskers Jammu",
-        "odds": "1.76"
+        "odds": "1.81"
       },
       {
         "team": "Draw",
-        "odds": "24.57"
+        "odds": "24.54"
       }
     ]
   },
   {
     "date": "Oct 6, 09:30 AM",
-    "title": "South Africa (V) - West Indies (V)",
+    "title": "Pakistan (MarkzMan) - Australia (Sharoock)",
     "bets": [
       {
-        "team": "South Africa (V)",
-        "odds": "1.22"
+        "team": "Pakistan (MarkzMan)",
+        "odds": "5.3"
       },
       {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 09:30 AM",
-    "title": "Rajasthan Royals (V) - Sunrisers Hyderabad (V)",
-    "bets": [
-      {
-        "team": "Rajasthan Royals (V)",
-        "odds": "1.38"
-      },
-      {
-        "team": "Sunrisers Hyderabad (V)",
-        "odds": "2.82"
+        "team": "Australia (Sharoock)",
+        "odds": "1.1"
       }
     ]
   },
@@ -231,39 +193,11 @@
     "bets": [
       {
         "team": "Farah Fighters",
-        "odds": "1.63"
+        "odds": "1.8"
       },
       {
         "team": "Hisar Captains",
-        "odds": "2.15"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 09:32 AM",
-    "title": "Mumbai Indians (V) - Lucknow Super Giants (V)",
-    "bets": [
-      {
-        "team": "Mumbai Indians (V)",
-        "odds": "1.22"
-      },
-      {
-        "team": "Draw",
-        "odds": "17"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 09:34 AM",
-    "title": "Sri Lanka (V) - Bangladesh (V)",
-    "bets": [
-      {
-        "team": "Sri Lanka (V)",
-        "odds": "2.2"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
+        "odds": "1.9"
       }
     ]
   },
@@ -273,11 +207,11 @@
     "bets": [
       {
         "team": "Pakistan Legends (V)",
-        "odds": "1.78"
+        "odds": "1.65"
       },
       {
         "team": "England Legends (V)",
-        "odds": "1.93"
+        "odds": "2.11"
       }
     ]
   },
@@ -287,21 +221,63 @@
     "bets": [
       {
         "team": "Mumbai Indians (cyber)",
-        "odds": "1.92"
+        "odds": "1.5"
       },
       {
         "team": "Kolkata Knight Riders (cyber)",
-        "odds": "1.7"
+        "odds": "2.27"
       }
     ]
   },
   {
-    "date": "Oct 6, 09:36 AM",
-    "title": "Sydney Sixers (V) - Perth Scorchers (V)",
+    "date": "Oct 6, 09:38 AM",
+    "title": "Punjab Kings (V) - Lucknow Super Giants (V)",
     "bets": [
       {
-        "team": "Sydney Sixers (V)",
-        "odds": "1.95"
+        "team": "Punjab Kings (V)",
+        "odds": "1.69"
+      },
+      {
+        "team": "Lucknow Super Giants (V)",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Oct 6, 09:41 AM",
+    "title": "Sunrisers Hyderabad (V) - Delhi Capitals (V)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (V)",
+        "odds": "1.01"
+      },
+      {
+        "team": "Draw",
+        "odds": "26"
+      }
+    ]
+  },
+  {
+    "date": "Oct 6, 09:43 AM",
+    "title": "India (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "India (V)",
+        "odds": "1.4"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Oct 6, 09:45 AM",
+    "title": "Sydney Thunder (V) - Sydney Sixers (V)",
+    "bets": [
+      {
+        "team": "Sydney Thunder (V)",
+        "odds": "2.6"
       },
       {
         "team": "Draw",
@@ -310,15 +286,29 @@
     ]
   },
   {
-    "date": "Oct 6, 09:36 AM",
-    "title": "Sunrisers Hyderabad (e) - Rajasthan Royals (e)",
+    "date": "Oct 6, 09:48 AM",
+    "title": "Australia (V) - New Zealand (V)",
     "bets": [
       {
-        "team": "Sunrisers Hyderabad (e)",
+        "team": "Australia (V)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Oct 6, 09:48 AM",
+    "title": "Mumbai Indians (e) - Chennai Super Kings (e)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e)",
         "odds": "1.86"
       },
       {
-        "team": "Rajasthan Royals (e)",
+        "team": "Chennai Super Kings (e)",
         "odds": "1.86"
       }
     ]
