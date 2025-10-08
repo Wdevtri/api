@@ -1,243 +1,5 @@
 [
   {
-    "date": "Oct 8, 05:30 AM",
-    "title": "Assam (w) - Jharkhand (w)",
-    "bets": [
-      {
-        "team": "Assam (w)",
-        "odds": "1.88"
-      },
-      {
-        "team": "Jharkhand (w)",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 05:30 AM",
-    "title": "Goa (w) - Uttarakhand (w)",
-    "bets": [
-      {
-        "team": "Goa (w)",
-        "odds": "4.48"
-      },
-      {
-        "team": "Uttarakhand (w)",
-        "odds": "1.15"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 05:30 AM",
-    "title": "Hyderabad (w) - Odisha (w)",
-    "bets": [
-      {
-        "team": "Hyderabad (w)",
-        "odds": "2.24"
-      },
-      {
-        "team": "Odisha (w)",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 05:30 AM",
-    "title": "Kerala (w) - Uttar Pradesh (w)",
-    "bets": [
-      {
-        "team": "Kerala (w)",
-        "odds": "2.08"
-      },
-      {
-        "team": "Uttar Pradesh (w)",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 05:30 AM",
-    "title": "Punjab (w) - Saurashtra (w)",
-    "bets": [
-      {
-        "team": "Punjab (w)",
-        "odds": "1.55"
-      },
-      {
-        "team": "Saurashtra (w)",
-        "odds": "2.23"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 06:00 AM",
-    "title": "Durban Super Giants Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.82"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 06:00 AM",
-    "title": "Oman - Samoa",
-    "bets": [
-      {
-        "team": "Oman",
-        "odds": "1.14"
-      },
-      {
-        "team": "Samoa",
-        "odds": "4.87"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 07:00 AM",
-    "title": "Gujarat Titans Srl - Mumbai Indians SRL",
-    "bets": [
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "2.02"
-      },
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 07:30 AM",
-    "title": "Himachal Pradesh (w) - Karnataka (w)",
-    "bets": [
-      {
-        "team": "Himachal Pradesh (w)",
-        "odds": "1.98"
-      },
-      {
-        "team": "Karnataka (w)",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 07:30 AM",
-    "title": "Pondicherry (w) - Rajasthan (w)",
-    "bets": [
-      {
-        "team": "Pondicherry (w)",
-        "odds": "3.55"
-      },
-      {
-        "team": "Rajasthan (w)",
-        "odds": "1.23"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 08:00 AM",
-    "title": "Melbourne Stars Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 08:00 AM",
-    "title": "Jammu and Kashmir (w) - Mumbai (w)",
-    "bets": [
-      {
-        "team": "Jammu and Kashmir (w)",
-        "odds": "6.83"
-      },
-      {
-        "team": "Mumbai (w)",
-        "odds": "1.06"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 08:00 AM",
-    "title": "Rajasthan Royals (e) - Sunrisers Hyderabad (e)",
-    "bets": [
-      {
-        "team": "Rajasthan Royals (e)",
-        "odds": "4.23"
-      },
-      {
-        "team": "Sunrisers Hyderabad (e)",
-        "odds": "1.17"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 09:00 AM",
-    "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 09:00 AM",
-    "title": "Kolkata Knight Riders (e) - Mumbai Indians (e)",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders (e)",
-        "odds": "2.19"
-      },
-      {
-        "team": "Mumbai Indians (e)",
-        "odds": "1.57"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 09:00 AM",
-    "title": "Takashinga Patriots I - Queens 1",
-    "bets": [
-      {
-        "team": "Takashinga Patriots I",
-        "odds": "1.48"
-      },
-      {
-        "team": "Queens 1",
-        "odds": "2.45"
-      }
-    ]
-  },
-  {
-    "date": "Oct 8, 09:00 AM",
-    "title": "Bagore Royals - Sajjangart Strikers",
-    "bets": [
-      {
-        "team": "Bagore Royals",
-        "odds": "1.42"
-      },
-      {
-        "team": "Sajjangart Strikers",
-        "odds": "2.58"
-      }
-    ]
-  },
-  {
     "date": "Oct 8, 09:30 AM",
     "title": "Australia (w) - Pakistan (w)",
     "bets": [
@@ -299,11 +61,11 @@
     "bets": [
       {
         "team": "Delhi (w)",
-        "odds": "1.83"
+        "odds": "1.96"
       },
       {
         "team": "Railways (w)",
-        "odds": "1.83"
+        "odds": "1.72"
       }
     ]
   },
@@ -313,11 +75,11 @@
     "bets": [
       {
         "team": "United Arab Emirates",
-        "odds": "1.25"
+        "odds": "1.14"
       },
       {
         "team": "Qatar",
-        "odds": "3.56"
+        "odds": "4.9"
       }
     ]
   },
@@ -364,6 +126,20 @@
     ]
   },
   {
+    "date": "Oct 8, 11:00 AM",
+    "title": "Mumbai Indians (e) - Rajasthan Royals (e)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e)",
+        "odds": "1.23"
+      },
+      {
+        "team": "Rajasthan Royals (e)",
+        "odds": "3.58"
+      }
+    ]
+  },
+  {
     "date": "Oct 8, 11:30 AM",
     "title": "SOGO Rangers - Alex Cricket Club",
     "bets": [
@@ -383,11 +159,11 @@
     "bets": [
       {
         "team": "Afghanistan",
-        "odds": "1.61"
+        "odds": "1.62"
       },
       {
         "team": "Bangladesh",
-        "odds": "2.34"
+        "odds": "2.3"
       }
     ]
   },
@@ -406,6 +182,20 @@
     ]
   },
   {
+    "date": "Oct 8, 12:00 PM",
+    "title": "Mumbai Indians (e) - Sunrisers Hyderabad (e)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e)",
+        "odds": "2.3"
+      },
+      {
+        "team": "Sunrisers Hyderabad (e)",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
     "date": "Oct 8, 01:00 PM",
     "title": "Kolkata Knight Riders SRL - Sunrisers Hyderabad SRL",
     "bets": [
@@ -416,6 +206,20 @@
       {
         "team": "Sunrisers Hyderabad SRL",
         "odds": "1.84"
+      }
+    ]
+  },
+  {
+    "date": "Oct 8, 01:00 PM",
+    "title": "Rajasthan Royals (e) - Kolkata Knight Riders (e)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (e)",
+        "odds": "2.59"
+      },
+      {
+        "team": "Kolkata Knight Riders (e)",
+        "odds": "1.41"
       }
     ]
   },
@@ -439,11 +243,11 @@
     "bets": [
       {
         "team": "Maharana Kings",
-        "odds": "1.57"
+        "odds": "1.6"
       },
       {
         "team": "Aravali Avengers",
-        "odds": "2.2"
+        "odds": "2.14"
       }
     ]
   },
@@ -588,16 +392,30 @@
     ]
   },
   {
+    "date": "Oct 9, 12:00 AM",
+    "title": "Brampton Blitz - Toronto Sixers",
+    "bets": [
+      {
+        "team": "Brampton Blitz",
+        "odds": "1.78"
+      },
+      {
+        "team": "Toronto Sixers",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
     "date": "Oct 9, 12:30 AM",
     "title": "South Australia Redbacks - Victoria",
     "bets": [
       {
         "team": "South Australia Redbacks",
-        "odds": "1.79"
+        "odds": "1.76"
       },
       {
         "team": "Victoria",
-        "odds": "1.95"
+        "odds": "1.99"
       }
     ]
   },
