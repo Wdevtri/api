@@ -1,33 +1,5 @@
 [
   {
-    "date": "Oct 11, 06:00 PM",
-    "title": "South Africa Srl - England Srl",
-    "bets": [
-      {
-        "team": "South Africa Srl",
-        "odds": "1.9"
-      },
-      {
-        "team": "England Srl",
-        "odds": "1.84"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 08:00 PM",
-    "title": "Paarl Royals Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.75"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2"
-      }
-    ]
-  },
-  {
     "date": "Oct 11, 10:00 PM",
     "title": "Sydney Sixers Srl - Perth Scorchers Srl",
     "bets": [
@@ -61,11 +33,11 @@
     "bets": [
       {
         "team": "Manly-Warringah",
-        "odds": "1.62"
+        "odds": "1.65"
       },
       {
         "team": "Eastern Suburbs",
-        "odds": "2.15"
+        "odds": "2.11"
       }
     ]
   },
@@ -173,11 +145,11 @@
     "bets": [
       {
         "team": "Queensland Fire",
-        "odds": "1.24"
+        "odds": "1.16"
       },
       {
         "team": "ACT Meteors",
-        "odds": "3.5"
+        "odds": "4.4"
       }
     ]
   },
@@ -304,20 +276,6 @@
       {
         "team": "Central Districts Srl",
         "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "Oct 12, 04:00 AM",
-    "title": "Phoenix - RC Sports",
-    "bets": [
-      {
-        "team": "Phoenix",
-        "odds": "1.83"
-      },
-      {
-        "team": "RC Sports",
-        "odds": "1.83"
       }
     ]
   },
@@ -495,11 +453,25 @@
     "bets": [
       {
         "team": "India (w)",
-        "odds": "2.83"
+        "odds": "2.79"
       },
       {
         "team": "Australia (w)",
-        "odds": "1.43"
+        "odds": "1.44"
+      }
+    ]
+  },
+  {
+    "date": "Oct 12, 09:30 AM",
+    "title": "Chetak Stallions - Aravali Avengers",
+    "bets": [
+      {
+        "team": "Chetak Stallions",
+        "odds": "2.32"
+      },
+      {
+        "team": "Aravali Avengers",
+        "odds": "1.51"
       }
     ]
   },
