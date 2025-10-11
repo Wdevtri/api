@@ -1,173 +1,5 @@
 [
   {
-    "date": "Oct 11, 04:00 AM",
-    "title": "Wellington Srl - Auckland Srl",
-    "bets": [
-      {
-        "team": "Wellington Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Auckland Srl",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 05:00 AM",
-    "title": "Australia Srl - New Zealand Srl",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "1.59"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 05:00 AM",
-    "title": "Arunachal Pradesh (w) - Meghalaya (w)",
-    "bets": [
-      {
-        "team": "Arunachal Pradesh (w)",
-        "odds": "2.77"
-      },
-      {
-        "team": "Meghalaya (w)",
-        "odds": "1.37"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 05:00 AM",
-    "title": "Maharashtra (w) - Pondicherry (w)",
-    "bets": [
-      {
-        "team": "Maharashtra (w)",
-        "odds": "1.19"
-      },
-      {
-        "team": "Pondicherry (w)",
-        "odds": "4"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 05:00 AM",
-    "title": "Haryana (w) - Himachal Pradesh (w)",
-    "bets": [
-      {
-        "team": "Haryana (w)",
-        "odds": "1.99"
-      },
-      {
-        "team": "Himachal Pradesh (w)",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 05:00 AM",
-    "title": "Jharkhand (w) - Uttarakhand (w)",
-    "bets": [
-      {
-        "team": "Jharkhand (w)",
-        "odds": "1.93"
-      },
-      {
-        "team": "Uttarakhand (w)",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 05:15 AM",
-    "title": "Turkey (w) - Norway (w)",
-    "bets": [
-      {
-        "team": "Turkey (w)",
-        "odds": "1.05"
-      },
-      {
-        "team": "Norway (w)",
-        "odds": "7.66"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 05:30 AM",
-    "title": "Toronto Sixers - Montreal Tigers",
-    "bets": [
-      {
-        "team": "Toronto Sixers",
-        "odds": "1.65"
-      },
-      {
-        "team": "Montreal Tigers",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 05:30 AM",
-    "title": "Gujarat (w) - Jammu and Kashmir (w)",
-    "bets": [
-      {
-        "team": "Gujarat (w)",
-        "odds": "1.44"
-      },
-      {
-        "team": "Jammu and Kashmir (w)",
-        "odds": "2.52"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 05:30 AM",
-    "title": "Assam (w) - Delhi (w)",
-    "bets": [
-      {
-        "team": "Assam (w)",
-        "odds": "3.62"
-      },
-      {
-        "team": "Delhi (w)",
-        "odds": "1.22"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 06:00 AM",
-    "title": "Sunrisers Eastern Cape Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
-    "date": "Oct 11, 06:30 AM",
-    "title": "Nagaland (w) - Sikkim (w)",
-    "bets": [
-      {
-        "team": "Nagaland (w)",
-        "odds": "1.06"
-      },
-      {
-        "team": "Sikkim (w)",
-        "odds": "6.83"
-      }
-    ]
-  },
-  {
     "date": "Oct 11, 07:00 AM",
     "title": "Delhi Capitals SRL - Sunrisers Hyderabad SRL",
     "bets": [
@@ -187,11 +19,11 @@
     "bets": [
       {
         "team": "Mumbai (w)",
-        "odds": "1.51"
+        "odds": "1.46"
       },
       {
         "team": "Vidarbha (w)",
-        "odds": "2.32"
+        "odds": "2.45"
       }
     ]
   },
@@ -369,11 +201,11 @@
     "bets": [
       {
         "team": "Bengal (w)",
-        "odds": "1.42"
+        "odds": "1.37"
       },
       {
         "team": "Punjab (w)",
-        "odds": "2.58"
+        "odds": "2.77"
       }
     ]
   },
@@ -425,11 +257,11 @@
     "bets": [
       {
         "team": "Afghanistan",
-        "odds": "1.56"
+        "odds": "1.54"
       },
       {
         "team": "Bangladesh",
-        "odds": "2.44"
+        "odds": "2.5"
       }
     ]
   },
@@ -588,6 +420,20 @@
     ]
   },
   {
+    "date": "Oct 11, 10:00 PM",
+    "title": "Toronto Sixers - Vancouver Thunderbirds",
+    "bets": [
+      {
+        "team": "Toronto Sixers",
+        "odds": "1.67"
+      },
+      {
+        "team": "Vancouver Thunderbirds",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
     "date": "Oct 11, 10:30 PM",
     "title": "Manly-Warringah - Eastern Suburbs",
     "bets": [
@@ -672,6 +518,90 @@
     ]
   },
   {
+    "date": "Oct 11, 11:00 PM",
+    "title": "Trinbago Knight Riders Srl - Barbados Royals Srl",
+    "bets": [
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.75"
+      },
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Oct 12, 12:00 AM",
+    "title": "Pakistan Srl - Afghanistan Srl",
+    "bets": [
+      {
+        "team": "Pakistan Srl",
+        "odds": "1.6"
+      },
+      {
+        "team": "Afghanistan Srl",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Oct 12, 01:00 AM",
+    "title": "Adelaide Strikers Srl - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "1.86"
+      },
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Oct 12, 02:00 AM",
+    "title": "St Lucia Kings Srl - Trinbago Knight Riders Srl",
+    "bets": [
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.86"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Oct 12, 03:00 AM",
+    "title": "Islamabad United Srl - Lahore Qalanders Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Oct 12, 04:00 AM",
+    "title": "Auckland Srl - Central Districts Srl",
+    "bets": [
+      {
+        "team": "Auckland Srl",
+        "odds": "1.61"
+      },
+      {
+        "team": "Central Districts Srl",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
     "date": "Oct 12, 04:15 AM",
     "title": "David Pieris Group A - Cdb A",
     "bets": [
@@ -700,16 +630,30 @@
     ]
   },
   {
+    "date": "Oct 12, 05:00 AM",
+    "title": "India Srl - Australia Srl",
+    "bets": [
+      {
+        "team": "India Srl",
+        "odds": "1.69"
+      },
+      {
+        "team": "Australia Srl",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
     "date": "Oct 12, 09:30 AM",
     "title": "India (w) - Australia (w)",
     "bets": [
       {
         "team": "India (w)",
-        "odds": "3.02"
+        "odds": "2.93"
       },
       {
         "team": "Australia (w)",
-        "odds": "1.39"
+        "odds": "1.41"
       }
     ]
   },
