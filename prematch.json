@@ -1,47 +1,5 @@
 [
   {
-    "date": "Oct 12, 04:00 PM",
-    "title": "Gujarat Titans Srl - Kolkata Knight Riders SRL",
-    "bets": [
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.77"
-      },
-      {
-        "team": "Kolkata Knight Riders SRL",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Oct 12, 05:30 PM",
-    "title": "Emirates Blues - Ajman",
-    "bets": [
-      {
-        "team": "Emirates Blues",
-        "odds": "1.92"
-      },
-      {
-        "team": "Ajman",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "Oct 12, 06:00 PM",
-    "title": "West Indies Srl - England Srl",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "2.18"
-      },
-      {
-        "team": "England Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
     "date": "Oct 12, 08:00 PM",
     "title": "Joburg Super Kings Srl - Sunrisers Eastern Cape Srl",
     "bets": [
@@ -159,11 +117,25 @@
     "bets": [
       {
         "team": "Toronto Sixers",
-        "odds": "2.02"
+        "odds": "1.95"
       },
       {
         "team": "Vancouver Kings",
-        "odds": "1.71"
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Oct 13, 02:30 AM",
+    "title": "Chetak Stallions - Lake Titans",
+    "bets": [
+      {
+        "team": "Chetak Stallions",
+        "odds": "1.55"
+      },
+      {
+        "team": "Lake Titans",
+        "odds": "2.23"
       }
     ]
   },
@@ -271,11 +243,11 @@
     "bets": [
       {
         "team": "Assam U-19",
-        "odds": "2.58"
+        "odds": "2.75"
       },
       {
         "team": "Maharashtra U-19",
-        "odds": "1.42"
+        "odds": "1.37"
       }
     ]
   },
@@ -435,11 +407,11 @@
     "bets": [
       {
         "team": "Nagaland U-19",
-        "odds": "4.47"
+        "odds": "3.82"
       },
       {
         "team": "Sikkim U-19",
-        "odds": "1.15"
+        "odds": "1.2"
       }
     ]
   },
@@ -818,6 +790,20 @@
     ]
   },
   {
+    "date": "Oct 13, 10:30 AM",
+    "title": "Oman - United Arab Emirates",
+    "bets": [
+      {
+        "team": "Oman",
+        "odds": "2.22"
+      },
+      {
+        "team": "United Arab Emirates",
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
     "date": "Oct 13, 11:00 AM",
     "title": "Barbados Royals Srl - Trinbago Knight Riders Srl",
     "bets": [
@@ -954,6 +940,20 @@
       {
         "team": "Multan Sultans Srl",
         "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Oct 13, 03:00 PM",
+    "title": "Nepal - Qatar",
+    "bets": [
+      {
+        "team": "Nepal",
+        "odds": "1.26"
+      },
+      {
+        "team": "Qatar",
+        "odds": "3.44"
       }
     ]
   },
