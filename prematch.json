@@ -1,29 +1,15 @@
 [
   {
     "date": "Oct 15, 08:00 AM",
-    "title": "Hobart Hurricanes Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.99"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Oct 15, 08:00 AM",
     "title": "Andhra (w) - Haryana (w)",
     "bets": [
       {
         "team": "Andhra (w)",
-        "odds": "2.63"
+        "odds": "2.79"
       },
       {
         "team": "Haryana (w)",
-        "odds": "1.4"
+        "odds": "1.36"
       }
     ]
   },
@@ -206,6 +192,20 @@
       {
         "team": "Uttar Pradesh (w)",
         "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Oct 15, 11:00 AM",
+    "title": "Rajasthan Royals (Ethan) - Delhi Capitals (Jordan)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (Ethan)",
+        "odds": "2.56"
+      },
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "1.42"
       }
     ]
   },
