@@ -1,75 +1,5 @@
 [
   {
-    "date": "Oct 15, 10:00 AM",
-    "title": "Quetta Gladiators Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.84"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Oct 15, 10:00 AM",
-    "title": "Mumbai Indians (Etienne) - Kolkata Knight Riders (Deolin)",
-    "bets": [
-      {
-        "team": "Mumbai Indians (Etienne)",
-        "odds": "1.76"
-      },
-      {
-        "team": "Kolkata Knight Riders (Deolin)",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
-    "date": "Oct 15, 10:30 AM",
-    "title": "Samoa - United Arab Emirates",
-    "bets": [
-      {
-        "team": "Samoa",
-        "odds": "5.7"
-      },
-      {
-        "team": "United Arab Emirates",
-        "odds": "1.09"
-      }
-    ]
-  },
-  {
-    "date": "Oct 15, 10:30 AM",
-    "title": "Karnataka (w) - Odisha (w)",
-    "bets": [
-      {
-        "team": "Karnataka (w)",
-        "odds": "1.33"
-      },
-      {
-        "team": "Odisha (w)",
-        "odds": "2.93"
-      }
-    ]
-  },
-  {
-    "date": "Oct 15, 10:30 AM",
-    "title": "Rajasthan (w) - Saurashtra (w)",
-    "bets": [
-      {
-        "team": "Rajasthan (w)",
-        "odds": "1.49"
-      },
-      {
-        "team": "Saurashtra (w)",
-        "odds": "2.37"
-      }
-    ]
-  },
-  {
     "date": "Oct 15, 11:00 AM",
     "title": "Barbados Royals Srl - St Lucia Kings Srl",
     "bets": [
@@ -89,11 +19,11 @@
     "bets": [
       {
         "team": "Delhi (w)",
-        "odds": "1.33"
+        "odds": "1.34"
       },
       {
         "team": "Jharkhand (w)",
-        "odds": "2.94"
+        "odds": "2.91"
       }
     ]
   },
@@ -411,11 +341,11 @@
     "bets": [
       {
         "team": "Madhya Pradesh U-23",
-        "odds": "1.2"
+        "odds": "1.25"
       },
       {
         "team": "Tripura U-23",
-        "odds": "4.07"
+        "odds": "3.53"
       }
     ]
   },
@@ -453,11 +383,11 @@
     "bets": [
       {
         "team": "Arunachal Pradesh U-23",
-        "odds": "4.8"
+        "odds": "3.53"
       },
       {
         "team": "Bihar U-23",
-        "odds": "1.15"
+        "odds": "1.25"
       }
     ]
   },
