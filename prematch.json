@@ -1,19 +1,5 @@
 [
   {
-    "date": "Oct 16, 08:00 PM",
-    "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.96"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
     "date": "Oct 16, 10:00 PM",
     "title": "Melbourne Stars Srl - Hobart Hurricanes Srl",
     "bets": [
@@ -155,11 +141,11 @@
     "bets": [
       {
         "team": "Madhya Pradesh (w)",
-        "odds": "1.31"
+        "odds": "1.26"
       },
       {
         "team": "Rajasthan (w)",
-        "odds": "3.01"
+        "odds": "3.32"
       }
     ]
   },
@@ -449,11 +435,11 @@
     "bets": [
       {
         "team": "Chandigarh (w)",
-        "odds": "3.32"
+        "odds": "3.73"
       },
       {
         "team": "Delhi (w)",
-        "odds": "1.26"
+        "odds": "1.21"
       }
     ]
   },
