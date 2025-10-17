@@ -1,47 +1,5 @@
 [
   {
-    "date": "Oct 17, 05:30 PM",
-    "title": "Emirates Blues - Dubai",
-    "bets": [
-      {
-        "team": "Emirates Blues",
-        "odds": "1.5"
-      },
-      {
-        "team": "Dubai",
-        "odds": "2.36"
-      }
-    ]
-  },
-  {
-    "date": "Oct 17, 06:00 PM",
-    "title": "New Zealand Srl - England Srl",
-    "bets": [
-      {
-        "team": "New Zealand Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "England Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Oct 17, 06:00 PM",
-    "title": "Paarl Rocks - Paarl Rapids",
-    "bets": [
-      {
-        "team": "Paarl Rocks",
-        "odds": "1.85"
-      },
-      {
-        "team": "Paarl Rapids",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
     "date": "Oct 17, 08:00 PM",
     "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
     "bets": [
@@ -365,11 +323,11 @@
     "bets": [
       {
         "team": "Sarawak (w)",
-        "odds": "1.43"
+        "odds": "1.41"
       },
       {
         "team": "Kuala Lumpur (w)",
-        "odds": "2.63"
+        "odds": "2.7"
       }
     ]
   },
@@ -379,11 +337,11 @@
     "bets": [
       {
         "team": "Selangor (w)",
-        "odds": "1.46"
+        "odds": "1.44"
       },
       {
         "team": "Johor (w)",
-        "odds": "2.52"
+        "odds": "2.59"
       }
     ]
   },
@@ -463,11 +421,11 @@
     "bets": [
       {
         "team": "Perak (w)",
-        "odds": "1.6"
+        "odds": "1.5"
       },
       {
         "team": "Sabah (w)",
-        "odds": "2.2"
+        "odds": "2.41"
       }
     ]
   },
@@ -552,6 +510,20 @@
       {
         "team": "Northern Raiders",
         "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:30 AM",
+    "title": "Kabul Knight Riders - Speenghar Warriors",
+    "bets": [
+      {
+        "team": "Kabul Knight Riders",
+        "odds": "1.72"
+      },
+      {
+        "team": "Speenghar Warriors",
+        "odds": "2"
       }
     ]
   },
