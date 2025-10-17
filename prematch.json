@@ -1,19 +1,5 @@
 [
   {
-    "date": "Oct 17, 08:00 PM",
-    "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
     "date": "Oct 17, 10:00 PM",
     "title": "Brisbane Heat Srl - Melbourne Stars Srl",
     "bets": [
@@ -505,11 +491,11 @@
     "bets": [
       {
         "team": "West Coast Blues",
-        "odds": "1.6"
+        "odds": "1.72"
       },
       {
         "team": "Northern Raiders",
-        "odds": "2.2"
+        "odds": "2"
       }
     ]
   },
@@ -580,6 +566,20 @@
       {
         "team": "Barbados Royals Srl",
         "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 11:00 AM",
+    "title": "Overberg Indwe - Stellenbosch Kings",
+    "bets": [
+      {
+        "team": "Overberg Indwe",
+        "odds": "2.44"
+      },
+      {
+        "team": "Stellenbosch Kings",
+        "odds": "1.49"
       }
     ]
   },
