@@ -1,103 +1,5 @@
 [
   {
-    "date": "Oct 17, 01:00 PM",
-    "title": "Sunrisers Hyderabad SRL - Royal Challengers Bangalore SRL",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "2.04"
-      },
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Oct 17, 01:00 PM",
-    "title": "Delhi Capitals (Jordan) - Kolkata Knight Riders (Deolin)",
-    "bets": [
-      {
-        "team": "Delhi Capitals (Jordan)",
-        "odds": "1.9"
-      },
-      {
-        "team": "Kolkata Knight Riders (Deolin)",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
-    "date": "Oct 17, 01:30 PM",
-    "title": "Ajman - Abu Dhabi",
-    "bets": [
-      {
-        "team": "Ajman",
-        "odds": "1.42"
-      },
-      {
-        "team": "Abu Dhabi",
-        "odds": "2.6"
-      }
-    ]
-  },
-  {
-    "date": "Oct 17, 01:30 PM",
-    "title": "Abasin Defenders - Pamir Stars",
-    "bets": [
-      {
-        "team": "Abasin Defenders",
-        "odds": "1.85"
-      },
-      {
-        "team": "Pamir Stars",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Oct 17, 02:00 PM",
-    "title": "Quetta Gladiators Srl - Karachi Kings Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.7"
-      },
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Oct 17, 03:30 PM",
-    "title": "Wellington Wolves - Stellenbosch Kings",
-    "bets": [
-      {
-        "team": "Wellington Wolves",
-        "odds": "2.56"
-      },
-      {
-        "team": "Stellenbosch Kings",
-        "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Oct 17, 04:00 PM",
-    "title": "Chennai Super Kings SRL - Gujarat Titans Srl",
-    "bets": [
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.12"
-      },
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
     "date": "Oct 17, 05:30 PM",
     "title": "Emirates Blues - Dubai",
     "bets": [
@@ -603,11 +505,11 @@
     "bets": [
       {
         "team": "Bangladesh",
-        "odds": "1.72"
+        "odds": "1.7"
       },
       {
         "team": "West Indies",
-        "odds": "2.14"
+        "odds": "2.16"
       }
     ]
   },
@@ -636,6 +538,20 @@
       {
         "team": "Titans",
         "odds": "1.46"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:30 AM",
+    "title": "West Coast Blues - Northern Raiders",
+    "bets": [
+      {
+        "team": "West Coast Blues",
+        "odds": "1.6"
+      },
+      {
+        "team": "Northern Raiders",
+        "odds": "2.2"
       }
     ]
   },
@@ -794,6 +710,20 @@
     ]
   },
   {
+    "date": "Oct 18, 11:00 PM",
+    "title": "Ipswich 1st Grade - Western Suburbs 1st Grade",
+    "bets": [
+      {
+        "team": "Ipswich 1st Grade",
+        "odds": "1.55"
+      },
+      {
+        "team": "Western Suburbs 1st Grade",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
     "date": "Oct 19, 02:30 AM",
     "title": "Randwick Petersham - Manly-Warringah",
     "bets": [
@@ -827,11 +757,11 @@
     "bets": [
       {
         "team": "Australia",
-        "odds": "1.78"
+        "odds": "1.8"
       },
       {
         "team": "India",
-        "odds": "2.04"
+        "odds": "2.02"
       }
     ]
   },
