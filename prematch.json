@@ -1,19 +1,5 @@
 [
   {
-    "date": "Oct 18, 10:00 PM",
-    "title": "Hobart Hurricanes Srl - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.75"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2"
-      }
-    ]
-  },
-  {
     "date": "Oct 18, 11:00 PM",
     "title": "Antigua And Barbuda Falcons Srl - Trinbago Knight Riders Srl",
     "bets": [
@@ -627,20 +613,6 @@
   },
   {
     "date": "Oct 19, 10:30 AM",
-    "title": "Chandigarh (w) - Uttarakhand (w)",
-    "bets": [
-      {
-        "team": "Chandigarh (w)",
-        "odds": "2.47"
-      },
-      {
-        "team": "Uttarakhand (w)",
-        "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 10:30 AM",
     "title": "Punjab (w) - Rajasthan (w)",
     "bets": [
       {
@@ -664,6 +636,20 @@
       {
         "team": "St Kitts And Nevis Patriots Srl",
         "odds": "1.84"
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 11:00 AM",
+    "title": "Chandigarh (w) - Uttarakhand (w)",
+    "bets": [
+      {
+        "team": "Chandigarh (w)",
+        "odds": "2.47"
+      },
+      {
+        "team": "Uttarakhand (w)",
+        "odds": "1.45"
       }
     ]
   },
@@ -748,6 +734,20 @@
       {
         "team": "Royal Challengers Bangalore SRL",
         "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 05:30 PM",
+    "title": "Emirates Blues - Abu Dhabi",
+    "bets": [
+      {
+        "team": "Emirates Blues",
+        "odds": "1.33"
+      },
+      {
+        "team": "Abu Dhabi",
+        "odds": "2.96"
       }
     ]
   },
