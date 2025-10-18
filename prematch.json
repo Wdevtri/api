@@ -1,187 +1,5 @@
 [
   {
-    "date": "Oct 18, 12:00 AM",
-    "title": "Pakistan Srl - West Indies Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.82"
-      },
-      {
-        "team": "West Indies Srl",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 01:00 AM",
-    "title": "Hobart Hurricanes Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "2.04"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "St Lucia Kings Srl - Guyana Amazon Warriors Srl",
-    "bets": [
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.91"
-      },
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "South Perth 1st Grade - Claremont-Nedlands 1st Grade",
-    "bets": [
-      {
-        "team": "South Perth 1st Grade",
-        "odds": "2.58"
-      },
-      {
-        "team": "Claremont-Nedlands 1st Grade",
-        "odds": "1.42"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "Bayswater-Morley 1st Grade - Fremantle 1st Grade",
-    "bets": [
-      {
-        "team": "Bayswater-Morley 1st Grade",
-        "odds": "2.07"
-      },
-      {
-        "team": "Fremantle 1st Grade",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "Subiaco-Floreat 1st Grade - Midland-Guildford 1st Grade",
-    "bets": [
-      {
-        "team": "Subiaco-Floreat 1st Grade",
-        "odds": "1.69"
-      },
-      {
-        "team": "Midland-Guildford 1st Grade",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "Joondalup 1st Grade - Wanneroo 1st Grade",
-    "bets": [
-      {
-        "team": "Joondalup 1st Grade",
-        "odds": "1.37"
-      },
-      {
-        "team": "Wanneroo 1st Grade",
-        "odds": "2.74"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "Mount Lawley 1st Grade - Scarborough 1st Grade",
-    "bets": [
-      {
-        "team": "Mount Lawley 1st Grade",
-        "odds": "1.28"
-      },
-      {
-        "team": "Scarborough 1st Grade",
-        "odds": "3.18"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "Rockingham-Mandurah 1st Grade - Melville 1st Grade",
-    "bets": [
-      {
-        "team": "Rockingham-Mandurah 1st Grade",
-        "odds": "1.31"
-      },
-      {
-        "team": "Melville 1st Grade",
-        "odds": "3.04"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "Willetton 1st Grade - University 1st Grade",
-    "bets": [
-      {
-        "team": "Willetton 1st Grade",
-        "odds": "2"
-      },
-      {
-        "team": "University 1st Grade",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "Sarawak (w) - Kuala Lumpur (w)",
-    "bets": [
-      {
-        "team": "Sarawak (w)",
-        "odds": "1.37"
-      },
-      {
-        "team": "Kuala Lumpur (w)",
-        "odds": "2.85"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 02:00 AM",
-    "title": "Selangor (w) - Johor (w)",
-    "bets": [
-      {
-        "team": "Selangor (w)",
-        "odds": "1.37"
-      },
-      {
-        "team": "Johor (w)",
-        "odds": "2.85"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 03:00 AM",
-    "title": "Islamabad United Srl - Peshawar Zalmi Srl",
-    "bets": [
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.74"
-      },
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
     "date": "Oct 18, 04:00 AM",
     "title": "Auckland Srl - Otago Srl",
     "bets": [
@@ -547,6 +365,20 @@
   },
   {
     "date": "Oct 18, 11:00 PM",
+    "title": "Antigua And Barbuda Falcons Srl - Trinbago Knight Riders Srl",
+    "bets": [
+      {
+        "team": "Antigua And Barbuda Falcons Srl",
+        "odds": "2.14"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 11:00 PM",
     "title": "Ipswich 1st Grade - Western Suburbs 1st Grade",
     "bets": [
       {
@@ -556,6 +388,48 @@
       {
         "team": "Western Suburbs 1st Grade",
         "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 12:00 AM",
+    "title": "South Africa Srl - New Zealand Srl",
+    "bets": [
+      {
+        "team": "South Africa Srl",
+        "odds": "1.65"
+      },
+      {
+        "team": "New Zealand Srl",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 01:00 AM",
+    "title": "Melbourne Renegades Srl - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "1.87"
+      },
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 02:00 AM",
+    "title": "Barbados Royals Srl - Guyana Amazon Warriors Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2.06"
+      },
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.71"
       }
     ]
   },
@@ -588,6 +462,20 @@
     ]
   },
   {
+    "date": "Oct 19, 03:00 AM",
+    "title": "Karachi Kings Srl - Islamabad United Srl",
+    "bets": [
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
     "date": "Oct 19, 03:30 AM",
     "title": "Australia - India",
     "bets": [
@@ -598,6 +486,20 @@
       {
         "team": "India",
         "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 04:00 AM",
+    "title": "Northern Districts Srl - Central Districts Srl",
+    "bets": [
+      {
+        "team": "Northern Districts Srl",
+        "odds": "1.73"
+      },
+      {
+        "team": "Central Districts Srl",
+        "odds": "2.04"
       }
     ]
   },
