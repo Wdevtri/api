@@ -1,19 +1,5 @@
 [
   {
-    "date": "Oct 18, 09:30 AM",
-    "title": "New Zealand (w) - Pakistan (w)",
-    "bets": [
-      {
-        "team": "New Zealand (w)",
-        "odds": "1.34"
-      },
-      {
-        "team": "Pakistan (w)",
-        "odds": "3.26"
-      }
-    ]
-  },
-  {
     "date": "Oct 18, 10:00 AM",
     "title": "Karachi Kings Srl - Lahore Qalanders Srl",
     "bets": [
@@ -793,6 +779,34 @@
       },
       {
         "team": "Gujarat Titans (Gerrard)",
+        "odds": "2.81"
+      }
+    ]
+  },
+  {
+    "date": "Oct 20, 09:00 AM",
+    "title": "Lucknow Super Giants (Aidin) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.34"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "2.89"
+      }
+    ]
+  },
+  {
+    "date": "Oct 20, 09:30 AM",
+    "title": "Sri Lanka (w) - Bangladesh (w)",
+    "bets": [
+      {
+        "team": "Sri Lanka (w)",
+        "odds": "1.44"
+      },
+      {
+        "team": "Bangladesh (w)",
         "odds": "2.81"
       }
     ]
