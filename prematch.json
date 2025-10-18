@@ -1,89 +1,5 @@
 [
   {
-    "date": "Oct 18, 04:00 AM",
-    "title": "Auckland Srl - Otago Srl",
-    "bets": [
-      {
-        "team": "Auckland Srl",
-        "odds": "1.68"
-      },
-      {
-        "team": "Otago Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 05:00 AM",
-    "title": "India Srl - Australia Srl",
-    "bets": [
-      {
-        "team": "India Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Australia Srl",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 06:00 AM",
-    "title": "Durban Super Giants Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.91"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 06:15 AM",
-    "title": "New Zealand - England",
-    "bets": [
-      {
-        "team": "New Zealand",
-        "odds": "2.2"
-      },
-      {
-        "team": "England",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 06:15 AM",
-    "title": "Perak (w) - Sabah (w)",
-    "bets": [
-      {
-        "team": "Perak (w)",
-        "odds": "1.5"
-      },
-      {
-        "team": "Sabah (w)",
-        "odds": "2.41"
-      }
-    ]
-  },
-  {
-    "date": "Oct 18, 06:15 AM",
-    "title": "Pahang (w) - Negeri Sembilan (w)",
-    "bets": [
-      {
-        "team": "Pahang (w)",
-        "odds": "1.78"
-      },
-      {
-        "team": "Negeri Sembilan (w)",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
     "date": "Oct 18, 07:00 AM",
     "title": "Mumbai Indians SRL - Rajasthan Royals SRL",
     "bets": [
@@ -504,6 +420,62 @@
     ]
   },
   {
+    "date": "Oct 19, 05:00 AM",
+    "title": "England Srl - India Srl",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "2.16"
+      },
+      {
+        "team": "India Srl",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 06:00 AM",
+    "title": "Mi Cape Town Srl - Durban Super Giants Srl",
+    "bets": [
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.63"
+      },
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 07:00 AM",
+    "title": "Rajasthan Royals SRL - Gujarat Titans Srl",
+    "bets": [
+      {
+        "team": "Rajasthan Royals SRL",
+        "odds": "2.12"
+      },
+      {
+        "team": "Gujarat Titans Srl",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 08:00 AM",
+    "title": "Adelaide Strikers Srl - Melbourne Stars Srl",
+    "bets": [
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "1.93"
+      },
+      {
+        "team": "Melbourne Stars Srl",
+        "odds": "1.81"
+      }
+    ]
+  },
+  {
     "date": "Oct 19, 09:30 AM",
     "title": "India (w) - England (w)",
     "bets": [
@@ -514,6 +486,20 @@
       {
         "team": "England (w)",
         "odds": "2.19"
+      }
+    ]
+  },
+  {
+    "date": "Oct 20, 05:00 AM",
+    "title": "Pakistan - South Africa",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.69"
+      },
+      {
+        "team": "Draw",
+        "odds": "12.5"
       }
     ]
   }
