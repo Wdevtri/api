@@ -1,131 +1,5 @@
 [
   {
-    "date": "Oct 19, 11:00 AM",
-    "title": "Antigua And Barbuda Falcons Srl - St Kitts And Nevis Patriots Srl",
-    "bets": [
-      {
-        "team": "Antigua And Barbuda Falcons Srl",
-        "odds": "1.89"
-      },
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "1.84"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 11:00 AM",
-    "title": "Kerala (w) - Mumbai (w)",
-    "bets": [
-      {
-        "team": "Kerala (w)",
-        "odds": "2.56"
-      },
-      {
-        "team": "Mumbai (w)",
-        "odds": "1.35"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 11:00 AM",
-    "title": "Chandigarh (w) - Uttarakhand (w)",
-    "bets": [
-      {
-        "team": "Chandigarh (w)",
-        "odds": "2.19"
-      },
-      {
-        "team": "Uttarakhand (w)",
-        "odds": "1.57"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 11:00 AM",
-    "title": "Northern Raiders - Paarl Rocks",
-    "bets": [
-      {
-        "team": "Northern Raiders",
-        "odds": "2"
-      },
-      {
-        "team": "Paarl Rocks",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 12:00 PM",
-    "title": "Wellington Srl - Otago Srl",
-    "bets": [
-      {
-        "team": "Wellington Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "Otago Srl",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 01:00 PM",
-    "title": "Chennai Super Kings SRL - Sunrisers Hyderabad SRL",
-    "bets": [
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.02"
-      },
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 01:30 PM",
-    "title": "Ajman - Sharjah",
-    "bets": [
-      {
-        "team": "Ajman",
-        "odds": "2.76"
-      },
-      {
-        "team": "Sharjah",
-        "odds": "1.38"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 01:30 PM",
-    "title": "Speenghar Warriors - Abasin Defenders",
-    "bets": [
-      {
-        "team": "Speenghar Warriors",
-        "odds": "1.69"
-      },
-      {
-        "team": "Abasin Defenders",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 02:00 PM",
-    "title": "Lahore Qalanders Srl - Multan Sultans Srl",
-    "bets": [
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.6"
-      },
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
     "date": "Oct 19, 04:00 PM",
     "title": "Delhi Capitals SRL - Royal Challengers Bangalore SRL",
     "bets": [
@@ -215,11 +89,11 @@
     "bets": [
       {
         "team": "Tasmania Tigers",
-        "odds": "1.96"
+        "odds": "1.89"
       },
       {
         "team": "Western Australia",
-        "odds": "1.79"
+        "odds": "1.85"
       }
     ]
   },
@@ -327,7 +201,7 @@
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.69"
+        "odds": "1.72"
       },
       {
         "team": "Draw",
@@ -397,7 +271,7 @@
     "bets": [
       {
         "team": "Zimbabwe",
-        "odds": "2.18"
+        "odds": "2.16"
       },
       {
         "team": "Draw",
