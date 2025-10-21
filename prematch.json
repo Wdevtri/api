@@ -1,20 +1,6 @@
 [
   {
     "date": "Oct 21, 10:00 AM",
-    "title": "Islamabad United Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.99"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Oct 21, 10:00 AM",
     "title": "Mumbai Indians (Etienne) - Kolkata Knight Riders (Deolin)",
     "bets": [
       {
@@ -346,6 +332,34 @@
       {
         "team": "Kolkata Knight Riders SRL",
         "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 08:00 AM",
+    "title": "Brisbane Heat Srl - Sydney Thunder Srl",
+    "bets": [
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "2.16"
+      },
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 09:00 AM",
+    "title": "Mi Cape Town Srl - Durban Super Giants Srl",
+    "bets": [
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.63"
+      },
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "2.2"
       }
     ]
   },
