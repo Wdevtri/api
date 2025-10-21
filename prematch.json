@@ -42,6 +42,20 @@
     ]
   },
   {
+    "date": "Oct 21, 11:00 AM",
+    "title": "Delhi Capitals (Jordan) - Gujarat Titans (Gerrard)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "2.86"
+      },
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "1.35"
+      }
+    ]
+  },
+  {
     "date": "Oct 21, 12:00 PM",
     "title": "Canterbury Srl - Otago Srl",
     "bets": [
@@ -56,6 +70,20 @@
     ]
   },
   {
+    "date": "Oct 21, 12:00 PM",
+    "title": "Delhi Capitals (Jordan) - Mumbai Indians (Etienne)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "1.97"
+      },
+      {
+        "team": "Mumbai Indians (Etienne)",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
     "date": "Oct 21, 01:00 PM",
     "title": "Rajasthan Royals SRL - Delhi Capitals SRL",
     "bets": [
@@ -66,6 +94,20 @@
       {
         "team": "Delhi Capitals SRL",
         "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Oct 21, 01:00 PM",
+    "title": "Gujarat Titans (Gerrard) - Kolkata Knight Riders (Deolin)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "1.35"
+      },
+      {
+        "team": "Kolkata Knight Riders (Deolin)",
+        "odds": "2.83"
       }
     ]
   },
@@ -276,6 +318,34 @@
       {
         "team": "India Srl",
         "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 06:00 AM",
+    "title": "Joburg Super Kings Srl - Paarl Royals Srl",
+    "bets": [
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "2.02"
+      },
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 07:00 AM",
+    "title": "Mumbai Indians SRL - Kolkata Knight Riders SRL",
+    "bets": [
+      {
+        "team": "Mumbai Indians SRL",
+        "odds": "1.66"
+      },
+      {
+        "team": "Kolkata Knight Riders SRL",
+        "odds": "2.14"
       }
     ]
   },
