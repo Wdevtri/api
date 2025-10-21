@@ -1,33 +1,5 @@
 [
   {
-    "date": "Oct 21, 11:00 PM",
-    "title": "Guyana Amazon Warriors Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.82"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Oct 21, 11:00 PM",
-    "title": "Perth Scorchers (w) - Sydney Sixers (w)",
-    "bets": [
-      {
-        "team": "Perth Scorchers (w)",
-        "odds": "1.59"
-      },
-      {
-        "team": "Sydney Sixers (w)",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
     "date": "Oct 22, 12:00 AM",
     "title": "Afghanistan Srl - Pakistan Srl",
     "bets": [
