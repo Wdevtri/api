@@ -1,47 +1,5 @@
 [
   {
-    "date": "Oct 21, 10:00 AM",
-    "title": "Mumbai Indians (Etienne) - Kolkata Knight Riders (Deolin)",
-    "bets": [
-      {
-        "team": "Mumbai Indians (Etienne)",
-        "odds": "1.67"
-      },
-      {
-        "team": "Kolkata Knight Riders (Deolin)",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Oct 21, 11:00 AM",
-    "title": "St Lucia Kings Srl - Antigua And Barbuda Falcons Srl",
-    "bets": [
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Antigua And Barbuda Falcons Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Oct 21, 11:00 AM",
-    "title": "Delhi Capitals (Jordan) - Gujarat Titans (Gerrard)",
-    "bets": [
-      {
-        "team": "Delhi Capitals (Jordan)",
-        "odds": "2.86"
-      },
-      {
-        "team": "Gujarat Titans (Gerrard)",
-        "odds": "1.35"
-      }
-    ]
-  },
-  {
     "date": "Oct 21, 12:00 PM",
     "title": "Canterbury Srl - Otago Srl",
     "bets": [
@@ -61,11 +19,11 @@
     "bets": [
       {
         "team": "Delhi Capitals (Jordan)",
-        "odds": "1.97"
+        "odds": "1.99"
       },
       {
         "team": "Mumbai Indians (Etienne)",
-        "odds": "1.71"
+        "odds": "1.7"
       }
     ]
   },
@@ -224,6 +182,20 @@
     ]
   },
   {
+    "date": "Oct 21, 11:00 PM",
+    "title": "Perth Scorchers (w) - Sydney Sixers (w)",
+    "bets": [
+      {
+        "team": "Perth Scorchers (w)",
+        "odds": "1.69"
+      },
+      {
+        "team": "Sydney Sixers (w)",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
     "date": "Oct 22, 12:00 AM",
     "title": "Afghanistan Srl - Pakistan Srl",
     "bets": [
@@ -275,6 +247,20 @@
       },
       {
         "team": "Multan Sultans Srl",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 03:30 AM",
+    "title": "Hobart Hurricanes (w) - Sydney Thunder (w)",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes (w)",
+        "odds": "1.69"
+      },
+      {
+        "team": "Sydney Thunder (w)",
         "odds": "2.04"
       }
     ]
@@ -378,6 +364,132 @@
     ]
   },
   {
+    "date": "Oct 22, 10:00 AM",
+    "title": "Lahore Qalanders Srl - Islamabad United Srl",
+    "bets": [
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.8"
+      },
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 11:00 AM",
+    "title": "St Kitts And Nevis Patriots Srl - St Lucia Kings Srl",
+    "bets": [
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "2.12"
+      },
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 12:00 PM",
+    "title": "Canterbury Srl - Northern Districts Srl",
+    "bets": [
+      {
+        "team": "Canterbury Srl",
+        "odds": "1.6"
+      },
+      {
+        "team": "Northern Districts Srl",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 01:00 PM",
+    "title": "Sunrisers Hyderabad SRL - Lucknow Super Giants Srl",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad SRL",
+        "odds": "1.8"
+      },
+      {
+        "team": "Lucknow Super Giants Srl",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 02:00 PM",
+    "title": "Multan Sultans Srl - Peshawar Zalmi Srl",
+    "bets": [
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "1.96"
+      },
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 04:00 PM",
+    "title": "Chennai Super Kings SRL - Rajasthan Royals SRL",
+    "bets": [
+      {
+        "team": "Chennai Super Kings SRL",
+        "odds": "1.88"
+      },
+      {
+        "team": "Rajasthan Royals SRL",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 06:00 PM",
+    "title": "England Srl - West Indies Srl",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "1.63"
+      },
+      {
+        "team": "West Indies Srl",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 08:00 PM",
+    "title": "Paarl Royals Srl - Pretoria Capitals Srl",
+    "bets": [
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.71"
+      },
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 10:00 PM",
+    "title": "Hobart Hurricanes Srl - Melbourne Stars Srl",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.81"
+      },
+      {
+        "team": "Melbourne Stars Srl",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
     "date": "Oct 22, 10:45 PM",
     "title": "Clarence 1st Grade - Lindisfarne 1st Grade",
     "bets": [
@@ -416,6 +528,20 @@
       {
         "team": "New Town 1st Grade",
         "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 11:00 PM",
+    "title": "Guyana Amazon Warriors Srl - St Kitts And Nevis Patriots Srl",
+    "bets": [
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.64"
+      },
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "2.18"
       }
     ]
   },
