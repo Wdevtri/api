@@ -1,71 +1,15 @@
 [
   {
-    "date": "Oct 22, 10:45 PM",
-    "title": "Clarence 1st Grade - Lindisfarne 1st Grade",
-    "bets": [
-      {
-        "team": "Clarence 1st Grade",
-        "odds": "1.96"
-      },
-      {
-        "team": "Lindisfarne 1st Grade",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Oct 22, 10:45 PM",
-    "title": "North Hobart 1st Grade - Glenorchy 1st Grade",
-    "bets": [
-      {
-        "team": "North Hobart 1st Grade",
-        "odds": "1.82"
-      },
-      {
-        "team": "Glenorchy 1st Grade",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Oct 22, 10:45 PM",
-    "title": "University of Tasmania 1st Grade - New Town 1st Grade",
-    "bets": [
-      {
-        "team": "University of Tasmania 1st Grade",
-        "odds": "1.9"
-      },
-      {
-        "team": "New Town 1st Grade",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Oct 22, 11:00 PM",
-    "title": "Guyana Amazon Warriors Srl - St Kitts And Nevis Patriots Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.64"
-      },
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
     "date": "Oct 22, 11:00 PM",
     "title": "Adelaide Strikers (w) - ACT Meteors (w)",
     "bets": [
       {
         "team": "Adelaide Strikers (w)",
-        "odds": "1.2"
+        "odds": "1.19"
       },
       {
         "team": "ACT Meteors (w)",
-        "odds": "3.85"
+        "odds": "3.91"
       }
     ]
   },
