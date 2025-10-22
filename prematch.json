@@ -19,7 +19,7 @@
     "bets": [
       {
         "team": "Paarl Rapids",
-        "odds": "2.5"
+        "odds": "2.48"
       },
       {
         "team": "Stellenbosch Kings",
@@ -336,6 +336,20 @@
     ]
   },
   {
+    "date": "Oct 23, 08:00 AM",
+    "title": "Mumbai Indians (Etienne) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (Etienne)",
+        "odds": "1.97"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
     "date": "Oct 23, 09:00 AM",
     "title": "Durban Super Giants Srl - Pretoria Capitals Srl",
     "bets": [
@@ -346,6 +360,20 @@
       {
         "team": "Pretoria Capitals Srl",
         "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 09:00 AM",
+    "title": "Rajasthan Royals (Ethan) - Delhi Capitals (Jordan)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (Ethan)",
+        "odds": "2.34"
+      },
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "1.5"
       }
     ]
   },
@@ -374,6 +402,20 @@
       {
         "team": "Peshawar Zalmi Srl",
         "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 10:00 AM",
+    "title": "Sunrisers Hyderabad (Sibs) - Rajasthan Royals (Ethan)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "1.32"
+      },
+      {
+        "team": "Rajasthan Royals (Ethan)",
+        "odds": "2.97"
       }
     ]
   },
@@ -514,6 +556,20 @@
       {
         "team": "Guyana Amazon Warriors Srl",
         "odds": "1.82"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:00 AM",
+    "title": "Maliban Biscuits A - Hayleys Group A",
+    "bets": [
+      {
+        "team": "Maliban Biscuits A",
+        "odds": "2.08"
+      },
+      {
+        "team": "Hayleys Group A",
+        "odds": "1.64"
       }
     ]
   },
