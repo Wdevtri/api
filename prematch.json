@@ -1,19 +1,5 @@
 [
   {
-    "date": "Oct 22, 10:00 PM",
-    "title": "Hobart Hurricanes Srl - Melbourne Stars Srl",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.81"
-      },
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.93"
-      }
-    ]
-  },
-  {
     "date": "Oct 22, 10:45 PM",
     "title": "Clarence 1st Grade - Lindisfarne 1st Grade",
     "bets": [
@@ -75,11 +61,11 @@
     "bets": [
       {
         "team": "Adelaide Strikers (w)",
-        "odds": "1.17"
+        "odds": "1.2"
       },
       {
         "team": "ACT Meteors (w)",
-        "odds": "4.2"
+        "odds": "3.85"
       }
     ]
   },
@@ -518,6 +504,62 @@
     ]
   },
   {
+    "date": "Oct 24, 02:00 AM",
+    "title": "Negeri Sembilan (w) - Johor (w)",
+    "bets": [
+      {
+        "team": "Negeri Sembilan (w)",
+        "odds": "1.5"
+      },
+      {
+        "team": "Johor (w)",
+        "odds": "2.35"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 02:00 AM",
+    "title": "Sarawak (w) - Perak (w)",
+    "bets": [
+      {
+        "team": "Sarawak (w)",
+        "odds": "1.25"
+      },
+      {
+        "team": "Perak (w)",
+        "odds": "3.39"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 06:15 AM",
+    "title": "Selangor (w) - Kuala Lumpur (w)",
+    "bets": [
+      {
+        "team": "Selangor (w)",
+        "odds": "1.25"
+      },
+      {
+        "team": "Kuala Lumpur (w)",
+        "odds": "3.39"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 06:15 AM",
+    "title": "Pahang (w) - Sabah (w)",
+    "bets": [
+      {
+        "team": "Pahang (w)",
+        "odds": "1.37"
+      },
+      {
+        "team": "Sabah (w)",
+        "odds": "2.77"
+      }
+    ]
+  },
+  {
     "date": "Oct 24, 08:00 AM",
     "title": "Maliban Biscuits A - Hayleys Group A",
     "bets": [
@@ -542,6 +584,48 @@
       {
         "team": "Sri Lanka (w)",
         "odds": "1.53"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 09:30 PM",
+    "title": "Canterbury Kings - Otago Volts",
+    "bets": [
+      {
+        "team": "Canterbury Kings",
+        "odds": "1.55"
+      },
+      {
+        "team": "Otago Volts",
+        "odds": "2.34"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 09:30 PM",
+    "title": "Auckland Aces - Northern Brave",
+    "bets": [
+      {
+        "team": "Auckland Aces",
+        "odds": "1.58"
+      },
+      {
+        "team": "Northern Brave",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 09:30 PM",
+    "title": "Central Stags - Wellington Firebirds",
+    "bets": [
+      {
+        "team": "Central Stags",
+        "odds": "1.66"
+      },
+      {
+        "team": "Wellington Firebirds",
+        "odds": "2.14"
       }
     ]
   }
