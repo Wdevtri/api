@@ -1,57 +1,15 @@
 [
   {
-    "date": "Oct 23, 06:00 AM",
-    "title": "Sunrisers Eastern Cape Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.82"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Oct 23, 06:15 AM",
-    "title": "New Zealand - England",
-    "bets": [
-      {
-        "team": "New Zealand",
-        "odds": "2.26"
-      },
-      {
-        "team": "England",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Oct 23, 07:00 AM",
-    "title": "Delhi Capitals SRL - Punjab Kings SRL",
-    "bets": [
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "2"
-      },
-      {
-        "team": "Punjab Kings SRL",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
     "date": "Oct 23, 07:30 AM",
     "title": "Bangladesh - West Indies",
     "bets": [
       {
         "team": "Bangladesh",
-        "odds": "1.61"
+        "odds": "1.65"
       },
       {
         "team": "West Indies",
-        "odds": "2.34"
+        "odds": "2.26"
       }
     ]
   },
@@ -327,11 +285,11 @@
     "bets": [
       {
         "team": "Sarawak (w)",
-        "odds": "1.25"
+        "odds": "1.31"
       },
       {
         "team": "Perak (w)",
-        "odds": "3.39"
+        "odds": "3.05"
       }
     ]
   },
@@ -355,11 +313,11 @@
     "bets": [
       {
         "team": "Pahang (w)",
-        "odds": "1.37"
+        "odds": "1.27"
       },
       {
         "team": "Sabah (w)",
-        "odds": "2.77"
+        "odds": "3.27"
       }
     ]
   },
