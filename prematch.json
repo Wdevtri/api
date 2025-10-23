@@ -1,75 +1,5 @@
 [
   {
-    "date": "Oct 23, 04:00 PM",
-    "title": "Kolkata Knight Riders SRL - Sunrisers Hyderabad SRL",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders SRL",
-        "odds": "1.9"
-      },
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.84"
-      }
-    ]
-  },
-  {
-    "date": "Oct 23, 04:00 PM",
-    "title": "Paarl Rocks - Wellington Wolves",
-    "bets": [
-      {
-        "team": "Paarl Rocks",
-        "odds": "2.16"
-      },
-      {
-        "team": "Wellington Wolves",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Oct 23, 04:45 PM",
-    "title": "Desert Hawks - NAS CC",
-    "bets": [
-      {
-        "team": "Desert Hawks",
-        "odds": "2.05"
-      },
-      {
-        "team": "NAS CC",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Oct 23, 05:30 PM",
-    "title": "Emirates Blues - Ajman",
-    "bets": [
-      {
-        "team": "Emirates Blues",
-        "odds": "1.59"
-      },
-      {
-        "team": "Ajman",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Oct 23, 06:00 PM",
-    "title": "South Africa Srl - West Indies Srl",
-    "bets": [
-      {
-        "team": "South Africa Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "West Indies Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
     "date": "Oct 23, 08:00 PM",
     "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
     "bets": [
@@ -173,11 +103,11 @@
     "bets": [
       {
         "team": "Negeri Sembilan (w)",
-        "odds": "1.5"
+        "odds": "1.56"
       },
       {
         "team": "Johor (w)",
-        "odds": "2.35"
+        "odds": "2.2"
       }
     ]
   },
@@ -187,11 +117,11 @@
     "bets": [
       {
         "team": "Sarawak (w)",
-        "odds": "1.31"
+        "odds": "1.36"
       },
       {
         "team": "Perak (w)",
-        "odds": "3.05"
+        "odds": "2.81"
       }
     ]
   },
@@ -220,6 +150,20 @@
       {
         "team": "Adelaide Strikers (w)",
         "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 04:00 AM",
+    "title": "Vesm Sports - Kbg Sports",
+    "bets": [
+      {
+        "team": "Vesm Sports",
+        "odds": "1.63"
+      },
+      {
+        "team": "Kbg Sports",
+        "odds": "2.18"
       }
     ]
   },
@@ -798,20 +742,6 @@
     ]
   },
   {
-    "date": "Oct 25, 03:00 AM",
-    "title": "Mumbai (w) - Maharashtra (w)",
-    "bets": [
-      {
-        "team": "Mumbai (w)",
-        "odds": "1.99"
-      },
-      {
-        "team": "Maharashtra (w)",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
     "date": "Oct 25, 03:30 AM",
     "title": "Australia - India",
     "bets": [
@@ -868,16 +798,30 @@
     ]
   },
   {
-    "date": "Oct 25, 05:00 AM",
+    "date": "Oct 25, 03:30 AM",
+    "title": "Mumbai (w) - Maharashtra (w)",
+    "bets": [
+      {
+        "team": "Mumbai (w)",
+        "odds": "1.83"
+      },
+      {
+        "team": "Maharashtra (w)",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Oct 25, 05:30 AM",
     "title": "Karnataka (w) - Delhi (w)",
     "bets": [
       {
         "team": "Karnataka (w)",
-        "odds": "1.88"
+        "odds": "1.9"
       },
       {
         "team": "Delhi (w)",
-        "odds": "1.79"
+        "odds": "1.77"
       }
     ]
   },
@@ -887,11 +831,11 @@
     "bets": [
       {
         "team": "Haryana (w)",
-        "odds": "1.83"
+        "odds": "1.9"
       },
       {
         "team": "Railways (w)",
-        "odds": "1.83"
+        "odds": "1.77"
       }
     ]
   },
@@ -910,20 +854,6 @@
     ]
   },
   {
-    "date": "Oct 25, 10:30 AM",
-    "title": "Vidarbha (w) - Madhya Pradesh (w)",
-    "bets": [
-      {
-        "team": "Vidarbha (w)",
-        "odds": "1.98"
-      },
-      {
-        "team": "Madhya Pradesh (w)",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
     "date": "Oct 25, 11:00 AM",
     "title": "Limpopo - Garden Route Badgers",
     "bets": [
@@ -934,6 +864,20 @@
       {
         "team": "Garden Route Badgers",
         "odds": "1.53"
+      }
+    ]
+  },
+  {
+    "date": "Oct 25, 11:00 AM",
+    "title": "Vidarbha (w) - Madhya Pradesh (w)",
+    "bets": [
+      {
+        "team": "Vidarbha (w)",
+        "odds": "1.99"
+      },
+      {
+        "team": "Madhya Pradesh (w)",
+        "odds": "1.69"
       }
     ]
   }
