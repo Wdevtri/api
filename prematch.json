@@ -1,19 +1,5 @@
 [
   {
-    "date": "Oct 23, 08:00 PM",
-    "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
     "date": "Oct 23, 10:00 PM",
     "title": "Melbourne Stars Srl - Brisbane Heat Srl",
     "bets": [
@@ -47,11 +33,11 @@
     "bets": [
       {
         "team": "Melbourne Stars (w)",
-        "odds": "2.04"
+        "odds": "2.22"
       },
       {
         "team": "Hobart Hurricanes (w)",
-        "odds": "1.69"
+        "odds": "1.59"
       }
     ]
   },
