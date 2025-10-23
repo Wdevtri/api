@@ -1,47 +1,5 @@
 [
   {
-    "date": "Oct 23, 10:00 PM",
-    "title": "Melbourne Stars Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Oct 23, 11:00 PM",
-    "title": "Trinbago Knight Riders Srl - Guyana Amazon Warriors Srl",
-    "bets": [
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.92"
-      },
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "Oct 23, 11:00 PM",
-    "title": "Melbourne Stars (w) - Hobart Hurricanes (w)",
-    "bets": [
-      {
-        "team": "Melbourne Stars (w)",
-        "odds": "2.22"
-      },
-      {
-        "team": "Hobart Hurricanes (w)",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
     "date": "Oct 24, 12:00 AM",
     "title": "Australia Srl - England Srl",
     "bets": [
@@ -864,6 +822,34 @@
       {
         "team": "Madhya Pradesh (w)",
         "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Oct 25, 10:45 PM",
+    "title": "Glenorchy 1st Grade - Greater Northern Raiders 1st Grade",
+    "bets": [
+      {
+        "team": "Glenorchy 1st Grade",
+        "odds": "2.05"
+      },
+      {
+        "team": "Greater Northern Raiders 1st Grade",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Oct 25, 11:00 PM",
+    "title": "Perth Scorchers (w) - ACT Meteors (w)",
+    "bets": [
+      {
+        "team": "Perth Scorchers (w)",
+        "odds": "1.51"
+      },
+      {
+        "team": "ACT Meteors (w)",
+        "odds": "2.38"
       }
     ]
   }
