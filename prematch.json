@@ -1,33 +1,5 @@
 [
   {
-    "date": "Oct 23, 04:00 AM",
-    "title": "Northern Districts Srl - Otago Srl",
-    "bets": [
-      {
-        "team": "Northern Districts Srl",
-        "odds": "1.81"
-      },
-      {
-        "team": "Otago Srl",
-        "odds": "1.93"
-      }
-    ]
-  },
-  {
-    "date": "Oct 23, 05:00 AM",
-    "title": "Pakistan Srl - New Zealand Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.82"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
     "date": "Oct 23, 06:00 AM",
     "title": "Sunrisers Eastern Cape Srl - Joburg Super Kings Srl",
     "bets": [
@@ -514,6 +486,20 @@
       {
         "team": "Sydney Thunder (w)",
         "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Oct 25, 05:00 AM",
+    "title": "Karnataka (w) - Delhi (w)",
+    "bets": [
+      {
+        "team": "Karnataka (w)",
+        "odds": "1.88"
+      },
+      {
+        "team": "Delhi (w)",
+        "odds": "1.79"
       }
     ]
   }
