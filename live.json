@@ -1,1 +1,306 @@
-[]
+[
+  {
+    "date": "Oct 24, 07:00 AM",
+    "title": "Uganda - Canada",
+    "bets": [
+      {
+        "team": "Uganda",
+        "odds": "1.09"
+      },
+      {
+        "team": "Canada",
+        "odds": "5.9"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 06:15 AM",
+    "title": "Selangor (w) - Kuala Lumpur (w)",
+    "bets": [
+      {
+        "team": "Selangor (w)",
+        "odds": "1.07"
+      },
+      {
+        "team": "Kuala Lumpur (w)",
+        "odds": "7.2"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:00 AM",
+    "title": "Lucknow Super Giants Srl - Royal Challengers Bangalore SRL",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants Srl",
+        "odds": "1.71"
+      },
+      {
+        "team": "Royal Challengers Bangalore SRL",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 05:40 AM",
+    "title": "The Blossoms (w) - AG Sports (w)",
+    "bets": [
+      {
+        "team": "The Blossoms (w)",
+        "odds": "1.91"
+      },
+      {
+        "team": "AG Sports (w)",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 05:45 AM",
+    "title": "Shani Shignapur Sports - Almora Cricket",
+    "bets": [
+      {
+        "team": "Shani Shignapur Sports",
+        "odds": "1.63"
+      },
+      {
+        "team": "Almora Cricket",
+        "odds": "2.15"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 06:09 AM",
+    "title": "Rajasthan Legends (V) - Delhi Legends (V)",
+    "bets": [
+      {
+        "team": "Rajasthan Legends (V)",
+        "odds": "1.18"
+      },
+      {
+        "team": "Delhi Legends (V)",
+        "odds": "4.39"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 06:35 AM",
+    "title": "Punjab Kings (cyber) - Gujarat Titans (cyber)",
+    "bets": [
+      {
+        "team": "Over 142.5",
+        "odds": "1.27"
+      },
+      {
+        "team": "Under 142.5",
+        "odds": "3.04"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:00 AM",
+    "title": "Military - Courageous",
+    "bets": [
+      {
+        "team": "Military",
+        "odds": "1.41"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.24"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:05 AM",
+    "title": "New Zealand (cyber) - India (cyber)",
+    "bets": [
+      {
+        "team": "New Zealand (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:25 AM",
+    "title": "Winning Star XI - Shimla Swingers",
+    "bets": [
+      {
+        "team": "Winning Star XI",
+        "odds": "1.87"
+      },
+      {
+        "team": "Shimla Swingers",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:30 AM",
+    "title": "Tuskers Jammu - Crickmasters",
+    "bets": [
+      {
+        "team": "Tuskers Jammu",
+        "odds": "2.34"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.14"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:30 AM",
+    "title": "Chennai Lions - Nitros",
+    "bets": [
+      {
+        "team": "Chennai Lions",
+        "odds": "2.03"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.37"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:30 AM",
+    "title": "Mumbai Indians (Sharoock) - Royal Challengers Bengaluru (AnjiDan)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (Sharoock)",
+        "odds": "9.54"
+      },
+      {
+        "team": "Royal Challengers Bengaluru (AnjiDan)",
+        "odds": "1.02"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:35 AM",
+    "title": "Lucknow Super Giants (cyber) - Chennai Carvers (cyber)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "5.55"
+      },
+      {
+        "team": "Chennai Carvers (cyber)",
+        "odds": "1.02"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:51 AM",
+    "title": "Afghanistan (V) - Zimbabwe (V)",
+    "bets": [
+      {
+        "team": "Draw",
+        "odds": "8.5"
+      },
+      {
+        "team": "Zimbabwe (V)",
+        "odds": "1.03"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:53 AM",
+    "title": "Gujarat Titans (V) - Punjab Kings (V)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "1.44"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:54 AM",
+    "title": "Delhi Capitals (V) - Punjab Kings (V)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (V)",
+        "odds": "4.15"
+      },
+      {
+        "team": "Punjab Kings (V)",
+        "odds": "1.19"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:55 AM",
+    "title": "Pakistan (V) - Bangladesh (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "2.1"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 07:57 AM",
+    "title": "Perth Scorchers (V) - Melbourne Stars (V)",
+    "bets": [
+      {
+        "team": "Perth Scorchers (V)",
+        "odds": "1.7"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:00 AM",
+    "title": "Ruhuna Cricket - Top Guns Indoor",
+    "bets": [
+      {
+        "team": "Ruhuna Cricket",
+        "odds": "1.85"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.14"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:00 AM",
+    "title": "Glam Chicks (w) - Sweet Gulls (w)",
+    "bets": [
+      {
+        "team": "Glam Chicks (w)",
+        "odds": "1.87"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.53"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:05 AM",
+    "title": "Germany (cyber) - Afghanistan (cyber)",
+    "bets": [
+      {
+        "team": "Germany (cyber)",
+        "odds": "2.23"
+      },
+      {
+        "team": "Afghanistan (cyber)",
+        "odds": "1.51"
+      }
+    ]
+  }
+]
