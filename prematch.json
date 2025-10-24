@@ -1,75 +1,5 @@
 [
   {
-    "date": "Oct 24, 08:00 PM",
-    "title": "Durban Super Giants Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.86"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 09:30 PM",
-    "title": "Canterbury Kings - Otago Volts",
-    "bets": [
-      {
-        "team": "Canterbury Kings",
-        "odds": "1.54"
-      },
-      {
-        "team": "Otago Volts",
-        "odds": "2.36"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 09:30 PM",
-    "title": "Auckland Aces - Northern Brave",
-    "bets": [
-      {
-        "team": "Auckland Aces",
-        "odds": "1.56"
-      },
-      {
-        "team": "Northern Brave",
-        "odds": "2.34"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 09:30 PM",
-    "title": "Central Stags - Wellington Firebirds",
-    "bets": [
-      {
-        "team": "Central Stags",
-        "odds": "1.65"
-      },
-      {
-        "team": "Wellington Firebirds",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 10:00 PM",
-    "title": "Melbourne Renegades Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "2.14"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
     "date": "Oct 24, 10:45 PM",
     "title": "New Town 1st Grade - Kingborough 1st Grade",
     "bets": [
@@ -131,11 +61,11 @@
     "bets": [
       {
         "team": "Brisbane Heat (w)",
-        "odds": "1.71"
+        "odds": "1.76"
       },
       {
         "team": "Melbourne Stars (w)",
-        "odds": "2.02"
+        "odds": "1.95"
       }
     ]
   },
@@ -682,6 +612,20 @@
       {
         "team": "Kolkata Knight Riders SRL",
         "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Oct 25, 01:30 PM",
+    "title": "Northern Raiders - Wellington Wolves",
+    "bets": [
+      {
+        "team": "Northern Raiders",
+        "odds": "1.85"
+      },
+      {
+        "team": "Wellington Wolves",
+        "odds": "1.85"
       }
     ]
   },
@@ -1396,6 +1340,62 @@
       {
         "team": "Sturt",
         "odds": "2.27"
+      }
+    ]
+  },
+  {
+    "date": "Oct 26, 06:00 AM",
+    "title": "West Torrens - Adelaide",
+    "bets": [
+      {
+        "team": "West Torrens",
+        "odds": "1.38"
+      },
+      {
+        "team": "Adelaide",
+        "odds": "2.7"
+      }
+    ]
+  },
+  {
+    "date": "Oct 26, 06:15 AM",
+    "title": "Sarawak (w) - Selangor (w)",
+    "bets": [
+      {
+        "team": "Sarawak (w)",
+        "odds": "1.83"
+      },
+      {
+        "team": "Selangor (w)",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Oct 26, 07:00 AM",
+    "title": "Uganda - Canada",
+    "bets": [
+      {
+        "team": "Uganda",
+        "odds": "1.11"
+      },
+      {
+        "team": "Canada",
+        "odds": "5.3"
+      }
+    ]
+  },
+  {
+    "date": "Oct 26, 08:30 AM",
+    "title": "Chhattisgarh U-19 (w) - Delhi U-19 (w)",
+    "bets": [
+      {
+        "team": "Chhattisgarh U-19 (w)",
+        "odds": "2"
+      },
+      {
+        "team": "Delhi U-19 (w)",
+        "odds": "1.72"
       }
     ]
   }
