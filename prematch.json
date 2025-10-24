@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Sharjah",
-        "odds": "1.61"
+        "odds": "1.59"
       },
       {
         "team": "Emirates Blues",
-        "odds": "2.14"
+        "odds": "2.18"
       }
     ]
   },
@@ -33,11 +33,11 @@
     "bets": [
       {
         "team": "Northern Raiders",
-        "odds": "3.99"
+        "odds": "3.7"
       },
       {
         "team": "Stellenbosch Kings",
-        "odds": "1.2"
+        "odds": "1.23"
       }
     ]
   },
@@ -677,11 +677,11 @@
     "bets": [
       {
         "team": "West Coast Blues",
-        "odds": "2.56"
+        "odds": "2.27"
       },
       {
         "team": "Paarl Rapids",
-        "odds": "1.45"
+        "odds": "1.56"
       }
     ]
   },
@@ -845,11 +845,25 @@
     "bets": [
       {
         "team": "New Zealand",
-        "odds": "2.16"
+        "odds": "2.34"
       },
       {
         "team": "England",
-        "odds": "1.7"
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Oct 26, 02:00 AM",
+    "title": "Perak (w) - Kuala Lumpur (w)",
+    "bets": [
+      {
+        "team": "Perak (w)",
+        "odds": "1.61"
+      },
+      {
+        "team": "Kuala Lumpur (w)",
+        "odds": "2.13"
       }
     ]
   },
@@ -1370,20 +1384,6 @@
       {
         "team": "Sturt",
         "odds": "2.27"
-      }
-    ]
-  },
-  {
-    "date": "Oct 26, 06:00 AM",
-    "title": "West Torrens - Adelaide",
-    "bets": [
-      {
-        "team": "West Torrens",
-        "odds": "1.4"
-      },
-      {
-        "team": "Adelaide",
-        "odds": "2.65"
       }
     ]
   }
