@@ -1,33 +1,5 @@
 [
   {
-    "date": "Oct 24, 08:00 AM",
-    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 08:00 AM",
-    "title": "Lucknow Super Giants (Aidin) - Sunrisers Hyderabad (Sibs)",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants (Aidin)",
-        "odds": "1.32"
-      },
-      {
-        "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "2.98"
-      }
-    ]
-  },
-  {
     "date": "Oct 24, 09:00 AM",
     "title": "Joburg Super Kings Srl - Durban Super Giants Srl",
     "bets": [
@@ -126,6 +98,20 @@
     ]
   },
   {
+    "date": "Oct 24, 11:00 AM",
+    "title": "Delhi Capitals (Jordan) - Lucknow Super Giants (Aidin)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "3.77"
+      },
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.21"
+      }
+    ]
+  },
+  {
     "date": "Oct 24, 12:00 PM",
     "title": "Northern Districts SRL - Wellington SRL",
     "bets": [
@@ -140,6 +126,20 @@
     ]
   },
   {
+    "date": "Oct 24, 12:00 PM",
+    "title": "Delhi Capitals (Jordan) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "2.13"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
     "date": "Oct 24, 01:00 PM",
     "title": "Punjab Kings SRL - Chennai Super Kings SRL",
     "bets": [
@@ -150,6 +150,20 @@
       {
         "team": "Chennai Super Kings SRL",
         "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 01:00 PM",
+    "title": "Lucknow Super Giants (Aidin) - Chennai Super Kings (Caleb)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.82"
+      },
+      {
+        "team": "Chennai Super Kings (Caleb)",
+        "odds": "1.84"
       }
     ]
   },
@@ -388,6 +402,20 @@
       {
         "team": "du Infra",
         "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Oct 25, 02:00 AM",
+    "title": "Barbados Royals Srl - St Kitts And Nevis Patriots Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "1.79"
+      },
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "1.96"
       }
     ]
   },

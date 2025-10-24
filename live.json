@@ -5,25 +5,25 @@
     "bets": [
       {
         "team": "Uganda",
-        "odds": "1.09"
+        "odds": "1.05"
       },
       {
         "team": "Canada",
-        "odds": "5.9"
+        "odds": "7.4"
       }
     ]
   },
   {
-    "date": "Oct 24, 06:15 AM",
-    "title": "Selangor (w) - Kuala Lumpur (w)",
+    "date": "Oct 24, 08:00 AM",
+    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
     "bets": [
       {
-        "team": "Selangor (w)",
-        "odds": "1.07"
+        "team": "Brisbane Heat Srl",
+        "odds": "1.16"
       },
       {
-        "team": "Kuala Lumpur (w)",
-        "odds": "7.2"
+        "team": "Perth Scorchers Srl",
+        "odds": "4.9"
       }
     ]
   },
@@ -33,25 +33,25 @@
     "bets": [
       {
         "team": "Lucknow Super Giants Srl",
-        "odds": "1.71"
+        "odds": "2.5"
       },
       {
         "team": "Royal Challengers Bangalore SRL",
-        "odds": "2.06"
+        "odds": "1.49"
       }
     ]
   },
   {
-    "date": "Oct 24, 05:40 AM",
-    "title": "The Blossoms (w) - AG Sports (w)",
+    "date": "Oct 24, 08:00 AM",
+    "title": "Lucknow Super Giants (Aidin) - Sunrisers Hyderabad (Sibs)",
     "bets": [
       {
-        "team": "The Blossoms (w)",
-        "odds": "1.91"
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.32"
       },
       {
-        "team": "AG Sports (w)",
-        "odds": "1.76"
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "3.1"
       }
     ]
   },
@@ -61,53 +61,11 @@
     "bets": [
       {
         "team": "Shani Shignapur Sports",
-        "odds": "1.63"
-      },
-      {
-        "team": "Almora Cricket",
-        "odds": "2.15"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 06:09 AM",
-    "title": "Rajasthan Legends (V) - Delhi Legends (V)",
-    "bets": [
-      {
-        "team": "Rajasthan Legends (V)",
-        "odds": "1.18"
-      },
-      {
-        "team": "Delhi Legends (V)",
-        "odds": "4.39"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 06:35 AM",
-    "title": "Punjab Kings (cyber) - Gujarat Titans (cyber)",
-    "bets": [
-      {
-        "team": "Over 142.5",
         "odds": "1.27"
       },
       {
-        "team": "Under 142.5",
-        "odds": "3.04"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 07:00 AM",
-    "title": "Military - Courageous",
-    "bets": [
-      {
-        "team": "Military",
-        "odds": "1.41"
-      },
-      {
-        "team": "Draw",
-        "odds": "24.24"
+        "team": "Almora Cricket",
+        "odds": "3.45"
       }
     ]
   },
@@ -127,25 +85,11 @@
     "bets": [
       {
         "team": "Winning Star XI",
-        "odds": "1.87"
+        "odds": "1.99"
       },
       {
         "team": "Shimla Swingers",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 07:30 AM",
-    "title": "Tuskers Jammu - Crickmasters",
-    "bets": [
-      {
-        "team": "Tuskers Jammu",
-        "odds": "2.34"
-      },
-      {
-        "team": "Draw",
-        "odds": "24.14"
+        "odds": "1.7"
       }
     ]
   },
@@ -155,25 +99,11 @@
     "bets": [
       {
         "team": "Chennai Lions",
-        "odds": "2.03"
+        "odds": "1.6"
       },
       {
         "team": "Draw",
-        "odds": "24.37"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 07:30 AM",
-    "title": "Mumbai Indians (Sharoock) - Royal Challengers Bengaluru (AnjiDan)",
-    "bets": [
-      {
-        "team": "Mumbai Indians (Sharoock)",
-        "odds": "9.54"
-      },
-      {
-        "team": "Royal Challengers Bengaluru (AnjiDan)",
-        "odds": "1.02"
+        "odds": "24.34"
       }
     ]
   },
@@ -183,81 +113,25 @@
     "bets": [
       {
         "team": "Lucknow Super Giants (cyber)",
-        "odds": "5.55"
+        "odds": "1.77"
       },
       {
         "team": "Chennai Carvers (cyber)",
-        "odds": "1.02"
+        "odds": "1.83"
       }
     ]
   },
   {
-    "date": "Oct 24, 07:51 AM",
-    "title": "Afghanistan (V) - Zimbabwe (V)",
+    "date": "Oct 24, 07:45 AM",
+    "title": "Chennai Super Kings (AnjiDan) - Mumbai Indians (MarkzMan)",
     "bets": [
       {
-        "team": "Draw",
-        "odds": "8.5"
+        "team": "Chennai Super Kings (AnjiDan)",
+        "odds": "1.14"
       },
       {
-        "team": "Zimbabwe (V)",
-        "odds": "1.03"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 07:53 AM",
-    "title": "Gujarat Titans (V) - Punjab Kings (V)",
-    "bets": [
-      {
-        "team": "Gujarat Titans (V)",
-        "odds": "1.44"
-      },
-      {
-        "team": "Draw",
-        "odds": "13"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 07:54 AM",
-    "title": "Delhi Capitals (V) - Punjab Kings (V)",
-    "bets": [
-      {
-        "team": "Delhi Capitals (V)",
-        "odds": "4.15"
-      },
-      {
-        "team": "Punjab Kings (V)",
-        "odds": "1.19"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 07:55 AM",
-    "title": "Pakistan (V) - Bangladesh (V)",
-    "bets": [
-      {
-        "team": "Pakistan (V)",
-        "odds": "2.1"
-      },
-      {
-        "team": "Draw",
-        "odds": "13"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 07:57 AM",
-    "title": "Perth Scorchers (V) - Melbourne Stars (V)",
-    "bets": [
-      {
-        "team": "Perth Scorchers (V)",
-        "odds": "1.7"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
+        "team": "Mumbai Indians (MarkzMan)",
+        "odds": "4.66"
       }
     ]
   },
@@ -267,11 +141,11 @@
     "bets": [
       {
         "team": "Ruhuna Cricket",
-        "odds": "1.85"
+        "odds": "3.09"
       },
       {
         "team": "Draw",
-        "odds": "24.14"
+        "odds": "24.01"
       }
     ]
   },
@@ -281,11 +155,39 @@
     "bets": [
       {
         "team": "Glam Chicks (w)",
-        "odds": "1.87"
+        "odds": "2.06"
       },
       {
         "team": "Draw",
-        "odds": "24.53"
+        "odds": "24.55"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:01 AM",
+    "title": "West Indies Legends (V) - Pakistan Legends (V)",
+    "bets": [
+      {
+        "team": "West Indies Legends (V)",
+        "odds": "1.02"
+      },
+      {
+        "team": "Pakistan Legends (V)",
+        "odds": "12"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:01 AM",
+    "title": "Australia (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "Australia (V)",
+        "odds": "3.92"
+      },
+      {
+        "team": "Pakistan (V)",
+        "odds": "1.21"
       }
     ]
   },
@@ -295,11 +197,67 @@
     "bets": [
       {
         "team": "Germany (cyber)",
-        "odds": "2.23"
+        "odds": "2.99"
       },
       {
         "team": "Afghanistan (cyber)",
-        "odds": "1.51"
+        "odds": "1.28"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:05 AM",
+    "title": "Chennai Super Kings (V) - Gujarat Titans (V)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (V)",
+        "odds": "1.49"
+      },
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "2.45"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:15 AM",
+    "title": "Sydney Thunder (V) - Brisbane Heat (V)",
+    "bets": [
+      {
+        "team": "Sydney Thunder (V)",
+        "odds": "1.01"
+      },
+      {
+        "team": "Draw",
+        "odds": "126"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:15 AM",
+    "title": "Punjab Kings (e) - Sunrisers Hyderabad (e)",
+    "bets": [
+      {
+        "team": "Punjab Kings (e)",
+        "odds": "4.5"
+      },
+      {
+        "team": "Sunrisers Hyderabad (e)",
+        "odds": "1.13"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 08:20 AM",
+    "title": "Vidyasagar Cricket Academy (Women) - Futuristic (w)",
+    "bets": [
+      {
+        "team": "Vidyasagar Cricket Academy (Women)",
+        "odds": "1.95"
+      },
+      {
+        "team": "Futuristic (w)",
+        "odds": "1.73"
       }
     ]
   }
