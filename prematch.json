@@ -1,71 +1,15 @@
 [
   {
-    "date": "Oct 24, 10:45 PM",
-    "title": "New Town 1st Grade - Kingborough 1st Grade",
-    "bets": [
-      {
-        "team": "New Town 1st Grade",
-        "odds": "1.69"
-      },
-      {
-        "team": "Kingborough 1st Grade",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 10:45 PM",
-    "title": "South Hobart Sandy Bay CC 1st Grade - Lindisfarne 1st Grade",
-    "bets": [
-      {
-        "team": "South Hobart Sandy Bay CC 1st Grade",
-        "odds": "2.25"
-      },
-      {
-        "team": "Lindisfarne 1st Grade",
-        "odds": "1.54"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 10:45 PM",
-    "title": "University of Tasmania 1st Grade - North Hobart 1st Grade",
-    "bets": [
-      {
-        "team": "University of Tasmania 1st Grade",
-        "odds": "1.57"
-      },
-      {
-        "team": "North Hobart 1st Grade",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Oct 24, 11:00 PM",
-    "title": "St Kitts And Nevis Patriots Srl - Trinbago Knight Riders Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
     "date": "Oct 24, 11:00 PM",
     "title": "Brisbane Heat (w) - Melbourne Stars (w)",
     "bets": [
       {
         "team": "Brisbane Heat (w)",
-        "odds": "1.76"
+        "odds": "1.78"
       },
       {
         "team": "Melbourne Stars (w)",
-        "odds": "1.95"
+        "odds": "1.92"
       }
     ]
   },
@@ -1396,6 +1340,58 @@
       {
         "team": "Delhi U-19 (w)",
         "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Oct 26, 08:30 AM",
+    "title": "Andhra U-19 (w) - Bihar U-19 (w)",
+    "bets": [
+      {
+        "team": "Andhra U-19 (w)",
+        "odds": "1.01"
+      },
+      {
+        "team": "Bihar U-19 (w)",
+        "odds": "11"
+      }
+    ]
+  },
+  {
+    "date": "Oct 26, 08:30 AM",
+    "title": "Baroda U-19 (w) - Chandigarh U-19 (w)",
+    "bets": [
+      {
+        "team": "Chandigarh U-19 (w)",
+        "odds": "14.54"
+      }
+    ]
+  },
+  {
+    "date": "Oct 26, 08:30 AM",
+    "title": "Assam U-19 (w) - Bengal U-19 (w)",
+    "bets": [
+      {
+        "team": "Assam U-19 (w)",
+        "odds": "10"
+      },
+      {
+        "team": "Bengal U-19 (w)",
+        "odds": "1.02"
+      }
+    ]
+  },
+  {
+    "date": "Oct 26, 09:30 AM",
+    "title": "India (w) - Bangladesh (w)",
+    "bets": [
+      {
+        "team": "India (w)",
+        "odds": "1.05"
+      },
+      {
+        "team": "Bangladesh (w)",
+        "odds": "9.87"
       }
     ]
   }
