@@ -1,89 +1,5 @@
 [
   {
-    "date": "Oct 27, 04:00 PM",
-    "title": "Chennai Super Kings SRL - Delhi Capitals SRL",
-    "bets": [
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "1.99"
-      },
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Oct 27, 06:00 PM",
-    "title": "Australia Srl - West Indies Srl",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "1.59"
-      },
-      {
-        "team": "West Indies Srl",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "Oct 27, 06:00 PM",
-    "title": "Stellenbosch Kings - Paarl Rapids",
-    "bets": [
-      {
-        "team": "Stellenbosch Kings",
-        "odds": "1.37"
-      },
-      {
-        "team": "Paarl Rapids",
-        "odds": "2.85"
-      }
-    ]
-  },
-  {
-    "date": "Oct 27, 08:00 PM",
-    "title": "Mi Cape Town Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Oct 27, 10:00 PM",
-    "title": "Brisbane Heat Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.16"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Oct 27, 11:00 PM",
-    "title": "Barbados Royals Srl - Guyana Amazon Warriors Srl",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.06"
-      },
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.71"
-      }
-    ]
-  },
-  {
     "date": "Oct 28, 12:00 AM",
     "title": "India Srl - South Africa Srl",
     "bets": [
@@ -159,11 +75,11 @@
     "bets": [
       {
         "team": "Hyderabad U-19",
-        "odds": "1.83"
+        "odds": "1.74"
       },
       {
         "team": "Karnataka U-19",
-        "odds": "1.83"
+        "odds": "1.93"
       }
     ]
   },
@@ -224,16 +140,30 @@
     ]
   },
   {
+    "date": "Oct 28, 05:00 AM",
+    "title": "Jammu Lions - Uri Panthers",
+    "bets": [
+      {
+        "team": "Jammu Lions",
+        "odds": "1.71"
+      },
+      {
+        "team": "Uri Panthers",
+        "odds": "1.97"
+      }
+    ]
+  },
+  {
     "date": "Oct 28, 05:30 AM",
     "title": "United Arab Emirates - USA",
     "bets": [
       {
         "team": "United Arab Emirates",
-        "odds": "2.32"
+        "odds": "2.64"
       },
       {
         "team": "USA",
-        "odds": "1.52"
+        "odds": "1.4"
       }
     ]
   },
@@ -448,6 +378,20 @@
     ]
   },
   {
+    "date": "Oct 28, 04:00 PM",
+    "title": "Volcano Sports Academy - Karwan CC",
+    "bets": [
+      {
+        "team": "Volcano Sports Academy",
+        "odds": "3.94"
+      },
+      {
+        "team": "Karwan CC",
+        "odds": "1.19"
+      }
+    ]
+  },
+  {
     "date": "Oct 28, 06:00 PM",
     "title": "West Indies Srl - Pakistan Srl",
     "bets": [
@@ -523,11 +467,11 @@
     "bets": [
       {
         "team": "New Zealand",
-        "odds": "2.14"
+        "odds": "2.16"
       },
       {
         "team": "England",
-        "odds": "1.72"
+        "odds": "1.7"
       }
     ]
   },
@@ -537,11 +481,11 @@
     "bets": [
       {
         "team": "Arunachal Pradesh U-19 (w)",
-        "odds": "1.18"
+        "odds": "1.14"
       },
       {
         "team": "Meghalaya U-19 (w)",
-        "odds": "4.27"
+        "odds": "4.97"
       }
     ]
   },
@@ -579,11 +523,11 @@
     "bets": [
       {
         "team": "Gujarat U-19 (w)",
-        "odds": "1.21"
+        "odds": "1.18"
       },
       {
         "team": "Madhya Pradesh U-19 (w)",
-        "odds": "3.88"
+        "odds": "4.27"
       }
     ]
   },
@@ -593,11 +537,11 @@
     "bets": [
       {
         "team": "Assam U-19 (w)",
-        "odds": "3.29"
+        "odds": "3.69"
       },
       {
         "team": "Himachal Pradesh U-19 (w)",
-        "odds": "1.29"
+        "odds": "1.23"
       }
     ]
   },
@@ -715,11 +659,11 @@
     "bets": [
       {
         "team": "Maharashtra (w)",
-        "odds": "1.85"
+        "odds": "1.94"
       },
       {
         "team": "Haryana (w)",
-        "odds": "1.81"
+        "odds": "1.73"
       }
     ]
   },
@@ -729,11 +673,11 @@
     "bets": [
       {
         "team": "Vidarbha (w)",
-        "odds": "2.07"
+        "odds": "2.14"
       },
       {
         "team": "Delhi (w)",
-        "odds": "1.64"
+        "odds": "1.6"
       }
     ]
   },
@@ -748,20 +692,6 @@
       {
         "team": "Sikkim U-19 (w)",
         "odds": "1.38"
-      }
-    ]
-  },
-  {
-    "date": "Oct 29, 07:30 AM",
-    "title": "Tamil Nadu U-19 (w) - Uttarakhand U-19 (w)",
-    "bets": [
-      {
-        "team": "Tamil Nadu U-19 (w)",
-        "odds": "1.16"
-      },
-      {
-        "team": "Uttarakhand U-19 (w)",
-        "odds": "4.62"
       }
     ]
   },
@@ -799,11 +729,11 @@
     "bets": [
       {
         "team": "Kerala U-19 (w)",
-        "odds": "3.5"
+        "odds": "4.07"
       },
       {
         "team": "Maharashtra U-19 (w)",
-        "odds": "1.26"
+        "odds": "1.2"
       }
     ]
   },
@@ -915,7 +845,7 @@
       },
       {
         "team": "Karnataka (w)",
-        "odds": "1.96"
+        "odds": "1.97"
       }
     ]
   },
@@ -925,11 +855,11 @@
     "bets": [
       {
         "team": "Zimbabwe",
-        "odds": "3"
+        "odds": "2.92"
       },
       {
         "team": "Afghanistan",
-        "odds": "1.36"
+        "odds": "1.37"
       }
     ]
   },
@@ -958,6 +888,48 @@
       {
         "team": "West Indies",
         "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Oct 29, 09:30 PM",
+    "title": "Auckland Aces - Otago Volts",
+    "bets": [
+      {
+        "team": "Auckland Aces",
+        "odds": "1.68"
+      },
+      {
+        "team": "Otago Volts",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Oct 29, 09:30 PM",
+    "title": "Central Stags - Northern Brave",
+    "bets": [
+      {
+        "team": "Central Stags",
+        "odds": "1.58"
+      },
+      {
+        "team": "Northern Brave",
+        "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Oct 29, 09:30 PM",
+    "title": "Wellington Firebirds - Canterbury Kings",
+    "bets": [
+      {
+        "team": "Wellington Firebirds",
+        "odds": "2.62"
+      },
+      {
+        "team": "Canterbury Kings",
+        "odds": "1.45"
       }
     ]
   }
