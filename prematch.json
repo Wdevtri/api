@@ -1,47 +1,5 @@
 [
   {
-    "date": "Oct 29, 05:00 AM",
-    "title": "Gulmarg Royal - Srinagar Sultan",
-    "bets": [
-      {
-        "team": "Gulmarg Royal",
-        "odds": "1.44"
-      },
-      {
-        "team": "Srinagar Sultan",
-        "odds": "2.52"
-      }
-    ]
-  },
-  {
-    "date": "Oct 29, 05:30 AM",
-    "title": "Vidarbha (w) - Delhi (w)",
-    "bets": [
-      {
-        "team": "Vidarbha (w)",
-        "odds": "2.35"
-      },
-      {
-        "team": "Delhi (w)",
-        "odds": "1.5"
-      }
-    ]
-  },
-  {
-    "date": "Oct 29, 06:00 AM",
-    "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
     "date": "Oct 29, 07:00 AM",
     "title": "Lucknow Super Giants Srl - Chennai Super Kings SRL",
     "bets": [
@@ -52,6 +10,20 @@
       {
         "team": "Chennai Super Kings SRL",
         "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Oct 29, 07:10 AM",
+    "title": "Chandigarh - Bihar",
+    "bets": [
+      {
+        "team": "Chandigarh",
+        "odds": "1.98"
+      },
+      {
+        "team": "Bihar",
+        "odds": "1.7"
       }
     ]
   },
@@ -668,6 +640,20 @@
       {
         "team": "Bengal U-19",
         "odds": "2.19"
+      }
+    ]
+  },
+  {
+    "date": "Oct 30, 03:00 AM",
+    "title": "Hobart Hurricanes (w) - Brisbane Heat (w)",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes (w)",
+        "odds": "1.63"
+      },
+      {
+        "team": "Brisbane Heat (w)",
+        "odds": "2.14"
       }
     ]
   },
