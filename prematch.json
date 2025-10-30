@@ -1,75 +1,5 @@
 [
   {
-    "date": "Oct 30, 02:00 PM",
-    "title": "Quetta Gladiators Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.84"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Oct 30, 03:30 PM",
-    "title": "Lexington Shotgun XI - Abu Dhabi Smashers",
-    "bets": [
-      {
-        "team": "Lexington Shotgun XI",
-        "odds": "1.93"
-      },
-      {
-        "team": "Abu Dhabi Smashers",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Oct 30, 04:00 PM",
-    "title": "Rajasthan Royals SRL - Sunrisers Hyderabad SRL",
-    "bets": [
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "2.02"
-      },
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Oct 30, 04:30 PM",
-    "title": "Karwan CC - Legend Warriors",
-    "bets": [
-      {
-        "team": "Karwan CC",
-        "odds": "1.69"
-      },
-      {
-        "team": "Legend Warriors",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Oct 30, 06:00 PM",
-    "title": "Sri Lanka Srl - West Indies Srl",
-    "bets": [
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.1"
-      },
-      {
-        "team": "West Indies Srl",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
     "date": "Oct 30, 08:00 PM",
     "title": "Durban Super Giants Srl - Paarl Royals Srl",
     "bets": [
@@ -154,6 +84,20 @@
     ]
   },
   {
+    "date": "Oct 31, 02:40 AM",
+    "title": "Bihar - E Rajasthan",
+    "bets": [
+      {
+        "team": "Bihar",
+        "odds": "2.76"
+      },
+      {
+        "team": "E Rajasthan",
+        "odds": "1.37"
+      }
+    ]
+  },
+  {
     "date": "Oct 31, 03:00 AM",
     "title": "Karachi Kings Srl - Peshawar Zalmi Srl",
     "bets": [
@@ -164,6 +108,20 @@
       {
         "team": "Peshawar Zalmi Srl",
         "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:00 AM",
+    "title": "Bangladesh U19 - Afghanistan U19",
+    "bets": [
+      {
+        "team": "Bangladesh U19",
+        "odds": "1.39"
+      },
+      {
+        "team": "Afghanistan U19",
+        "odds": "2.68"
       }
     ]
   },
@@ -187,11 +145,11 @@
     "bets": [
       {
         "team": "Meghalaya U-19 (w)",
-        "odds": "1.38"
+        "odds": "1.33"
       },
       {
         "team": "Nagaland U-19 (w)",
-        "odds": "2.79"
+        "odds": "3.04"
       }
     ]
   },
@@ -332,6 +290,20 @@
     ]
   },
   {
+    "date": "Oct 31, 04:50 AM",
+    "title": "Himachal Pradesh - Delhi",
+    "bets": [
+      {
+        "team": "Himachal Pradesh",
+        "odds": "1.8"
+      },
+      {
+        "team": "Delhi",
+        "odds": "1.86"
+      }
+    ]
+  },
+  {
     "date": "Oct 31, 05:00 AM",
     "title": "England Srl - Pakistan Srl",
     "bets": [
@@ -342,6 +314,20 @@
       {
         "team": "Pakistan Srl",
         "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 05:00 AM",
+    "title": "Gulmarg Royal - Jammu Lions",
+    "bets": [
+      {
+        "team": "Gulmarg Royal",
+        "odds": "1.72"
+      },
+      {
+        "team": "Jammu Lions",
+        "odds": "1.95"
       }
     ]
   },
@@ -488,6 +474,20 @@
     ]
   },
   {
+    "date": "Oct 31, 07:30 AM",
+    "title": "Matabeleland Tuskers - Southern Rocks",
+    "bets": [
+      {
+        "team": "Matabeleland Tuskers",
+        "odds": "1.8"
+      },
+      {
+        "team": "Southern Rocks",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
     "date": "Oct 31, 08:00 AM",
     "title": "Melbourne Renegades Srl - Adelaide Strikers Srl",
     "bets": [
@@ -582,6 +582,20 @@
       {
         "team": "Gujarat Titans (Gerrard)",
         "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 10:30 AM",
+    "title": "Kishtwar Giants - The Pulwama Titans",
+    "bets": [
+      {
+        "team": "Kishtwar Giants",
+        "odds": "2.24"
+      },
+      {
+        "team": "The Pulwama Titans",
+        "odds": "1.55"
       }
     ]
   },
