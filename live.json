@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "date": "Oct 31, 03:00 PM",
+    "title": "Pakistan - South Africa",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.07"
+      },
+      {
+        "team": "South Africa",
+        "odds": "8.8"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 04:00 PM",
+    "title": "Boland - North West Dragons",
+    "bets": [
+      {
+        "team": "Boland",
+        "odds": "1.83"
+      },
+      {
+        "team": "North West Dragons",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 02:00 PM",
+    "title": "Peshawar Zalmi Srl - Lahore Qalanders Srl",
+    "bets": [
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "14"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 04:00 PM",
+    "title": "Delhi Capitals SRL - Gujarat Titans Srl",
+    "bets": [
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "1.97"
+      },
+      {
+        "team": "Gujarat Titans Srl",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Oct 25, 11:04 AM",
+    "title": "India (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "India (V)",
+        "odds": "1.73"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 01:15 PM",
+    "title": "Marvelous Mermaid (w) - Futuristic (Women)",
+    "bets": [
+      {
+        "team": "Marvelous Mermaid (w)",
+        "odds": "2.08"
+      },
+      {
+        "team": "Futuristic (Women)",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 01:30 PM",
+    "title": "Chitkul CA - Aghadi CA",
+    "bets": [
+      {
+        "team": "Chitkul CA",
+        "odds": "2.05"
+      },
+      {
+        "team": "Aghadi CA",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 02:35 PM",
+    "title": "Rajasthan Royals (cyber) - Lucknow Super Giants (cyber)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "1.17"
+      },
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "3.62"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 02:44 PM",
+    "title": "Gujarat Giants (V-w) - Delhi Capitals (V-w)",
+    "bets": [
+      {
+        "team": "Gujarat Giants (V-w)",
+        "odds": "2.18"
+      },
+      {
+        "team": "Delhi Capitals (V-w)",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:05 PM",
+    "title": "Ireland (cyber) - Zimbabwe (cyber)",
+    "bets": [
+      {
+        "team": "Ireland (cyber)",
+        "odds": "8.89"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:25 PM",
+    "title": "Crazy Cricketers - Gurugram Kings",
+    "bets": [
+      {
+        "team": "Crazy Cricketers",
+        "odds": "1.91"
+      },
+      {
+        "team": "Gurugram Kings",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:30 PM",
+    "title": "Hyperplayers - Indoorheroes",
+    "bets": [
+      {
+        "team": "Hyperplayers",
+        "odds": "2.5"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.07"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:30 PM",
+    "title": "Australia (JdeMen) - India (Scalpel)",
+    "bets": [
+      {
+        "team": "Australia (JdeMen)",
+        "odds": "1.02"
+      },
+      {
+        "team": "India (Scalpel)",
+        "odds": "9.54"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:35 PM",
+    "title": "Chennai Super Kings (cyber) - Delhi Capitals (cyber)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (cyber)",
+        "odds": "1.84"
+      },
+      {
+        "team": "Delhi Capitals (cyber)",
+        "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:43 PM",
+    "title": "West Indies Legends (V) - Sri Lanka Legends (V)",
+    "bets": [
+      {
+        "team": "West Indies Legends (V)",
+        "odds": "2.45"
+      },
+      {
+        "team": "Sri Lanka Legends (V)",
+        "odds": "1.49"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:47 PM",
+    "title": "Kolkata Knight Riders (V) - Delhi Capitals (V)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (V)",
+        "odds": "2.6"
+      },
+      {
+        "team": "Draw",
+        "odds": "10"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:48 PM",
+    "title": "Lucknow Super Giants (e) - Sunrisers Hyderabad (e)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (e)",
+        "odds": "1.6"
+      },
+      {
+        "team": "Sunrisers Hyderabad (e)",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:49 PM",
+    "title": "Bangladesh (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "Bangladesh (V)",
+        "odds": "1.77"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:51 PM",
+    "title": "Royal Challengers Bengaluru (e) - Rajasthan Royals (e)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bengaluru (e)",
+        "odds": "1.3"
+      },
+      {
+        "team": "Rajasthan Royals (e)",
+        "odds": "3.5"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:51 PM",
+    "title": "Sydney Thunder (V) - Perth Scorchers (V)",
+    "bets": [
+      {
+        "team": "Sydney Thunder (V)",
+        "odds": "1.32"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:54 PM",
+    "title": "Ireland (V) - South Africa (V)",
+    "bets": [
+      {
+        "team": "Ireland (V)",
+        "odds": "4"
+      },
+      {
+        "team": "Draw",
+        "odds": "21"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 03:54 PM",
+    "title": "Mumbai Indians (e) - Delhi Capitals (e)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Delhi Capitals (e)",
+        "odds": "1.9"
+      }
+    ]
+  }
+]
