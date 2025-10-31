@@ -14,118 +14,6 @@
     ]
   },
   {
-    "date": "Oct 31, 12:00 PM",
-    "title": "Bangladesh - West Indies",
-    "bets": [
-      {
-        "team": "Bangladesh",
-        "odds": "2.02"
-      },
-      {
-        "team": "West Indies",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 12:00 PM",
-    "title": "Canterbury SRL - Otago SRL",
-    "bets": [
-      {
-        "team": "Canterbury SRL",
-        "odds": "1.56"
-      },
-      {
-        "team": "Otago SRL",
-        "odds": "2.32"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 12:00 PM",
-    "title": "Lucknow Super Giants (Aidin) - Gujarat Titans (Gerrard)",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants (Aidin)",
-        "odds": "1.31"
-      },
-      {
-        "team": "Gujarat Titans (Gerrard)",
-        "odds": "3.04"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 01:00 PM",
-    "title": "Royal Challengers Bangalore SRL - Mumbai Indians SRL",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.98"
-      },
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 01:00 PM",
-    "title": "Mumbai Indians (Etienne) - Sunrisers Hyderabad (Sibs)",
-    "bets": [
-      {
-        "team": "Mumbai Indians (Etienne)",
-        "odds": "2.24"
-      },
-      {
-        "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 02:00 PM",
-    "title": "Peshawar Zalmi Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 02:00 PM",
-    "title": "Mumbai Indians (Etienne) - Gujarat Titans (Gerrard)",
-    "bets": [
-      {
-        "team": "Mumbai Indians (Etienne)",
-        "odds": "1.91"
-      },
-      {
-        "team": "Gujarat Titans (Gerrard)",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 03:00 PM",
-    "title": "Pakistan - South Africa",
-    "bets": [
-      {
-        "team": "Pakistan",
-        "odds": "1.71"
-      },
-      {
-        "team": "South Africa",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
     "date": "Oct 31, 04:00 PM",
     "title": "Boland - North West Dragons",
     "bets": [
@@ -280,30 +168,16 @@
     ]
   },
   {
-    "date": "Nov 1, 12:00 AM",
-    "title": "Australia Srl - England Srl",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "1.81"
-      },
-      {
-        "team": "England Srl",
-        "odds": "1.93"
-      }
-    ]
-  },
-  {
     "date": "Nov 1, 01:00 AM",
     "title": "New Zealand - England",
     "bets": [
       {
         "team": "New Zealand",
-        "odds": "2.14"
+        "odds": "2.08"
       },
       {
         "team": "England",
-        "odds": "1.71"
+        "odds": "1.76"
       }
     ]
   },
@@ -462,16 +336,16 @@
     ]
   },
   {
-    "date": "Nov 1, 03:00 AM",
+    "date": "Nov 1, 03:30 AM",
     "title": "Punjab U-19 - Hyderabad U-19",
     "bets": [
       {
         "team": "Punjab U-19",
-        "odds": "1.64"
+        "odds": "1.6"
       },
       {
         "team": "Hyderabad U-19",
-        "odds": "2.06"
+        "odds": "2.14"
       }
     ]
   },
@@ -509,11 +383,11 @@
     "bets": [
       {
         "team": "Nepal",
-        "odds": "2.2"
+        "odds": "2.32"
       },
       {
         "team": "USA",
-        "odds": "1.57"
+        "odds": "1.51"
       }
     ]
   },
@@ -556,6 +430,20 @@
       {
         "team": "Perth Scorchers Srl",
         "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 08:00 AM",
+    "title": "North West Dragons - Western Province",
+    "bets": [
+      {
+        "team": "North West Dragons",
+        "odds": "2.42"
+      },
+      {
+        "team": "Western Province",
+        "odds": "1.48"
       }
     ]
   },
@@ -1004,16 +892,30 @@
     ]
   },
   {
+    "date": "Nov 2, 08:15 AM",
+    "title": "Australia - India",
+    "bets": [
+      {
+        "team": "Australia",
+        "odds": "1.97"
+      },
+      {
+        "team": "India",
+        "odds": "1.84"
+      }
+    ]
+  },
+  {
     "date": "Nov 2, 09:30 AM",
     "title": "India (w) - South Africa (w)",
     "bets": [
       {
         "team": "India (w)",
-        "odds": "1.39"
+        "odds": "1.35"
       },
       {
         "team": "South Africa (w)",
-        "odds": "3"
+        "odds": "3.2"
       }
     ]
   },
