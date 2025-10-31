@@ -14,96 +14,6 @@
     ]
   },
   {
-    "date": "Oct 31, 08:00 AM",
-    "title": "Manipur U-19 (w) - Sikkim U-19 (w)",
-    "bets": [
-      {
-        "team": "Manipur U-19 (w)",
-        "odds": "1.29"
-      },
-      {
-        "team": "Sikkim U-19 (w)",
-        "odds": "3.29"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 08:00 AM",
-    "title": "Delhi U-19 (w) - Maharashtra U-19 (w)",
-    "bets": [
-      {
-        "team": "Delhi U-19 (w)",
-        "odds": "4.27"
-      },
-      {
-        "team": "Maharashtra U-19 (w)",
-        "odds": "1.18"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 08:00 AM",
-    "title": "Bihar U-19 (w) - Uttarakhand U-19 (w)",
-    "bets": [
-      {
-        "team": "Bihar U-19 (w)",
-        "odds": "10.91"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 08:00 AM",
-    "title": "Bengal U-19 (w) - Tripura U-19 (w)",
-    "bets": [
-      {
-        "team": "Bengal U-19 (w)",
-        "odds": "1.07"
-      },
-      {
-        "team": "Tripura U-19 (w)",
-        "odds": "6.98"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 08:00 AM",
-    "title": "Chandigarh U-19 (w) - Vidarbha U-19 (w)",
-    "bets": [
-      {
-        "team": "Chandigarh U-19 (w)",
-        "odds": "7.51"
-      },
-      {
-        "team": "Vidarbha U-19 (w)",
-        "odds": "1.05"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 08:00 AM",
-    "title": "Jharkhand U-19 (w) - Uttarakhand U-19 (w)",
-    "bets": [
-      {
-        "team": "Jharkhand U-19 (w)",
-        "odds": "10.91"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 08:00 AM",
-    "title": "Lucknow Super Giants (Aidin) - Sunrisers Hyderabad (Sibs)",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants (Aidin)",
-        "odds": "1.34"
-      },
-      {
-        "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "2.87"
-      }
-    ]
-  },
-  {
     "date": "Oct 31, 09:00 AM",
     "title": "Pretoria Capitals Srl - Joburg Super Kings Srl",
     "bets": [
@@ -123,11 +33,11 @@
     "bets": [
       {
         "team": "Gujarat Titans (Gerrard)",
-        "odds": "1.57"
+        "odds": "1.56"
       },
       {
         "team": "Mumbai Indians (Etienne)",
-        "odds": "2.19"
+        "odds": "2.21"
       }
     ]
   },
@@ -202,6 +112,20 @@
     ]
   },
   {
+    "date": "Oct 31, 11:00 AM",
+    "title": "Mumbai Indians (Etienne) - Lucknow Super Giants (Aidin)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (Etienne)",
+        "odds": "3.1"
+      },
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.3"
+      }
+    ]
+  },
+  {
     "date": "Oct 31, 11:30 AM",
     "title": "Zimbabwe - Afghanistan",
     "bets": [
@@ -221,11 +145,11 @@
     "bets": [
       {
         "team": "Bangladesh",
-        "odds": "2.08"
+        "odds": "2.14"
       },
       {
         "team": "West Indies",
-        "odds": "1.76"
+        "odds": "1.71"
       }
     ]
   },
@@ -244,6 +168,20 @@
     ]
   },
   {
+    "date": "Oct 31, 12:00 PM",
+    "title": "Lucknow Super Giants (Aidin) - Gujarat Titans (Gerrard)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.31"
+      },
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "3.04"
+      }
+    ]
+  },
+  {
     "date": "Oct 31, 01:00 PM",
     "title": "Royal Challengers Bangalore SRL - Mumbai Indians SRL",
     "bets": [
@@ -254,6 +192,20 @@
       {
         "team": "Mumbai Indians SRL",
         "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Oct 31, 01:00 PM",
+    "title": "Mumbai Indians (Etienne) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (Etienne)",
+        "odds": "2.24"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "1.55"
       }
     ]
   },
@@ -277,11 +229,11 @@
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.74"
+        "odds": "1.72"
       },
       {
         "team": "South Africa",
-        "odds": "2.1"
+        "odds": "2.12"
       }
     ]
   },
@@ -459,11 +411,11 @@
     "bets": [
       {
         "team": "New Zealand",
-        "odds": "2.08"
+        "odds": "2.12"
       },
       {
         "team": "England",
-        "odds": "1.76"
+        "odds": "1.73"
       }
     ]
   },
