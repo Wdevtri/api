@@ -14,48 +14,6 @@
     ]
   },
   {
-    "date": "Oct 31, 04:30 PM",
-    "title": "Jhang Union Eagles - Alif Pharma",
-    "bets": [
-      {
-        "team": "Jhang Union Eagles",
-        "odds": "3.56"
-      },
-      {
-        "team": "Alif Pharma",
-        "odds": "1.25"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 06:00 PM",
-    "title": "West Indies Srl - Afghanistan Srl",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "1.62"
-      },
-      {
-        "team": "Afghanistan Srl",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Oct 31, 08:00 PM",
-    "title": "Sunrisers Eastern Cape Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
     "date": "Oct 31, 10:00 PM",
     "title": "Hobart Hurricanes Srl - Brisbane Heat Srl",
     "bets": [
@@ -350,6 +308,20 @@
     ]
   },
   {
+    "date": "Nov 1, 05:00 AM",
+    "title": "Gulmarg Royal - Uri Panthers",
+    "bets": [
+      {
+        "team": "Gulmarg Royal",
+        "odds": "1.51"
+      },
+      {
+        "team": "Uri Panthers",
+        "odds": "2.38"
+      }
+    ]
+  },
+  {
     "date": "Nov 1, 05:30 AM",
     "title": "Nepal - USA",
     "bets": [
@@ -439,11 +411,11 @@
     "bets": [
       {
         "team": "South Western Districts",
-        "odds": "1.84"
+        "odds": "1.71"
       },
       {
         "team": "Lions",
-        "odds": "1.83"
+        "odds": "1.98"
       }
     ]
   },
@@ -486,6 +458,20 @@
       {
         "team": "Kwazulu Natal Inland",
         "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 10:30 AM",
+    "title": "Kishtwar Giants - Ladakh Heroes",
+    "bets": [
+      {
+        "team": "Kishtwar Giants",
+        "odds": "2.22"
+      },
+      {
+        "team": "Ladakh Heroes",
+        "odds": "1.59"
       }
     ]
   },
@@ -584,6 +570,34 @@
       {
         "team": "Quetta Gladiators Srl",
         "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:00 PM",
+    "title": "Pakistan - South Africa",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.71"
+      },
+      {
+        "team": "South Africa",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:30 PM",
+    "title": "Lexington Shotguns - Legend Warriors",
+    "bets": [
+      {
+        "team": "Lexington Shotguns",
+        "odds": "2.22"
+      },
+      {
+        "team": "Legend Warriors",
+        "odds": "1.59"
       }
     ]
   },
@@ -934,6 +948,20 @@
     ]
   },
   {
+    "date": "Nov 2, 10:00 AM",
+    "title": "Western Province - North West Dragons",
+    "bets": [
+      {
+        "team": "Western Province",
+        "odds": "1.77"
+      },
+      {
+        "team": "North West Dragons",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
     "date": "Nov 2, 11:00 AM",
     "title": "Northern Cape - Garden Route Badgers",
     "bets": [
@@ -958,6 +986,20 @@
       {
         "team": "Afghanistan",
         "odds": "1.3"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 01:00 PM",
+    "title": "Seven Districts - Gems Education CC",
+    "bets": [
+      {
+        "team": "Seven Districts",
+        "odds": "1.64"
+      },
+      {
+        "team": "Gems Education CC",
+        "odds": "2.13"
       }
     ]
   }
