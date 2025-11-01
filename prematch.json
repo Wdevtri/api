@@ -14,20 +14,6 @@
     ]
   },
   {
-    "date": "Nov 1, 06:00 PM",
-    "title": "Pakistan Srl - South Africa Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.1"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
     "date": "Nov 1, 08:00 PM",
     "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
     "bets": [
@@ -52,6 +38,62 @@
       {
         "team": "Sydney Thunder Srl",
         "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 10:45 PM",
+    "title": "Glenorchy 1st Grade - Clarence 1st Grade",
+    "bets": [
+      {
+        "team": "Glenorchy 1st Grade",
+        "odds": "2"
+      },
+      {
+        "team": "Clarence 1st Grade",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 10:45 PM",
+    "title": "New Town 1st Grade - Greater Northern Raiders 1st Grade",
+    "bets": [
+      {
+        "team": "New Town 1st Grade",
+        "odds": "1.8"
+      },
+      {
+        "team": "Greater Northern Raiders 1st Grade",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 10:45 PM",
+    "title": "North Hobart 1st Grade - Kingborough 1st Grade",
+    "bets": [
+      {
+        "team": "North Hobart 1st Grade",
+        "odds": "2.4"
+      },
+      {
+        "team": "Kingborough 1st Grade",
+        "odds": "1.51"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 10:45 PM",
+    "title": "South Hobart Sandy Bay CC 1st Grade - University of Tasmania 1st Grade",
+    "bets": [
+      {
+        "team": "South Hobart Sandy Bay CC 1st Grade",
+        "odds": "1.51"
+      },
+      {
+        "team": "University of Tasmania 1st Grade",
+        "odds": "2.4"
       }
     ]
   },
@@ -136,6 +178,160 @@
       {
         "team": "Uttarakhand U-19 (w)",
         "odds": "2.79"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Delhi U-19 (w) - Kerala U-19 (w)",
+    "bets": [
+      {
+        "team": "Delhi U-19 (w)",
+        "odds": "1.72"
+      },
+      {
+        "team": "Kerala U-19 (w)",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Chhattisgarh U-19 (w) - Maharashtra U-19 (w)",
+    "bets": [
+      {
+        "team": "Chhattisgarh U-19 (w)",
+        "odds": "3.88"
+      },
+      {
+        "team": "Maharashtra U-19 (w)",
+        "odds": "1.21"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Jharkhand U-19 (w) - Saurashtra U-19 (w)",
+    "bets": [
+      {
+        "team": "Jharkhand U-19 (w)",
+        "odds": "1.76"
+      },
+      {
+        "team": "Saurashtra U-19 (w)",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Bihar U-19 (w) - Tamil Nadu U-19 (w)",
+    "bets": [
+      {
+        "team": "Bihar U-19 (w)",
+        "odds": "11"
+      },
+      {
+        "team": "Tamil Nadu U-19 (w)",
+        "odds": "1.01"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Bengal U-19 (w) - Mumbai U-19 (w)",
+    "bets": [
+      {
+        "team": "Bengal U-19 (w)",
+        "odds": "1.85"
+      },
+      {
+        "team": "Mumbai U-19 (w)",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Baroda U-19 (w) - Vidarbha U-19 (w)",
+    "bets": [
+      {
+        "team": "Baroda U-19 (w)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Vidarbha U-19 (w)",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Arunachal Pradesh U-19 (w) - Sikkim U-19 (w)",
+    "bets": [
+      {
+        "team": "Arunachal Pradesh U-19 (w)",
+        "odds": "2"
+      },
+      {
+        "team": "Sikkim U-19 (w)",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Gujarat U-19 (w) - Uttar Pradesh U-19 (w)",
+    "bets": [
+      {
+        "team": "Gujarat U-19 (w)",
+        "odds": "2.23"
+      },
+      {
+        "team": "Uttar Pradesh U-19 (w)",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Assam U-19 (w) - Tripura U-19 (w)",
+    "bets": [
+      {
+        "team": "Assam U-19 (w)",
+        "odds": "1.21"
+      },
+      {
+        "team": "Tripura U-19 (w)",
+        "odds": "3.88"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Chandigarh U-19 (w) - Rajasthan U-19 (w)",
+    "bets": [
+      {
+        "team": "Chandigarh U-19 (w)",
+        "odds": "3.1"
+      },
+      {
+        "team": "Rajasthan U-19 (w)",
+        "odds": "1.32"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 03:00 AM",
+    "title": "Manipur U-19 (w) - Nagaland U-19 (w)",
+    "bets": [
+      {
+        "team": "Manipur U-19 (w)",
+        "odds": "1.1"
+      },
+      {
+        "team": "Nagaland U-19 (w)",
+        "odds": "5.81"
       }
     ]
   },
@@ -482,6 +678,76 @@
     ]
   },
   {
+    "date": "Nov 2, 07:30 AM",
+    "title": "Cricket Association of Pondicherry U-19 (w) - Punjab U-19 (w)",
+    "bets": [
+      {
+        "team": "Cricket Association of Pondicherry U-19 (w)",
+        "odds": "3.88"
+      },
+      {
+        "team": "Punjab U-19 (w)",
+        "odds": "1.21"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 07:30 AM",
+    "title": "Goa U-19 (w) - Hyderabad U-19 (w)",
+    "bets": [
+      {
+        "team": "Goa U-19 (w)",
+        "odds": "5.5"
+      },
+      {
+        "team": "Hyderabad U-19 (w)",
+        "odds": "1.11"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 07:30 AM",
+    "title": "Himachal Pradesh U-19 (w) - Karnataka U-19 (w)",
+    "bets": [
+      {
+        "team": "Himachal Pradesh U-19 (w)",
+        "odds": "5.32"
+      },
+      {
+        "team": "Karnataka U-19 (w)",
+        "odds": "1.12"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 07:30 AM",
+    "title": "Madhya Pradesh U-19 (w) - Odisha U-19 (w)",
+    "bets": [
+      {
+        "team": "Madhya Pradesh U-19 (w)",
+        "odds": "2"
+      },
+      {
+        "team": "Odisha U-19 (w)",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 07:30 AM",
+    "title": "Meghalaya U-19 (w) - Cricket Association of Mizoram U-19 (w)",
+    "bets": [
+      {
+        "team": "Meghalaya U-19 (w)",
+        "odds": "2.62"
+      },
+      {
+        "team": "Cricket Association of Mizoram U-19 (w)",
+        "odds": "1.43"
+      }
+    ]
+  },
+  {
     "date": "Nov 2, 07:45 AM",
     "title": "IPRC Kigali CC - Right Guards CC",
     "bets": [
@@ -744,6 +1010,20 @@
       {
         "team": "Chennai Super Kings SRL",
         "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 2, 04:30 PM",
+    "title": "Karwan CC - Fly Emirates",
+    "bets": [
+      {
+        "team": "Karwan CC",
+        "odds": "1.45"
+      },
+      {
+        "team": "Fly Emirates",
+        "odds": "2.56"
       }
     ]
   },
