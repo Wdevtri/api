@@ -778,5 +778,19 @@
         "odds": "1.97"
       }
     ]
+  },
+  {
+    "date": "Nov 3, 04:30 AM",
+    "title": "Bangladesh U19 - Afghanistan",
+    "bets": [
+      {
+        "team": "Bangladesh U19",
+        "odds": "1.43"
+      },
+      {
+        "team": "Afghanistan",
+        "odds": "2.56"
+      }
+    ]
   }
 ]

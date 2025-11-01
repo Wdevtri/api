@@ -1,1 +1,326 @@
-[]
+[
+  {
+    "date": "Nov 1, 01:00 AM",
+    "title": "New Zealand - England",
+    "bets": [
+      {
+        "team": "New Zealand",
+        "odds": "1.22"
+      },
+      {
+        "team": "England",
+        "odds": "4.4"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:00 AM",
+    "title": "Islamabad United Srl - Karachi Kings Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.42"
+      },
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "2.72"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:00 AM",
+    "title": "Auckland SRL - Canterbury SRL",
+    "bets": [
+      {
+        "team": "Auckland SRL",
+        "odds": "1.09"
+      },
+      {
+        "team": "Canterbury SRL",
+        "odds": "6.4"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:00 AM",
+    "title": "Vidyasagar Cricket Academy (w) - Radha Madhav Cricket Club (Women)",
+    "bets": [
+      {
+        "team": "Vidyasagar Cricket Academy (w)",
+        "odds": "2.53"
+      },
+      {
+        "team": "Radha Madhav Cricket Club (Women)",
+        "odds": "1.44"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:00 AM",
+    "title": "Aghadi CA - Tanaji Cricketers",
+    "bets": [
+      {
+        "team": "Aghadi CA",
+        "odds": "3.05"
+      },
+      {
+        "team": "Tanaji Cricketers",
+        "odds": "1.33"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:00 AM",
+    "title": "Uttar Pradesh - Chandigarh",
+    "bets": [
+      {
+        "team": "Uttar Pradesh",
+        "odds": "2.03"
+      },
+      {
+        "team": "Chandigarh",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:05 AM",
+    "title": "England (cyber) - India (cyber)",
+    "bets": [
+      {
+        "team": "India (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:30 AM",
+    "title": "Night Avengers - Catchers",
+    "bets": [
+      {
+        "team": "Night Avengers",
+        "odds": "1.8"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.32"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:33 AM",
+    "title": "Rajasthan Royals (V) - Gujarat Titans (V)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (V)",
+        "odds": "1.58"
+      },
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "2.23"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:35 AM",
+    "title": "Kolkata Knight Riders (cyber) - Punjab Kings (cyber)",
+    "bets": [
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "9.9"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 03:53 AM",
+    "title": "Pakistan Legends (V) - Sri Lanka Legends (V)",
+    "bets": [
+      {
+        "team": "Pakistan Legends (V)",
+        "odds": "1.69"
+      },
+      {
+        "team": "Sri Lanka Legends (V)",
+        "odds": "2.05"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:00 AM",
+    "title": "Stunners Indoor - Top Guns Indoor",
+    "bets": [
+      {
+        "team": "Stunners Indoor",
+        "odds": "1.73"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.15"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:00 AM",
+    "title": "Hustlers Chennai - Rhinos Chennai",
+    "bets": [
+      {
+        "team": "Hustlers Chennai",
+        "odds": "1.91"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.32"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:00 AM",
+    "title": "Rapid Falcons (w) - Future Stars (w)",
+    "bets": [
+      {
+        "team": "Rapid Falcons (w)",
+        "odds": "1.18"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.44"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:04 AM",
+    "title": "Gujarat Giants (V-w) - Mumbai Indians (V-w)",
+    "bets": [
+      {
+        "team": "Gujarat Giants (V-w)",
+        "odds": "1.09"
+      },
+      {
+        "team": "Mumbai Indians (V-w)",
+        "odds": "6.5"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:05 AM",
+    "title": "Sri Lanka (cyber) - South Africa (cyber)",
+    "bets": [
+      {
+        "team": "Sri Lanka (cyber)",
+        "odds": "14.85"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:27 AM",
+    "title": "Adelaide Strikers (V) - Melbourne Stars (V)",
+    "bets": [
+      {
+        "team": "Adelaide Strikers (V)",
+        "odds": "1.01"
+      },
+      {
+        "team": "Draw",
+        "odds": "151"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:30 AM",
+    "title": "Tuskers Jammu - Bestballers",
+    "bets": [
+      {
+        "team": "Tuskers Jammu",
+        "odds": "1.78"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:30 AM",
+    "title": "Australia (Sharoock) - India (YudhVeer)",
+    "bets": [
+      {
+        "team": "Australia (Sharoock)",
+        "odds": "6.91"
+      },
+      {
+        "team": "India (YudhVeer)",
+        "odds": "1.06"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:30 AM",
+    "title": "Ireland (V) - Australia (V)",
+    "bets": [
+      {
+        "team": "Ireland (V)",
+        "odds": "1.55"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:30 AM",
+    "title": "Lucknow Super Giants (e) - Delhi Capitals (e)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (e)",
+        "odds": "2.25"
+      },
+      {
+        "team": "Delhi Capitals (e)",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:32 AM",
+    "title": "Rajasthan Royals (V) - Kolkata Knight Riders (V)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (V)",
+        "odds": "2.2"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:34 AM",
+    "title": "India (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "India (V)",
+        "odds": "1.73"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Nov 1, 04:35 AM",
+    "title": "Chennai Super Kings (cyber) - Delhi Capitals (cyber)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (cyber)",
+        "odds": "2.02"
+      },
+      {
+        "team": "Delhi Capitals (cyber)",
+        "odds": "1.63"
+      }
+    ]
+  }
+]
