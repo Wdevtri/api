@@ -14,132 +14,6 @@
     ]
   },
   {
-    "date": "Nov 2, 04:00 PM",
-    "title": "Royal Challengers Bangalore SRL - Chennai Super Kings SRL",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.66"
-      },
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Nov 2, 04:30 PM",
-    "title": "Karwan CC - Fly Emirates",
-    "bets": [
-      {
-        "team": "Karwan CC",
-        "odds": "1.39"
-      },
-      {
-        "team": "Fly Emirates",
-        "odds": "2.77"
-      }
-    ]
-  },
-  {
-    "date": "Nov 2, 05:00 PM",
-    "title": "Seven Districts - Abu Dhabi Smashers",
-    "bets": [
-      {
-        "team": "Seven Districts",
-        "odds": "1.59"
-      },
-      {
-        "team": "Abu Dhabi Smashers",
-        "odds": "2.15"
-      }
-    ]
-  },
-  {
-    "date": "Nov 2, 06:00 PM",
-    "title": "Pakistan Srl - Sri Lanka Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.66"
-      },
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Nov 2, 08:00 PM",
-    "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
-    "date": "Nov 2, 09:30 PM",
-    "title": "Northern Brave - Wellington Firebirds",
-    "bets": [
-      {
-        "team": "Northern Brave",
-        "odds": "1.68"
-      },
-      {
-        "team": "Wellington Firebirds",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Nov 2, 09:30 PM",
-    "title": "Otago Volts - Central Stags",
-    "bets": [
-      {
-        "team": "Otago Volts",
-        "odds": "2.38"
-      },
-      {
-        "team": "Central Stags",
-        "odds": "1.54"
-      }
-    ]
-  },
-  {
-    "date": "Nov 2, 09:30 PM",
-    "title": "Canterbury Kings - Auckland Aces",
-    "bets": [
-      {
-        "team": "Canterbury Kings",
-        "odds": "1.73"
-      },
-      {
-        "team": "Auckland Aces",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Nov 2, 10:00 PM",
-    "title": "Sydney Sixers Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
     "date": "Nov 2, 11:00 PM",
     "title": "New South Wales Blues - Queensland Bulls",
     "bets": [
@@ -238,6 +112,34 @@
     ]
   },
   {
+    "date": "Nov 3, 03:30 AM",
+    "title": "Udharbond Transformer - Smashers",
+    "bets": [
+      {
+        "team": "Udharbond Transformer",
+        "odds": "1.52"
+      },
+      {
+        "team": "Smashers",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Nov 3, 03:30 AM",
+    "title": "Panchgani 11 - HT Cricket Academy",
+    "bets": [
+      {
+        "team": "Panchgani 11",
+        "odds": "1.6"
+      },
+      {
+        "team": "HT Cricket Academy",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
     "date": "Nov 3, 04:00 AM",
     "title": "Auckland SRL - Wellington SRL",
     "bets": [
@@ -304,6 +206,34 @@
       {
         "team": "Delhi Capitals SRL",
         "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Nov 3, 07:00 AM",
+    "title": "Cyprus - Bulgaria",
+    "bets": [
+      {
+        "team": "Cyprus",
+        "odds": "1.47"
+      },
+      {
+        "team": "Bulgaria",
+        "odds": "2.44"
+      }
+    ]
+  },
+  {
+    "date": "Nov 3, 07:30 AM",
+    "title": "Sports Hub Silchar - Silchar Warriors",
+    "bets": [
+      {
+        "team": "Sports Hub Silchar",
+        "odds": "1.98"
+      },
+      {
+        "team": "Silchar Warriors",
+        "odds": "1.71"
       }
     ]
   },
@@ -467,11 +397,11 @@
     "bets": [
       {
         "team": "Jhang Union Eagles",
-        "odds": "3.99"
+        "odds": "3.3"
       },
       {
         "team": "Z Sports",
-        "odds": "1.2"
+        "odds": "1.28"
       }
     ]
   },
@@ -532,6 +462,34 @@
     ]
   },
   {
+    "date": "Nov 4, 03:00 AM",
+    "title": "Manipur U-19 (w) - Cricket Association of Mizoram U-19 (w)",
+    "bets": [
+      {
+        "team": "Manipur U-19 (w)",
+        "odds": "1.62"
+      },
+      {
+        "team": "Cricket Association of Mizoram U-19 (w)",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Nov 4, 08:00 AM",
+    "title": "Central Zone - East Zone",
+    "bets": [
+      {
+        "team": "Central Zone",
+        "odds": "1.43"
+      },
+      {
+        "team": "East Zone",
+        "odds": "2.56"
+      }
+    ]
+  },
+  {
     "date": "Nov 4, 10:00 AM",
     "title": "Pakistan - South Africa",
     "bets": [
@@ -542,6 +500,20 @@
       {
         "team": "South Africa",
         "odds": "2.34"
+      }
+    ]
+  },
+  {
+    "date": "Nov 4, 04:00 PM",
+    "title": "Boland - Western Province",
+    "bets": [
+      {
+        "team": "Boland",
+        "odds": "2.12"
+      },
+      {
+        "team": "Western Province",
+        "odds": "1.67"
       }
     ]
   }
