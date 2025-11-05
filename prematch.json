@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 5, 02:00 PM",
-    "title": "Multan Sultans Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.3"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
     "date": "Nov 5, 04:00 PM",
     "title": "Lucknow Super Giants Srl - Royal Challengers Bangalore SRL",
     "bets": [
@@ -116,12 +102,8 @@
     "title": "Indonesia - Myanmar",
     "bets": [
       {
-        "team": "Indonesia",
-        "odds": "1.02"
-      },
-      {
         "team": "Myanmar",
-        "odds": "10"
+        "odds": "12.42"
       }
     ]
   },
@@ -443,6 +425,20 @@
       },
       {
         "team": "Josh Inglis",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Nov 6, 08:15 AM",
+    "title": "Xavier Bartlett - Nathan Ellis",
+    "bets": [
+      {
+        "team": "Xavier Bartlett",
+        "odds": "1.87"
+      },
+      {
+        "team": "Nathan Ellis",
         "odds": "1.87"
       }
     ]
@@ -780,6 +776,20 @@
       {
         "team": "Legend Warriors",
         "odds": "1.41"
+      }
+    ]
+  },
+  {
+    "date": "Nov 7, 03:00 PM",
+    "title": "Warriors - Western Province",
+    "bets": [
+      {
+        "team": "Warriors",
+        "odds": "1.93"
+      },
+      {
+        "team": "Western Province",
+        "odds": "1.81"
       }
     ]
   }
