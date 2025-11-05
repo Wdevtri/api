@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 5, 06:00 PM",
-    "title": "Afghanistan Srl - Sri Lanka Srl",
-    "bets": [
-      {
-        "team": "Afghanistan Srl",
-        "odds": "1.95"
-      },
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
     "date": "Nov 5, 08:00 PM",
     "title": "Paarl Royals Srl - Sunrisers Eastern Cape Srl",
     "bets": [
@@ -145,11 +131,11 @@
     "bets": [
       {
         "team": "Smashers",
-        "odds": "2.1"
+        "odds": "2.3"
       },
       {
         "team": "Dominators",
-        "odds": "1.63"
+        "odds": "1.52"
       }
     ]
   },
@@ -215,11 +201,11 @@
     "bets": [
       {
         "team": "North Zone",
-        "odds": "2.1"
+        "odds": "2.06"
       },
       {
         "team": "West Zone",
-        "odds": "1.63"
+        "odds": "1.66"
       }
     ]
   },
@@ -243,11 +229,11 @@
     "bets": [
       {
         "team": "New Zealand",
-        "odds": "1.41"
+        "odds": "1.39"
       },
       {
         "team": "West Indies",
-        "odds": "2.92"
+        "odds": "3"
       }
     ]
   },
@@ -551,11 +537,11 @@
     "bets": [
       {
         "team": "Central Zone",
-        "odds": "2.02"
+        "odds": "1.95"
       },
       {
         "team": "South Zone",
-        "odds": "1.69"
+        "odds": "1.73"
       }
     ]
   },
@@ -621,11 +607,11 @@
     "bets": [
       {
         "team": "Boland",
-        "odds": "1.74"
+        "odds": "1.8"
       },
       {
         "team": "Titans",
-        "odds": "2.02"
+        "odds": "1.95"
       }
     ]
   },
