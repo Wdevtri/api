@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 6, 04:30 PM",
-    "title": "Jhang Union Eagles - GHK Properties",
-    "bets": [
-      {
-        "team": "Jhang Union Eagles",
-        "odds": "3.7"
-      },
-      {
-        "team": "GHK Properties",
-        "odds": "1.23"
-      }
-    ]
-  },
-  {
     "date": "Nov 6, 06:00 PM",
     "title": "Pakistan Srl - Australia Srl",
     "bets": [
@@ -696,6 +682,20 @@
       {
         "team": "University 1st Grade",
         "odds": "1.21"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 03:30 AM",
+    "title": "Aadarsh Computers - Malas XI",
+    "bets": [
+      {
+        "team": "Aadarsh Computers",
+        "odds": "1.2"
+      },
+      {
+        "team": "Malas XI",
+        "odds": "3.85"
       }
     ]
   },
