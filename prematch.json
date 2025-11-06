@@ -1,33 +1,5 @@
 [
   {
-    "date": "Nov 6, 10:00 PM",
-    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Nov 6, 10:00 PM",
-    "title": "South Zone - North Zone",
-    "bets": [
-      {
-        "team": "South Zone",
-        "odds": "3"
-      },
-      {
-        "team": "North Zone",
-        "odds": "1.32"
-      }
-    ]
-  },
-  {
     "date": "Nov 6, 11:00 PM",
     "title": "Guyana Amazon Warriors Srl - Barbados Royals Srl",
     "bets": [
@@ -336,6 +308,20 @@
     ]
   },
   {
+    "date": "Nov 7, 08:00 AM",
+    "title": "Gujarat Titans (Gerrard) - Chennai Super Kings (Caleb)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "2.73"
+      },
+      {
+        "team": "Chennai Super Kings (Caleb)",
+        "odds": "1.38"
+      }
+    ]
+  },
+  {
     "date": "Nov 7, 09:00 AM",
     "title": "Mi Cape Town Srl - Sunrisers Eastern Cape Srl",
     "bets": [
@@ -350,6 +336,20 @@
     ]
   },
   {
+    "date": "Nov 7, 09:00 AM",
+    "title": "Gujarat Titans (Gerrard) - Delhi Capitals (Jordan)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "2.19"
+      },
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
     "date": "Nov 7, 10:00 AM",
     "title": "Lahore Qalanders Srl - Quetta Gladiators Srl",
     "bets": [
@@ -360,6 +360,20 @@
       {
         "team": "Quetta Gladiators Srl",
         "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Nov 7, 10:00 AM",
+    "title": "Chennai Super Kings (Caleb) - Delhi Capitals (Jordan)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (Caleb)",
+        "odds": "1.5"
+      },
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "2.34"
       }
     ]
   },
@@ -453,11 +467,11 @@
     "bets": [
       {
         "team": "North West Dragons",
-        "odds": "2.04"
+        "odds": "2.12"
       },
       {
         "team": "Dolphins",
-        "odds": "1.73"
+        "odds": "1.67"
       }
     ]
   },
@@ -523,11 +537,11 @@
     "bets": [
       {
         "team": "Wellington Firebirds",
-        "odds": "1.64"
+        "odds": "1.61"
       },
       {
         "team": "Otago Volts",
-        "odds": "2.18"
+        "odds": "2.22"
       }
     ]
   },
@@ -677,11 +691,11 @@
     "bets": [
       {
         "team": "Australia",
-        "odds": "2.1"
+        "odds": "2.14"
       },
       {
         "team": "India",
-        "odds": "1.75"
+        "odds": "1.72"
       }
     ]
   },
@@ -691,11 +705,11 @@
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.54"
+        "odds": "1.59"
       },
       {
         "team": "South Africa",
-        "odds": "2.5"
+        "odds": "2.38"
       }
     ]
   },
@@ -705,11 +719,11 @@
     "bets": [
       {
         "team": "Limpopo",
-        "odds": "2.78"
+        "odds": "2.62"
       },
       {
         "team": "Eastern Cape Linyathi",
-        "odds": "1.37"
+        "odds": "1.41"
       }
     ]
   },
@@ -719,11 +733,11 @@
     "bets": [
       {
         "team": "Garden Route Badgers",
-        "odds": "1.62"
+        "odds": "1.57"
       },
       {
         "team": "Mpumalanga Rhinos",
-        "odds": "2.1"
+        "odds": "2.2"
       }
     ]
   }
