@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 6, 06:00 PM",
-    "title": "Pakistan Srl - Australia Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Australia Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
     "date": "Nov 6, 08:00 PM",
     "title": "Sunrisers Eastern Cape Srl - Pretoria Capitals Srl",
     "bets": [
@@ -313,11 +299,11 @@
     "bets": [
       {
         "team": "India VI",
-        "odds": "3.91"
+        "odds": "3.21"
       },
       {
         "team": "Pakistan VI",
-        "odds": "1.21"
+        "odds": "1.3"
       }
     ]
   },
@@ -710,6 +696,20 @@
       {
         "team": "India",
         "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 10:00 AM",
+    "title": "Pakistan - South Africa",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.54"
+      },
+      {
+        "team": "South Africa",
+        "odds": "2.5"
       }
     ]
   },
