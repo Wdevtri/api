@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 6, 11:00 PM",
-    "title": "Guyana Amazon Warriors Srl - Barbados Royals Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.68"
-      },
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
     "date": "Nov 7, 12:00 AM",
     "title": "Sri Lanka Srl - West Indies Srl",
     "bets": [
@@ -33,11 +19,11 @@
     "bets": [
       {
         "team": "Bangladesh VI",
-        "odds": "1.4"
+        "odds": "1.35"
       },
       {
         "team": "Hong Kong VI",
-        "odds": "2.73"
+        "odds": "2.94"
       }
     ]
   },
@@ -738,6 +724,34 @@
       {
         "team": "Mpumalanga Rhinos",
         "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:15 PM",
+    "title": "Prospect - East Torrens",
+    "bets": [
+      {
+        "team": "Prospect",
+        "odds": "3.44"
+      },
+      {
+        "team": "East Torrens",
+        "odds": "1.25"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:30 PM",
+    "title": "Port Adelaide - Glenelg",
+    "bets": [
+      {
+        "team": "Port Adelaide",
+        "odds": "1.46"
+      },
+      {
+        "team": "Glenelg",
+        "odds": "2.44"
       }
     ]
   }
