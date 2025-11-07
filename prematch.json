@@ -109,6 +109,20 @@
   },
   {
     "date": "Nov 8, 02:00 AM",
+    "title": "Perth 1st Grade - Willetton 1st Grade",
+    "bets": [
+      {
+        "team": "Perth 1st Grade",
+        "odds": "1.34"
+      },
+      {
+        "team": "Willetton 1st Grade",
+        "odds": "2.87"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 02:00 AM",
     "title": "Wanneroo 1st Grade - University 1st Grade",
     "bets": [
       {
