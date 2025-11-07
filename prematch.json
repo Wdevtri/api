@@ -1,29 +1,15 @@
 [
   {
-    "date": "Nov 7, 07:30 AM",
-    "title": "Dominators - Udharbond Transformer",
+    "date": "Nov 7, 08:30 AM",
+    "title": "England VI - Australia VI",
     "bets": [
       {
-        "team": "Dominators",
-        "odds": "1.64"
+        "team": "England VI",
+        "odds": "2.73"
       },
       {
-        "team": "Udharbond Transformer",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Nov 7, 08:00 AM",
-    "title": "Gujarat Titans (Gerrard) - Chennai Super Kings (Caleb)",
-    "bets": [
-      {
-        "team": "Gujarat Titans (Gerrard)",
-        "odds": "2.74"
-      },
-      {
-        "team": "Chennai Super Kings (Caleb)",
-        "odds": "1.37"
+        "team": "Australia VI",
+        "odds": "1.4"
       }
     ]
   },
@@ -173,11 +159,11 @@
     "bets": [
       {
         "team": "North West Dragons",
-        "odds": "2.12"
+        "odds": "2.14"
       },
       {
         "team": "Dolphins",
-        "odds": "1.67"
+        "odds": "1.65"
       }
     ]
   },
@@ -537,11 +523,11 @@
     "bets": [
       {
         "team": "Australia",
-        "odds": "2.08"
+        "odds": "2.12"
       },
       {
         "team": "India",
-        "odds": "1.76"
+        "odds": "1.73"
       }
     ]
   },
@@ -607,11 +593,11 @@
     "bets": [
       {
         "team": "Garden Route Badgers",
-        "odds": "1.57"
+        "odds": "1.56"
       },
       {
         "team": "Mpumalanga Rhinos",
-        "odds": "2.2"
+        "odds": "2.22"
       }
     ]
   },
@@ -943,11 +929,263 @@
     "bets": [
       {
         "team": "Brisbane Heat",
-        "odds": "1.67"
+        "odds": "1.7"
       },
       {
         "team": "Melbourne Renegades",
-        "odds": "2.22"
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Arunachal Pradesh U-23 - Manipur U-23",
+    "bets": [
+      {
+        "team": "Arunachal Pradesh U-23",
+        "odds": "3.04"
+      },
+      {
+        "team": "Manipur U-23",
+        "odds": "1.33"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Andhra U-23 - Assam U-23",
+    "bets": [
+      {
+        "team": "Andhra U-23",
+        "odds": "1.71"
+      },
+      {
+        "team": "Assam U-23",
+        "odds": "2.01"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Jammu and Kashmir U-23 - Mumbai U-23",
+    "bets": [
+      {
+        "team": "Jammu and Kashmir U-23",
+        "odds": "6.39"
+      },
+      {
+        "team": "Mumbai U-23",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Bihar U-23 - Uttarakhand U-23",
+    "bets": [
+      {
+        "team": "Bihar U-23",
+        "odds": "6.94"
+      },
+      {
+        "team": "Uttarakhand U-23",
+        "odds": "1.07"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Chhattisgarh U-23 - Punjab U-23",
+    "bets": [
+      {
+        "team": "Chhattisgarh U-23",
+        "odds": "7.47"
+      },
+      {
+        "team": "Punjab U-23",
+        "odds": "1.06"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Delhi U-23 - Haryana U-23",
+    "bets": [
+      {
+        "team": "Delhi U-23",
+        "odds": "2.21"
+      },
+      {
+        "team": "Haryana U-23",
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Goa U-23 - Odisha U-23",
+    "bets": [
+      {
+        "team": "Goa U-23",
+        "odds": "2.08"
+      },
+      {
+        "team": "Odisha U-23",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Chandigarh U-23 - Maharashtra U-23",
+    "bets": [
+      {
+        "team": "Chandigarh U-23",
+        "odds": "1.59"
+      },
+      {
+        "team": "Maharashtra U-23",
+        "odds": "2.21"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Meghalaya U-23 - Sikkim U-23",
+    "bets": [
+      {
+        "team": "Meghalaya U-23",
+        "odds": "1.29"
+      },
+      {
+        "team": "Sikkim U-23",
+        "odds": "3.29"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Tamil Nadu U-23 - Vidarbha U-23",
+    "bets": [
+      {
+        "team": "Tamil Nadu U-23",
+        "odds": "1.61"
+      },
+      {
+        "team": "Vidarbha U-23",
+        "odds": "2.17"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Pondicherry U-23 - Rajasthan U-23",
+    "bets": [
+      {
+        "team": "Pondicherry U-23",
+        "odds": "4.07"
+      },
+      {
+        "team": "Rajasthan U-23",
+        "odds": "1.2"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Kerala U-23 - Saurashtra U-23",
+    "bets": [
+      {
+        "team": "Kerala U-23",
+        "odds": "2.08"
+      },
+      {
+        "team": "Saurashtra U-23",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Madhya Pradesh U-23 - Railways U-23",
+    "bets": [
+      {
+        "team": "Madhya Pradesh U-23",
+        "odds": "1.71"
+      },
+      {
+        "team": "Railways U-23",
+        "odds": "2.01"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Mizoram U-23 - Nagaland U-23",
+    "bets": [
+      {
+        "team": "Mizoram U-23",
+        "odds": "2.35"
+      },
+      {
+        "team": "Nagaland U-23",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Karnataka U-23 - Uttar Pradesh U-23",
+    "bets": [
+      {
+        "team": "Karnataka U-23",
+        "odds": "1.85"
+      },
+      {
+        "team": "Uttar Pradesh U-23",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Himachal Pradesh U-23 - Tripura U-23",
+    "bets": [
+      {
+        "team": "Himachal Pradesh U-23",
+        "odds": "1.23"
+      },
+      {
+        "team": "Tripura U-23",
+        "odds": "3.69"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Gujarat U-23 - Jharkhand U-23",
+    "bets": [
+      {
+        "team": "Gujarat U-23",
+        "odds": "1.8"
+      },
+      {
+        "team": "Jharkhand U-23",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:30 AM",
+    "title": "Baroda U-23 - Bengal U-23",
+    "bets": [
+      {
+        "team": "Baroda U-23",
+        "odds": "1.85"
+      },
+      {
+        "team": "Bengal U-23",
+        "odds": "1.85"
       }
     ]
   },
