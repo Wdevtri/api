@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 7, 06:00 PM",
-    "title": "England Srl - Pakistan Srl",
-    "bets": [
-      {
-        "team": "England Srl",
-        "odds": "1.68"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
     "date": "Nov 7, 08:00 PM",
     "title": "Pretoria Capitals Srl - Joburg Super Kings Srl",
     "bets": [
@@ -145,11 +131,11 @@
     "bets": [
       {
         "team": "India VI",
-        "odds": "1.3"
+        "odds": "1.28"
       },
       {
         "team": "Kuwait VI",
-        "odds": "3.22"
+        "odds": "3.33"
       }
     ]
   },
