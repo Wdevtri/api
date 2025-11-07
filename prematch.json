@@ -14,34 +14,6 @@
     ]
   },
   {
-    "date": "Nov 7, 07:45 AM",
-    "title": "Imena Centurions - Ingenzi Defenders",
-    "bets": [
-      {
-        "team": "Imena Centurions",
-        "odds": "1.73"
-      },
-      {
-        "team": "Ingenzi Defenders",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "Nov 7, 08:00 AM",
-    "title": "Perth Scorchers Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.84"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
     "date": "Nov 7, 08:00 AM",
     "title": "Gujarat Titans (Gerrard) - Chennai Super Kings (Caleb)",
     "bets": [
@@ -565,11 +537,11 @@
     "bets": [
       {
         "team": "Australia",
-        "odds": "2.14"
+        "odds": "2.08"
       },
       {
         "team": "India",
-        "odds": "1.72"
+        "odds": "1.76"
       }
     ]
   },
