@@ -1,43 +1,15 @@
 [
   {
-    "date": "Nov 7, 02:00 PM",
-    "title": "Peshawar Zalmi Srl - Karachi Kings Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "1.94"
-      },
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Nov 7, 02:00 PM",
-    "title": "Kolkata Knight Riders (Deolin) - Gujarat Titans (Gerrard)",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders (Deolin)",
-        "odds": "3.36"
-      },
-      {
-        "team": "Gujarat Titans (Gerrard)",
-        "odds": "1.26"
-      }
-    ]
-  },
-  {
     "date": "Nov 7, 03:00 PM",
     "title": "Warriors - Western Province",
     "bets": [
       {
         "team": "Warriors",
-        "odds": "1.77"
+        "odds": "1.8"
       },
       {
         "team": "Western Province",
-        "odds": "1.98"
+        "odds": "1.95"
       }
     ]
   },
