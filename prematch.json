@@ -123,76 +123,6 @@
   },
   {
     "date": "Nov 8, 02:00 AM",
-    "title": "Gosnells 1st Grade - Claremont-Nedlands 1st Grade",
-    "bets": [
-      {
-        "team": "Gosnells 1st Grade",
-        "odds": "2.48"
-      },
-      {
-        "team": "Claremont-Nedlands 1st Grade",
-        "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 02:00 AM",
-    "title": "Joondalup 1st Grade - South Perth 1st Grade",
-    "bets": [
-      {
-        "team": "Joondalup 1st Grade",
-        "odds": "1.4"
-      },
-      {
-        "team": "South Perth 1st Grade",
-        "odds": "2.64"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 02:00 AM",
-    "title": "Melville 1st Grade - Scarborough 1st Grade",
-    "bets": [
-      {
-        "team": "Melville 1st Grade",
-        "odds": "1.6"
-      },
-      {
-        "team": "Scarborough 1st Grade",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 02:00 AM",
-    "title": "Mount Lawley 1st Grade - Subiaco-Floreat 1st Grade",
-    "bets": [
-      {
-        "team": "Mount Lawley 1st Grade",
-        "odds": "1.86"
-      },
-      {
-        "team": "Subiaco-Floreat 1st Grade",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 02:00 AM",
-    "title": "Perth 1st Grade - Willetton 1st Grade",
-    "bets": [
-      {
-        "team": "Perth 1st Grade",
-        "odds": "1.36"
-      },
-      {
-        "team": "Willetton 1st Grade",
-        "odds": "2.8"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 02:00 AM",
     "title": "Wanneroo 1st Grade - University 1st Grade",
     "bets": [
       {
@@ -589,11 +519,11 @@
     "bets": [
       {
         "team": "Lions",
-        "odds": "1.86"
+        "odds": "1.79"
       },
       {
         "team": "Kwazulu Natal Inland",
-        "odds": "1.88"
+        "odds": "1.95"
       }
     ]
   },
@@ -659,11 +589,11 @@
     "bets": [
       {
         "team": "Qatar",
-        "odds": "6.6"
+        "odds": "6.2"
       },
       {
         "team": "Afghanistan",
-        "odds": "1.09"
+        "odds": "1.1"
       }
     ]
   },
