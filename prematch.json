@@ -1,33 +1,5 @@
 [
   {
-    "date": "Nov 8, 03:55 AM",
-    "title": "Australia VI - Bangladesh VI",
-    "bets": [
-      {
-        "team": "Australia VI",
-        "odds": "1.14"
-      },
-      {
-        "team": "Bangladesh VI",
-        "odds": "4.84"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 04:00 AM",
-    "title": "Wellington SRL - Auckland SRL",
-    "bets": [
-      {
-        "team": "Wellington SRL",
-        "odds": "1.8"
-      },
-      {
-        "team": "Auckland SRL",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
     "date": "Nov 8, 05:00 AM",
     "title": "Australia Srl - New Zealand Srl",
     "bets": [
@@ -794,6 +766,20 @@
     ]
   },
   {
+    "date": "Nov 9, 03:30 AM",
+    "title": "Baroda U-23 - Bengal U-23",
+    "bets": [
+      {
+        "team": "Baroda U-23",
+        "odds": "1.75"
+      },
+      {
+        "team": "Bengal U-23",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
     "date": "Nov 9, 06:10 AM",
     "title": "Sydney Thunder - Hobart Hurricanes",
     "bets": [
@@ -860,6 +846,20 @@
       {
         "team": "Titans",
         "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 04:10 AM",
+    "title": "Melbourne Stars - Adelaide Strikers",
+    "bets": [
+      {
+        "team": "Melbourne Stars",
+        "odds": "2.08"
+      },
+      {
+        "team": "Adelaide Strikers",
+        "odds": "1.75"
       }
     ]
   }
