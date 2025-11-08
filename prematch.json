@@ -1,1 +1,782 @@
-[]
+[
+  {
+    "date": "Nov 8, 07:30 AM",
+    "title": "Dolphins - North West Dragons",
+    "bets": [
+      {
+        "team": "Dolphins",
+        "odds": "1.47"
+      },
+      {
+        "team": "North West Dragons",
+        "odds": "2.44"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 07:35 AM",
+    "title": "Hong Kong VI - England VI",
+    "bets": [
+      {
+        "team": "Hong Kong VI",
+        "odds": "2.36"
+      },
+      {
+        "team": "England VI",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 07:45 AM",
+    "title": "Abhishek Sharma - Shubman Gill",
+    "bets": [
+      {
+        "team": "Abhishek Sharma",
+        "odds": "1.72"
+      },
+      {
+        "team": "Shubman Gill",
+        "odds": "2.05"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 07:45 AM",
+    "title": "Mitchell Marsh - Matthew Short",
+    "bets": [
+      {
+        "team": "Mitchell Marsh",
+        "odds": "1.66"
+      },
+      {
+        "team": "Matthew Short",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 07:45 AM",
+    "title": "Mitchell Marsh - Shubman Gill",
+    "bets": [
+      {
+        "team": "Mitchell Marsh",
+        "odds": "1.8"
+      },
+      {
+        "team": "Shubman Gill",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 07:45 AM",
+    "title": "Josh Inglis - Suryakumar Yadav",
+    "bets": [
+      {
+        "team": "Josh Inglis",
+        "odds": "1.99"
+      },
+      {
+        "team": "Suryakumar Yadav",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 08:00 AM",
+    "title": "Sydney Thunder Srl - Melbourne Stars Srl",
+    "bets": [
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.71"
+      },
+      {
+        "team": "Melbourne Stars Srl",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 08:00 AM",
+    "title": "Titans - Lions",
+    "bets": [
+      {
+        "team": "Titans",
+        "odds": "1.81"
+      },
+      {
+        "team": "Lions",
+        "odds": "1.86"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 08:15 AM",
+    "title": "Australia - India",
+    "bets": [
+      {
+        "team": "Australia",
+        "odds": "2.04"
+      },
+      {
+        "team": "India",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 09:00 AM",
+    "title": "Mi Cape Town Srl - Pretoria Capitals Srl",
+    "bets": [
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.58"
+      },
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 10:00 AM",
+    "title": "Pakistan - South Africa",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.52"
+      },
+      {
+        "team": "South Africa",
+        "odds": "2.56"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 10:00 AM",
+    "title": "Lahore Qalanders Srl - Peshawar Zalmi Srl",
+    "bets": [
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.67"
+      },
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:00 AM",
+    "title": "Limpopo - Eastern Cape Linyathi",
+    "bets": [
+      {
+        "team": "Limpopo",
+        "odds": "2.62"
+      },
+      {
+        "team": "Eastern Cape Linyathi",
+        "odds": "1.41"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:00 AM",
+    "title": "Garden Route Badgers - Mpumalanga Rhinos",
+    "bets": [
+      {
+        "team": "Garden Route Badgers",
+        "odds": "1.56"
+      },
+      {
+        "team": "Mpumalanga Rhinos",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:00 AM",
+    "title": "Barbados Royals Srl - Guyana Amazon Warriors Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2.1"
+      },
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:00 AM",
+    "title": "South Zone - West Zone",
+    "bets": [
+      {
+        "team": "South Zone",
+        "odds": "2.16"
+      },
+      {
+        "team": "West Zone",
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:00 AM",
+    "title": "Lions - Kwazulu Natal Inland",
+    "bets": [
+      {
+        "team": "Lions",
+        "odds": "1.79"
+      },
+      {
+        "team": "Kwazulu Natal Inland",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:30 AM",
+    "title": "Jorhat City Boys - Jaihind Warriors",
+    "bets": [
+      {
+        "team": "Jorhat City Boys",
+        "odds": "1.6"
+      },
+      {
+        "team": "Jaihind Warriors",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 12:00 PM",
+    "title": "Central Districts SRL - Otago SRL",
+    "bets": [
+      {
+        "team": "Central Districts SRL",
+        "odds": "1.97"
+      },
+      {
+        "team": "Otago SRL",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 01:00 PM",
+    "title": "Gujarat Titans Srl - Royal Challengers Bangalore SRL",
+    "bets": [
+      {
+        "team": "Gujarat Titans Srl",
+        "odds": "1.93"
+      },
+      {
+        "team": "Royal Challengers Bangalore SRL",
+        "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 02:00 PM",
+    "title": "Multan Sultans Srl - Karachi Kings Srl",
+    "bets": [
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "2.02"
+      },
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 02:30 PM",
+    "title": "Qatar - Afghanistan",
+    "bets": [
+      {
+        "team": "Qatar",
+        "odds": "6.2"
+      },
+      {
+        "team": "Afghanistan",
+        "odds": "1.1"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 04:00 PM",
+    "title": "Kolkata Knight Riders Srl - Rajasthan Royals SRL",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders Srl",
+        "odds": "1.79"
+      },
+      {
+        "team": "Rajasthan Royals SRL",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 06:00 PM",
+    "title": "South Africa Srl - England Srl",
+    "bets": [
+      {
+        "team": "South Africa Srl",
+        "odds": "1.9"
+      },
+      {
+        "team": "England Srl",
+        "odds": "1.84"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 08:00 PM",
+    "title": "Paarl Royals Srl - Joburg Super Kings Srl",
+    "bets": [
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.75"
+      },
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 10:00 PM",
+    "title": "Sydney Sixers Srl - Perth Scorchers Srl",
+    "bets": [
+      {
+        "team": "Sydney Sixers Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Perth Scorchers Srl",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:00 PM",
+    "title": "Trinbago Knight Riders Srl - Barbados Royals Srl",
+    "bets": [
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.61"
+      },
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:15 PM",
+    "title": "Prospect - East Torrens",
+    "bets": [
+      {
+        "team": "Prospect",
+        "odds": "3.44"
+      },
+      {
+        "team": "East Torrens",
+        "odds": "1.25"
+      }
+    ]
+  },
+  {
+    "date": "Nov 8, 11:30 PM",
+    "title": "Port Adelaide - Glenelg",
+    "bets": [
+      {
+        "team": "Port Adelaide",
+        "odds": "1.46"
+      },
+      {
+        "team": "Glenelg",
+        "odds": "2.44"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 12:00 AM",
+    "title": "Southern District - Woodville",
+    "bets": [
+      {
+        "team": "Southern District",
+        "odds": "11.4"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 12:00 AM",
+    "title": "Adelaide University - Sturt",
+    "bets": [
+      {
+        "team": "Adelaide University",
+        "odds": "1.7"
+      },
+      {
+        "team": "Sturt",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 12:15 AM",
+    "title": "New Zealand - West Indies",
+    "bets": [
+      {
+        "team": "New Zealand",
+        "odds": "1.41"
+      },
+      {
+        "team": "West Indies",
+        "odds": "2.94"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:30 AM",
+    "title": "Scarborough - Country XI",
+    "bets": [
+      {
+        "team": "Scarborough",
+        "odds": "1.11"
+      },
+      {
+        "team": "Country XI",
+        "odds": "5.21"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:30 AM",
+    "title": "Joondalup - Wanneroo",
+    "bets": [
+      {
+        "team": "Joondalup",
+        "odds": "1.38"
+      },
+      {
+        "team": "Wanneroo",
+        "odds": "2.72"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:30 AM",
+    "title": "Perth - Melville",
+    "bets": [
+      {
+        "team": "Perth",
+        "odds": "1.18"
+      },
+      {
+        "team": "Melville",
+        "odds": "4.07"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:30 AM",
+    "title": "Gosnells - Midland-Guildford",
+    "bets": [
+      {
+        "team": "Gosnells",
+        "odds": "1.83"
+      },
+      {
+        "team": "Midland-Guildford",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:30 AM",
+    "title": "Willetton - University",
+    "bets": [
+      {
+        "team": "Willetton",
+        "odds": "2.05"
+      },
+      {
+        "team": "University",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:30 AM",
+    "title": "Fremantle - Claremont-Nedlands",
+    "bets": [
+      {
+        "team": "Fremantle",
+        "odds": "2"
+      },
+      {
+        "team": "Claremont-Nedlands",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:30 AM",
+    "title": "Mount Lawley - Rockingham-Mandurah",
+    "bets": [
+      {
+        "team": "Mount Lawley",
+        "odds": "2.1"
+      },
+      {
+        "team": "Rockingham-Mandurah",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:30 AM",
+    "title": "Subiaco-Floreat - South Perth",
+    "bets": [
+      {
+        "team": "Subiaco-Floreat",
+        "odds": "1.49"
+      },
+      {
+        "team": "South Perth",
+        "odds": "2.37"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 02:40 AM",
+    "title": "Brisbane Heat - Melbourne Renegades",
+    "bets": [
+      {
+        "team": "Brisbane Heat",
+        "odds": "1.69"
+      },
+      {
+        "team": "Melbourne Renegades",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Jammu and Kashmir U-23 - Mumbai U-23",
+    "bets": [
+      {
+        "team": "Jammu and Kashmir U-23",
+        "odds": "6.39"
+      },
+      {
+        "team": "Mumbai U-23",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Delhi U-23 - Haryana U-23",
+    "bets": [
+      {
+        "team": "Delhi U-23",
+        "odds": "2.21"
+      },
+      {
+        "team": "Haryana U-23",
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Chandigarh U-23 - Maharashtra U-23",
+    "bets": [
+      {
+        "team": "Chandigarh U-23",
+        "odds": "1.59"
+      },
+      {
+        "team": "Maharashtra U-23",
+        "odds": "2.21"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Meghalaya U-23 - Sikkim U-23",
+    "bets": [
+      {
+        "team": "Meghalaya U-23",
+        "odds": "1.29"
+      },
+      {
+        "team": "Sikkim U-23",
+        "odds": "3.29"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Tamil Nadu U-23 - Vidarbha U-23",
+    "bets": [
+      {
+        "team": "Tamil Nadu U-23",
+        "odds": "1.61"
+      },
+      {
+        "team": "Vidarbha U-23",
+        "odds": "2.17"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Kerala U-23 - Saurashtra U-23",
+    "bets": [
+      {
+        "team": "Kerala U-23",
+        "odds": "2.08"
+      },
+      {
+        "team": "Saurashtra U-23",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Mizoram U-23 - Nagaland U-23",
+    "bets": [
+      {
+        "team": "Mizoram U-23",
+        "odds": "2.35"
+      },
+      {
+        "team": "Nagaland U-23",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Gujarat U-23 - Jharkhand U-23",
+    "bets": [
+      {
+        "team": "Gujarat U-23",
+        "odds": "1.8"
+      },
+      {
+        "team": "Jharkhand U-23",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:30 AM",
+    "title": "Baroda U-23 - Bengal U-23",
+    "bets": [
+      {
+        "team": "Baroda U-23",
+        "odds": "1.75"
+      },
+      {
+        "team": "Bengal U-23",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 06:10 AM",
+    "title": "Sydney Thunder - Hobart Hurricanes",
+    "bets": [
+      {
+        "team": "Sydney Thunder",
+        "odds": "2.08"
+      },
+      {
+        "team": "Hobart Hurricanes",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 09:30 AM",
+    "title": "Perth Scorchers - Sydney Sixers",
+    "bets": [
+      {
+        "team": "Perth Scorchers",
+        "odds": "2"
+      },
+      {
+        "team": "Sydney Sixers",
+        "odds": "1.82"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 10:00 AM",
+    "title": "Dolphins - Warriors",
+    "bets": [
+      {
+        "team": "Dolphins",
+        "odds": "1.81"
+      },
+      {
+        "team": "Warriors",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 11:00 AM",
+    "title": "Knights - Eastern Storm",
+    "bets": [
+      {
+        "team": "Knights",
+        "odds": "1.53"
+      },
+      {
+        "team": "Eastern Storm",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 11:30 AM",
+    "title": "Western Province - Titans",
+    "bets": [
+      {
+        "team": "Western Province",
+        "odds": "1.95"
+      },
+      {
+        "team": "Titans",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 04:10 AM",
+    "title": "Melbourne Stars - Adelaide Strikers",
+    "bets": [
+      {
+        "team": "Melbourne Stars",
+        "odds": "2.08"
+      },
+      {
+        "team": "Adelaide Strikers",
+        "odds": "1.75"
+      }
+    ]
+  }
+]
