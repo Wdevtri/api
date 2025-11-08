@@ -1,43 +1,15 @@
 [
   {
-    "date": "Nov 8, 05:00 AM",
-    "title": "Australia Srl - New Zealand Srl",
+    "date": "Nov 8, 05:45 AM",
+    "title": "Nepal VI - India VI",
     "bets": [
       {
-        "team": "Australia Srl",
-        "odds": "1.59"
+        "team": "Nepal VI",
+        "odds": "2.94"
       },
       {
-        "team": "New Zealand Srl",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 05:30 AM",
-    "title": "Central Zone - North East Zone",
-    "bets": [
-      {
-        "team": "Central Zone",
-        "odds": "1.03"
-      },
-      {
-        "team": "North East Zone",
-        "odds": "8.2"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 05:30 AM",
-    "title": "East Zone - North Zone",
-    "bets": [
-      {
-        "team": "East Zone",
-        "odds": "2.1"
-      },
-      {
-        "team": "North Zone",
-        "odds": "1.63"
+        "team": "India VI",
+        "odds": "1.35"
       }
     ]
   },
