@@ -1,47 +1,5 @@
 [
   {
-    "date": "Nov 8, 04:00 PM",
-    "title": "Kolkata Knight Riders Srl - Rajasthan Royals SRL",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders Srl",
-        "odds": "1.79"
-      },
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 06:00 PM",
-    "title": "South Africa Srl - England Srl",
-    "bets": [
-      {
-        "team": "South Africa Srl",
-        "odds": "1.9"
-      },
-      {
-        "team": "England Srl",
-        "odds": "1.84"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 08:00 PM",
-    "title": "Paarl Royals Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.75"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2"
-      }
-    ]
-  },
-  {
     "date": "Nov 8, 10:00 PM",
     "title": "Sydney Sixers Srl - Perth Scorchers Srl",
     "bets": [
@@ -75,11 +33,11 @@
     "bets": [
       {
         "team": "Prospect",
-        "odds": "3.44"
+        "odds": "3.73"
       },
       {
         "team": "East Torrens",
-        "odds": "1.25"
+        "odds": "1.21"
       }
     ]
   },
@@ -136,30 +94,16 @@
     ]
   },
   {
-    "date": "Nov 9, 12:00 AM",
-    "title": "Tea Tree Gully - West Torrens",
-    "bets": [
-      {
-        "team": "Tea Tree Gully",
-        "odds": "1.7"
-      },
-      {
-        "team": "West Torrens",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
     "date": "Nov 9, 12:15 AM",
     "title": "New Zealand - West Indies",
     "bets": [
       {
         "team": "New Zealand",
-        "odds": "1.41"
+        "odds": "1.45"
       },
       {
         "team": "West Indies",
-        "odds": "2.94"
+        "odds": "2.78"
       }
     ]
   },
@@ -239,11 +183,11 @@
     "bets": [
       {
         "team": "Perth",
-        "odds": "1.17"
+        "odds": "1.15"
       },
       {
         "team": "Melville",
-        "odds": "4.25"
+        "odds": "4.46"
       }
     ]
   },
@@ -323,7 +267,7 @@
     "bets": [
       {
         "team": "East Timor",
-        "odds": "13"
+        "odds": "16.52"
       }
     ]
   },
@@ -361,11 +305,11 @@
     "bets": [
       {
         "team": "Lycan Warriors",
-        "odds": "1.24"
+        "odds": "1.28"
       },
       {
         "team": "Kritika Warriors",
-        "odds": "3.5"
+        "odds": "3.23"
       }
     ]
   },
@@ -403,11 +347,11 @@
     "bets": [
       {
         "team": "Arunachal Pradesh U-23",
-        "odds": "3.04"
+        "odds": "3.1"
       },
       {
         "team": "Manipur U-23",
-        "odds": "1.33"
+        "odds": "1.32"
       }
     ]
   },
@@ -417,11 +361,11 @@
     "bets": [
       {
         "team": "Andhra U-23",
-        "odds": "1.71"
+        "odds": "1.67"
       },
       {
         "team": "Assam U-23",
-        "odds": "2.01"
+        "odds": "2.08"
       }
     ]
   },
@@ -651,6 +595,20 @@
   },
   {
     "date": "Nov 9, 03:30 AM",
+    "title": "Sports Hub Silchar - Royal Rhinos",
+    "bets": [
+      {
+        "team": "Sports Hub Silchar",
+        "odds": "1.4"
+      },
+      {
+        "team": "Royal Rhinos",
+        "odds": "2.64"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:30 AM",
     "title": "Baroda U-23 - Bengal U-23",
     "bets": [
       {
@@ -790,16 +748,44 @@
     ]
   },
   {
+    "date": "Nov 9, 07:00 AM",
+    "title": "Dolphins - North West Dragons",
+    "bets": [
+      {
+        "team": "Dolphins",
+        "odds": "1.61"
+      },
+      {
+        "team": "North West Dragons",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 07:30 AM",
+    "title": "Silchar Warriors - Udharbond Transformer",
+    "bets": [
+      {
+        "team": "Silchar Warriors",
+        "odds": "1.67"
+      },
+      {
+        "team": "Udharbond Transformer",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
     "date": "Nov 9, 07:30 AM",
     "title": "IPRC Kigali CC - Spartans CC",
     "bets": [
       {
         "team": "IPRC Kigali CC",
-        "odds": "1.05"
+        "odds": "1.2"
       },
       {
         "team": "Spartans CC",
-        "odds": "7.66"
+        "odds": "3.99"
       }
     ]
   },
@@ -809,11 +795,11 @@
     "bets": [
       {
         "team": "Indorwa CC",
-        "odds": "6.64"
+        "odds": "3.7"
       },
       {
         "team": "Challengers CC",
-        "odds": "1.07"
+        "odds": "1.23"
       }
     ]
   },
@@ -846,6 +832,20 @@
     ]
   },
   {
+    "date": "Nov 9, 09:00 AM",
+    "title": "Titans - Lions",
+    "bets": [
+      {
+        "team": "Titans",
+        "odds": "1.94"
+      },
+      {
+        "team": "Lions",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
     "date": "Nov 9, 09:30 AM",
     "title": "Perth Scorchers - Sydney Sixers",
     "bets": [
@@ -869,7 +869,7 @@
       },
       {
         "team": "Warriors",
-        "odds": "1.93"
+        "odds": "1.94"
       }
     ]
   },
@@ -940,6 +940,20 @@
       {
         "team": "Right Guards CC",
         "odds": "1.54"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 11:30 AM",
+    "title": "Radiant Strikers - Jorhat Falcons",
+    "bets": [
+      {
+        "team": "Radiant Strikers",
+        "odds": "3.61"
+      },
+      {
+        "team": "Jorhat Falcons",
+        "odds": "1.23"
       }
     ]
   },
@@ -1061,11 +1075,11 @@
     "bets": [
       {
         "team": "Karnataka U-19 (w)",
-        "odds": "1.48"
+        "odds": "1.43"
       },
       {
         "team": "Baroda U-19 (w)",
-        "odds": "2.45"
+        "odds": "2.62"
       }
     ]
   },
@@ -1098,6 +1112,20 @@
     ]
   },
   {
+    "date": "Nov 10, 04:30 AM",
+    "title": "North East Zone - South Zone",
+    "bets": [
+      {
+        "team": "North East Zone",
+        "odds": "5.5"
+      },
+      {
+        "team": "South Zone",
+        "odds": "1.1"
+      }
+    ]
+  },
+  {
     "date": "Nov 10, 06:30 AM",
     "title": "Andhra U-19 (w) - Bengal U-19 (w)",
     "bets": [
@@ -1108,6 +1136,20 @@
       {
         "team": "Bengal U-19 (w)",
         "odds": "2.23"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 08:00 AM",
+    "title": "East Zone - West Zone",
+    "bets": [
+      {
+        "team": "East Zone",
+        "odds": "2.04"
+      },
+      {
+        "team": "West Zone",
+        "odds": "1.67"
       }
     ]
   },
