@@ -1,33 +1,5 @@
 [
   {
-    "date": "Nov 8, 02:00 PM",
-    "title": "Multan Sultans Srl - Karachi Kings Srl",
-    "bets": [
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.02"
-      },
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 02:30 PM",
-    "title": "Qatar - Afghanistan",
-    "bets": [
-      {
-        "team": "Qatar",
-        "odds": "5.7"
-      },
-      {
-        "team": "Afghanistan",
-        "odds": "1.12"
-      }
-    ]
-  },
-  {
     "date": "Nov 8, 04:00 PM",
     "title": "Kolkata Knight Riders Srl - Rajasthan Royals SRL",
     "bets": [
@@ -164,6 +136,20 @@
     ]
   },
   {
+    "date": "Nov 9, 12:00 AM",
+    "title": "Tea Tree Gully - West Torrens",
+    "bets": [
+      {
+        "team": "Tea Tree Gully",
+        "odds": "1.7"
+      },
+      {
+        "team": "West Torrens",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
     "date": "Nov 9, 12:15 AM",
     "title": "New Zealand - West Indies",
     "bets": [
@@ -178,6 +164,20 @@
     ]
   },
   {
+    "date": "Nov 9, 12:15 AM",
+    "title": "Nepal VI - United Arab Emirates VI",
+    "bets": [
+      {
+        "team": "Nepal VI",
+        "odds": "1.62"
+      },
+      {
+        "team": "United Arab Emirates VI",
+        "odds": "2.15"
+      }
+    ]
+  },
+  {
     "date": "Nov 9, 01:00 AM",
     "title": "Adelaide Strikers Srl - Brisbane Heat Srl",
     "bets": [
@@ -188,6 +188,20 @@
       {
         "team": "Brisbane Heat Srl",
         "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:10 AM",
+    "title": "Bangladesh VI - South Africa VI",
+    "bets": [
+      {
+        "team": "Bangladesh VI",
+        "odds": "1.85"
+      },
+      {
+        "team": "South Africa VI",
+        "odds": "1.85"
       }
     ]
   },
@@ -225,11 +239,11 @@
     "bets": [
       {
         "team": "Perth",
-        "odds": "1.18"
+        "odds": "1.17"
       },
       {
         "team": "Melville",
-        "odds": "4.07"
+        "odds": "4.25"
       }
     ]
   },
@@ -239,11 +253,11 @@
     "bets": [
       {
         "team": "Gosnells",
-        "odds": "1.83"
+        "odds": "1.87"
       },
       {
         "team": "Midland-Guildford",
-        "odds": "1.83"
+        "odds": "1.79"
       }
     ]
   },
@@ -253,11 +267,11 @@
     "bets": [
       {
         "team": "Willetton",
-        "odds": "2.05"
+        "odds": "2.08"
       },
       {
         "team": "University",
-        "odds": "1.65"
+        "odds": "1.63"
       }
     ]
   },
@@ -328,6 +342,20 @@
     ]
   },
   {
+    "date": "Nov 9, 02:05 AM",
+    "title": "Hong Kong VI - Afghanistan VI",
+    "bets": [
+      {
+        "team": "Hong Kong VI",
+        "odds": "2.81"
+      },
+      {
+        "team": "Afghanistan VI",
+        "odds": "1.38"
+      }
+    ]
+  },
+  {
     "date": "Nov 9, 02:30 AM",
     "title": "Lycan Warriors - Kritika Warriors",
     "bets": [
@@ -357,20 +385,6 @@
   },
   {
     "date": "Nov 9, 03:00 AM",
-    "title": "Bangladesh - Afghanistan",
-    "bets": [
-      {
-        "team": "Bangladesh",
-        "odds": "1.6"
-      },
-      {
-        "team": "Afghanistan",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 03:00 AM",
     "title": "Islamabad United Srl - Lahore Qalanders Srl",
     "bets": [
       {
@@ -389,11 +403,11 @@
     "bets": [
       {
         "team": "Arunachal Pradesh U-23",
-        "odds": "3.2"
+        "odds": "3.04"
       },
       {
         "team": "Manipur U-23",
-        "odds": "1.3"
+        "odds": "1.33"
       }
     ]
   },
@@ -403,11 +417,11 @@
     "bets": [
       {
         "team": "Andhra U-23",
-        "odds": "1.72"
+        "odds": "1.71"
       },
       {
         "team": "Assam U-23",
-        "odds": "2"
+        "odds": "2.01"
       }
     ]
   },
@@ -431,11 +445,11 @@
     "bets": [
       {
         "team": "Bihar U-23",
-        "odds": "9"
+        "odds": "6.94"
       },
       {
         "team": "Uttarakhand U-23",
-        "odds": "1.03"
+        "odds": "1.07"
       }
     ]
   },
@@ -445,11 +459,11 @@
     "bets": [
       {
         "team": "Chhattisgarh U-23",
-        "odds": "10"
+        "odds": "7.47"
       },
       {
         "team": "Punjab U-23",
-        "odds": "1.02"
+        "odds": "1.06"
       }
     ]
   },
@@ -473,11 +487,11 @@
     "bets": [
       {
         "team": "Goa U-23",
-        "odds": "2.1"
+        "odds": "2.08"
       },
       {
         "team": "Odisha U-23",
-        "odds": "1.65"
+        "odds": "1.67"
       }
     ]
   },
@@ -487,11 +501,11 @@
     "bets": [
       {
         "team": "Chandigarh U-23",
-        "odds": "1.59"
+        "odds": "1.62"
       },
       {
         "team": "Maharashtra U-23",
-        "odds": "2.21"
+        "odds": "2.16"
       }
     ]
   },
@@ -529,11 +543,11 @@
     "bets": [
       {
         "team": "Pondicherry U-23",
-        "odds": "4.5"
+        "odds": "4.07"
       },
       {
         "team": "Rajasthan U-23",
-        "odds": "1.16"
+        "odds": "1.2"
       }
     ]
   },
@@ -557,11 +571,11 @@
     "bets": [
       {
         "team": "Madhya Pradesh U-23",
-        "odds": "1.72"
+        "odds": "1.71"
       },
       {
         "team": "Railways U-23",
-        "odds": "2"
+        "odds": "2.01"
       }
     ]
   },
@@ -599,11 +613,11 @@
     "bets": [
       {
         "team": "Himachal Pradesh U-23",
-        "odds": "1.2"
+        "odds": "1.21"
       },
       {
         "team": "Tripura U-23",
-        "odds": "4"
+        "odds": "3.88"
       }
     ]
   },
@@ -613,11 +627,25 @@
     "bets": [
       {
         "team": "Gujarat U-23",
-        "odds": "1.8"
+        "odds": "1.76"
       },
       {
         "team": "Jharkhand U-23",
-        "odds": "1.9"
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "India VI - Sri Lanka VI",
+    "bets": [
+      {
+        "team": "India VI",
+        "odds": "2.04"
+      },
+      {
+        "team": "Sri Lanka VI",
+        "odds": "1.69"
       }
     ]
   },
@@ -627,10 +655,38 @@
     "bets": [
       {
         "team": "Baroda U-23",
-        "odds": "1.75"
+        "odds": "1.85"
       },
       {
         "team": "Bengal U-23",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:45 AM",
+    "title": "Adelaide - Kensington",
+    "bets": [
+      {
+        "team": "Adelaide",
+        "odds": "2.62"
+      },
+      {
+        "team": "Kensington",
+        "odds": "1.41"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:55 AM",
+    "title": "Australia VI - Pakistan VI",
+    "bets": [
+      {
+        "team": "Australia VI",
+        "odds": "1.75"
+      },
+      {
+        "team": "Pakistan VI",
         "odds": "1.96"
       }
     ]
@@ -646,6 +702,20 @@
       {
         "team": "Central Districts SRL",
         "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 04:50 AM",
+    "title": "England VI - Kuwait VI",
+    "bets": [
+      {
+        "team": "England VI",
+        "odds": "1.27"
+      },
+      {
+        "team": "Kuwait VI",
+        "odds": "3.38"
       }
     ]
   },
