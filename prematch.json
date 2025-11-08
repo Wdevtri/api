@@ -1,89 +1,5 @@
 [
   {
-    "date": "Nov 8, 07:30 AM",
-    "title": "Dolphins - North West Dragons",
-    "bets": [
-      {
-        "team": "Dolphins",
-        "odds": "1.47"
-      },
-      {
-        "team": "North West Dragons",
-        "odds": "2.44"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 07:35 AM",
-    "title": "Hong Kong VI - England VI",
-    "bets": [
-      {
-        "team": "Hong Kong VI",
-        "odds": "2.36"
-      },
-      {
-        "team": "England VI",
-        "odds": "1.52"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 07:45 AM",
-    "title": "Abhishek Sharma - Shubman Gill",
-    "bets": [
-      {
-        "team": "Abhishek Sharma",
-        "odds": "1.72"
-      },
-      {
-        "team": "Shubman Gill",
-        "odds": "2.05"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 07:45 AM",
-    "title": "Mitchell Marsh - Matthew Short",
-    "bets": [
-      {
-        "team": "Mitchell Marsh",
-        "odds": "1.66"
-      },
-      {
-        "team": "Matthew Short",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 07:45 AM",
-    "title": "Mitchell Marsh - Shubman Gill",
-    "bets": [
-      {
-        "team": "Mitchell Marsh",
-        "odds": "1.8"
-      },
-      {
-        "team": "Shubman Gill",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 07:45 AM",
-    "title": "Josh Inglis - Suryakumar Yadav",
-    "bets": [
-      {
-        "team": "Josh Inglis",
-        "odds": "1.99"
-      },
-      {
-        "team": "Suryakumar Yadav",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
     "date": "Nov 8, 08:00 AM",
     "title": "Sydney Thunder Srl - Melbourne Stars Srl",
     "bets": [
@@ -108,20 +24,6 @@
       {
         "team": "Lions",
         "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 08:15 AM",
-    "title": "Australia - India",
-    "bets": [
-      {
-        "team": "Australia",
-        "odds": "2.04"
-      },
-      {
-        "team": "India",
-        "odds": "1.78"
       }
     ]
   },
