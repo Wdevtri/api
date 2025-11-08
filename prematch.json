@@ -1,47 +1,5 @@
 [
   {
-    "date": "Nov 8, 08:00 AM",
-    "title": "Sydney Thunder Srl - Melbourne Stars Srl",
-    "bets": [
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.71"
-      },
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 08:00 AM",
-    "title": "Titans - Lions",
-    "bets": [
-      {
-        "team": "Titans",
-        "odds": "1.81"
-      },
-      {
-        "team": "Lions",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Nov 8, 09:00 AM",
-    "title": "Mi Cape Town Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.58"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
     "date": "Nov 8, 10:00 AM",
     "title": "Pakistan - South Africa",
     "bets": [
@@ -309,6 +267,20 @@
   },
   {
     "date": "Nov 9, 12:00 AM",
+    "title": "Pakistan Srl - Afghanistan Srl",
+    "bets": [
+      {
+        "team": "Pakistan Srl",
+        "odds": "1.6"
+      },
+      {
+        "team": "Afghanistan Srl",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 12:00 AM",
     "title": "Southern District - Woodville",
     "bets": [
       {
@@ -342,6 +314,20 @@
       {
         "team": "West Indies",
         "odds": "2.94"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 01:00 AM",
+    "title": "Adelaide Strikers Srl - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "1.86"
+      },
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "1.88"
       }
     ]
   },
@@ -458,6 +444,20 @@
     ]
   },
   {
+    "date": "Nov 9, 02:00 AM",
+    "title": "St Lucia Kings Srl - Trinbago Knight Riders Srl",
+    "bets": [
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "2.1"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
     "date": "Nov 9, 02:40 AM",
     "title": "Brisbane Heat - Melbourne Renegades",
     "bets": [
@@ -468,6 +468,34 @@
       {
         "team": "Melbourne Renegades",
         "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Bangladesh - Afghanistan",
+    "bets": [
+      {
+        "team": "Bangladesh",
+        "odds": "1.6"
+      },
+      {
+        "team": "Afghanistan",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 03:00 AM",
+    "title": "Islamabad United Srl - Lahore Qalanders Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.8"
       }
     ]
   },
@@ -678,6 +706,34 @@
       {
         "team": "Adelaide Strikers",
         "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 08:00 AM",
+    "title": "Lucknow Super Giants (Aidin) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.52"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "2.29"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 09:00 AM",
+    "title": "Lucknow Super Giants (Aidin) - Mumbai Indians (Etienne)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.34"
+      },
+      {
+        "team": "Mumbai Indians (Etienne)",
+        "odds": "2.89"
       }
     ]
   }
