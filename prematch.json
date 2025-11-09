@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 9, 02:00 PM",
-    "title": "Karachi Kings Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "2.08"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
     "date": "Nov 9, 02:30 PM",
     "title": "Qatar - Afghanistan A",
     "bets": [
@@ -159,11 +145,11 @@
     "bets": [
       {
         "team": "Karnataka U-19 (w)",
-        "odds": "1.43"
+        "odds": "1.32"
       },
       {
         "team": "Baroda U-19 (w)",
-        "odds": "2.62"
+        "odds": "3.07"
       }
     ]
   },
@@ -299,11 +285,11 @@
     "bets": [
       {
         "team": "Andhra U-19 (w)",
-        "odds": "1.52"
+        "odds": "1.48"
       },
       {
         "team": "Bengal U-19 (w)",
-        "odds": "2.35"
+        "odds": "2.45"
       }
     ]
   },
@@ -556,6 +542,20 @@
       {
         "team": "Antigua And Barbuda Falcons SRL",
         "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 04:10 AM",
+    "title": "Melbourne Renegades - Sydney Thunder",
+    "bets": [
+      {
+        "team": "Melbourne Renegades",
+        "odds": "2.14"
+      },
+      {
+        "team": "Sydney Thunder",
+        "odds": "1.71"
       }
     ]
   }
