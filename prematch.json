@@ -1,61 +1,5 @@
 [
   {
-    "date": "Nov 9, 06:00 AM",
-    "title": "Durban Super Giants Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 06:10 AM",
-    "title": "Sydney Thunder - Hobart Hurricanes",
-    "bets": [
-      {
-        "team": "Sydney Thunder",
-        "odds": "2.08"
-      },
-      {
-        "team": "Hobart Hurricanes",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 06:30 AM",
-    "title": "Sukapha Warriors - Kinetic Kings",
-    "bets": [
-      {
-        "team": "Sukapha Warriors",
-        "odds": "2.15"
-      },
-      {
-        "team": "Kinetic Kings",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 07:00 AM",
-    "title": "Lucknow Super Giants Srl - Punjab Kings SRL",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants Srl",
-        "odds": "2.08"
-      },
-      {
-        "team": "Punjab Kings SRL",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
     "date": "Nov 9, 07:00 AM",
     "title": "Dolphins - North West Dragons",
     "bets": [
@@ -75,11 +19,11 @@
     "bets": [
       {
         "team": "Silchar Warriors",
-        "odds": "1.67"
+        "odds": "1.68"
       },
       {
         "team": "Udharbond Transformer",
-        "odds": "2.04"
+        "odds": "2.02"
       }
     ]
   },
@@ -89,25 +33,25 @@
     "bets": [
       {
         "team": "IPRC Kigali CC",
-        "odds": "1.2"
+        "odds": "1.22"
       },
       {
         "team": "Spartans CC",
-        "odds": "3.99"
+        "odds": "3.84"
       }
     ]
   },
   {
-    "date": "Nov 9, 07:45 AM",
-    "title": "Indorwa CC - Challengers CC",
+    "date": "Nov 9, 07:35 AM",
+    "title": "Kuwait VI - Pakistan VI",
     "bets": [
       {
-        "team": "Indorwa CC",
-        "odds": "3.7"
+        "team": "Kuwait VI",
+        "odds": "2.41"
       },
       {
-        "team": "Challengers CC",
-        "odds": "1.23"
+        "team": "Pakistan VI",
+        "odds": "1.5"
       }
     ]
   },
@@ -122,6 +66,20 @@
       {
         "team": "Sydney Thunder Srl",
         "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Nov 9, 08:30 AM",
+    "title": "Satara Irrigation Super Kings - RC Sports",
+    "bets": [
+      {
+        "team": "Satara Irrigation Super Kings",
+        "odds": "7.61"
+      },
+      {
+        "team": "RC Sports",
+        "odds": "1.04"
       }
     ]
   },
