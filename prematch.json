@@ -712,5 +712,89 @@
         "odds": "1.64"
       }
     ]
+  },
+  {
+    "date": "Nov 10, 02:00 PM",
+    "title": "Quetta Gladiators Srl - Multan Sultans Srl",
+    "bets": [
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.58"
+      },
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 04:00 PM",
+    "title": "Lucknow Super Giants Srl - Chennai Super Kings SRL",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants Srl",
+        "odds": "1.83"
+      },
+      {
+        "team": "Chennai Super Kings SRL",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 06:00 PM",
+    "title": "West Indies Srl - South Africa Srl",
+    "bets": [
+      {
+        "team": "West Indies Srl",
+        "odds": "2.16"
+      },
+      {
+        "team": "South Africa Srl",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 08:00 PM",
+    "title": "Sunrisers Eastern Cape Srl - Paarl Royals Srl",
+    "bets": [
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 10:00 PM",
+    "title": "Perth Scorchers Srl - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Perth Scorchers Srl",
+        "odds": "1.63"
+      },
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 11:00 PM",
+    "title": "Trinbago Knight Riders Srl - Antigua And Barbuda Falcons SRL",
+    "bets": [
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.57"
+      },
+      {
+        "team": "Antigua And Barbuda Falcons SRL",
+        "odds": "2.3"
+      }
+    ]
   }
 ]
