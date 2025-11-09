@@ -1,33 +1,5 @@
 [
   {
-    "date": "Nov 10, 12:00 AM",
-    "title": "Sri Lanka Srl - Bangladesh Srl",
-    "bets": [
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "1.58"
-      },
-      {
-        "team": "Bangladesh Srl",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 12:15 AM",
-    "title": "New Zealand - West Indies",
-    "bets": [
-      {
-        "team": "New Zealand",
-        "odds": "1.57"
-      },
-      {
-        "team": "West Indies",
-        "odds": "2.42"
-      }
-    ]
-  },
-  {
     "date": "Nov 10, 01:00 AM",
     "title": "Hobart Hurricanes Srl - Melbourne Renegades Srl",
     "bets": [
