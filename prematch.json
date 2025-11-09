@@ -1,75 +1,5 @@
 [
   {
-    "date": "Nov 9, 11:30 AM",
-    "title": "Western Province - Titans",
-    "bets": [
-      {
-        "team": "Western Province",
-        "odds": "1.99"
-      },
-      {
-        "team": "Titans",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 11:30 AM",
-    "title": "Tamil Lions - Right Guards CC",
-    "bets": [
-      {
-        "team": "Tamil Lions",
-        "odds": "2.34"
-      },
-      {
-        "team": "Right Guards CC",
-        "odds": "1.53"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 11:30 AM",
-    "title": "Radiant Strikers - Jorhat Falcons",
-    "bets": [
-      {
-        "team": "Radiant Strikers",
-        "odds": "3.61"
-      },
-      {
-        "team": "Jorhat Falcons",
-        "odds": "1.23"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 12:00 PM",
-    "title": "Otago SRL - Northern Districts SRL",
-    "bets": [
-      {
-        "team": "Otago SRL",
-        "odds": "1.93"
-      },
-      {
-        "team": "Northern Districts SRL",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 01:00 PM",
-    "title": "Chennai Super Kings SRL - Delhi Capitals SRL",
-    "bets": [
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "1.99"
-      },
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
     "date": "Nov 9, 02:00 PM",
     "title": "Karachi Kings Srl - Quetta Gladiators Srl",
     "bets": [
@@ -85,14 +15,14 @@
   },
   {
     "date": "Nov 9, 02:30 PM",
-    "title": "Qatar - Afghanistan",
+    "title": "Qatar - Afghanistan A",
     "bets": [
       {
         "team": "Qatar",
         "odds": "6.2"
       },
       {
-        "team": "Afghanistan",
+        "team": "Afghanistan A",
         "odds": "1.1"
       }
     ]
@@ -332,6 +262,20 @@
       {
         "team": "South Zone",
         "odds": "1.1"
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 05:30 AM",
+    "title": "Royal Rhinos - Silchar Warriors",
+    "bets": [
+      {
+        "team": "Royal Rhinos",
+        "odds": "1.89"
+      },
+      {
+        "team": "Silchar Warriors",
+        "odds": "1.78"
       }
     ]
   },
