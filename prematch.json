@@ -14,20 +14,6 @@
     ]
   },
   {
-    "date": "Nov 9, 04:00 PM",
-    "title": "Gujarat Titans Srl - Kolkata Knight Riders Srl",
-    "bets": [
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.77"
-      },
-      {
-        "team": "Kolkata Knight Riders Srl",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
     "date": "Nov 9, 06:00 PM",
     "title": "West Indies Srl - England Srl",
     "bets": [
@@ -546,6 +532,34 @@
     ]
   },
   {
+    "date": "Nov 11, 01:30 AM",
+    "title": "Indonesia - Myanmar",
+    "bets": [
+      {
+        "team": "Indonesia",
+        "odds": "1.07"
+      },
+      {
+        "team": "Myanmar",
+        "odds": "7"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 04:00 AM",
+    "title": "Bangladesh - Ireland",
+    "bets": [
+      {
+        "team": "Bangladesh",
+        "odds": "1.24"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
     "date": "Nov 11, 04:10 AM",
     "title": "Melbourne Renegades - Sydney Thunder",
     "bets": [
@@ -556,6 +570,20 @@
       {
         "team": "Sydney Thunder",
         "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 09:00 AM",
+    "title": "Pakistan - Sri Lanka",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.66"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "2.24"
       }
     ]
   }
