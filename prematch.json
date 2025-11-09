@@ -1,47 +1,5 @@
 [
   {
-    "date": "Nov 9, 09:00 AM",
-    "title": "Pretoria Capitals Srl - Paarl Royals Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "2.06"
-      },
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "1.71"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 09:00 AM",
-    "title": "Titans - Lions",
-    "bets": [
-      {
-        "team": "Titans",
-        "odds": "1.94"
-      },
-      {
-        "team": "Lions",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Nov 9, 09:30 AM",
-    "title": "Perth Scorchers - Sydney Sixers",
-    "bets": [
-      {
-        "team": "Perth Scorchers",
-        "odds": "1.99"
-      },
-      {
-        "team": "Sydney Sixers",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
     "date": "Nov 9, 10:00 AM",
     "title": "Dolphins - Warriors",
     "bets": [
