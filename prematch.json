@@ -1,159 +1,5 @@
 [
   {
-    "date": "Nov 10, 03:00 AM",
-    "title": "Peshawar Zalmi Srl - Islamabad United Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.02"
-      },
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 04:00 AM",
-    "title": "Otago SRL - Auckland SRL",
-    "bets": [
-      {
-        "team": "Otago SRL",
-        "odds": "2.1"
-      },
-      {
-        "team": "Auckland SRL",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 04:10 AM",
-    "title": "Melbourne Stars - Adelaide Strikers",
-    "bets": [
-      {
-        "team": "Melbourne Stars",
-        "odds": "2.2"
-      },
-      {
-        "team": "Adelaide Strikers",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 05:00 AM",
-    "title": "New Zealand Srl - Pakistan Srl",
-    "bets": [
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.93"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 05:30 AM",
-    "title": "Central Zone - North Zone",
-    "bets": [
-      {
-        "team": "Central Zone",
-        "odds": "1.8"
-      },
-      {
-        "team": "North Zone",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 05:30 AM",
-    "title": "North East Zone - South Zone",
-    "bets": [
-      {
-        "team": "North East Zone",
-        "odds": "5.5"
-      },
-      {
-        "team": "South Zone",
-        "odds": "1.1"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 05:30 AM",
-    "title": "Royal Rhinos - Silchar Warriors",
-    "bets": [
-      {
-        "team": "Royal Rhinos",
-        "odds": "1.89"
-      },
-      {
-        "team": "Silchar Warriors",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 06:00 AM",
-    "title": "Pretoria Capitals Srl - Durban Super Giants Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.92"
-      },
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 06:30 AM",
-    "title": "Andhra U-19 (w) - Bengal U-19 (w)",
-    "bets": [
-      {
-        "team": "Andhra U-19 (w)",
-        "odds": "1.48"
-      },
-      {
-        "team": "Bengal U-19 (w)",
-        "odds": "2.45"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 06:30 AM",
-    "title": "Jorhat City Boys - Elite Eagles",
-    "bets": [
-      {
-        "team": "Jorhat City Boys",
-        "odds": "1.88"
-      },
-      {
-        "team": "Elite Eagles",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 07:00 AM",
-    "title": "Mumbai Indians SRL - Punjab Kings SRL",
-    "bets": [
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.75"
-      },
-      {
-        "team": "Punjab Kings SRL",
-        "odds": "2"
-      }
-    ]
-  },
-  {
     "date": "Nov 10, 08:00 AM",
     "title": "Melbourne Stars Srl - Adelaide Strikers Srl",
     "bets": [
@@ -406,6 +252,34 @@
     ]
   },
   {
+    "date": "Nov 11, 12:00 AM",
+    "title": "England Srl - Australia Srl",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "1.93"
+      },
+      {
+        "team": "Australia Srl",
+        "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 01:00 AM",
+    "title": "Sydney Sixers Srl - Hobart Hurricanes Srl",
+    "bets": [
+      {
+        "team": "Sydney Sixers Srl",
+        "odds": "1.81"
+      },
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
     "date": "Nov 11, 01:30 AM",
     "title": "Indonesia - Myanmar",
     "bets": [
@@ -416,6 +290,34 @@
       {
         "team": "Myanmar",
         "odds": "7"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 02:00 AM",
+    "title": "Guyana Amazon Warriors Srl - St Kitts And Nevis Patriots Srl",
+    "bets": [
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.69"
+      },
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 03:00 AM",
+    "title": "Islamabad United Srl - Karachi Kings Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.79"
+      },
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "1.96"
       }
     ]
   },
@@ -677,7 +579,21 @@
       },
       {
         "team": "Draw",
-        "odds": "15"
+        "odds": "21"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 04:00 AM",
+    "title": "Auckland SRL - Canterbury SRL",
+    "bets": [
+      {
+        "team": "Auckland SRL",
+        "odds": "2.06"
+      },
+      {
+        "team": "Canterbury SRL",
+        "odds": "1.71"
       }
     ]
   },
@@ -696,16 +612,156 @@
     ]
   },
   {
+    "date": "Nov 11, 05:00 AM",
+    "title": "New Zealand Srl - Afghanistan Srl",
+    "bets": [
+      {
+        "team": "New Zealand Srl",
+        "odds": "1.63"
+      },
+      {
+        "team": "Afghanistan Srl",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 06:00 AM",
+    "title": "Durban Super Giants Srl - Joburg Super Kings Srl",
+    "bets": [
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "1.86"
+      },
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 07:00 AM",
+    "title": "Sunrisers Hyderabad SRL - Mumbai Indians SRL",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad SRL",
+        "odds": "2.14"
+      },
+      {
+        "team": "Mumbai Indians SRL",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 08:00 AM",
+    "title": "Sydney Thunder Srl - Melbourne Renegades Srl",
+    "bets": [
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.66"
+      },
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
     "date": "Nov 11, 09:00 AM",
     "title": "Pakistan - Sri Lanka",
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.66"
+        "odds": "1.63"
       },
       {
         "team": "Sri Lanka",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 09:00 AM",
+    "title": "Mi Cape Town Srl - Paarl Royals Srl",
+    "bets": [
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.72"
+      },
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 10:00 AM",
+    "title": "Lahore Qalanders Srl - Multan Sultans Srl",
+    "bets": [
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.6"
+      },
+      {
+        "team": "Multan Sultans Srl",
         "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 11:00 AM",
+    "title": "Antigua And Barbuda Falcons SRL - Barbados Royals Srl",
+    "bets": [
+      {
+        "team": "Antigua And Barbuda Falcons SRL",
+        "odds": "1.94"
+      },
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 12:00 PM",
+    "title": "Central Districts SRL - Northern Districts SRL",
+    "bets": [
+      {
+        "team": "Central Districts SRL",
+        "odds": "2.04"
+      },
+      {
+        "team": "Northern Districts SRL",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 01:00 PM",
+    "title": "Kolkata Knight Riders Srl - Delhi Capitals SRL",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders Srl",
+        "odds": "1.89"
+      },
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 02:00 PM",
+    "title": "Peshawar Zalmi Srl - Quetta Gladiators Srl",
+    "bets": [
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "2.18"
+      },
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.64"
       }
     ]
   },
@@ -720,6 +776,48 @@
       {
         "team": "Lions",
         "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 04:00 PM",
+    "title": "Royal Challengers Bangalore SRL - Punjab Kings SRL",
+    "bets": [
+      {
+        "team": "Royal Challengers Bangalore SRL",
+        "odds": "1.85"
+      },
+      {
+        "team": "Punjab Kings SRL",
+        "odds": "1.89"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 06:00 PM",
+    "title": "South Africa Srl - Pakistan Srl",
+    "bets": [
+      {
+        "team": "South Africa Srl",
+        "odds": "1.7"
+      },
+      {
+        "team": "Pakistan Srl",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 08:00 PM",
+    "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
+    "bets": [
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "1.96"
+      },
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.78"
       }
     ]
   },
@@ -762,6 +860,34 @@
       {
         "team": "Central Stags",
         "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 10:00 PM",
+    "title": "Adelaide Strikers Srl - Perth Scorchers Srl",
+    "bets": [
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "2.2"
+      },
+      {
+        "team": "Perth Scorchers Srl",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 11:00 PM",
+    "title": "St Lucia Kings Srl - Antigua And Barbuda Falcons SRL",
+    "bets": [
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.72"
+      },
+      {
+        "team": "Antigua And Barbuda Falcons SRL",
+        "odds": "2.04"
       }
     ]
   }
