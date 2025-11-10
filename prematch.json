@@ -374,6 +374,20 @@
     ]
   },
   {
+    "date": "Nov 11, 03:00 AM",
+    "title": "North Eastern Railway Headquarters - GCRG",
+    "bets": [
+      {
+        "team": "North Eastern Railway Headquarters",
+        "odds": "1.89"
+      },
+      {
+        "team": "GCRG",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
     "date": "Nov 11, 03:30 AM",
     "title": "Bangladesh - Ireland",
     "bets": [
@@ -464,6 +478,20 @@
       {
         "team": "Mumbai Indians SRL",
         "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 07:00 AM",
+    "title": "Barabanki District CA - Kooh Sports CC",
+    "bets": [
+      {
+        "team": "Barabanki District CA",
+        "odds": "1.89"
+      },
+      {
+        "team": "Kooh Sports CC",
+        "odds": "1.79"
       }
     ]
   },
@@ -776,16 +804,16 @@
     ]
   },
   {
-    "date": "Nov 12, 04:30 AM",
-    "title": "Central Zone - West Zone",
+    "date": "Nov 12, 05:30 AM",
+    "title": "East Zone - South Zone",
     "bets": [
       {
-        "team": "Central Zone",
-        "odds": "2.2"
+        "team": "East Zone",
+        "odds": "1.99"
       },
       {
-        "team": "West Zone",
-        "odds": "1.58"
+        "team": "South Zone",
+        "odds": "1.7"
       }
     ]
   },
