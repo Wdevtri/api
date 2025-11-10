@@ -1,34 +1,6 @@
 [
   {
     "date": "Nov 10, 11:00 AM",
-    "title": "East Zone - West Zone",
-    "bets": [
-      {
-        "team": "East Zone",
-        "odds": "2.22"
-      },
-      {
-        "team": "West Zone",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 11:00 AM",
-    "title": "Barbados Royals Srl - Trinbago Knight Riders Srl",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Nov 10, 11:00 AM",
     "title": "Sunrisers Hyderabad (Sibs) - Lucknow Super Giants (Aidin)",
     "bets": [
       {
