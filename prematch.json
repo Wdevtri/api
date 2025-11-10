@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 10, 06:00 PM",
-    "title": "West Indies Srl - South Africa Srl",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "2.16"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
     "date": "Nov 10, 08:00 PM",
     "title": "Sunrisers Eastern Cape Srl - Paarl Royals Srl",
     "bets": [
@@ -557,11 +543,11 @@
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.59"
+        "odds": "1.55"
       },
       {
         "team": "Sri Lanka",
-        "odds": "2.38"
+        "odds": "2.46"
       }
     ]
   },
@@ -674,6 +660,34 @@
       {
         "team": "Quetta Gladiators Srl",
         "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 02:30 PM",
+    "title": "Qatar - Afghanistan",
+    "bets": [
+      {
+        "team": "Qatar",
+        "odds": "6"
+      },
+      {
+        "team": "Afghanistan",
+        "odds": "1.11"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 03:00 PM",
+    "title": "North West Dragons - Kwazulu Natal Inland",
+    "bets": [
+      {
+        "team": "North West Dragons",
+        "odds": "1.89"
+      },
+      {
+        "team": "Kwazulu Natal Inland",
+        "odds": "1.85"
       }
     ]
   },
@@ -884,6 +898,20 @@
       {
         "team": "Northern Cape",
         "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Nov 12, 11:00 AM",
+    "title": "North East Zone - North Zone",
+    "bets": [
+      {
+        "team": "North East Zone",
+        "odds": "6.6"
+      },
+      {
+        "team": "North Zone",
+        "odds": "1.07"
       }
     ]
   }
