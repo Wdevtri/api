@@ -1,103 +1,5 @@
 [
   {
-    "date": "Nov 11, 12:00 PM",
-    "title": "Central Districts SRL - Northern Districts SRL",
-    "bets": [
-      {
-        "team": "Central Districts SRL",
-        "odds": "2.04"
-      },
-      {
-        "team": "Northern Districts SRL",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 12:00 PM",
-    "title": "Kolkata Knight Riders (Deolin) - Delhi Capitals (Jordan)",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders (Deolin)",
-        "odds": "1.27"
-      },
-      {
-        "team": "Delhi Capitals (Jordan)",
-        "odds": "3.5"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 01:00 PM",
-    "title": "Kolkata Knight Riders Srl - Delhi Capitals SRL",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders Srl",
-        "odds": "1.89"
-      },
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 01:00 PM",
-    "title": "Kolkata Knight Riders (Deolin) - Chennai Super Kings (Caleb)",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders (Deolin)",
-        "odds": "5.1"
-      },
-      {
-        "team": "Chennai Super Kings (Caleb)",
-        "odds": "1.14"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 02:00 PM",
-    "title": "Peshawar Zalmi Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.18"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 02:30 PM",
-    "title": "Qatar - Afghanistan",
-    "bets": [
-      {
-        "team": "Qatar",
-        "odds": "6.4"
-      },
-      {
-        "team": "Afghanistan",
-        "odds": "1.1"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 03:00 PM",
-    "title": "North West Dragons - Kwazulu Natal Inland",
-    "bets": [
-      {
-        "team": "North West Dragons",
-        "odds": "1.89"
-      },
-      {
-        "team": "Kwazulu Natal Inland",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
     "date": "Nov 11, 04:00 PM",
     "title": "Warriors - Lions",
     "bets": [
@@ -126,6 +28,20 @@
     ]
   },
   {
+    "date": "Nov 11, 04:15 PM",
+    "title": "Z Sports Cc Academy - Avengers Academy",
+    "bets": [
+      {
+        "team": "Z Sports Cc Academy",
+        "odds": "1.25"
+      },
+      {
+        "team": "Avengers Academy",
+        "odds": "3.45"
+      }
+    ]
+  },
+  {
     "date": "Nov 11, 06:00 PM",
     "title": "South Africa Srl - Pakistan Srl",
     "bets": [
@@ -136,6 +52,20 @@
       {
         "team": "Pakistan Srl",
         "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Nov 11, 06:00 PM",
+    "title": "Karwan Cc Academy - Ghk Properties Academy",
+    "bets": [
+      {
+        "team": "Karwan Cc Academy",
+        "odds": "1.84"
+      },
+      {
+        "team": "Ghk Properties Academy",
+        "odds": "1.83"
       }
     ]
   },
@@ -159,11 +89,11 @@
     "bets": [
       {
         "team": "Northern Brave",
-        "odds": "1.66"
+        "odds": "1.72"
       },
       {
         "team": "Otago Volts",
-        "odds": "2.14"
+        "odds": "2.06"
       }
     ]
   },
@@ -173,11 +103,11 @@
     "bets": [
       {
         "team": "Wellington Firebirds",
-        "odds": "1.7"
+        "odds": "1.73"
       },
       {
         "team": "Auckland Aces",
-        "odds": "2.08"
+        "odds": "2.04"
       }
     ]
   },
@@ -388,6 +318,34 @@
     ]
   },
   {
+    "date": "Nov 12, 08:00 AM",
+    "title": "Hobart Hurricanes Srl - Sydney Thunder Srl",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.99"
+      },
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Nov 12, 08:00 AM",
+    "title": "Delhi Capitals (Jordan) - Gujarat Titans (Gerrard)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "1.8"
+      },
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "2"
+      }
+    ]
+  },
+  {
     "date": "Nov 12, 08:10 AM",
     "title": "Brisbane Heat - Perth Scorchers",
     "bets": [
@@ -416,6 +374,20 @@
     ]
   },
   {
+    "date": "Nov 12, 09:00 AM",
+    "title": "Delhi Capitals (Jordan) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "2"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
     "date": "Nov 12, 10:00 AM",
     "title": "Quetta Gladiators Srl - Lahore Qalanders Srl",
     "bets": [
@@ -425,6 +397,20 @@
       },
       {
         "team": "Lahore Qalanders Srl",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Nov 12, 10:00 AM",
+    "title": "Gujarat Titans (Gerrard) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
         "odds": "1.9"
       }
     ]
@@ -580,6 +566,20 @@
       {
         "team": "Pretoria Capitals Srl",
         "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Nov 12, 10:00 PM",
+    "title": "Melbourne Renegades Srl - Melbourne Stars Srl",
+    "bets": [
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "1.94"
+      },
+      {
+        "team": "Melbourne Stars Srl",
+        "odds": "1.8"
       }
     ]
   },
