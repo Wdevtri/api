@@ -1,43 +1,5 @@
 [
   {
-    "date": "Nov 11, 05:00 AM",
-    "title": "New Zealand Srl - Afghanistan Srl",
-    "bets": [
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "Afghanistan Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 06:00 AM",
-    "title": "Durban Super Giants Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.86"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 06:00 AM",
-    "title": "Indonesia - East Timor",
-    "bets": [
-      {
-        "team": "East Timor",
-        "odds": "15"
-      }
-    ]
-  },
-  {
     "date": "Nov 11, 07:00 AM",
     "title": "Sunrisers Hyderabad SRL - Mumbai Indians SRL",
     "bets": [
