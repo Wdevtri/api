@@ -1,33 +1,5 @@
 [
   {
-    "date": "Nov 11, 10:00 PM",
-    "title": "Adelaide Strikers Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 11:00 PM",
-    "title": "St Lucia Kings Srl - Antigua And Barbuda Falcons SRL",
-    "bets": [
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.72"
-      },
-      {
-        "team": "Antigua And Barbuda Falcons SRL",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
     "date": "Nov 12, 12:00 AM",
     "title": "India Srl - England Srl",
     "bets": [
@@ -650,6 +622,20 @@
       {
         "team": "Sri Lanka",
         "odds": "2.48"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 11:00 AM",
+    "title": "Kwazulu Natal Inland - Western Province",
+    "bets": [
+      {
+        "team": "Kwazulu Natal Inland",
+        "odds": "2.12"
+      },
+      {
+        "team": "Western Province",
+        "odds": "1.67"
       }
     ]
   }
