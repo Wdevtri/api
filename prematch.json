@@ -1,47 +1,5 @@
 [
   {
-    "date": "Nov 11, 04:00 PM",
-    "title": "Warriors - Lions",
-    "bets": [
-      {
-        "team": "Warriors",
-        "odds": "2"
-      },
-      {
-        "team": "Lions",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 04:00 PM",
-    "title": "Royal Challengers Bangalore SRL - Punjab Kings SRL",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.85"
-      },
-      {
-        "team": "Punjab Kings SRL",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 04:15 PM",
-    "title": "Z Sports Cc Academy - Avengers Academy",
-    "bets": [
-      {
-        "team": "Z Sports Cc Academy",
-        "odds": "1.25"
-      },
-      {
-        "team": "Avengers Academy",
-        "odds": "3.45"
-      }
-    ]
-  },
-  {
     "date": "Nov 11, 06:00 PM",
     "title": "South Africa Srl - Pakistan Srl",
     "bets": [
@@ -230,6 +188,20 @@
       {
         "team": "Auckland SRL",
         "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Nov 12, 04:00 AM",
+    "title": "George Steuart - Abans Group",
+    "bets": [
+      {
+        "team": "George Steuart",
+        "odds": "3.15"
+      },
+      {
+        "team": "Abans Group",
+        "odds": "1.3"
       }
     ]
   },
