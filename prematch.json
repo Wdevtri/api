@@ -1,33 +1,5 @@
 [
   {
-    "date": "Nov 11, 06:00 PM",
-    "title": "South Africa Srl - Pakistan Srl",
-    "bets": [
-      {
-        "team": "South Africa Srl",
-        "odds": "1.7"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Nov 11, 06:00 PM",
-    "title": "Karwan Cc Academy - Ghk Properties Academy",
-    "bets": [
-      {
-        "team": "Karwan Cc Academy",
-        "odds": "1.84"
-      },
-      {
-        "team": "Ghk Properties Academy",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
     "date": "Nov 11, 08:00 PM",
     "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
     "bets": [
@@ -500,6 +472,20 @@
     ]
   },
   {
+    "date": "Nov 12, 02:00 PM",
+    "title": "Z Sports Cc Academy - Seven Districts Academy",
+    "bets": [
+      {
+        "team": "Z Sports Cc Academy",
+        "odds": "1.98"
+      },
+      {
+        "team": "Seven Districts Academy",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
     "date": "Nov 12, 04:00 PM",
     "title": "Kolkata Knight Riders Srl - Chennai Super Kings SRL",
     "bets": [
@@ -608,6 +594,20 @@
       {
         "team": "Hobart Hurricanes",
         "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 09:30 AM",
+    "title": "Pakistan - Sri Lanka",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.54"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "2.48"
       }
     ]
   }
