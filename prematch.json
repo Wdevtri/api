@@ -1,33 +1,5 @@
 [
   {
-    "date": "Nov 12, 05:30 AM",
-    "title": "Central Zone - West Zone",
-    "bets": [
-      {
-        "team": "Central Zone",
-        "odds": "2.3"
-      },
-      {
-        "team": "West Zone",
-        "odds": "1.53"
-      }
-    ]
-  },
-  {
-    "date": "Nov 12, 05:30 AM",
-    "title": "East Zone - South Zone",
-    "bets": [
-      {
-        "team": "East Zone",
-        "odds": "2.16"
-      },
-      {
-        "team": "South Zone",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
     "date": "Nov 12, 06:00 AM",
     "title": "Paarl Royals Srl - Durban Super Giants Srl",
     "bets": [
@@ -658,6 +630,20 @@
     ]
   },
   {
+    "date": "Nov 13, 12:00 PM",
+    "title": "Otago SRL - Central Districts SRL",
+    "bets": [
+      {
+        "team": "Otago SRL",
+        "odds": "1.78"
+      },
+      {
+        "team": "Central Districts SRL",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
     "date": "Nov 13, 01:00 PM",
     "title": "Delhi Capitals SRL - Gujarat Titans Srl",
     "bets": [
@@ -724,6 +710,34 @@
       {
         "team": "Sunrisers Eastern Cape Srl",
         "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 10:00 PM",
+    "title": "Melbourne Stars Srl - Hobart Hurricanes Srl",
+    "bets": [
+      {
+        "team": "Melbourne Stars Srl",
+        "odds": "1.95"
+      },
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 11:00 PM",
+    "title": "Guyana Amazon Warriors Srl - Antigua And Barbuda Falcons SRL",
+    "bets": [
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.64"
+      },
+      {
+        "team": "Antigua And Barbuda Falcons SRL",
+        "odds": "2.18"
       }
     ]
   },
