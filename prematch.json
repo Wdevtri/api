@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 12, 05:00 AM",
-    "title": "West Indies Srl - New Zealand Srl",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "1.86"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
     "date": "Nov 12, 05:30 AM",
     "title": "Central Zone - West Zone",
     "bets": [
@@ -257,11 +243,11 @@
     "bets": [
       {
         "team": "North East Zone",
-        "odds": "7"
+        "odds": "8"
       },
       {
         "team": "North Zone",
-        "odds": "1.05"
+        "odds": "1.04"
       }
     ]
   },
@@ -668,6 +654,76 @@
       {
         "team": "Barbados Royals Srl",
         "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 01:00 PM",
+    "title": "Delhi Capitals SRL - Gujarat Titans Srl",
+    "bets": [
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "1.99"
+      },
+      {
+        "team": "Gujarat Titans Srl",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 02:00 PM",
+    "title": "Karachi Kings Srl - Multan Sultans Srl",
+    "bets": [
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "1.72"
+      },
+      {
+        "team": "Multan Sultans Srl",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 04:00 PM",
+    "title": "Punjab Kings SRL - Rajasthan Royals SRL",
+    "bets": [
+      {
+        "team": "Punjab Kings SRL",
+        "odds": "1.67"
+      },
+      {
+        "team": "Rajasthan Royals SRL",
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 06:00 PM",
+    "title": "New Zealand Srl - Sri Lanka Srl",
+    "bets": [
+      {
+        "team": "New Zealand Srl",
+        "odds": "1.69"
+      },
+      {
+        "team": "Sri Lanka Srl",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 08:00 PM",
+    "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
+    "bets": [
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "1.96"
+      },
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.78"
       }
     ]
   },
