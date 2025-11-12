@@ -15,29 +15,15 @@
   },
   {
     "date": "Nov 12, 02:00 PM",
-    "title": "Z Sports Cc Academy - Seven Districts Academy",
-    "bets": [
-      {
-        "team": "Z Sports Cc Academy",
-        "odds": "2.16"
-      },
-      {
-        "team": "Seven Districts Academy",
-        "odds": "1.6"
-      }
-    ]
-  },
-  {
-    "date": "Nov 12, 02:00 PM",
     "title": "Delhi Capitals (Jordan) - Gujarat Titans (Gerrard)",
     "bets": [
       {
         "team": "Delhi Capitals (Jordan)",
-        "odds": "1.59"
+        "odds": "1.57"
       },
       {
         "team": "Gujarat Titans (Gerrard)",
-        "odds": "2.24"
+        "odds": "2.28"
       }
     ]
   },
@@ -47,11 +33,11 @@
     "bets": [
       {
         "team": "Qatar",
-        "odds": "2.06"
+        "odds": "2.1"
       },
       {
         "team": "Hong Kong, China",
-        "odds": "1.65"
+        "odds": "1.62"
       }
     ]
   },
@@ -552,6 +538,20 @@
     ]
   },
   {
+    "date": "Nov 13, 08:00 AM",
+    "title": "Mumbai Indians (Etienne) - Lucknow Super Giants (Aidin)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (Etienne)",
+        "odds": "3.1"
+      },
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.36"
+      }
+    ]
+  },
+  {
     "date": "Nov 13, 08:10 AM",
     "title": "Sydney Sixers (w) - Hobart Hurricanes (w)",
     "bets": [
@@ -580,6 +580,20 @@
     ]
   },
   {
+    "date": "Nov 13, 09:00 AM",
+    "title": "Mumbai Indians (Etienne) - Gujarat Titans (Gerrard)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (Etienne)",
+        "odds": "1.86"
+      },
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
     "date": "Nov 13, 09:30 AM",
     "title": "Pakistan - Sri Lanka",
     "bets": [
@@ -604,6 +618,20 @@
       {
         "team": "Lahore Qalanders Srl",
         "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 10:00 AM",
+    "title": "Lucknow Super Giants (Aidin) - Gujarat Titans (Gerrard)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.33"
+      },
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "3.3"
       }
     ]
   },
