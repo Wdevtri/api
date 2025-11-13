@@ -1,20 +1,6 @@
 [
   {
     "date": "Nov 13, 05:00 AM",
-    "title": "Afghanistan Srl - Bangladesh Srl",
-    "bets": [
-      {
-        "team": "Afghanistan Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Bangladesh Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Nov 13, 05:00 AM",
     "title": "Dream Warriors - Yenkapally Dark Spirits",
     "bets": [
       {
@@ -38,6 +24,20 @@
       {
         "team": "Joburg Super Kings Srl",
         "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Nov 13, 06:00 AM",
+    "title": "Myanmar - Indonesia",
+    "bets": [
+      {
+        "team": "Myanmar",
+        "odds": "7.4"
+      },
+      {
+        "team": "Indonesia",
+        "odds": "1.06"
       }
     ]
   },
