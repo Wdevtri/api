@@ -1,33 +1,5 @@
 [
   {
-    "date": "Nov 13, 06:00 PM",
-    "title": "New Zealand Srl - Sri Lanka Srl",
-    "bets": [
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Nov 13, 06:30 PM",
-    "title": "Alif Pharma Academy - Avengers Academy",
-    "bets": [
-      {
-        "team": "Alif Pharma Academy",
-        "odds": "1.53"
-      },
-      {
-        "team": "Avengers Academy",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
     "date": "Nov 13, 08:00 PM",
     "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
     "bets": [
@@ -103,7 +75,7 @@
     "bets": [
       {
         "team": "East Timor",
-        "odds": "14.28"
+        "odds": "16.21"
       }
     ]
   },
@@ -239,11 +211,11 @@
     "bets": [
       {
         "team": "Thailand (w)",
-        "odds": "1.23"
+        "odds": "1.13"
       },
       {
         "team": "Namibia (w)",
-        "odds": "3.75"
+        "odds": "5"
       }
     ]
   },
@@ -729,11 +701,11 @@
     "bets": [
       {
         "team": "Bangladesh A",
-        "odds": "1.17"
+        "odds": "1.21"
       },
       {
         "team": "Hong Kong",
-        "odds": "4.95"
+        "odds": "4.44"
       }
     ]
   },
