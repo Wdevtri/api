@@ -28,34 +28,6 @@
     ]
   },
   {
-    "date": "Nov 16, 06:00 PM",
-    "title": "Australia Srl - Pakistan Srl",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Nov 16, 08:00 PM",
-    "title": "Sunrisers Eastern Cape Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
     "date": "Nov 16, 10:00 PM",
     "title": "Brisbane Heat Srl - Perth Scorchers Srl",
     "bets": [
@@ -201,11 +173,11 @@
     "bets": [
       {
         "team": "Andhra U-23",
-        "odds": "1.35"
+        "odds": "1.29"
       },
       {
         "team": "Goa U-23",
-        "odds": "2.87"
+        "odds": "3.18"
       }
     ]
   },
@@ -477,11 +449,11 @@
     "bets": [
       {
         "team": "Thailand (w)",
-        "odds": "1.16"
+        "odds": "1.14"
       },
       {
         "team": "Papua New Guinea (w)",
-        "odds": "4.65"
+        "odds": "5.1"
       }
     ]
   },
@@ -668,6 +640,20 @@
     ]
   },
   {
+    "date": "Nov 17, 01:00 PM",
+    "title": "CSS Group - Z Sports",
+    "bets": [
+      {
+        "team": "CSS Group",
+        "odds": "2.34"
+      },
+      {
+        "team": "Z Sports",
+        "odds": "1.55"
+      }
+    ]
+  },
+  {
     "date": "Nov 17, 02:00 PM",
     "title": "Quetta Gladiators Srl - Lahore Qalanders Srl",
     "bets": [
@@ -687,11 +673,11 @@
     "bets": [
       {
         "team": "Bangladesh A",
-        "odds": "2.34"
+        "odds": "2.18"
       },
       {
         "team": "Afghanistan A",
-        "odds": "1.6"
+        "odds": "1.68"
       }
     ]
   },
@@ -818,6 +804,20 @@
       {
         "team": "Pokhara Avengers",
         "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 11:00 AM",
+    "title": "Knights - Eastern Cape Linyathi",
+    "bets": [
+      {
+        "team": "Knights",
+        "odds": "1.62"
+      },
+      {
+        "team": "Eastern Cape Linyathi",
+        "odds": "2.12"
       }
     ]
   },
