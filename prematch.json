@@ -1,47 +1,5 @@
 [
   {
-    "date": "Nov 17, 04:00 PM",
-    "title": "Lucknow Super Giants Srl - Mumbai Indians SRL",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants Srl",
-        "odds": "2.24"
-      },
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 04:30 PM",
-    "title": "Lexington Shotguns - Gems Education CC",
-    "bets": [
-      {
-        "team": "Lexington Shotguns",
-        "odds": "2.04"
-      },
-      {
-        "team": "Gems Education CC",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 06:00 PM",
-    "title": "Pakistan Srl - England Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "England Srl",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
     "date": "Nov 17, 08:00 PM",
     "title": "Sunrisers Eastern Cape Srl - Mi Cape Town Srl",
     "bets": [
@@ -117,11 +75,11 @@
     "bets": [
       {
         "team": "Indonesia",
-        "odds": "4.5"
+        "odds": "4.3"
       },
       {
         "team": "Bahrain",
-        "odds": "1.18"
+        "odds": "1.17"
       }
     ]
   },
@@ -155,14 +113,14 @@
   },
   {
     "date": "Nov 18, 03:30 AM",
-    "title": "Omr Checker - Pachange",
+    "title": "OMR Checker - Pachange CC",
     "bets": [
       {
-        "team": "Omr Checker",
+        "team": "OMR Checker",
         "odds": "1.83"
       },
       {
-        "team": "Pachange",
+        "team": "Pachange CC",
         "odds": "1.83"
       }
     ]
@@ -215,11 +173,11 @@
     "bets": [
       {
         "team": "Chitwan Rhinos",
-        "odds": "1.75"
+        "odds": "1.9"
       },
       {
         "team": "Karnali Yaks",
-        "odds": "2.04"
+        "odds": "1.9"
       }
     ]
   },
@@ -537,11 +495,11 @@
     "bets": [
       {
         "team": "Deccan Gladiators",
-        "odds": "1.8"
+        "odds": "1.72"
       },
       {
         "team": "Delhi Bulls",
-        "odds": "2"
+        "odds": "2.1"
       }
     ]
   },
@@ -616,7 +574,7 @@
     ]
   },
   {
-    "date": "Nov 19, 03:00 AM",
+    "date": "Nov 19, 03:15 AM",
     "title": "Punjab U-23 - Uttarakhand U-23",
     "bets": [
       {
