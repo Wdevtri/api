@@ -28,492 +28,6 @@
     ]
   },
   {
-    "date": "Nov 16, 10:00 PM",
-    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Nov 16, 11:00 PM",
-    "title": "Antigua And Barbuda Falcons SRL - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Antigua And Barbuda Falcons SRL",
-        "odds": "2.04"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 12:00 AM",
-    "title": "West Indies Srl - Sri Lanka Srl",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "1.68"
-      },
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 01:00 AM",
-    "title": "Melbourne Stars Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 02:00 AM",
-    "title": "St Kitts And Nevis Patriots Srl - Barbados Royals Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "1.87"
-      },
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 02:30 AM",
-    "title": "Scotland (w) - Namibia (w)",
-    "bets": [
-      {
-        "team": "Scotland (w)",
-        "odds": "1.06"
-      },
-      {
-        "team": "Namibia (w)",
-        "odds": "7.4"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Peshawar Zalmi Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.18"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Maharashtra U-23 - Punjab U-23",
-    "bets": [
-      {
-        "team": "Maharashtra U-23",
-        "odds": "1.94"
-      },
-      {
-        "team": "Punjab U-23",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Baroda U-23 - Bihar U-23",
-    "bets": [
-      {
-        "team": "Baroda U-23",
-        "odds": "1.43"
-      },
-      {
-        "team": "Bihar U-23",
-        "odds": "2.57"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Assam U-23 - Odisha U-23",
-    "bets": [
-      {
-        "team": "Assam U-23",
-        "odds": "2.39"
-      },
-      {
-        "team": "Odisha U-23",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Andhra U-23 - Goa U-23",
-    "bets": [
-      {
-        "team": "Andhra U-23",
-        "odds": "1.29"
-      },
-      {
-        "team": "Goa U-23",
-        "odds": "3.18"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Arunachal Pradesh U-23 - Sikkim U-23",
-    "bets": [
-      {
-        "team": "Arunachal Pradesh U-23",
-        "odds": "2.53"
-      },
-      {
-        "team": "Sikkim U-23",
-        "odds": "1.44"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Delhi U-23 - Kerala U-23",
-    "bets": [
-      {
-        "team": "Delhi U-23",
-        "odds": "1.79"
-      },
-      {
-        "team": "Kerala U-23",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Gujarat U-23 - Jammu and Kashmir U-23",
-    "bets": [
-      {
-        "team": "Gujarat U-23",
-        "odds": "1.64"
-      },
-      {
-        "team": "Jammu and Kashmir U-23",
-        "odds": "2.09"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Bengal U-23 - Uttarakhand U-23",
-    "bets": [
-      {
-        "team": "Bengal U-23",
-        "odds": "1.58"
-      },
-      {
-        "team": "Uttarakhand U-23",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Madhya Pradesh U-23 - Pondicherry U-23",
-    "bets": [
-      {
-        "team": "Madhya Pradesh U-23",
-        "odds": "1.49"
-      },
-      {
-        "team": "Pondicherry U-23",
-        "odds": "2.39"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Haryana U-23 - Saurashtra U-23",
-    "bets": [
-      {
-        "team": "Haryana U-23",
-        "odds": "2.23"
-      },
-      {
-        "team": "Saurashtra U-23",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Jharkhand U-23 - Mumbai U-23",
-    "bets": [
-      {
-        "team": "Jharkhand U-23",
-        "odds": "3.28"
-      },
-      {
-        "team": "Mumbai U-23",
-        "odds": "1.27"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Meghalaya U-23 - Mizoram U-23",
-    "bets": [
-      {
-        "team": "Meghalaya U-23",
-        "odds": "1.49"
-      },
-      {
-        "team": "Mizoram U-23",
-        "odds": "2.39"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Manipur U-23 - Nagaland U-23",
-    "bets": [
-      {
-        "team": "Manipur U-23",
-        "odds": "1.15"
-      },
-      {
-        "team": "Nagaland U-23",
-        "odds": "4.48"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Railways U-23 - Rajasthan U-23",
-    "bets": [
-      {
-        "team": "Railways U-23",
-        "odds": "2.69"
-      },
-      {
-        "team": "Rajasthan U-23",
-        "odds": "1.39"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Uttar Pradesh U-23 - Vidarbha U-23",
-    "bets": [
-      {
-        "team": "Uttar Pradesh U-23",
-        "odds": "1.39"
-      },
-      {
-        "team": "Vidarbha U-23",
-        "odds": "2.69"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Chandigarh U-23 - Chhattisgarh U-23",
-    "bets": [
-      {
-        "team": "Chandigarh U-23",
-        "odds": "1.49"
-      },
-      {
-        "team": "Chhattisgarh U-23",
-        "odds": "2.39"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Himachal Pradesh U-23 - Hyderabad U-23",
-    "bets": [
-      {
-        "team": "Himachal Pradesh U-23",
-        "odds": "1.89"
-      },
-      {
-        "team": "Hyderabad U-23",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:00 AM",
-    "title": "Karnataka U-23 - Tripura U-23",
-    "bets": [
-      {
-        "team": "Tripura U-23",
-        "odds": "14.61"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 03:30 AM",
-    "title": "India A U19 - India B U19",
-    "bets": [
-      {
-        "team": "India A U19",
-        "odds": "1.8"
-      },
-      {
-        "team": "India B U19",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 04:00 AM",
-    "title": "Central Districts SRL - Northern Districts SRL",
-    "bets": [
-      {
-        "team": "Central Districts SRL",
-        "odds": "2.04"
-      },
-      {
-        "team": "Northern Districts SRL",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 04:00 AM",
-    "title": "Centurian Club - Rular Rangers",
-    "bets": [
-      {
-        "team": "Centurian Club",
-        "odds": "1.83"
-      },
-      {
-        "team": "Rular Rangers",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 05:00 AM",
-    "title": "India Srl - South Africa Srl",
-    "bets": [
-      {
-        "team": "India Srl",
-        "odds": "1.64"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 06:00 AM",
-    "title": "Pretoria Capitals Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.96"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 06:45 AM",
-    "title": "Thailand (w) - Papua New Guinea (w)",
-    "bets": [
-      {
-        "team": "Thailand (w)",
-        "odds": "1.14"
-      },
-      {
-        "team": "Papua New Guinea (w)",
-        "odds": "5.1"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 07:00 AM",
-    "title": "Gujarat Titans Srl - Rajasthan Royals SRL",
-    "bets": [
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 08:00 AM",
-    "title": "Melbourne Renegades Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "2.14"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 08:00 AM",
-    "title": "Mumbai Indians (Etienne) - Gujarat Titans (Gerrard)",
-    "bets": [
-      {
-        "team": "Mumbai Indians (Etienne)",
-        "odds": "2.34"
-      },
-      {
-        "team": "Gujarat Titans (Gerrard)",
-        "odds": "1.6"
-      }
-    ]
-  },
-  {
-    "date": "Nov 17, 08:00 AM",
-    "title": "LPS-A - Bhakta Samaj",
-    "bets": [
-      {
-        "team": "LPS-A",
-        "odds": "1.25"
-      },
-      {
-        "team": "Bhakta Samaj",
-        "odds": "3.49"
-      }
-    ]
-  },
-  {
     "date": "Nov 17, 09:00 AM",
     "title": "Paarl Royals Srl - Durban Super Giants Srl",
     "bets": [
@@ -528,16 +42,30 @@
     ]
   },
   {
+    "date": "Nov 17, 09:00 AM",
+    "title": "Mumbai Indians (Etienne) - Chennai Super Kings (Caleb)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (Etienne)",
+        "odds": "4.3"
+      },
+      {
+        "team": "Chennai Super Kings (Caleb)",
+        "odds": "1.19"
+      }
+    ]
+  },
+  {
     "date": "Nov 17, 09:30 AM",
     "title": "Sri Lanka A - Hong Kong",
     "bets": [
       {
         "team": "Sri Lanka A",
-        "odds": "1.12"
+        "odds": "1.13"
       },
       {
         "team": "Hong Kong",
-        "odds": "6"
+        "odds": "5"
       }
     ]
   },
@@ -673,11 +201,11 @@
     "bets": [
       {
         "team": "Bangladesh A",
-        "odds": "2.18"
+        "odds": "2.15"
       },
       {
         "team": "Afghanistan A",
-        "odds": "1.68"
+        "odds": "1.62"
       }
     ]
   },
@@ -766,6 +294,104 @@
     ]
   },
   {
+    "date": "Nov 18, 12:00 AM",
+    "title": "Afghanistan Srl - West Indies Srl",
+    "bets": [
+      {
+        "team": "Afghanistan Srl",
+        "odds": "2.2"
+      },
+      {
+        "team": "West Indies Srl",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 01:00 AM",
+    "title": "Sydney Sixers Srl - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Sydney Sixers Srl",
+        "odds": "1.69"
+      },
+      {
+        "team": "Brisbane Heat Srl",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 02:00 AM",
+    "title": "Barbados Royals Srl - Trinbago Knight Riders Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2.22"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 03:00 AM",
+    "title": "Karachi Kings Srl - Peshawar Zalmi Srl",
+    "bets": [
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "1.81"
+      },
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 04:00 AM",
+    "title": "Wellington SRL - Central Districts SRL",
+    "bets": [
+      {
+        "team": "Wellington SRL",
+        "odds": "1.56"
+      },
+      {
+        "team": "Central Districts SRL",
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 05:00 AM",
+    "title": "New Zealand Srl - Australia Srl",
+    "bets": [
+      {
+        "team": "New Zealand Srl",
+        "odds": "2.28"
+      },
+      {
+        "team": "Australia Srl",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 06:00 AM",
+    "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
+    "bets": [
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "1.83"
+      },
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
     "date": "Nov 18, 06:00 AM",
     "title": "Chitwan Rhinos - Karnali Yaks",
     "bets": [
@@ -780,16 +406,72 @@
     ]
   },
   {
+    "date": "Nov 18, 07:00 AM",
+    "title": "Royal Challengers Bangalore SRL - Chennai Super Kings SRL",
+    "bets": [
+      {
+        "team": "Royal Challengers Bangalore SRL",
+        "odds": "1.66"
+      },
+      {
+        "team": "Chennai Super Kings SRL",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 08:00 AM",
+    "title": "Sydney Thunder Srl - Hobart Hurricanes Srl",
+    "bets": [
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.77"
+      },
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
     "date": "Nov 18, 08:10 AM",
     "title": "Hobart Hurricanes (w) - Adelaide Strikers (w)",
     "bets": [
       {
         "team": "Hobart Hurricanes (w)",
-        "odds": "1.65"
+        "odds": "1.66"
       },
       {
         "team": "Adelaide Strikers (w)",
-        "odds": "2.22"
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 09:00 AM",
+    "title": "Durban Super Giants Srl - Sunrisers Eastern Cape Srl",
+    "bets": [
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "1.91"
+      },
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 10:00 AM",
+    "title": "Islamabad United Srl - Quetta Gladiators Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.99"
+      },
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.76"
       }
     ]
   },
@@ -822,6 +504,90 @@
     ]
   },
   {
+    "date": "Nov 18, 11:00 AM",
+    "title": "St Lucia Kings Srl - Antigua And Barbuda Falcons SRL",
+    "bets": [
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.72"
+      },
+      {
+        "team": "Antigua And Barbuda Falcons SRL",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 12:00 PM",
+    "title": "Canterbury SRL - Otago SRL",
+    "bets": [
+      {
+        "team": "Canterbury SRL",
+        "odds": "1.56"
+      },
+      {
+        "team": "Otago SRL",
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 01:00 PM",
+    "title": "Rajasthan Royals SRL - Delhi Capitals SRL",
+    "bets": [
+      {
+        "team": "Rajasthan Royals SRL",
+        "odds": "1.99"
+      },
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 01:00 PM",
+    "title": "Pakistan - Zimbabwe",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.17"
+      },
+      {
+        "team": "Zimbabwe",
+        "odds": "4.95"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 02:00 PM",
+    "title": "Peshawar Zalmi Srl - Lahore Qalanders Srl",
+    "bets": [
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "2.12"
+      },
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 04:00 PM",
+    "title": "Punjab Kings SRL - Gujarat Titans Srl",
+    "bets": [
+      {
+        "team": "Punjab Kings SRL",
+        "odds": "1.86"
+      },
+      {
+        "team": "Gujarat Titans Srl",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
     "date": "Nov 18, 04:00 PM",
     "title": "Deccan Gladiators - Delhi Bulls",
     "bets": [
@@ -832,6 +598,118 @@
       {
         "team": "Delhi Bulls",
         "odds": "2.29"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 06:00 PM",
+    "title": "England Srl - South Africa Srl",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "1.85"
+      },
+      {
+        "team": "South Africa Srl",
+        "odds": "1.89"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 08:00 PM",
+    "title": "Pretoria Capitals Srl - Mi Cape Town Srl",
+    "bets": [
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "2.28"
+      },
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 10:00 PM",
+    "title": "Melbourne Stars Srl - Melbourne Renegades Srl",
+    "bets": [
+      {
+        "team": "Melbourne Stars Srl",
+        "odds": "1.81"
+      },
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Nov 18, 11:00 PM",
+    "title": "Guyana Amazon Warriors Srl - St Lucia Kings Srl",
+    "bets": [
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.76"
+      },
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.99"
+      }
+    ]
+  },
+  {
+    "date": "Nov 19, 01:00 AM",
+    "title": "New Zealand - West Indies",
+    "bets": [
+      {
+        "team": "New Zealand",
+        "odds": "1.25"
+      },
+      {
+        "team": "West Indies",
+        "odds": "3.95"
+      }
+    ]
+  },
+  {
+    "date": "Nov 19, 03:30 AM",
+    "title": "Bangladesh - Ireland",
+    "bets": [
+      {
+        "team": "Bangladesh",
+        "odds": "1.19"
+      },
+      {
+        "team": "Draw",
+        "odds": "16.5"
+      }
+    ]
+  },
+  {
+    "date": "Nov 19, 08:00 AM",
+    "title": "India A - South Africa A",
+    "bets": [
+      {
+        "team": "India A",
+        "odds": "1.25"
+      },
+      {
+        "team": "South Africa A",
+        "odds": "3.71"
+      }
+    ]
+  },
+  {
+    "date": "Nov 19, 08:10 AM",
+    "title": "Sydney Thunder (w) - Perth Scorchers (w)",
+    "bets": [
+      {
+        "team": "Sydney Thunder (w)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Perth Scorchers (w)",
+        "odds": "1.9"
       }
     ]
   }
