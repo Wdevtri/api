@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 17, 10:00 PM",
-    "title": "Perth Scorchers Srl - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
     "date": "Nov 17, 11:00 PM",
     "title": "St Lucia Kings Srl - Trinbago Knight Riders Srl",
     "bets": [
@@ -61,11 +47,11 @@
     "bets": [
       {
         "team": "Indonesia",
-        "odds": "4.3"
+        "odds": "5.1"
       },
       {
         "team": "Bahrain",
-        "odds": "1.17"
+        "odds": "1.12"
       }
     ]
   },
@@ -341,11 +327,11 @@
     "bets": [
       {
         "team": "Knights",
-        "odds": "1.57"
+        "odds": "1.48"
       },
       {
         "team": "Eastern Cape Linyathi",
-        "odds": "2.2"
+        "odds": "2.42"
       }
     ]
   },
@@ -621,11 +607,11 @@
     "bets": [
       {
         "team": "Lions",
-        "odds": "1.79"
+        "odds": "1.67"
       },
       {
         "team": "North West Dragons",
-        "odds": "1.96"
+        "odds": "2.12"
       }
     ]
   },
@@ -635,11 +621,11 @@
     "bets": [
       {
         "team": "Garden Route Badgers",
-        "odds": "1.5"
+        "odds": "1.48"
       },
       {
         "team": "Mpumalanga Rhinos",
-        "odds": "2.36"
+        "odds": "2.42"
       }
     ]
   },
