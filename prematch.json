@@ -1,159 +1,5 @@
 [
   {
-    "date": "Nov 18, 12:00 AM",
-    "title": "Afghanistan Srl - West Indies Srl",
-    "bets": [
-      {
-        "team": "Afghanistan Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "West Indies Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 01:00 AM",
-    "title": "Sydney Sixers Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 01:30 AM",
-    "title": "Indonesia - Bahrain",
-    "bets": [
-      {
-        "team": "Indonesia",
-        "odds": "5.1"
-      },
-      {
-        "team": "Bahrain",
-        "odds": "1.12"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 02:00 AM",
-    "title": "Barbados Royals Srl - Trinbago Knight Riders Srl",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 03:00 AM",
-    "title": "Karachi Kings Srl - Peshawar Zalmi Srl",
-    "bets": [
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "1.81"
-      },
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 03:30 AM",
-    "title": "OMR Checker - Pachange CC",
-    "bets": [
-      {
-        "team": "OMR Checker",
-        "odds": "1.83"
-      },
-      {
-        "team": "Pachange CC",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 04:00 AM",
-    "title": "Wellington SRL - Central Districts SRL",
-    "bets": [
-      {
-        "team": "Wellington SRL",
-        "odds": "1.56"
-      },
-      {
-        "team": "Central Districts SRL",
-        "odds": "2.32"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 05:00 AM",
-    "title": "New Zealand Srl - Australia Srl",
-    "bets": [
-      {
-        "team": "New Zealand Srl",
-        "odds": "2.28"
-      },
-      {
-        "team": "Australia Srl",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 06:00 AM",
-    "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 06:00 AM",
-    "title": "Chitwan Rhinos - Karnali Yaks",
-    "bets": [
-      {
-        "team": "Chitwan Rhinos",
-        "odds": "1.75"
-      },
-      {
-        "team": "Karnali Yaks",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Nov 18, 07:00 AM",
-    "title": "Royal Challengers Bangalore SRL - Chennai Super Kings SRL",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.66"
-      },
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
     "date": "Nov 18, 07:30 AM",
     "title": "Metro CC - Ashtapailu Sports",
     "bets": [
@@ -383,11 +229,11 @@
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.18"
+        "odds": "1.19"
       },
       {
         "team": "Zimbabwe",
-        "odds": "4.44"
+        "odds": "4.36"
       }
     ]
   },
@@ -593,11 +439,25 @@
     "bets": [
       {
         "team": "Sydney Thunder (w)",
-        "odds": "1.8"
+        "odds": "1.78"
       },
       {
         "team": "Perth Scorchers (w)",
-        "odds": "2"
+        "odds": "1.97"
+      }
+    ]
+  },
+  {
+    "date": "Nov 19, 09:30 AM",
+    "title": "Afghanistan A - Hong Kong",
+    "bets": [
+      {
+        "team": "Afghanistan A",
+        "odds": "1.17"
+      },
+      {
+        "team": "Hong Kong",
+        "odds": "4.95"
       }
     ]
   },
@@ -640,6 +500,20 @@
       {
         "team": "England",
         "odds": "1.51"
+      }
+    ]
+  },
+  {
+    "date": "Nov 19, 02:30 PM",
+    "title": "Sri Lanka A - Bangladesh A",
+    "bets": [
+      {
+        "team": "Sri Lanka A",
+        "odds": "1.61"
+      },
+      {
+        "team": "Bangladesh A",
+        "odds": "2.3"
       }
     ]
   }
