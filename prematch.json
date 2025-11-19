@@ -14,48 +14,6 @@
     ]
   },
   {
-    "date": "Nov 19, 01:45 PM",
-    "title": "Royal Champs - Vista Riders",
-    "bets": [
-      {
-        "team": "Royal Champs",
-        "odds": "1.76"
-      },
-      {
-        "team": "Vista Riders",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "Nov 19, 02:00 PM",
-    "title": "Lucknow Super Giants (Aidin) - Chennai Super Kings (Caleb)",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants (Aidin)",
-        "odds": "2.28"
-      },
-      {
-        "team": "Chennai Super Kings (Caleb)",
-        "odds": "1.57"
-      }
-    ]
-  },
-  {
-    "date": "Nov 19, 02:30 PM",
-    "title": "Sri Lanka A - Bangladesh A",
-    "bets": [
-      {
-        "team": "Sri Lanka A",
-        "odds": "1.72"
-      },
-      {
-        "team": "Bangladesh A",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
     "date": "Nov 19, 04:00 PM",
     "title": "Warriors - Boland",
     "bets": [
@@ -75,16 +33,16 @@
     "bets": [
       {
         "team": "Ajman Titans",
-        "odds": "1.79"
+        "odds": "1.84"
       },
       {
         "team": "Quetta Qavalry",
-        "odds": "1.96"
+        "odds": "1.9"
       }
     ]
   },
   {
-    "date": "Nov 19, 04:30 PM",
+    "date": "Nov 19, 05:00 PM",
     "title": "Seven Districts - Z Sports",
     "bets": [
       {
@@ -112,6 +70,34 @@
     ]
   },
   {
+    "date": "Nov 20, 02:30 AM",
+    "title": "Papua New Guinea (w) - United Arab Emirates (w)",
+    "bets": [
+      {
+        "team": "Papua New Guinea (w)",
+        "odds": "2.02"
+      },
+      {
+        "team": "United Arab Emirates (w)",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Nov 20, 02:30 AM",
+    "title": "Thailand (w) - Netherlands (w)",
+    "bets": [
+      {
+        "team": "Thailand (w)",
+        "odds": "1.7"
+      },
+      {
+        "team": "Netherlands (w)",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
     "date": "Nov 20, 04:40 AM",
     "title": "Melbourne Renegades (w) - Hobart Hurricanes (w)",
     "bets": [
@@ -126,6 +112,48 @@
     ]
   },
   {
+    "date": "Nov 20, 06:45 AM",
+    "title": "Namibia (w) - Tanzania (w)",
+    "bets": [
+      {
+        "team": "Namibia (w)",
+        "odds": "1.7"
+      },
+      {
+        "team": "Tanzania (w)",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Nov 20, 06:45 AM",
+    "title": "Scotland (w) - Uganda (w)",
+    "bets": [
+      {
+        "team": "Scotland (w)",
+        "odds": "1.06"
+      },
+      {
+        "team": "Uganda (w)",
+        "odds": "7.4"
+      }
+    ]
+  },
+  {
+    "date": "Nov 20, 08:00 AM",
+    "title": "Lucknow Super Giants (Aidin) - Delhi Capitals (Jordan)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.48"
+      },
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "2.64"
+      }
+    ]
+  },
+  {
     "date": "Nov 20, 08:10 AM",
     "title": "Sydney Sixers (w) - Melbourne Stars (w)",
     "bets": [
@@ -136,6 +164,34 @@
       {
         "team": "Melbourne Stars (w)",
         "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Nov 20, 09:00 AM",
+    "title": "Lucknow Super Giants (Aidin) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.55"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "2.44"
+      }
+    ]
+  },
+  {
+    "date": "Nov 20, 10:00 AM",
+    "title": "Delhi Capitals (Jordan) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "2.38"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "1.58"
       }
     ]
   },
@@ -192,6 +248,20 @@
       {
         "team": "Sydney Thunder (w)",
         "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 10:15 AM",
+    "title": "Pokhara Avengers - Sudurpaschim Royals",
+    "bets": [
+      {
+        "team": "Pokhara Avengers",
+        "odds": "2.1"
+      },
+      {
+        "team": "Sudurpaschim Royals",
+        "odds": "1.63"
       }
     ]
   },
