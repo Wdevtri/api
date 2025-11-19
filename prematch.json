@@ -33,11 +33,11 @@
     "bets": [
       {
         "team": "Papua New Guinea (w)",
-        "odds": "2.36"
+        "odds": "2.73"
       },
       {
         "team": "United Arab Emirates (w)",
-        "odds": "1.52"
+        "odds": "1.4"
       }
     ]
   },
@@ -103,11 +103,11 @@
     "bets": [
       {
         "team": "Scotland (w)",
-        "odds": "1.06"
+        "odds": "1.03"
       },
       {
         "team": "Uganda (w)",
-        "odds": "7.4"
+        "odds": "9.4"
       }
     ]
   },
@@ -262,6 +262,20 @@
       {
         "team": "Vista Riders",
         "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Nov 20, 02:00 PM",
+    "title": "Karwan CC - Alif Pharma",
+    "bets": [
+      {
+        "team": "Karwan CC",
+        "odds": "1.2"
+      },
+      {
+        "team": "Alif Pharma",
+        "odds": "4.05"
       }
     ]
   },
@@ -544,6 +558,20 @@
       {
         "team": "Dolphins",
         "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 01:00 PM",
+    "title": "West Indies - England",
+    "bets": [
+      {
+        "team": "West Indies",
+        "odds": "2.14"
+      },
+      {
+        "team": "England",
+        "odds": "1.6"
       }
     ]
   }
