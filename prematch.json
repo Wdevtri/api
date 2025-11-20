@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 18, 06:00 PM",
-    "title": "England Srl - South Africa Srl",
-    "bets": [
-      {
-        "team": "England Srl",
-        "odds": "1.85"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
     "date": "Nov 19, 11:00 AM",
     "title": "Lions - North West Dragons",
     "bets": [
@@ -47,11 +33,11 @@
     "bets": [
       {
         "team": "Aspin Stallions",
-        "odds": "2.08"
+        "odds": "2.28"
       },
       {
         "team": "Ajman Titans",
-        "odds": "1.75"
+        "odds": "1.63"
       }
     ]
   },
@@ -679,11 +665,25 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.39"
+        "odds": "1.4"
       },
       {
         "team": "Draw",
         "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 05:30 AM",
+    "title": "Karnali Yaks - Lumbini Lions",
+    "bets": [
+      {
+        "team": "Karnali Yaks",
+        "odds": "2.08"
+      },
+      {
+        "team": "Lumbini Lions",
+        "odds": "1.64"
       }
     ]
   },
