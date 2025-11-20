@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 20, 08:00 PM",
-    "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
     "date": "Nov 20, 10:00 PM",
     "title": "Melbourne Stars Srl - Brisbane Heat Srl",
     "bets": [
@@ -187,11 +173,11 @@
     "bets": [
       {
         "team": "Assam U-23",
-        "odds": "3.98"
+        "odds": "4.55"
       },
       {
         "team": "Gujarat U-23",
-        "odds": "1.19"
+        "odds": "1.15"
       }
     ]
   },
@@ -305,11 +291,11 @@
     "bets": [
       {
         "team": "Andhra U-23",
-        "odds": "1.49"
+        "odds": "1.44"
       },
       {
         "team": "Odisha U-23",
-        "odds": "2.39"
+        "odds": "2.53"
       }
     ]
   },
@@ -329,11 +315,11 @@
     "bets": [
       {
         "team": "Haryana U-23",
-        "odds": "2.25"
+        "odds": "2.39"
       },
       {
         "team": "Madhya Pradesh U-23",
-        "odds": "1.55"
+        "odds": "1.49"
       }
     ]
   },
@@ -348,6 +334,20 @@
       {
         "team": "Afghanistan",
         "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 03:30 AM",
+    "title": "OMR Checker - Sunny XI",
+    "bets": [
+      {
+        "team": "OMR Checker",
+        "odds": "2.18"
+      },
+      {
+        "team": "Sunny XI",
+        "odds": "1.58"
       }
     ]
   },
@@ -399,11 +399,11 @@
     "bets": [
       {
         "team": "Buvuma Sailors",
-        "odds": "1.86"
+        "odds": "1.83"
       },
       {
         "team": "Mukono Development",
-        "odds": "1.8"
+        "odds": "1.83"
       }
     ]
   },
@@ -450,6 +450,20 @@
     ]
   },
   {
+    "date": "Nov 21, 07:30 AM",
+    "title": "Rising CA - Pachange CC",
+    "bets": [
+      {
+        "team": "Rising CA",
+        "odds": "2.02"
+      },
+      {
+        "team": "Pachange CC",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
     "date": "Nov 21, 08:00 AM",
     "title": "Brisbane Heat Srl - Perth Scorchers Srl",
     "bets": [
@@ -474,6 +488,20 @@
       {
         "team": "Sunrisers Hyderabad (Sibs)",
         "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 08:00 AM",
+    "title": "LPS-A - KOLI PATEL SAMAJ-C",
+    "bets": [
+      {
+        "team": "LPS-A",
+        "odds": "1.79"
+      },
+      {
+        "team": "KOLI PATEL SAMAJ-C",
+        "odds": "1.89"
       }
     ]
   },
@@ -604,6 +632,20 @@
     ]
   },
   {
+    "date": "Nov 21, 11:00 AM",
+    "title": "Buikwe Gladiators - Kayunga Titans",
+    "bets": [
+      {
+        "team": "Buikwe Gladiators",
+        "odds": "1.72"
+      },
+      {
+        "team": "Kayunga Titans",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
     "date": "Nov 21, 11:30 AM",
     "title": "Titans - Dolphins",
     "bets": [
@@ -642,6 +684,20 @@
       {
         "team": "Wellington SRL",
         "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 12:30 PM",
+    "title": "Brahman Samaj - KOLI PATEL SAMAJ-B",
+    "bets": [
+      {
+        "team": "Brahman Samaj",
+        "odds": "2.02"
+      },
+      {
+        "team": "KOLI PATEL SAMAJ-B",
+        "odds": "1.68"
       }
     ]
   },
@@ -702,6 +758,20 @@
     ]
   },
   {
+    "date": "Nov 21, 01:00 PM",
+    "title": "Z Sports - CSS Group",
+    "bets": [
+      {
+        "team": "Z Sports",
+        "odds": "1.5"
+      },
+      {
+        "team": "CSS Group",
+        "odds": "2.46"
+      }
+    ]
+  },
+  {
     "date": "Nov 21, 01:45 PM",
     "title": "Northern Warriors - Ajman Titans",
     "bets": [
@@ -754,6 +824,34 @@
       {
         "team": "Delhi Capitals SRL",
         "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 04:00 PM",
+    "title": "UAE Bulls - Royal Champs",
+    "bets": [
+      {
+        "team": "UAE Bulls",
+        "odds": "1.45"
+      },
+      {
+        "team": "Royal Champs",
+        "odds": "2.7"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 04:30 PM",
+    "title": "Lexington Shotguns - Seven Districts Academy",
+    "bets": [
+      {
+        "team": "Lexington Shotguns",
+        "odds": "1.7"
+      },
+      {
+        "team": "Seven Districts Academy",
+        "odds": "2.04"
       }
     ]
   },
