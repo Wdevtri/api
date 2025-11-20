@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 20, 06:00 PM",
-    "title": "South Africa Srl - West Indies Srl",
-    "bets": [
-      {
-        "team": "South Africa Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "West Indies Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
     "date": "Nov 20, 08:00 PM",
     "title": "Joburg Super Kings Srl - Mi Cape Town Srl",
     "bets": [
@@ -632,6 +618,20 @@
     ]
   },
   {
+    "date": "Nov 21, 11:30 AM",
+    "title": "Deccan Gladiators - Quetta Qavalry",
+    "bets": [
+      {
+        "team": "Deccan Gladiators",
+        "odds": "1.63"
+      },
+      {
+        "team": "Quetta Qavalry",
+        "odds": "2.28"
+      }
+    ]
+  },
+  {
     "date": "Nov 21, 12:00 PM",
     "title": "Northern Districts SRL - Wellington SRL",
     "bets": [
@@ -698,6 +698,20 @@
       {
         "team": "Chennai Super Kings SRL",
         "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 01:45 PM",
+    "title": "Northern Warriors - Ajman Titans",
+    "bets": [
+      {
+        "team": "Northern Warriors",
+        "odds": "2.26"
+      },
+      {
+        "team": "Ajman Titans",
+        "odds": "1.64"
       }
     ]
   },
@@ -968,6 +982,20 @@
     ]
   },
   {
+    "date": "Nov 22, 05:30 AM",
+    "title": "Karnali Yaks - Lumbini Lions",
+    "bets": [
+      {
+        "team": "Karnali Yaks",
+        "odds": "2.16"
+      },
+      {
+        "team": "Lumbini Lions",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
     "date": "Nov 22, 09:45 AM",
     "title": "Kathmandu Gurkhas - Biratnagar Kings",
     "bets": [
@@ -992,6 +1020,20 @@
       {
         "team": "Adelaide Strikers (w)",
         "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 02:00 PM",
+    "title": "Pakistan - Sri Lanka",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.53"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "2.4"
       }
     ]
   }
