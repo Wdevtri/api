@@ -1,5 +1,19 @@
 [
   {
+    "date": "Nov 18, 06:00 PM",
+    "title": "England Srl - South Africa Srl",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "1.85"
+      },
+      {
+        "team": "South Africa Srl",
+        "odds": "1.89"
+      }
+    ]
+  },
+  {
     "date": "Nov 19, 11:00 AM",
     "title": "Lions - North West Dragons",
     "bets": [
@@ -28,114 +42,16 @@
     ]
   },
   {
-    "date": "Nov 20, 11:00 AM",
-    "title": "Delhi Capitals (Jordan) - Lucknow Super Giants (Aidin)",
-    "bets": [
-      {
-        "team": "Delhi Capitals (Jordan)",
-        "odds": "2.04"
-      },
-      {
-        "team": "Lucknow Super Giants (Aidin)",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Nov 20, 11:30 AM",
-    "title": "Royal Champs - Deccan Gladiators",
-    "bets": [
-      {
-        "team": "Royal Champs",
-        "odds": "2.75"
-      },
-      {
-        "team": "Deccan Gladiators",
-        "odds": "1.42"
-      }
-    ]
-  },
-  {
-    "date": "Nov 20, 12:00 PM",
-    "title": "Sunrisers Hyderabad (Sibs) - Lucknow Super Giants (Aidin)",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "1.63"
-      },
-      {
-        "team": "Lucknow Super Giants (Aidin)",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Nov 20, 12:30 PM",
-    "title": "LEUVA PATEL C - Matiya Patidar Samaj",
-    "bets": [
-      {
-        "team": "LEUVA PATEL C",
-        "odds": "1.7"
-      },
-      {
-        "team": "Matiya Patidar Samaj",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Nov 20, 01:00 PM",
-    "title": "Sri Lanka - Zimbabwe",
-    "bets": [
-      {
-        "team": "Sri Lanka",
-        "odds": "1.22"
-      },
-      {
-        "team": "Zimbabwe",
-        "odds": "4"
-      }
-    ]
-  },
-  {
-    "date": "Nov 20, 01:45 PM",
-    "title": "UAE Bulls - Vista Riders",
-    "bets": [
-      {
-        "team": "UAE Bulls",
-        "odds": "1.55"
-      },
-      {
-        "team": "Vista Riders",
-        "odds": "2.35"
-      }
-    ]
-  },
-  {
-    "date": "Nov 20, 02:00 PM",
-    "title": "Karwan CC - Alif Pharma",
-    "bets": [
-      {
-        "team": "Karwan CC",
-        "odds": "1.15"
-      },
-      {
-        "team": "Alif Pharma",
-        "odds": "4.85"
-      }
-    ]
-  },
-  {
     "date": "Nov 20, 04:00 PM",
     "title": "Aspin Stallions - Ajman Titans",
     "bets": [
       {
         "team": "Aspin Stallions",
-        "odds": "1.96"
+        "odds": "2.08"
       },
       {
         "team": "Ajman Titans",
-        "odds": "1.79"
+        "odds": "1.75"
       }
     ]
   },
@@ -154,7 +70,7 @@
     ]
   },
   {
-    "date": "Nov 21, 02:30 AM",
+    "date": "Nov 21, 02:20 AM",
     "title": "Australia - England",
     "bets": [
       {
@@ -164,6 +80,34 @@
       {
         "team": "Draw",
         "odds": "13.5"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 02:30 AM",
+    "title": "Thailand (w) - Papua New Guinea (w)",
+    "bets": [
+      {
+        "team": "Thailand (w)",
+        "odds": "1.19"
+      },
+      {
+        "team": "Papua New Guinea (w)",
+        "odds": "4.25"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 02:30 AM",
+    "title": "Netherlands (w) - United Arab Emirates (w)",
+    "bets": [
+      {
+        "team": "Netherlands (w)",
+        "odds": "1.4"
+      },
+      {
+        "team": "United Arab Emirates (w)",
+        "odds": "2.72"
       }
     ]
   },
@@ -366,16 +310,72 @@
     ]
   },
   {
-    "date": "Nov 21, 03:30 AM",
-    "title": "India A U19 - Afghanistan",
+    "date": "Nov 21, 06:00 AM",
+    "title": "Buvuma Sailors - Mukono Development",
     "bets": [
       {
-        "team": "India A U19",
-        "odds": "1.59"
+        "team": "Buvuma Sailors",
+        "odds": "1.86"
       },
       {
-        "team": "Afghanistan",
-        "odds": "2.28"
+        "team": "Mukono Development",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 06:45 AM",
+    "title": "Scotland (w) - Tanzania (w)",
+    "bets": [
+      {
+        "team": "Scotland (w)",
+        "odds": "1.09"
+      },
+      {
+        "team": "Tanzania (w)",
+        "odds": "6.4"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 06:45 AM",
+    "title": "Uganda (w) - Namibia (w)",
+    "bets": [
+      {
+        "team": "Uganda (w)",
+        "odds": "1.83"
+      },
+      {
+        "team": "Namibia (w)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 08:00 AM",
+    "title": "Gujarat Titans (Gerrard) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "1.75"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 09:00 AM",
+    "title": "Gujarat Titans (Gerrard) - Chennai Super Kings (Caleb)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "3"
+      },
+      {
+        "team": "Chennai Super Kings (Caleb)",
+        "odds": "1.38"
       }
     ]
   },
@@ -408,6 +408,20 @@
     ]
   },
   {
+    "date": "Nov 21, 10:00 AM",
+    "title": "Sunrisers Hyderabad (Sibs) - Chennai Super Kings (Caleb)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "3.3"
+      },
+      {
+        "team": "Chennai Super Kings (Caleb)",
+        "odds": "1.33"
+      }
+    ]
+  },
+  {
     "date": "Nov 21, 10:15 AM",
     "title": "Pokhara Avengers - Sudurpaschim Royals",
     "bets": [
@@ -418,6 +432,20 @@
       {
         "team": "Sudurpaschim Royals",
         "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:00 AM",
+    "title": "Eastern Cape Linyathi - Garden Route Badgers",
+    "bets": [
+      {
+        "team": "Eastern Cape Linyathi",
+        "odds": "1.71"
+      },
+      {
+        "team": "Garden Route Badgers",
+        "odds": "1.98"
       }
     ]
   },
@@ -450,6 +478,34 @@
     ]
   },
   {
+    "date": "Nov 21, 01:00 PM",
+    "title": "Leeward Islands Hurricanes - Barbados Pride",
+    "bets": [
+      {
+        "team": "Leeward Islands Hurricanes",
+        "odds": "2.44"
+      },
+      {
+        "team": "Barbados Pride",
+        "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 01:00 PM",
+    "title": "Windward Islands Volcanoes - Guyana Harpy Eagles",
+    "bets": [
+      {
+        "team": "Windward Islands Volcanoes",
+        "odds": "2.24"
+      },
+      {
+        "team": "Guyana Harpy Eagles",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
     "date": "Nov 21, 02:30 PM",
     "title": "Pakistan A - Sri Lanka A",
     "bets": [
@@ -460,6 +516,34 @@
       {
         "team": "Sri Lanka A",
         "odds": "2.42"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 06:00 PM",
+    "title": "TT Red Force - Jamaica Scorpions",
+    "bets": [
+      {
+        "team": "TT Red Force",
+        "odds": "1.43"
+      },
+      {
+        "team": "Jamaica Scorpions",
+        "odds": "2.56"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:00 PM",
+    "title": "Hobart Hurricanes (w) - Sydney Sixers (w)",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes (w)",
+        "odds": "1.65"
+      },
+      {
+        "team": "Sydney Sixers (w)",
+        "odds": "2.22"
       }
     ]
   },
@@ -609,11 +693,11 @@
     "bets": [
       {
         "team": "Kathmandu Gurkhas",
-        "odds": "2.2"
+        "odds": "2.22"
       },
       {
         "team": "Biratnagar Kings",
-        "odds": "1.57"
+        "odds": "1.56"
       }
     ]
   },
