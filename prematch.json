@@ -14,34 +14,6 @@
     ]
   },
   {
-    "date": "Nov 21, 06:00 PM",
-    "title": "TT Red Force - Jamaica Scorpions",
-    "bets": [
-      {
-        "team": "TT Red Force",
-        "odds": "1.43"
-      },
-      {
-        "team": "Jamaica Scorpions",
-        "odds": "2.56"
-      }
-    ]
-  },
-  {
-    "date": "Nov 21, 06:00 PM",
-    "title": "Pakistan Srl - South Africa Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.1"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
     "date": "Nov 21, 08:00 PM",
     "title": "Durban Super Giants Srl - Joburg Super Kings Srl",
     "bets": [
@@ -89,11 +61,137 @@
     "bets": [
       {
         "team": "Hobart Hurricanes (w)",
-        "odds": "1.65"
+        "odds": "1.67"
       },
       {
         "team": "Sydney Sixers (w)",
-        "odds": "2.22"
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:30 PM",
+    "title": "Carlton 1st XI - Melbourne University 1st XI",
+    "bets": [
+      {
+        "team": "Carlton 1st XI",
+        "odds": "1.38"
+      },
+      {
+        "team": "Melbourne University 1st XI",
+        "odds": "2.72"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:30 PM",
+    "title": "Ringwood 1st XI - Greenvale Kangaroos 1st XI",
+    "bets": [
+      {
+        "team": "Ringwood 1st XI",
+        "odds": "1.07"
+      },
+      {
+        "team": "Greenvale Kangaroos 1st XI",
+        "odds": "6.36"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:30 PM",
+    "title": "Dandenong 1st XI - Casey South Melbourne 1st XI",
+    "bets": [
+      {
+        "team": "Dandenong 1st XI",
+        "odds": "2.09"
+      },
+      {
+        "team": "Casey South Melbourne 1st XI",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:30 PM",
+    "title": "Melbourne 1st XI - Footscray 1st XI",
+    "bets": [
+      {
+        "team": "Melbourne 1st XI",
+        "odds": "1.47"
+      },
+      {
+        "team": "Footscray 1st XI",
+        "odds": "2.45"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:30 PM",
+    "title": "Richmond 1st XI - Geelong 1st XI",
+    "bets": [
+      {
+        "team": "Richmond 1st XI",
+        "odds": "1.65"
+      },
+      {
+        "team": "Geelong 1st XI",
+        "odds": "2.11"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:30 PM",
+    "title": "Fitzroy Doncaster 1st XI - St Kilda 1st XI",
+    "bets": [
+      {
+        "team": "Fitzroy Doncaster 1st XI",
+        "odds": "2.72"
+      },
+      {
+        "team": "St Kilda 1st XI",
+        "odds": "1.38"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:30 PM",
+    "title": "Frankston Peninsula 1st XI - Prahran 1st XI",
+    "bets": [
+      {
+        "team": "Frankston Peninsula 1st XI",
+        "odds": "3.21"
+      },
+      {
+        "team": "Prahran 1st XI",
+        "odds": "1.28"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:30 PM",
+    "title": "Essendon 1st XI - Kingston Hawthorn 1st XI",
+    "bets": [
+      {
+        "team": "Essendon 1st XI",
+        "odds": "2.45"
+      },
+      {
+        "team": "Kingston Hawthorn 1st XI",
+        "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Nov 21, 11:30 PM",
+    "title": "Camberwell Magpies 1st XI - Northcote 1st XI",
+    "bets": [
+      {
+        "team": "Camberwell Magpies 1st XI",
+        "odds": "1.58"
+      },
+      {
+        "team": "Northcote 1st XI",
+        "odds": "2.18"
       }
     ]
   },
@@ -308,6 +406,34 @@
     ]
   },
   {
+    "date": "Nov 22, 03:30 AM",
+    "title": "Hayleys Group B - Brandix Essentials",
+    "bets": [
+      {
+        "team": "Hayleys Group B",
+        "odds": "1.5"
+      },
+      {
+        "team": "Brandix Essentials",
+        "odds": "2.35"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 03:30 AM",
+    "title": "Slim Pharmaceuticals - NDB",
+    "bets": [
+      {
+        "team": "Slim Pharmaceuticals",
+        "odds": "2.14"
+      },
+      {
+        "team": "NDB",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
     "date": "Nov 22, 04:00 AM",
     "title": "Northern Districts SRL - Central Districts SRL",
     "bets": [
@@ -402,6 +528,34 @@
       {
         "team": "Matabeleland Tuskers",
         "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 07:45 AM",
+    "title": "TVS Lanka - Hemas Holding",
+    "bets": [
+      {
+        "team": "TVS Lanka",
+        "odds": "1.6"
+      },
+      {
+        "team": "Hemas Holding",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 07:45 AM",
+    "title": "HSBC II - Morison Limited",
+    "bets": [
+      {
+        "team": "HSBC II",
+        "odds": "1.98"
+      },
+      {
+        "team": "Morison Limited",
+        "odds": "1.7"
       }
     ]
   },
@@ -532,6 +686,20 @@
     ]
   },
   {
+    "date": "Nov 22, 11:30 AM",
+    "title": "Aspin Stallions - Vista Riders",
+    "bets": [
+      {
+        "team": "Aspin Stallions",
+        "odds": "1.67"
+      },
+      {
+        "team": "Vista Riders",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
     "date": "Nov 22, 12:00 PM",
     "title": "Wellington SRL - Otago SRL",
     "bets": [
@@ -542,6 +710,20 @@
       {
         "team": "Otago SRL",
         "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 12:30 PM",
+    "title": "Gems Education CC - Fly Emirates",
+    "bets": [
+      {
+        "team": "Gems Education CC",
+        "odds": "1.5"
+      },
+      {
+        "team": "Fly Emirates",
+        "odds": "2.46"
       }
     ]
   },
@@ -579,11 +761,25 @@
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.55"
+        "odds": "1.52"
       },
       {
         "team": "Sri Lanka",
-        "odds": "2.36"
+        "odds": "2.43"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 01:45 PM",
+    "title": "Northern Warriors - Deccan Gladiators",
+    "bets": [
+      {
+        "team": "Northern Warriors",
+        "odds": "2.82"
+      },
+      {
+        "team": "Deccan Gladiators",
+        "odds": "1.42"
       }
     ]
   },
@@ -612,6 +808,34 @@
       {
         "team": "Lucknow Super Giants Srl",
         "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 04:00 PM",
+    "title": "Quetta Qavalry - UAE Bulls",
+    "bets": [
+      {
+        "team": "Quetta Qavalry",
+        "odds": "2.04"
+      },
+      {
+        "team": "UAE Bulls",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 04:30 PM",
+    "title": "Legend Warriors - Jhang Union Eagles",
+    "bets": [
+      {
+        "team": "Legend Warriors",
+        "odds": "1.45"
+      },
+      {
+        "team": "Jhang Union Eagles",
+        "odds": "2.58"
       }
     ]
   },
@@ -1041,11 +1265,11 @@
     "bets": [
       {
         "team": "Thailand (w)",
-        "odds": "1.63"
+        "odds": "1.5"
       },
       {
         "team": "Namibia (w)",
-        "odds": "2.14"
+        "odds": "2.41"
       }
     ]
   },
