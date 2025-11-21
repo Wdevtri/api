@@ -14,20 +14,6 @@
     ]
   },
   {
-    "date": "Nov 21, 10:00 PM",
-    "title": "Melbourne Renegades Srl - Sydney Thunder Srl",
-    "bets": [
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "2.14"
-      },
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
     "date": "Nov 21, 11:00 PM",
     "title": "St Kitts And Nevis Patriots Srl - Trinbago Knight Riders Srl",
     "bets": [
@@ -47,11 +33,11 @@
     "bets": [
       {
         "team": "Hobart Hurricanes (w)",
-        "odds": "1.76"
+        "odds": "1.68"
       },
       {
         "team": "Sydney Sixers (w)",
-        "odds": "2"
+        "odds": "2.11"
       }
     ]
   },
@@ -369,11 +355,11 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.39"
+        "odds": "1.38"
       },
       {
         "team": "Draw",
-        "odds": "13"
+        "odds": "12"
       }
     ]
   },
