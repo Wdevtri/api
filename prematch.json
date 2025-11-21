@@ -1,19 +1,5 @@
 [
   {
-    "date": "Nov 21, 02:20 AM",
-    "title": "Australia - England",
-    "bets": [
-      {
-        "team": "Australia",
-        "odds": "1.68"
-      },
-      {
-        "team": "Draw",
-        "odds": "13.5"
-      }
-    ]
-  },
-  {
     "date": "Nov 21, 09:00 AM",
     "title": "Joburg Super Kings Srl - Durban Super Giants Srl",
     "bets": [
@@ -33,11 +19,11 @@
     "bets": [
       {
         "team": "Gujarat Titans (Gerrard)",
-        "odds": "3"
+        "odds": "2.88"
       },
       {
         "team": "Chennai Super Kings (Caleb)",
-        "odds": "1.38"
+        "odds": "1.37"
       }
     ]
   },
@@ -47,11 +33,11 @@
     "bets": [
       {
         "team": "Brisbane Heat (w)",
-        "odds": "2.31"
+        "odds": "2.19"
       },
       {
         "team": "Sydney Thunder (w)",
-        "odds": "1.57"
+        "odds": "1.63"
       }
     ]
   },
