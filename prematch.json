@@ -14,20 +14,6 @@
     ]
   },
   {
-    "date": "Nov 21, 05:00 AM",
-    "title": "Afghanistan Srl - New Zealand Srl",
-    "bets": [
-      {
-        "team": "Afghanistan Srl",
-        "odds": "2.18"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
     "date": "Nov 21, 06:00 AM",
     "title": "Paarl Royals Srl - Sunrisers Eastern Cape Srl",
     "bets": [
@@ -887,11 +873,11 @@
     "bets": [
       {
         "team": "Kathmandu Gurkhas",
-        "odds": "2.2"
+        "odds": "2.34"
       },
       {
         "team": "Biratnagar Kings",
-        "odds": "1.67"
+        "odds": "1.6"
       }
     ]
   },
@@ -1004,6 +990,62 @@
       {
         "team": "Lucknow Super Giants Srl",
         "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 06:00 PM",
+    "title": "England Srl - India Srl",
+    "bets": [
+      {
+        "team": "England Srl",
+        "odds": "2.16"
+      },
+      {
+        "team": "India Srl",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 08:00 PM",
+    "title": "Paarl Royals Srl - Durban Super Giants Srl",
+    "bets": [
+      {
+        "team": "Paarl Royals Srl",
+        "odds": "1.76"
+      },
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "1.99"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 10:00 PM",
+    "title": "Adelaide Strikers Srl - Sydney Sixers Srl",
+    "bets": [
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "2.08"
+      },
+      {
+        "team": "Sydney Sixers Srl",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Nov 22, 11:00 PM",
+    "title": "Trinbago Knight Riders Srl - St Lucia Kings Srl",
+    "bets": [
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.69"
+      },
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "2.1"
       }
     ]
   },
