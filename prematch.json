@@ -14,48 +14,6 @@
     ]
   },
   {
-    "date": "Nov 22, 05:00 AM",
-    "title": "Pakistan Srl - South Africa Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.1"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 05:30 AM",
-    "title": "Karnali Yaks - Lumbini Lions",
-    "bets": [
-      {
-        "team": "Karnali Yaks",
-        "odds": "2.03"
-      },
-      {
-        "team": "Lumbini Lions",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 06:00 AM",
-    "title": "Mi Cape Town Srl - Paarl Royals Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.72"
-      },
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
     "date": "Nov 22, 07:00 AM",
     "title": "Sunrisers Hyderabad SRL - Gujarat Titans Srl",
     "bets": [
@@ -229,11 +187,11 @@
     "bets": [
       {
         "team": "Perth Scorchers (w)",
-        "odds": "2.12"
+        "odds": "2.08"
       },
       {
         "team": "Adelaide Strikers (w)",
-        "odds": "1.71"
+        "odds": "1.7"
       }
     ]
   },
@@ -313,11 +271,11 @@
     "bets": [
       {
         "team": "CLPSS XI",
-        "odds": "3.09"
+        "odds": "3.49"
       },
       {
         "team": "LPS-A",
-        "odds": "1.3"
+        "odds": "1.25"
       }
     ]
   },
@@ -345,7 +303,7 @@
       },
       {
         "team": "Sri Lanka",
-        "odds": "2.43"
+        "odds": "2.44"
       }
     ]
   },
@@ -355,11 +313,11 @@
     "bets": [
       {
         "team": "Northern Warriors",
-        "odds": "2.64"
+        "odds": "2.86"
       },
       {
         "team": "Deccan Gladiators",
-        "odds": "1.48"
+        "odds": "1.41"
       }
     ]
   },
@@ -481,11 +439,11 @@
     "bets": [
       {
         "team": "Sydney Thunder (w)",
-        "odds": "1.69"
+        "odds": "1.7"
       },
       {
         "team": "Melbourne Renegades (w)",
-        "odds": "2.14"
+        "odds": "2.08"
       }
     ]
   },
@@ -892,6 +850,34 @@
       {
         "team": "Eastern Cape Linyathi",
         "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 01:00 PM",
+    "title": "Pakistan - Zimbabwe",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.24"
+      },
+      {
+        "team": "Zimbabwe",
+        "odds": "3.77"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 02:30 PM",
+    "title": "Bangladesh A - Pakistan A",
+    "bets": [
+      {
+        "team": "Bangladesh A",
+        "odds": "2.34"
+      },
+      {
+        "team": "Pakistan A",
+        "odds": "1.6"
       }
     ]
   }
