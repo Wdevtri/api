@@ -14,48 +14,6 @@
     ]
   },
   {
-    "date": "Nov 22, 04:00 PM",
-    "title": "Rajasthan Royals SRL - Lucknow Super Giants Srl",
-    "bets": [
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "1.93"
-      },
-      {
-        "team": "Lucknow Super Giants Srl",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 04:00 PM",
-    "title": "Quetta Qavalry - UAE Bulls",
-    "bets": [
-      {
-        "team": "Quetta Qavalry",
-        "odds": "2.04"
-      },
-      {
-        "team": "UAE Bulls",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 04:30 PM",
-    "title": "Legend Warriors - Jhang Union Eagles",
-    "bets": [
-      {
-        "team": "Legend Warriors",
-        "odds": "1.45"
-      },
-      {
-        "team": "Jhang Union Eagles",
-        "odds": "2.58"
-      }
-    ]
-  },
-  {
     "date": "Nov 22, 06:00 PM",
     "title": "England Srl - India Srl",
     "bets": [
@@ -117,11 +75,11 @@
     "bets": [
       {
         "team": "Sydney Thunder (w)",
-        "odds": "1.7"
+        "odds": "1.62"
       },
       {
         "team": "Melbourne Renegades (w)",
-        "odds": "2.08"
+        "odds": "2.21"
       }
     ]
   },
@@ -299,11 +257,11 @@
     "bets": [
       {
         "team": "Tanzania (w)",
-        "odds": "2.56"
+        "odds": "2.73"
       },
       {
         "team": "Netherlands (w)",
-        "odds": "1.47"
+        "odds": "1.4"
       }
     ]
   },
@@ -435,6 +393,20 @@
   },
   {
     "date": "Nov 23, 03:30 AM",
+    "title": "Punjab U-19 - Baroda U-19",
+    "bets": [
+      {
+        "team": "Punjab U-19",
+        "odds": "1.55"
+      },
+      {
+        "team": "Baroda U-19",
+        "odds": "2.25"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 03:30 AM",
     "title": "Uttarakhand U-19 - Maharashtra U-19",
     "bets": [
       {
@@ -533,6 +505,20 @@
   },
   {
     "date": "Nov 23, 03:30 AM",
+    "title": "Vidarbha U-19 - Pondicherry U-19",
+    "bets": [
+      {
+        "team": "Vidarbha U-19",
+        "odds": "1.41"
+      },
+      {
+        "team": "Pondicherry U-19",
+        "odds": "2.63"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 03:30 AM",
     "title": "Andhra U-19 - Odisha U-19",
     "bets": [
       {
@@ -588,6 +574,20 @@
     ]
   },
   {
+    "date": "Nov 23, 06:00 AM",
+    "title": "Kayunga Titans - Njeru Warriors",
+    "bets": [
+      {
+        "team": "Kayunga Titans",
+        "odds": "1.96"
+      },
+      {
+        "team": "Njeru Warriors",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
     "date": "Nov 23, 06:45 AM",
     "title": "Thailand (w) - Namibia (w)",
     "bets": [
@@ -630,6 +630,20 @@
     ]
   },
   {
+    "date": "Nov 23, 07:30 AM",
+    "title": "Tamil Lions - IPRC Kigali CC",
+    "bets": [
+      {
+        "team": "Tamil Lions",
+        "odds": "4.5"
+      },
+      {
+        "team": "IPRC Kigali CC",
+        "odds": "1.16"
+      }
+    ]
+  },
+  {
     "date": "Nov 23, 08:00 AM",
     "title": "Sydney Sixers Srl - Brisbane Heat Srl",
     "bets": [
@@ -654,6 +668,20 @@
       {
         "team": "Pretoria Capitals Srl",
         "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 09:00 AM",
+    "title": "Lions - Western Province",
+    "bets": [
+      {
+        "team": "Lions",
+        "odds": "2.3"
+      },
+      {
+        "team": "Western Province",
+        "odds": "1.52"
       }
     ]
   },
@@ -714,6 +742,34 @@
     ]
   },
   {
+    "date": "Nov 23, 11:00 AM",
+    "title": "Buvuma Sailors - Lugazi Trekkers",
+    "bets": [
+      {
+        "team": "Buvuma Sailors",
+        "odds": "1.8"
+      },
+      {
+        "team": "Lugazi Trekkers",
+        "odds": "1.86"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 11:30 AM",
+    "title": "Ajman Titans - Royal Champs",
+    "bets": [
+      {
+        "team": "Ajman Titans",
+        "odds": "1.62"
+      },
+      {
+        "team": "Royal Champs",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
     "date": "Nov 23, 12:00 PM",
     "title": "Otago SRL - Canterbury SRL",
     "bets": [
@@ -757,15 +813,43 @@
   },
   {
     "date": "Nov 23, 01:00 PM",
+    "title": "Barbados Pride - Windward Islands Volcanoes",
+    "bets": [
+      {
+        "team": "Barbados Pride",
+        "odds": "1.34"
+      },
+      {
+        "team": "Windward Islands Volcanoes",
+        "odds": "2.92"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 01:00 PM",
     "title": "Pakistan - Zimbabwe",
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.24"
+        "odds": "1.14"
       },
       {
         "team": "Zimbabwe",
-        "odds": "3.77"
+        "odds": "5.6"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 01:00 PM",
+    "title": "Alif Pharma - Lexington Shotguns",
+    "bets": [
+      {
+        "team": "Alif Pharma",
+        "odds": "1.94"
+      },
+      {
+        "team": "Lexington Shotguns",
+        "odds": "1.8"
       }
     ]
   },
@@ -812,6 +896,20 @@
     ]
   },
   {
+    "date": "Nov 23, 04:30 PM",
+    "title": "GHK Properties - Z Sports",
+    "bets": [
+      {
+        "team": "GHK Properties",
+        "odds": "2.04"
+      },
+      {
+        "team": "Z Sports",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
     "date": "Nov 23, 06:00 PM",
     "title": "South Africa Srl - Australia Srl",
     "bets": [
@@ -822,6 +920,20 @@
       {
         "team": "Australia Srl",
         "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 06:00 PM",
+    "title": "TT Red Force - Guyana Harpy Eagles",
+    "bets": [
+      {
+        "team": "TT Red Force",
+        "odds": "1.64"
+      },
+      {
+        "team": "Guyana Harpy Eagles",
+        "odds": "2.08"
       }
     ]
   },
@@ -920,6 +1032,20 @@
       {
         "team": "Delhi Capitals (Jordan)",
         "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Nov 24, 10:15 AM",
+    "title": "Sudurpaschim Royals - Karnali Yaks",
+    "bets": [
+      {
+        "team": "Sudurpaschim Royals",
+        "odds": "1.67"
+      },
+      {
+        "team": "Karnali Yaks",
+        "odds": "2.04"
       }
     ]
   },
