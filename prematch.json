@@ -14,48 +14,6 @@
     ]
   },
   {
-    "date": "Nov 22, 01:00 PM",
-    "title": "Royal Challengers Bangalore SRL - Kolkata Knight Riders Srl",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.74"
-      },
-      {
-        "team": "Kolkata Knight Riders Srl",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 01:00 PM",
-    "title": "Pakistan - Sri Lanka",
-    "bets": [
-      {
-        "team": "Pakistan",
-        "odds": "1.55"
-      },
-      {
-        "team": "Sri Lanka",
-        "odds": "2.35"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 01:45 PM",
-    "title": "Northern Warriors - Deccan Gladiators",
-    "bets": [
-      {
-        "team": "Northern Warriors",
-        "odds": "2.86"
-      },
-      {
-        "team": "Deccan Gladiators",
-        "odds": "1.41"
-      }
-    ]
-  },
-  {
     "date": "Nov 22, 02:00 PM",
     "title": "Lahore Qalanders Srl - Quetta Gladiators Srl",
     "bets": [
@@ -341,11 +299,11 @@
     "bets": [
       {
         "team": "Uganda (w)",
-        "odds": "2.07"
+        "odds": "2.34"
       },
       {
         "team": "Papua New Guinea (w)",
-        "odds": "1.67"
+        "odds": "1.55"
       }
     ]
   },
@@ -355,11 +313,11 @@
     "bets": [
       {
         "team": "Tanzania (w)",
-        "odds": "2.59"
+        "odds": "2.56"
       },
       {
         "team": "Netherlands (w)",
-        "odds": "1.44"
+        "odds": "1.47"
       }
     ]
   },
@@ -691,11 +649,11 @@
     "bets": [
       {
         "team": "Thailand (w)",
-        "odds": "1.5"
+        "odds": "1.45"
       },
       {
         "team": "Namibia (w)",
-        "odds": "2.41"
+        "odds": "2.58"
       }
     ]
   },
@@ -705,11 +663,11 @@
     "bets": [
       {
         "team": "United Arab Emirates (w)",
-        "odds": "3.83"
+        "odds": "4.05"
       },
       {
         "team": "Scotland (w)",
-        "odds": "1.22"
+        "odds": "1.2"
       }
     ]
   },
@@ -952,6 +910,20 @@
     ]
   },
   {
+    "date": "Nov 24, 06:00 AM",
+    "title": "Janakpur Bolts - Biratnagar Kings",
+    "bets": [
+      {
+        "team": "Janakpur Bolts",
+        "odds": "2.34"
+      },
+      {
+        "team": "Biratnagar Kings",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
     "date": "Nov 24, 08:00 AM",
     "title": "Mumbai Indians (Etienne) - Sunrisers Hyderabad (Sibs)",
     "bets": [
@@ -990,6 +962,34 @@
       {
         "team": "Delhi Capitals (Jordan)",
         "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Nov 24, 10:15 AM",
+    "title": "Sudurpaschim Royals - Karnali Yaks",
+    "bets": [
+      {
+        "team": "Sudurpaschim Royals",
+        "odds": "1.66"
+      },
+      {
+        "team": "Karnali Yaks",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Nov 24, 01:00 PM",
+    "title": "West Indies - England",
+    "bets": [
+      {
+        "team": "West Indies",
+        "odds": "2.18"
+      },
+      {
+        "team": "England",
+        "odds": "1.59"
       }
     ]
   }
