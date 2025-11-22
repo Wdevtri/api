@@ -14,76 +14,6 @@
     ]
   },
   {
-    "date": "Nov 22, 07:30 AM",
-    "title": "Mountaineers - Southern Rocks",
-    "bets": [
-      {
-        "team": "Mountaineers",
-        "odds": "1.62"
-      },
-      {
-        "team": "Southern Rocks",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 07:30 AM",
-    "title": "Mashonaland Eagles - Matabeleland Tuskers",
-    "bets": [
-      {
-        "team": "Mashonaland Eagles",
-        "odds": "1.55"
-      },
-      {
-        "team": "Matabeleland Tuskers",
-        "odds": "2.34"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 07:30 AM",
-    "title": "Ashtapailu Sports - Pachange CC",
-    "bets": [
-      {
-        "team": "Ashtapailu Sports",
-        "odds": "1.6"
-      },
-      {
-        "team": "Pachange CC",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 07:45 AM",
-    "title": "TVS Lanka - Hemas Holding",
-    "bets": [
-      {
-        "team": "TVS Lanka",
-        "odds": "1.6"
-      },
-      {
-        "team": "Hemas Holding",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 07:45 AM",
-    "title": "HSBC II - Morison Limited",
-    "bets": [
-      {
-        "team": "HSBC II",
-        "odds": "1.98"
-      },
-      {
-        "team": "Morison Limited",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
     "date": "Nov 22, 08:00 AM",
     "title": "Hobart Hurricanes Srl - Sydney Thunder Srl",
     "bets": [
@@ -94,34 +24,6 @@
       {
         "team": "Sydney Thunder Srl",
         "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 08:00 AM",
-    "title": "Titans - South Western Districts",
-    "bets": [
-      {
-        "team": "Titans",
-        "odds": "1.46"
-      },
-      {
-        "team": "South Western Districts",
-        "odds": "2.48"
-      }
-    ]
-  },
-  {
-    "date": "Nov 22, 08:00 AM",
-    "title": "Lions - Western Province",
-    "bets": [
-      {
-        "team": "Lions",
-        "odds": "1.87"
-      },
-      {
-        "team": "Western Province",
-        "odds": "1.8"
       }
     ]
   },
