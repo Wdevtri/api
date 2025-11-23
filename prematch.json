@@ -14,30 +14,16 @@
     ]
   },
   {
-    "date": "Nov 23, 10:00 AM",
-    "title": "Quetta Gladiators Srl - Islamabad United Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.77"
-      },
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
     "date": "Nov 23, 11:00 AM",
     "title": "Knights - Eastern Cape Linyathi",
     "bets": [
       {
         "team": "Knights",
-        "odds": "1.55"
+        "odds": "1.53"
       },
       {
         "team": "Eastern Cape Linyathi",
-        "odds": "2.26"
+        "odds": "2.28"
       }
     ]
   },
@@ -75,11 +61,11 @@
     "bets": [
       {
         "team": "Ajman Titans",
-        "odds": "1.53"
+        "odds": "1.6"
       },
       {
         "team": "Royal Champs",
-        "odds": "2.5"
+        "odds": "2.34"
       }
     ]
   },
@@ -149,7 +135,7 @@
       },
       {
         "team": "Windward Islands Volcanoes",
-        "odds": "2.6"
+        "odds": "2.58"
       }
     ]
   },
@@ -159,11 +145,11 @@
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.17"
+        "odds": "1.2"
       },
       {
         "team": "Zimbabwe",
-        "odds": "5.05"
+        "odds": "4.23"
       }
     ]
   },
@@ -215,11 +201,11 @@
     "bets": [
       {
         "team": "Bangladesh A",
-        "odds": "2.42"
+        "odds": "2.48"
       },
       {
         "team": "Pakistan A",
-        "odds": "1.56"
+        "odds": "1.54"
       }
     ]
   },
@@ -696,6 +682,34 @@
       {
         "team": "Guyana Amazon Warriors Srl",
         "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Nov 24, 11:30 PM",
+    "title": "Queensland Droughtmasters - New Zealand A",
+    "bets": [
+      {
+        "team": "Queensland Droughtmasters",
+        "odds": "1.71"
+      },
+      {
+        "team": "New Zealand A",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "Nov 24, 11:30 PM",
+    "title": "Victoria - WA Black Swans",
+    "bets": [
+      {
+        "team": "Victoria",
+        "odds": "1.37"
+      },
+      {
+        "team": "WA Black Swans",
+        "odds": "2.79"
       }
     ]
   },
