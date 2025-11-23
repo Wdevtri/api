@@ -14,160 +14,6 @@
     ]
   },
   {
-    "date": "Nov 23, 06:00 AM",
-    "title": "Sunrisers Eastern Cape Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 06:00 AM",
-    "title": "Kayunga Titans - Njeru Warriors",
-    "bets": [
-      {
-        "team": "Kayunga Titans",
-        "odds": "1.96"
-      },
-      {
-        "team": "Njeru Warriors",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 06:45 AM",
-    "title": "Thailand (w) - Namibia (w)",
-    "bets": [
-      {
-        "team": "Thailand (w)",
-        "odds": "1.35"
-      },
-      {
-        "team": "Namibia (w)",
-        "odds": "2.94"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 06:45 AM",
-    "title": "United Arab Emirates (w) - Scotland (w)",
-    "bets": [
-      {
-        "team": "United Arab Emirates (w)",
-        "odds": "4.05"
-      },
-      {
-        "team": "Scotland (w)",
-        "odds": "1.2"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 07:00 AM",
-    "title": "Chennai Super Kings SRL - Mumbai Indians SRL",
-    "bets": [
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.28"
-      },
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 07:30 AM",
-    "title": "Tamil Lions - IPRC Kigali CC",
-    "bets": [
-      {
-        "team": "Tamil Lions",
-        "odds": "4.5"
-      },
-      {
-        "team": "IPRC Kigali CC",
-        "odds": "1.16"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 08:00 AM",
-    "title": "Sydney Sixers Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 08:00 AM",
-    "title": "Prajapati Blasters - KOLI PATEL SAMAJ-B",
-    "bets": [
-      {
-        "team": "Prajapati Blasters",
-        "odds": "2.02"
-      },
-      {
-        "team": "KOLI PATEL SAMAJ-B",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 09:00 AM",
-    "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 09:00 AM",
-    "title": "Lions - Western Province",
-    "bets": [
-      {
-        "team": "Lions",
-        "odds": "2.12"
-      },
-      {
-        "team": "Western Province",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 09:10 AM",
-    "title": "Brisbane Heat (w) - Melbourne Stars (w)",
-    "bets": [
-      {
-        "team": "Brisbane Heat (w)",
-        "odds": "2.28"
-      },
-      {
-        "team": "Melbourne Stars (w)",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
     "date": "Nov 23, 10:00 AM",
     "title": "Quetta Gladiators Srl - Islamabad United Srl",
     "bets": [
@@ -299,11 +145,11 @@
     "bets": [
       {
         "team": "Barbados Pride",
-        "odds": "1.38"
+        "odds": "1.42"
       },
       {
         "team": "Windward Islands Volcanoes",
-        "odds": "2.74"
+        "odds": "2.6"
       }
     ]
   },
