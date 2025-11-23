@@ -14,48 +14,6 @@
     ]
   },
   {
-    "date": "Nov 23, 04:00 PM",
-    "title": "Gujarat Titans Srl - Royal Challengers Bangalore SRL",
-    "bets": [
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.93"
-      },
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 04:00 PM",
-    "title": "Northern Warriors - Vista Riders",
-    "bets": [
-      {
-        "team": "Northern Warriors",
-        "odds": "1.97"
-      },
-      {
-        "team": "Vista Riders",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 04:30 PM",
-    "title": "GHK Properties - Z Sports",
-    "bets": [
-      {
-        "team": "GHK Properties",
-        "odds": "2.04"
-      },
-      {
-        "team": "Z Sports",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
     "date": "Nov 23, 06:00 PM",
     "title": "South Africa Srl - Australia Srl",
     "bets": [
@@ -574,6 +532,34 @@
     ]
   },
   {
+    "date": "Nov 25, 02:30 AM",
+    "title": "Thailand (w) - Tanzania (w)",
+    "bets": [
+      {
+        "team": "Thailand (w)",
+        "odds": "1.24"
+      },
+      {
+        "team": "Tanzania (w)",
+        "odds": "3.6"
+      }
+    ]
+  },
+  {
+    "date": "Nov 25, 02:30 AM",
+    "title": "United Arab Emirates (w) - Uganda (w)",
+    "bets": [
+      {
+        "team": "United Arab Emirates (w)",
+        "odds": "1.83"
+      },
+      {
+        "team": "Uganda (w)",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
     "date": "Nov 25, 03:00 AM",
     "title": "Mumbai U-23 - Uttar Pradesh U-23",
     "bets": [
@@ -602,16 +588,58 @@
     ]
   },
   {
+    "date": "Nov 25, 06:45 AM",
+    "title": "Namibia (w) - Scotland (w)",
+    "bets": [
+      {
+        "team": "Namibia (w)",
+        "odds": "4"
+      },
+      {
+        "team": "Scotland (w)",
+        "odds": "1.2"
+      }
+    ]
+  },
+  {
+    "date": "Nov 25, 06:45 AM",
+    "title": "Papua New Guinea (w) - Netherlands (w)",
+    "bets": [
+      {
+        "team": "Papua New Guinea (w)",
+        "odds": "2.7"
+      },
+      {
+        "team": "Netherlands (w)",
+        "odds": "1.41"
+      }
+    ]
+  },
+  {
     "date": "Nov 25, 08:10 AM",
     "title": "Adelaide Strikers (w) - Brisbane Heat (w)",
     "bets": [
       {
         "team": "Adelaide Strikers (w)",
-        "odds": "1.72"
+        "odds": "1.65"
       },
       {
         "team": "Brisbane Heat (w)",
-        "odds": "2.1"
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Nov 25, 01:00 PM",
+    "title": "Sri Lanka - Zimbabwe",
+    "bets": [
+      {
+        "team": "Sri Lanka",
+        "odds": "1.29"
+      },
+      {
+        "team": "Zimbabwe",
+        "odds": "3.6"
       }
     ]
   }
