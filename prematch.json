@@ -14,146 +14,6 @@
     ]
   },
   {
-    "date": "Nov 23, 12:00 PM",
-    "title": "Otago SRL - Canterbury SRL",
-    "bets": [
-      {
-        "team": "Otago SRL",
-        "odds": "2.32"
-      },
-      {
-        "team": "Canterbury SRL",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 12:30 PM",
-    "title": "Bright Future Warriors - VRAJ XI-Desai Samaj-2025",
-    "bets": [
-      {
-        "team": "Bright Future Warriors",
-        "odds": "2.53"
-      },
-      {
-        "team": "VRAJ XI-Desai Samaj-2025",
-        "odds": "1.44"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 01:00 PM",
-    "title": "Delhi Capitals SRL - Sunrisers Hyderabad SRL",
-    "bets": [
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "1.89"
-      },
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 01:00 PM",
-    "title": "Leeward Islands Hurricanes - Jamaica Scorpions",
-    "bets": [
-      {
-        "team": "Leeward Islands Hurricanes",
-        "odds": "1.67"
-      },
-      {
-        "team": "Jamaica Scorpions",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 01:00 PM",
-    "title": "Barbados Pride - Windward Islands Volcanoes",
-    "bets": [
-      {
-        "team": "Barbados Pride",
-        "odds": "1.42"
-      },
-      {
-        "team": "Windward Islands Volcanoes",
-        "odds": "2.58"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 01:00 PM",
-    "title": "Pakistan - Zimbabwe",
-    "bets": [
-      {
-        "team": "Pakistan",
-        "odds": "1.2"
-      },
-      {
-        "team": "Zimbabwe",
-        "odds": "4.23"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 01:00 PM",
-    "title": "Alif Pharma - Lexington Shotguns",
-    "bets": [
-      {
-        "team": "Alif Pharma",
-        "odds": "1.94"
-      },
-      {
-        "team": "Lexington Shotguns",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 01:45 PM",
-    "title": "Quetta Qavalry - Aspin Stallions",
-    "bets": [
-      {
-        "team": "Quetta Qavalry",
-        "odds": "1.54"
-      },
-      {
-        "team": "Aspin Stallions",
-        "odds": "2.48"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 02:00 PM",
-    "title": "Lahore Qalanders Srl - Peshawar Zalmi Srl",
-    "bets": [
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.67"
-      },
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.12"
-      }
-    ]
-  },
-  {
-    "date": "Nov 23, 02:30 PM",
-    "title": "Bangladesh A - Pakistan A",
-    "bets": [
-      {
-        "team": "Bangladesh A",
-        "odds": "2.48"
-      },
-      {
-        "team": "Pakistan A",
-        "odds": "1.54"
-      }
-    ]
-  },
-  {
     "date": "Nov 23, 04:00 PM",
     "title": "Gujarat Titans Srl - Royal Challengers Bangalore SRL",
     "bets": [
@@ -266,6 +126,62 @@
     ]
   },
   {
+    "date": "Nov 23, 11:30 PM",
+    "title": "Tasmania Gold - WA Sandgropers",
+    "bets": [
+      {
+        "team": "Tasmania Gold",
+        "odds": "1.8"
+      },
+      {
+        "team": "WA Sandgropers",
+        "odds": "1.86"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 11:30 PM",
+    "title": "Queensland Droughtmasters II - Victoria II",
+    "bets": [
+      {
+        "team": "Queensland Droughtmasters II",
+        "odds": "2.14"
+      },
+      {
+        "team": "Victoria II",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 11:30 PM",
+    "title": "NSW Waratahs - South Australia II",
+    "bets": [
+      {
+        "team": "NSW Waratahs",
+        "odds": "1.15"
+      },
+      {
+        "team": "South Australia II",
+        "odds": "4.48"
+      }
+    ]
+  },
+  {
+    "date": "Nov 23, 11:30 PM",
+    "title": "Queensland Droughtmasters III - ACT 50s 2",
+    "bets": [
+      {
+        "team": "Queensland Droughtmasters III",
+        "odds": "1.82"
+      },
+      {
+        "team": "ACT 50s 2",
+        "odds": "1.84"
+      }
+    ]
+  },
+  {
     "date": "Nov 24, 12:00 AM",
     "title": "Bangladesh Srl - Afghanistan Srl",
     "bets": [
@@ -369,11 +285,11 @@
     "bets": [
       {
         "team": "Janakpur Bolts",
-        "odds": "2.34"
+        "odds": "2.38"
       },
       {
         "team": "Biratnagar Kings",
-        "odds": "1.6"
+        "odds": "1.58"
       }
     ]
   },
@@ -682,6 +598,20 @@
       {
         "team": "Madhya Pradesh U-23",
         "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Nov 25, 08:10 AM",
+    "title": "Adelaide Strikers (w) - Brisbane Heat (w)",
+    "bets": [
+      {
+        "team": "Adelaide Strikers (w)",
+        "odds": "1.72"
+      },
+      {
+        "team": "Brisbane Heat (w)",
+        "odds": "2.1"
       }
     ]
   }
