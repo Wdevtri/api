@@ -1,607 +1,5 @@
 [
   {
-    "date": "Nov 26, 10:00 PM",
-    "title": "Sydney Sixers Srl - Melbourne Renegades Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Nov 26, 11:00 PM",
-    "title": "Barbados Royals Srl - Trinbago Knight Riders Srl",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Nov 26, 11:30 PM",
-    "title": "New Zealand A - Tasmania Green",
-    "bets": [
-      {
-        "team": "New Zealand A",
-        "odds": "1.83"
-      },
-      {
-        "team": "Tasmania Green",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Nov 26, 11:30 PM",
-    "title": "WA Black Swans - South Australia",
-    "bets": [
-      {
-        "team": "WA Black Swans",
-        "odds": "1.79"
-      },
-      {
-        "team": "South Australia",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "Nov 26, 11:30 PM",
-    "title": "Queensland Droughtmasters - NSW Blues",
-    "bets": [
-      {
-        "team": "Queensland Droughtmasters",
-        "odds": "2.25"
-      },
-      {
-        "team": "NSW Blues",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
-    "date": "Nov 26, 11:30 PM",
-    "title": "Victoria - ACT 50s 1",
-    "bets": [
-      {
-        "team": "Victoria",
-        "odds": "1.89"
-      },
-      {
-        "team": "ACT 50s 1",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 12:00 AM",
-    "title": "India Srl - England Srl",
-    "bets": [
-      {
-        "team": "India Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "England Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 01:00 AM",
-    "title": "Adelaide Strikers Srl - Hobart Hurricanes Srl",
-    "bets": [
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.02"
-      },
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 02:00 AM",
-    "title": "St Kitts And Nevis Patriots Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "1.97"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 02:00 AM",
-    "title": "Bahrain - Thailand",
-    "bets": [
-      {
-        "team": "Bahrain",
-        "odds": "1.12"
-      },
-      {
-        "team": "Thailand",
-        "odds": "5.55"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 03:00 AM",
-    "title": "Karachi Kings Srl - Peshawar Zalmi Srl",
-    "bets": [
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "1.81"
-      },
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 03:30 AM",
-    "title": "Ashtapailu Sports - Pachange CC",
-    "bets": [
-      {
-        "team": "Ashtapailu Sports",
-        "odds": "1.28"
-      },
-      {
-        "team": "Pachange CC",
-        "odds": "3.25"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 03:30 AM",
-    "title": "Queensland Droughtmasters II - NSW Waratahs",
-    "bets": [
-      {
-        "team": "Queensland Droughtmasters II",
-        "odds": "1.83"
-      },
-      {
-        "team": "NSW Waratahs",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 03:30 AM",
-    "title": "Tasmania Gold - ACT 50s 2",
-    "bets": [
-      {
-        "team": "Tasmania Gold",
-        "odds": "1.59"
-      },
-      {
-        "team": "ACT 50s 2",
-        "odds": "2.17"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 03:30 AM",
-    "title": "WA Sandgropers - South Australia II",
-    "bets": [
-      {
-        "team": "WA Sandgropers",
-        "odds": "2.17"
-      },
-      {
-        "team": "South Australia II",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 03:30 AM",
-    "title": "Victoria II - Queensland Droughtmasters III",
-    "bets": [
-      {
-        "team": "Victoria II",
-        "odds": "1.86"
-      },
-      {
-        "team": "Queensland Droughtmasters III",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 03:30 AM",
-    "title": "Sri Lanka Over-40s - Rest of the Gulf Over-40s",
-    "bets": [
-      {
-        "team": "Sri Lanka Over-40s",
-        "odds": "1.52"
-      },
-      {
-        "team": "Rest of the Gulf Over-40s",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 03:30 AM",
-    "title": "USA Over-40s - Rest of the World Over-40s",
-    "bets": [
-      {
-        "team": "USA Over-40s",
-        "odds": "1.5"
-      },
-      {
-        "team": "Rest of the World Over-40s",
-        "odds": "2.35"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 03:30 AM",
-    "title": "Australia Over-40s - Zimbabwe Over-40s",
-    "bets": [
-      {
-        "team": "Australia Over-40s",
-        "odds": "1.06"
-      },
-      {
-        "team": "Zimbabwe Over-40s",
-        "odds": "6.69"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 04:00 AM",
-    "title": "Central Districts SRL - Northern Districts SRL",
-    "bets": [
-      {
-        "team": "Central Districts SRL",
-        "odds": "2.04"
-      },
-      {
-        "team": "Northern Districts SRL",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 04:10 AM",
-    "title": "Melbourne Renegades (w) - Perth Scorchers (w)",
-    "bets": [
-      {
-        "team": "Melbourne Renegades (w)",
-        "odds": "1.92"
-      },
-      {
-        "team": "Perth Scorchers (w)",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 05:00 AM",
-    "title": "Pakistan Srl - Australia Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Australia Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 05:00 AM",
-    "title": "Eastlake 1st Grade - Ginninderra 1st Grade",
-    "bets": [
-      {
-        "team": "Eastlake 1st Grade",
-        "odds": "2.17"
-      },
-      {
-        "team": "Ginninderra 1st Grade",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 05:00 AM",
-    "title": "NCGCC 1st Grade - ANU 1st Grade",
-    "bets": [
-      {
-        "team": "NCGCC 1st Grade",
-        "odds": "1.44"
-      },
-      {
-        "team": "ANU 1st Grade",
-        "odds": "2.53"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 05:00 AM",
-    "title": "WCMCC 1st Grade - Tuggeranong 1st Grade",
-    "bets": [
-      {
-        "team": "WCMCC 1st Grade",
-        "odds": "2.02"
-      },
-      {
-        "team": "Tuggeranong 1st Grade",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 05:00 AM",
-    "title": "WDCC 1st Grade - Queanbeyan 1st Grade",
-    "bets": [
-      {
-        "team": "WDCC 1st Grade",
-        "odds": "5.97"
-      },
-      {
-        "team": "Queanbeyan 1st Grade",
-        "odds": "1.08"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 06:00 AM",
-    "title": "Paarl Royals Srl - Mi Cape Town Srl",
-    "bets": [
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "2.04"
-      },
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 06:00 AM",
-    "title": "Lumbini Lions - Sudurpaschim Royals",
-    "bets": [
-      {
-        "team": "Lumbini Lions",
-        "odds": "2.26"
-      },
-      {
-        "team": "Sudurpaschim Royals",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 06:00 AM",
-    "title": "Njeru Warriors - Buvuma Sailors",
-    "bets": [
-      {
-        "team": "Njeru Warriors",
-        "odds": "1.99"
-      },
-      {
-        "team": "Buvuma Sailors",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 06:30 AM",
-    "title": "Malaysia - Malaysia A",
-    "bets": [
-      {
-        "team": "Malaysia",
-        "odds": "1.17"
-      },
-      {
-        "team": "Malaysia A",
-        "odds": "4.44"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 07:00 AM",
-    "title": "Royal Challengers Bangalore SRL - Punjab Kings SRL",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.85"
-      },
-      {
-        "team": "Punjab Kings SRL",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 07:30 AM",
-    "title": "Metro CC - Sunny XI",
-    "bets": [
-      {
-        "team": "Metro CC",
-        "odds": "2.17"
-      },
-      {
-        "team": "Sunny XI",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 08:00 AM",
-    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 08:00 AM",
-    "title": "Maan Xi Dastan Mahyavanshi Rok - Bright Future Warriors",
-    "bets": [
-      {
-        "team": "Maan Xi Dastan Mahyavanshi Rok",
-        "odds": "1.34"
-      },
-      {
-        "team": "Bright Future Warriors",
-        "odds": "2.89"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 08:00 AM",
-    "title": "Chennai Super Kings (Caleb) - Sunrisers Hyderabad (Sibs)",
-    "bets": [
-      {
-        "team": "Chennai Super Kings (Caleb)",
-        "odds": "1.33"
-      },
-      {
-        "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "3.3"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 08:15 AM",
-    "title": "Hong Kong Over-40s - West Indies Over-40s",
-    "bets": [
-      {
-        "team": "Hong Kong Over-40s",
-        "odds": "1.8"
-      },
-      {
-        "team": "West Indies Over-40s",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 08:15 AM",
-    "title": "Pakistan Over-40s - Canada Over-40s",
-    "bets": [
-      {
-        "team": "Pakistan Over-40s",
-        "odds": "1.04"
-      },
-      {
-        "team": "Canada Over-40s",
-        "odds": "7.61"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 08:15 AM",
-    "title": "South Africa Over-40s - UAE Over-40s",
-    "bets": [
-      {
-        "team": "South Africa Over-40s",
-        "odds": "1.55"
-      },
-      {
-        "team": "UAE Over-40s",
-        "odds": "2.23"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 09:00 AM",
-    "title": "Sunrisers Eastern Cape Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.78"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.97"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 09:00 AM",
-    "title": "Chennai Super Kings (Caleb) - Mumbai Indians (Etienne)",
-    "bets": [
-      {
-        "team": "Chennai Super Kings (Caleb)",
-        "odds": "1.19"
-      },
-      {
-        "team": "Mumbai Indians (Etienne)",
-        "odds": "4.5"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 10:00 AM",
-    "title": "Multan Sultans Srl - Islamabad United Srl",
-    "bets": [
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 10:00 AM",
-    "title": "Sunrisers Hyderabad (Sibs) - Mumbai Indians (Etienne)",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "1.41"
-      },
-      {
-        "team": "Mumbai Indians (Etienne)",
-        "odds": "2.86"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 10:15 AM",
-    "title": "Janakpur Bolts - Pokhara Avengers",
-    "bets": [
-      {
-        "team": "Janakpur Bolts",
-        "odds": "1.72"
-      },
-      {
-        "team": "Pokhara Avengers",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
     "date": "Nov 27, 11:00 AM",
     "title": "Trinbago Knight Riders Srl - Guyana Amazon Warriors Srl",
     "bets": [
@@ -616,16 +14,44 @@
     ]
   },
   {
+    "date": "Nov 27, 11:00 AM",
+    "title": "Sunrisers Hyderabad (Sibs) - Chennai Super Kings (Caleb)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "4.5"
+      },
+      {
+        "team": "Chennai Super Kings (Caleb)",
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
     "date": "Nov 27, 11:30 AM",
     "title": "Vista Riders - Quetta Qavalry",
     "bets": [
       {
         "team": "Vista Riders",
-        "odds": "2.6"
+        "odds": "2.45"
       },
       {
         "team": "Quetta Qavalry",
-        "odds": "1.49"
+        "odds": "1.55"
+      }
+    ]
+  },
+  {
+    "date": "Nov 27, 12:00 PM",
+    "title": "Bangladesh - Ireland",
+    "bets": [
+      {
+        "team": "Bangladesh",
+        "odds": "1.27"
+      },
+      {
+        "team": "Ireland",
+        "odds": "3.85"
       }
     ]
   },
@@ -645,15 +71,15 @@
   },
   {
     "date": "Nov 27, 12:00 PM",
-    "title": "Bangladesh - Ireland",
+    "title": "Mumbai Indians (Etienne) - Chennai Super Kings (Caleb)",
     "bets": [
       {
-        "team": "Bangladesh",
-        "odds": "1.31"
+        "team": "Mumbai Indians (Etienne)",
+        "odds": "5.4"
       },
       {
-        "team": "Ireland",
-        "odds": "3.5"
+        "team": "Chennai Super Kings (Caleb)",
+        "odds": "1.12"
       }
     ]
   },
@@ -673,6 +99,20 @@
   },
   {
     "date": "Nov 27, 01:00 PM",
+    "title": "Pakistan - Sri Lanka",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.62"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Nov 27, 01:00 PM",
     "title": "Gujarat Titans Srl - Lucknow Super Giants Srl",
     "bets": [
       {
@@ -682,6 +122,20 @@
       {
         "team": "Lucknow Super Giants Srl",
         "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Nov 27, 01:00 PM",
+    "title": "TT Red Force - Leeward Islands Hurricanes",
+    "bets": [
+      {
+        "team": "TT Red Force",
+        "odds": "1.39"
+      },
+      {
+        "team": "Leeward Islands Hurricanes",
+        "odds": "2.7"
       }
     ]
   },
@@ -700,44 +154,16 @@
     ]
   },
   {
-    "date": "Nov 27, 01:00 PM",
-    "title": "TT Red Force - Leeward Islands Hurricanes",
-    "bets": [
-      {
-        "team": "TT Red Force",
-        "odds": "1.43"
-      },
-      {
-        "team": "Leeward Islands Hurricanes",
-        "odds": "2.56"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 01:00 PM",
-    "title": "Pakistan - Sri Lanka",
-    "bets": [
-      {
-        "team": "Pakistan",
-        "odds": "1.62"
-      },
-      {
-        "team": "Sri Lanka",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
     "date": "Nov 27, 01:45 PM",
     "title": "UAE Bulls - Aspin Stallions",
     "bets": [
       {
         "team": "UAE Bulls",
-        "odds": "1.68"
+        "odds": "1.55"
       },
       {
         "team": "Aspin Stallions",
-        "odds": "2.18"
+        "odds": "2.44"
       }
     ]
   },
@@ -803,11 +229,11 @@
     "bets": [
       {
         "team": "Jamaica Scorpions",
-        "odds": "1.92"
+        "odds": "1.99"
       },
       {
         "team": "Windward Islands Volcanoes",
-        "odds": "1.76"
+        "odds": "1.7"
       }
     ]
   },
@@ -854,6 +280,62 @@
     ]
   },
   {
+    "date": "Nov 28, 12:00 AM",
+    "title": "South Africa Srl - India Srl",
+    "bets": [
+      {
+        "team": "South Africa Srl",
+        "odds": "2.2"
+      },
+      {
+        "team": "India Srl",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 01:00 AM",
+    "title": "Perth Scorchers Srl - Sydney Thunder Srl",
+    "bets": [
+      {
+        "team": "Perth Scorchers Srl",
+        "odds": "1.84"
+      },
+      {
+        "team": "Sydney Thunder Srl",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 02:00 AM",
+    "title": "Malaysia - Thailand",
+    "bets": [
+      {
+        "team": "Malaysia",
+        "odds": "1.06"
+      },
+      {
+        "team": "Thailand",
+        "odds": "7.4"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 02:00 AM",
+    "title": "Guyana Amazon Warriors Srl - Antigua And Barbuda Falcons SRL",
+    "bets": [
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.64"
+      },
+      {
+        "team": "Antigua And Barbuda Falcons SRL",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
     "date": "Nov 28, 02:30 AM",
     "title": "Thailand (w) - United Arab Emirates (w)",
     "bets": [
@@ -882,6 +364,34 @@
     ]
   },
   {
+    "date": "Nov 28, 03:00 AM",
+    "title": "Karachi Kings Srl - Peshawar Zalmi Srl",
+    "bets": [
+      {
+        "team": "Karachi Kings Srl",
+        "odds": "1.81"
+      },
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 04:00 AM",
+    "title": "Wellington SRL - Central Districts SRL",
+    "bets": [
+      {
+        "team": "Wellington SRL",
+        "odds": "1.56"
+      },
+      {
+        "team": "Central Districts SRL",
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
     "date": "Nov 28, 04:40 AM",
     "title": "Sydney Sixers (w) - Brisbane Heat (w)",
     "bets": [
@@ -896,16 +406,44 @@
     ]
   },
   {
-    "date": "Nov 28, 06:45 AM",
-    "title": "Namibia (w) - Papua New Guinea (w)",
+    "date": "Nov 28, 05:00 AM",
+    "title": "England Srl - Pakistan Srl",
     "bets": [
       {
-        "team": "Namibia (w)",
-        "odds": "2"
+        "team": "England Srl",
+        "odds": "1.68"
       },
       {
-        "team": "Papua New Guinea (w)",
-        "odds": "1.72"
+        "team": "Pakistan Srl",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 06:00 AM",
+    "title": "Chitwan Rhinos - Kathmandu Gurkhas",
+    "bets": [
+      {
+        "team": "Chitwan Rhinos",
+        "odds": "1.75"
+      },
+      {
+        "team": "Kathmandu Gurkhas",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 06:00 AM",
+    "title": "Mi Cape Town Srl - Sunrisers Eastern Cape Srl",
+    "bets": [
+      {
+        "team": "Mi Cape Town Srl",
+        "odds": "1.66"
+      },
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "2.14"
       }
     ]
   },
@@ -915,11 +453,53 @@
     "bets": [
       {
         "team": "Scotland (w)",
-        "odds": "1.65"
+        "odds": "1.53"
       },
       {
         "team": "Netherlands (w)",
-        "odds": "2.1"
+        "odds": "2.35"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 06:45 AM",
+    "title": "Namibia (w) - Papua New Guinea (w)",
+    "bets": [
+      {
+        "team": "Namibia (w)",
+        "odds": "2.28"
+      },
+      {
+        "team": "Papua New Guinea (w)",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 07:00 AM",
+    "title": "Kolkata Knight Riders Srl - Chennai Super Kings SRL",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders Srl",
+        "odds": "1.79"
+      },
+      {
+        "team": "Chennai Super Kings SRL",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 08:00 AM",
+    "title": "Melbourne Renegades Srl - Adelaide Strikers Srl",
+    "bets": [
+      {
+        "team": "Melbourne Renegades Srl",
+        "odds": "1.88"
+      },
+      {
+        "team": "Adelaide Strikers Srl",
+        "odds": "1.86"
       }
     ]
   },
@@ -929,11 +509,543 @@
     "bets": [
       {
         "team": "Adelaide Strikers (w)",
-        "odds": "1.77"
+        "odds": "1.74"
       },
       {
         "team": "Sydney Thunder (w)",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 09:00 AM",
+    "title": "Pretoria Capitals Srl - Joburg Super Kings Srl",
+    "bets": [
+      {
+        "team": "Pretoria Capitals Srl",
+        "odds": "1.91"
+      },
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:00 AM",
+    "title": "Islamabad United Srl - Quetta Gladiators Srl",
+    "bets": [
+      {
+        "team": "Islamabad United Srl",
+        "odds": "1.99"
+      },
+      {
+        "team": "Quetta Gladiators Srl",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:15 AM",
+    "title": "Karnali Yaks - Biratnagar Kings",
+    "bets": [
+      {
+        "team": "Karnali Yaks",
+        "odds": "2.26"
+      },
+      {
+        "team": "Biratnagar Kings",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:00 AM",
+    "title": "St Kitts And Nevis Patriots Srl - Trinbago Knight Riders Srl",
+    "bets": [
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "2.22"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 12:00 PM",
+    "title": "Canterbury SRL - Otago SRL",
+    "bets": [
+      {
+        "team": "Canterbury SRL",
+        "odds": "1.56"
+      },
+      {
+        "team": "Otago SRL",
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 01:00 PM",
+    "title": "Royal Challengers Bangalore SRL - Mumbai Indians SRL",
+    "bets": [
+      {
+        "team": "Royal Challengers Bangalore SRL",
+        "odds": "1.98"
+      },
+      {
+        "team": "Mumbai Indians SRL",
+        "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 02:00 PM",
+    "title": "Peshawar Zalmi Srl - Lahore Qalanders Srl",
+    "bets": [
+      {
+        "team": "Peshawar Zalmi Srl",
+        "odds": "2.12"
+      },
+      {
+        "team": "Lahore Qalanders Srl",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 04:00 PM",
+    "title": "Delhi Capitals SRL - Gujarat Titans Srl",
+    "bets": [
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "1.99"
+      },
+      {
+        "team": "Gujarat Titans Srl",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 06:00 PM",
+    "title": "West Indies Srl - Afghanistan Srl",
+    "bets": [
+      {
+        "team": "West Indies Srl",
+        "odds": "1.62"
+      },
+      {
+        "team": "Afghanistan Srl",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 08:00 PM",
+    "title": "Sunrisers Eastern Cape Srl - Durban Super Giants Srl",
+    "bets": [
+      {
+        "team": "Sunrisers Eastern Cape Srl",
+        "odds": "1.83"
+      },
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:00 PM",
+    "title": "Hobart Hurricanes Srl - Brisbane Heat Srl",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes Srl",
+        "odds": "1.74"
+      },
+      {
+        "team": "Brisbane Heat Srl",
         "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:30 PM",
+    "title": "Manly Warringah 1st Grade - Sutherland 1st Grade",
+    "bets": [
+      {
+        "team": "Manly Warringah 1st Grade",
+        "odds": "1.26"
+      },
+      {
+        "team": "Sutherland 1st Grade",
+        "odds": "3.37"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:30 PM",
+    "title": "Mosman 1st Grade - Gordon 1st Grade",
+    "bets": [
+      {
+        "team": "Mosman 1st Grade",
+        "odds": "1.37"
+      },
+      {
+        "team": "Gordon 1st Grade",
+        "odds": "2.78"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:30 PM",
+    "title": "Bankstown 1st Grade - Blacktown Mounties 1st Grade",
+    "bets": [
+      {
+        "team": "Bankstown 1st Grade",
+        "odds": "1.47"
+      },
+      {
+        "team": "Blacktown Mounties 1st Grade",
+        "odds": "2.45"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:30 PM",
+    "title": "St George 1st Grade - UTS North Sydney 1st Grade",
+    "bets": [
+      {
+        "team": "St George 1st Grade",
+        "odds": "1.46"
+      },
+      {
+        "team": "UTS North Sydney 1st Grade",
+        "odds": "2.48"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:30 PM",
+    "title": "Northern District 1st Grade - Sydney 1st Grade",
+    "bets": [
+      {
+        "team": "Northern District 1st Grade",
+        "odds": "1.59"
+      },
+      {
+        "team": "Sydney 1st Grade",
+        "odds": "2.15"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:30 PM",
+    "title": "Parramatta 1st Grade - UNSW 1st Grade",
+    "bets": [
+      {
+        "team": "Parramatta 1st Grade",
+        "odds": "1.61"
+      },
+      {
+        "team": "UNSW 1st Grade",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:30 PM",
+    "title": "Penrith 1st Grade - Fairfield-Liverpool 1st Grade",
+    "bets": [
+      {
+        "team": "Penrith 1st Grade",
+        "odds": "2.63"
+      },
+      {
+        "team": "Fairfield-Liverpool 1st Grade",
+        "odds": "1.41"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:30 PM",
+    "title": "Hawkesbury 1st Grade - Campbelltown-Camden 1st Grade",
+    "bets": [
+      {
+        "team": "Hawkesbury 1st Grade",
+        "odds": "1.73"
+      },
+      {
+        "team": "Campbelltown-Camden 1st Grade",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 10:30 PM",
+    "title": "Randwick Petersham 1st Grade - Western Suburbs 1st Grade",
+    "bets": [
+      {
+        "team": "Randwick Petersham 1st Grade",
+        "odds": "1.96"
+      },
+      {
+        "team": "Western Suburbs 1st Grade",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:00 PM",
+    "title": "Barbados Royals Srl - St Lucia Kings Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "1.97"
+      },
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Northern Districts - Woodville",
+    "bets": [
+      {
+        "team": "Northern Districts",
+        "odds": "1.11"
+      },
+      {
+        "team": "Woodville",
+        "odds": "5.22"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Adelaide University - West Torrens",
+    "bets": [
+      {
+        "team": "Adelaide University",
+        "odds": "2.72"
+      },
+      {
+        "team": "West Torrens",
+        "odds": "1.38"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Greenvale Kangaroos 1st XI - Camberwell Magpies 1st XI",
+    "bets": [
+      {
+        "team": "Greenvale Kangaroos 1st XI",
+        "odds": "6.36"
+      },
+      {
+        "team": "Camberwell Magpies 1st XI",
+        "odds": "1.07"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Essendon 1st XI - Ringwood 1st XI",
+    "bets": [
+      {
+        "team": "Essendon 1st XI",
+        "odds": "2.96"
+      },
+      {
+        "team": "Ringwood 1st XI",
+        "odds": "1.33"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Northcote 1st XI - Frankston Peninsula 1st XI",
+    "bets": [
+      {
+        "team": "Northcote 1st XI",
+        "odds": "1.33"
+      },
+      {
+        "team": "Frankston Peninsula 1st XI",
+        "odds": "2.96"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "St Kilda 1st XI - Melbourne 1st XI",
+    "bets": [
+      {
+        "team": "St Kilda 1st XI",
+        "odds": "1.52"
+      },
+      {
+        "team": "Melbourne 1st XI",
+        "odds": "2.31"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Melbourne University 1st XI - Richmond 1st XI",
+    "bets": [
+      {
+        "team": "Melbourne University 1st XI",
+        "odds": "2.09"
+      },
+      {
+        "team": "Richmond 1st XI",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Casey South Melbourne 1st XI - Fitzroy Doncaster 1st XI",
+    "bets": [
+      {
+        "team": "Casey South Melbourne 1st XI",
+        "odds": "1.47"
+      },
+      {
+        "team": "Fitzroy Doncaster 1st XI",
+        "odds": "2.45"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Prahran 1st XI - Dandenong 1st XI",
+    "bets": [
+      {
+        "team": "Prahran 1st XI",
+        "odds": "1.79"
+      },
+      {
+        "team": "Dandenong 1st XI",
+        "odds": "1.89"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Kingston Hawthorn 1st XI - Geelong 1st XI",
+    "bets": [
+      {
+        "team": "Kingston Hawthorn 1st XI",
+        "odds": "2.09"
+      },
+      {
+        "team": "Geelong 1st XI",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 11:30 PM",
+    "title": "Footscray 1st XI - Carlton 1st XI",
+    "bets": [
+      {
+        "team": "Footscray 1st XI",
+        "odds": "2.31"
+      },
+      {
+        "team": "Carlton 1st XI",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Nov 29, 12:00 AM",
+    "title": "East Torrens - Glenelg",
+    "bets": [
+      {
+        "team": "East Torrens",
+        "odds": "1.31"
+      },
+      {
+        "team": "Glenelg",
+        "odds": "3.09"
+      }
+    ]
+  },
+  {
+    "date": "Nov 29, 12:00 AM",
+    "title": "Tea Tree Gully - Adelaide",
+    "bets": [
+      {
+        "team": "Tea Tree Gully",
+        "odds": "1.38"
+      },
+      {
+        "team": "Adelaide",
+        "odds": "2.72"
+      }
+    ]
+  },
+  {
+    "date": "Nov 29, 12:00 AM",
+    "title": "Sturt - Prospect",
+    "bets": [
+      {
+        "team": "Sturt",
+        "odds": "1.22"
+      },
+      {
+        "team": "Prospect",
+        "odds": "3.68"
+      }
+    ]
+  },
+  {
+    "date": "Nov 29, 12:00 AM",
+    "title": "Kensington - Southern District",
+    "bets": [
+      {
+        "team": "Kensington",
+        "odds": "1.02"
+      },
+      {
+        "team": "Southern District",
+        "odds": "8.86"
+      }
+    ]
+  },
+  {
+    "date": "Nov 29, 04:10 AM",
+    "title": "Melbourne Renegades (w) - Melbourne Stars (w)",
+    "bets": [
+      {
+        "team": "Melbourne Renegades (w)",
+        "odds": "2.2"
+      },
+      {
+        "team": "Melbourne Stars (w)",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Nov 29, 08:10 AM",
+    "title": "Hobart Hurricanes (w) - Perth Scorchers (w)",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes (w)",
+        "odds": "1.71"
+      },
+      {
+        "team": "Perth Scorchers (w)",
+        "odds": "2.12"
       }
     ]
   }
