@@ -1,29 +1,15 @@
 [
   {
     "date": "Nov 27, 11:00 AM",
-    "title": "Trinbago Knight Riders Srl - Guyana Amazon Warriors Srl",
-    "bets": [
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.78"
-      },
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.97"
-      }
-    ]
-  },
-  {
-    "date": "Nov 27, 11:00 AM",
     "title": "Sunrisers Hyderabad (Sibs) - Chennai Super Kings (Caleb)",
     "bets": [
       {
         "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "4.5"
+        "odds": "4.4"
       },
       {
         "team": "Chennai Super Kings (Caleb)",
-        "odds": "1.17"
+        "odds": "1.18"
       }
     ]
   },
@@ -388,6 +374,90 @@
       {
         "team": "Central Districts SRL",
         "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 04:00 AM",
+    "title": "Badureliya SC - Moors SC",
+    "bets": [
+      {
+        "team": "Badureliya SC",
+        "odds": "3.85"
+      },
+      {
+        "team": "Moors SC",
+        "odds": "1.2"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 04:00 AM",
+    "title": "Burgher RC - Nondescripts CC",
+    "bets": [
+      {
+        "team": "Burgher RC",
+        "odds": "3.85"
+      },
+      {
+        "team": "Nondescripts CC",
+        "odds": "1.2"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 04:00 AM",
+    "title": "Chilaw Marians CC - Bloomfield Cricket and Athletic Club",
+    "bets": [
+      {
+        "team": "Chilaw Marians CC",
+        "odds": "2.14"
+      },
+      {
+        "team": "Bloomfield Cricket and Athletic Club",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 04:00 AM",
+    "title": "Colts CC - Panadura SC",
+    "bets": [
+      {
+        "team": "Colts CC",
+        "odds": "1.25"
+      },
+      {
+        "team": "Panadura SC",
+        "odds": "3.41"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 04:00 AM",
+    "title": "Police Sports Club - Colombo CC",
+    "bets": [
+      {
+        "team": "Police Sports Club",
+        "odds": "2.64"
+      },
+      {
+        "team": "Colombo CC",
+        "odds": "1.4"
+      }
+    ]
+  },
+  {
+    "date": "Nov 28, 04:00 AM",
+    "title": "Tamil Union Cricket and Athletic Club - Ace Capital CC",
+    "bets": [
+      {
+        "team": "Tamil Union Cricket and Athletic Club",
+        "odds": "2.64"
+      },
+      {
+        "team": "Ace Capital CC",
+        "odds": "1.4"
       }
     ]
   },
