@@ -5,39 +5,11 @@
     "bets": [
       {
         "team": "Dubai Capitals",
-        "odds": "2.1"
+        "odds": "2.14"
       },
       {
         "team": "Desert Vipers",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Nov 30, 06:00 PM",
-    "title": "Pakistan Srl - Sri Lanka Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.66"
-      },
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Nov 30, 08:00 PM",
-    "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.91"
+        "odds": "1.69"
       }
     ]
   },
@@ -117,11 +89,11 @@
     "bets": [
       {
         "team": "Bahrain",
-        "odds": "2.14"
+        "odds": "2.18"
       },
       {
         "team": "Malaysia",
-        "odds": "1.65"
+        "odds": "1.62"
       }
     ]
   },
@@ -169,6 +141,20 @@
   },
   {
     "date": "Dec 1, 03:30 AM",
+    "title": "Rising CC - Pachange CC",
+    "bets": [
+      {
+        "team": "Rising CC",
+        "odds": "1.49"
+      },
+      {
+        "team": "Pachange CC",
+        "odds": "2.39"
+      }
+    ]
+  },
+  {
+    "date": "Dec 1, 03:30 AM",
     "title": "Chhattisgarh U-19 - Bengal U-19",
     "bets": [
       {
@@ -192,6 +178,20 @@
       {
         "team": "Uttar Pradesh U-19",
         "odds": "1.25"
+      }
+    ]
+  },
+  {
+    "date": "Dec 1, 03:30 AM",
+    "title": "Punjab U-19 - Saurashtra U-19",
+    "bets": [
+      {
+        "team": "Punjab U-19",
+        "odds": "1.45"
+      },
+      {
+        "team": "Saurashtra U-19",
+        "odds": "2.5"
       }
     ]
   },
@@ -295,20 +295,6 @@
   },
   {
     "date": "Dec 1, 03:30 AM",
-    "title": "Punjab U-19 - Saurashtra U-19",
-    "bets": [
-      {
-        "team": "Punjab U-19",
-        "odds": "1.45"
-      },
-      {
-        "team": "Saurashtra U-19",
-        "odds": "2.5"
-      }
-    ]
-  },
-  {
-    "date": "Dec 1, 03:30 AM",
     "title": "Mumbai U-19 - Gujarat U-19",
     "bets": [
       {
@@ -406,20 +392,6 @@
     ]
   },
   {
-    "date": "Dec 1, 03:30 AM",
-    "title": "Rising CC - Pachange CC",
-    "bets": [
-      {
-        "team": "Rising CC",
-        "odds": "1.49"
-      },
-      {
-        "team": "Pachange CC",
-        "odds": "2.39"
-      }
-    ]
-  },
-  {
     "date": "Dec 1, 04:00 AM",
     "title": "Auckland SRL - Canterbury SRL",
     "bets": [
@@ -505,6 +477,20 @@
   },
   {
     "date": "Dec 1, 08:00 AM",
+    "title": "Maan Xi Dastan Mahyavanshi Rok - KOLI PATEL SAMAJ-A",
+    "bets": [
+      {
+        "team": "Maan Xi Dastan Mahyavanshi Rok",
+        "odds": "3.18"
+      },
+      {
+        "team": "KOLI PATEL SAMAJ-A",
+        "odds": "1.29"
+      }
+    ]
+  },
+  {
+    "date": "Dec 1, 08:00 AM",
     "title": "Brisbane Heat Srl - Perth Scorchers Srl",
     "bets": [
       {
@@ -528,20 +514,6 @@
       {
         "team": "Kolkata Knight Riders (Deolin)",
         "odds": "4.3"
-      }
-    ]
-  },
-  {
-    "date": "Dec 1, 08:00 AM",
-    "title": "Maan Xi Dastan Mahyavanshi Rok - KOLI PATEL SAMAJ-A",
-    "bets": [
-      {
-        "team": "Maan Xi Dastan Mahyavanshi Rok",
-        "odds": "3.18"
-      },
-      {
-        "team": "KOLI PATEL SAMAJ-A",
-        "odds": "1.29"
       }
     ]
   },
@@ -659,20 +631,6 @@
   },
   {
     "date": "Dec 1, 01:00 PM",
-    "title": "Delhi Capitals SRL - Royal Challengers Bangalore SRL",
-    "bets": [
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "2.04"
-      },
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Dec 1, 01:00 PM",
     "title": "LPS-B - VRAJ XI-Desai Samaj-2025",
     "bets": [
       {
@@ -682,6 +640,20 @@
       {
         "team": "VRAJ XI-Desai Samaj-2025",
         "odds": "1.16"
+      }
+    ]
+  },
+  {
+    "date": "Dec 1, 01:00 PM",
+    "title": "Delhi Capitals SRL - Royal Challengers Bangalore SRL",
+    "bets": [
+      {
+        "team": "Delhi Capitals SRL",
+        "odds": "2.04"
+      },
+      {
+        "team": "Royal Challengers Bangalore SRL",
+        "odds": "1.73"
       }
     ]
   },
@@ -784,16 +756,100 @@
     ]
   },
   {
+    "date": "Dec 2, 05:30 AM",
+    "title": "Prospect - West Torrens",
+    "bets": [
+      {
+        "team": "Prospect",
+        "odds": "2.45"
+      },
+      {
+        "team": "West Torrens",
+        "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Dec 2, 05:30 AM",
+    "title": "Kensington - Northern Districts",
+    "bets": [
+      {
+        "team": "Kensington",
+        "odds": "1.58"
+      },
+      {
+        "team": "Northern Districts",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
+    "date": "Dec 2, 05:30 AM",
+    "title": "Woodville - East Torrens",
+    "bets": [
+      {
+        "team": "Woodville",
+        "odds": "4.43"
+      },
+      {
+        "team": "East Torrens",
+        "odds": "1.16"
+      }
+    ]
+  },
+  {
+    "date": "Dec 2, 05:30 AM",
+    "title": "Sturt - Tea Tree Gully",
+    "bets": [
+      {
+        "team": "Sturt",
+        "odds": "2.33"
+      },
+      {
+        "team": "Tea Tree Gully",
+        "odds": "1.51"
+      }
+    ]
+  },
+  {
+    "date": "Dec 2, 05:30 AM",
+    "title": "Port Adelaide - Adelaide",
+    "bets": [
+      {
+        "team": "Port Adelaide",
+        "odds": "1.35"
+      },
+      {
+        "team": "Adelaide",
+        "odds": "2.87"
+      }
+    ]
+  },
+  {
+    "date": "Dec 2, 05:30 AM",
+    "title": "Glenelg - Adelaide University",
+    "bets": [
+      {
+        "team": "Glenelg",
+        "odds": "1.58"
+      },
+      {
+        "team": "Adelaide University",
+        "odds": "2.18"
+      }
+    ]
+  },
+  {
     "date": "Dec 2, 09:10 AM",
     "title": "Perth Scorchers (w) - Melbourne Renegades (w)",
     "bets": [
       {
         "team": "Perth Scorchers (w)",
-        "odds": "1.75"
+        "odds": "1.71"
       },
       {
         "team": "Melbourne Renegades (w)",
-        "odds": "2.04"
+        "odds": "2.12"
       }
     ]
   },
