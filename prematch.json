@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Sharjah Warriors",
-        "odds": "2.1"
+        "odds": "2.15"
       },
       {
         "team": "Abu Dhabi Knight Riders",
-        "odds": "1.72"
+        "odds": "1.7"
       }
     ]
   },
@@ -24,34 +24,6 @@
       {
         "team": "MI Emirates",
         "odds": "1.6"
-      }
-    ]
-  },
-  {
-    "date": "Dec 2, 04:00 PM",
-    "title": "Royal Challengers Bangalore SRL - Chennai Super Kings SRL",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.66"
-      },
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Dec 2, 06:00 PM",
-    "title": "Pakistan Srl - Sri Lanka Srl",
-    "bets": [
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.66"
-      },
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.14"
       }
     ]
   },
@@ -154,6 +126,20 @@
     ]
   },
   {
+    "date": "Dec 3, 03:30 AM",
+    "title": "Rising CC - Sunny XI",
+    "bets": [
+      {
+        "team": "Rising CC",
+        "odds": "3.74"
+      },
+      {
+        "team": "Sunny XI",
+        "odds": "1.22"
+      }
+    ]
+  },
+  {
     "date": "Dec 3, 04:00 AM",
     "title": "Auckland SRL - Wellington SRL",
     "bets": [
@@ -252,6 +238,20 @@
     ]
   },
   {
+    "date": "Dec 3, 07:30 AM",
+    "title": "OMR Checker - Pachange CC",
+    "bets": [
+      {
+        "team": "OMR Checker",
+        "odds": "2"
+      },
+      {
+        "team": "Pachange CC",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
     "date": "Dec 3, 08:00 AM",
     "title": "India - South Africa",
     "bets": [
@@ -276,6 +276,34 @@
       {
         "team": "Melbourne Renegades Srl",
         "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Dec 3, 08:00 AM",
+    "title": "Delhi Capitals (Jordan) - Lucknow Super Giants (Aidin)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "3.7"
+      },
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.28"
+      }
+    ]
+  },
+  {
+    "date": "Dec 3, 08:00 AM",
+    "title": "LPS-A - KOLI PATEL SAMAJ-A",
+    "bets": [
+      {
+        "team": "LPS-A",
+        "odds": "1.7"
+      },
+      {
+        "team": "KOLI PATEL SAMAJ-A",
+        "odds": "2"
       }
     ]
   },
@@ -308,6 +336,20 @@
     ]
   },
   {
+    "date": "Dec 3, 09:00 AM",
+    "title": "Delhi Capitals (Jordan) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "2"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
     "date": "Dec 3, 10:00 AM",
     "title": "Peshawar Zalmi Srl - Lahore Qalanders Srl",
     "bets": [
@@ -318,6 +360,20 @@
       {
         "team": "Lahore Qalanders Srl",
         "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Dec 3, 10:00 AM",
+    "title": "Lucknow Super Giants (Aidin) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (Aidin)",
+        "odds": "1.35"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "3.2"
       }
     ]
   },
@@ -374,6 +430,20 @@
       {
         "team": "Gujarat Titans Srl",
         "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Dec 3, 01:00 PM",
+    "title": "VRAJ XI-Desai Samaj-2025 - KOLI PATEL SAMAJ-B",
+    "bets": [
+      {
+        "team": "VRAJ XI-Desai Samaj-2025",
+        "odds": "1.49"
+      },
+      {
+        "team": "KOLI PATEL SAMAJ-B",
+        "odds": "2.39"
       }
     ]
   },
@@ -463,6 +533,20 @@
   },
   {
     "date": "Dec 4, 03:30 AM",
+    "title": "Australia - England",
+    "bets": [
+      {
+        "team": "Australia",
+        "odds": "1.18"
+      },
+      {
+        "team": "England",
+        "odds": "4.5"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 03:30 AM",
     "title": "Kerala - Mumbai",
     "bets": [
       {
@@ -477,20 +561,6 @@
   },
   {
     "date": "Dec 4, 03:30 AM",
-    "title": "Hyderabad - Jammu And Kashmir",
-    "bets": [
-      {
-        "team": "Hyderabad",
-        "odds": "1.88"
-      },
-      {
-        "team": "Jammu And Kashmir",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Dec 4, 03:30 AM",
     "title": "Rajasthan - Saurashtra",
     "bets": [
       {
@@ -500,6 +570,20 @@
       {
         "team": "Saurashtra",
         "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 03:30 AM",
+    "title": "Hyderabad - Jammu And Kashmir",
+    "bets": [
+      {
+        "team": "Hyderabad",
+        "odds": "1.88"
+      },
+      {
+        "team": "Jammu And Kashmir",
+        "odds": "1.85"
       }
     ]
   },
@@ -533,15 +617,57 @@
   },
   {
     "date": "Dec 4, 05:30 AM",
+    "title": "Bengal - Services",
+    "bets": [
+      {
+        "team": "Bengal",
+        "odds": "1.23"
+      },
+      {
+        "team": "Services",
+        "odds": "3.85"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 05:30 AM",
+    "title": "Chandigarh - Uttar Pradesh",
+    "bets": [
+      {
+        "team": "Chandigarh",
+        "odds": "2.48"
+      },
+      {
+        "team": "Uttar Pradesh",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 05:30 AM",
+    "title": "Jharkhand - Uttarakhand",
+    "bets": [
+      {
+        "team": "Jharkhand",
+        "odds": "1.5"
+      },
+      {
+        "team": "Uttarakhand",
+        "odds": "2.48"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 05:30 AM",
     "title": "Assam - Vidarbha",
     "bets": [
       {
         "team": "Assam",
-        "odds": "2.3"
+        "odds": "2.48"
       },
       {
         "team": "Vidarbha",
-        "odds": "1.57"
+        "odds": "1.5"
       }
     ]
   },
@@ -556,20 +682,6 @@
       {
         "team": "University of Tasmania 1st Grade",
         "odds": "1.18"
-      }
-    ]
-  },
-  {
-    "date": "Dec 4, 05:30 AM",
-    "title": "Bengal - Services",
-    "bets": [
-      {
-        "team": "Bengal",
-        "odds": "1.23"
-      },
-      {
-        "team": "Services",
-        "odds": "3.85"
       }
     ]
   },
@@ -603,20 +715,6 @@
   },
   {
     "date": "Dec 4, 08:00 AM",
-    "title": "Andhra - Chhattisgarh",
-    "bets": [
-      {
-        "team": "Andhra",
-        "odds": "1.61"
-      },
-      {
-        "team": "Chhattisgarh",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
-    "date": "Dec 4, 08:00 AM",
     "title": "Bihar - Goa",
     "bets": [
       {
@@ -635,11 +733,11 @@
     "bets": [
       {
         "team": "Baroda",
-        "odds": "1.63"
+        "odds": "1.7"
       },
       {
         "team": "Gujarat",
-        "odds": "2.18"
+        "odds": "2.08"
       }
     ]
   },
@@ -654,6 +752,104 @@
       {
         "team": "Karnataka",
         "odds": "1.86"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 08:00 AM",
+    "title": "Andhra - Chhattisgarh",
+    "bets": [
+      {
+        "team": "Andhra",
+        "odds": "1.61"
+      },
+      {
+        "team": "Chhattisgarh",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 08:00 AM",
+    "title": "Malaysia - Malaysia A",
+    "bets": [
+      {
+        "team": "Malaysia",
+        "odds": "1.22"
+      },
+      {
+        "team": "Malaysia A",
+        "odds": "3.83"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 10:15 AM",
+    "title": "Sudurpaschim Royals - Chitwan Rhinos",
+    "bets": [
+      {
+        "team": "Sudurpaschim Royals",
+        "odds": "1.5"
+      },
+      {
+        "team": "Chitwan Rhinos",
+        "odds": "2.36"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 11:00 AM",
+    "title": "Puducherry - Punjab",
+    "bets": [
+      {
+        "team": "Puducherry",
+        "odds": "4.9"
+      },
+      {
+        "team": "Punjab",
+        "odds": "1.15"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 11:00 AM",
+    "title": "Tamil Nadu - Tripura",
+    "bets": [
+      {
+        "team": "Tamil Nadu",
+        "odds": "1.25"
+      },
+      {
+        "team": "Tripura",
+        "odds": "3.7"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 11:00 AM",
+    "title": "Odisha - Railways",
+    "bets": [
+      {
+        "team": "Odisha",
+        "odds": "2.42"
+      },
+      {
+        "team": "Railways",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Dec 4, 11:00 AM",
+    "title": "Madhya Pradesh - Maharashtra",
+    "bets": [
+      {
+        "team": "Madhya Pradesh",
+        "odds": "1.72"
+      },
+      {
+        "team": "Maharashtra",
+        "odds": "2.04"
       }
     ]
   }
