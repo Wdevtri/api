@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Dubai Capitals",
-        "odds": "2.45"
+        "odds": "2.66"
       },
       {
         "team": "Abu Dhabi Knight Riders",
-        "odds": "1.55"
+        "odds": "1.48"
       }
     ]
   },
@@ -23,20 +23,6 @@
       },
       {
         "team": "Gulf Giants",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Dec 7, 02:00 PM",
-    "title": "Peshawar Zalmi Srl - Karachi Kings Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "1.94"
-      },
-      {
-        "team": "Karachi Kings Srl",
         "odds": "1.81"
       }
     ]
