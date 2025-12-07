@@ -1,71 +1,15 @@
 [
   {
-    "date": "Dec 7, 02:30 PM",
-    "title": "Dubai Capitals - Abu Dhabi Knight Riders",
-    "bets": [
-      {
-        "team": "Dubai Capitals",
-        "odds": "2.66"
-      },
-      {
-        "team": "Abu Dhabi Knight Riders",
-        "odds": "1.48"
-      }
-    ]
-  },
-  {
     "date": "Dec 8, 02:30 PM",
     "title": "Desert Vipers - Gulf Giants",
     "bets": [
       {
         "team": "Desert Vipers",
-        "odds": "2"
+        "odds": "1.9"
       },
       {
         "team": "Gulf Giants",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Dec 7, 04:00 PM",
-    "title": "Chennai Super Kings SRL - Mumbai Indians SRL",
-    "bets": [
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.28"
-      },
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Dec 7, 06:00 PM",
-    "title": "England Srl - Pakistan Srl",
-    "bets": [
-      {
-        "team": "England Srl",
-        "odds": "1.68"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Dec 7, 08:00 PM",
-    "title": "Pretoria Capitals Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.91"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.83"
+        "odds": "1.9"
       }
     ]
   },
@@ -169,6 +113,20 @@
   },
   {
     "date": "Dec 8, 03:00 AM",
+    "title": "Mithila Warriors - Sukma Titans",
+    "bets": [
+      {
+        "team": "Mithila Warriors",
+        "odds": "4.7"
+      },
+      {
+        "team": "Sukma Titans",
+        "odds": "1.14"
+      }
+    ]
+  },
+  {
+    "date": "Dec 8, 03:00 AM",
     "title": "Quetta Gladiators Srl - Islamabad United Srl",
     "bets": [
       {
@@ -239,6 +197,20 @@
   },
   {
     "date": "Dec 8, 03:30 AM",
+    "title": "Bihar U-19 - Haryana U-19",
+    "bets": [
+      {
+        "team": "Bihar U-19",
+        "odds": "3.41"
+      },
+      {
+        "team": "Haryana U-19",
+        "odds": "1.25"
+      }
+    ]
+  },
+  {
+    "date": "Dec 8, 03:30 AM",
     "title": "Bengal U-19 - Goa U-19",
     "bets": [
       {
@@ -290,20 +262,6 @@
       {
         "team": "Gujarat U-19",
         "odds": "1.22"
-      }
-    ]
-  },
-  {
-    "date": "Dec 8, 03:30 AM",
-    "title": "Bihar U-19 - Haryana U-19",
-    "bets": [
-      {
-        "team": "Bihar U-19",
-        "odds": "3.41"
-      },
-      {
-        "team": "Haryana U-19",
-        "odds": "1.25"
       }
     ]
   },
@@ -561,6 +519,20 @@
   },
   {
     "date": "Dec 8, 07:00 AM",
+    "title": "Golden Valley Defenders - Tribal Yoddhas",
+    "bets": [
+      {
+        "team": "Golden Valley Defenders",
+        "odds": "1.5"
+      },
+      {
+        "team": "Tribal Yoddhas",
+        "odds": "2.35"
+      }
+    ]
+  },
+  {
+    "date": "Dec 8, 07:00 AM",
     "title": "Delhi Capitals SRL - Sunrisers Hyderabad SRL",
     "bets": [
       {
@@ -607,11 +579,11 @@
     "bets": [
       {
         "team": "Karnataka",
-        "odds": "1.21"
+        "odds": "1.18"
       },
       {
         "team": "Tripura",
-        "odds": "4.1"
+        "odds": "4.5"
       }
     ]
   },
@@ -654,6 +626,20 @@
       {
         "team": "Chennai Super Kings (Caleb)",
         "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Dec 8, 09:00 AM",
+    "title": "Sierra Leone - Rwanda",
+    "bets": [
+      {
+        "team": "Sierra Leone",
+        "odds": "4.9"
+      },
+      {
+        "team": "Rwanda",
+        "odds": "1.13"
       }
     ]
   },
@@ -715,20 +701,6 @@
   },
   {
     "date": "Dec 8, 11:00 AM",
-    "title": "Barbados Royals Srl - Guyana Amazon Warriors Srl",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.1"
-      },
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Dec 8, 11:00 AM",
     "title": "Mumbai - Odisha",
     "bets": [
       {
@@ -738,6 +710,20 @@
       {
         "team": "Odisha",
         "odds": "5.8"
+      }
+    ]
+  },
+  {
+    "date": "Dec 8, 11:00 AM",
+    "title": "Barbados Royals Srl - Guyana Amazon Warriors Srl",
+    "bets": [
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2.1"
+      },
+      {
+        "team": "Guyana Amazon Warriors Srl",
+        "odds": "1.69"
       }
     ]
   },
@@ -784,6 +770,20 @@
     ]
   },
   {
+    "date": "Dec 8, 11:00 AM",
+    "title": "Blasters - Strikers",
+    "bets": [
+      {
+        "team": "Blasters",
+        "odds": "1.89"
+      },
+      {
+        "team": "Strikers",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
     "date": "Dec 8, 12:00 PM",
     "title": "Central Districts SRL - Otago SRL",
     "bets": [
@@ -794,6 +794,20 @@
       {
         "team": "Otago SRL",
         "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Dec 8, 01:00 PM",
+    "title": "Nigeria - Zambia",
+    "bets": [
+      {
+        "team": "Nigeria",
+        "odds": "1.15"
+      },
+      {
+        "team": "Zambia",
+        "odds": "4.5"
       }
     ]
   },
@@ -906,6 +920,34 @@
       {
         "team": "Melbourne Stars (w)",
         "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Dec 9, 09:30 AM",
+    "title": "Qatar (w) - Bahrain (w)",
+    "bets": [
+      {
+        "team": "Qatar (w)",
+        "odds": "1.13"
+      },
+      {
+        "team": "Bahrain (w)",
+        "odds": "5"
+      }
+    ]
+  },
+  {
+    "date": "Dec 9, 10:15 AM",
+    "title": "Sudurpaschim Royals - Biratnagar Kings",
+    "bets": [
+      {
+        "team": "Sudurpaschim Royals",
+        "odds": "2"
+      },
+      {
+        "team": "Biratnagar Kings",
+        "odds": "1.8"
       }
     ]
   },
