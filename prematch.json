@@ -14,90 +14,6 @@
     ]
   },
   {
-    "date": "Dec 8, 11:45 AM",
-    "title": "Mountaineers - Rhinos",
-    "bets": [
-      {
-        "team": "Mountaineers",
-        "odds": "2.02"
-      },
-      {
-        "team": "Rhinos",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Dec 8, 12:00 PM",
-    "title": "Central Districts SRL - Otago SRL",
-    "bets": [
-      {
-        "team": "Central Districts SRL",
-        "odds": "1.97"
-      },
-      {
-        "team": "Otago SRL",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Dec 8, 12:00 PM",
-    "title": "Sunrisers Hyderabad (Sibs) - Lucknow Super Giants (Aidin)",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "2.58"
-      },
-      {
-        "team": "Lucknow Super Giants (Aidin)",
-        "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Dec 8, 01:00 PM",
-    "title": "Nigeria - Zambia",
-    "bets": [
-      {
-        "team": "Nigeria",
-        "odds": "1.15"
-      },
-      {
-        "team": "Zambia",
-        "odds": "4.5"
-      }
-    ]
-  },
-  {
-    "date": "Dec 8, 01:00 PM",
-    "title": "Gujarat Titans Srl - Royal Challengers Bangalore SRL",
-    "bets": [
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.93"
-      },
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Dec 8, 01:00 PM",
-    "title": "Sunrisers Hyderabad (Sibs) - Chennai Super Kings (Caleb)",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "2.28"
-      },
-      {
-        "team": "Chennai Super Kings (Caleb)",
-        "odds": "1.57"
-      }
-    ]
-  },
-  {
     "date": "Dec 8, 02:00 PM",
     "title": "Multan Sultans Srl - Karachi Kings Srl",
     "bets": [
@@ -215,11 +131,11 @@
     "bets": [
       {
         "team": "Thailand",
-        "odds": "1.48"
+        "odds": "1.42"
       },
       {
         "team": "Indonesia",
-        "odds": "2.52"
+        "odds": "2.66"
       }
     ]
   },
@@ -527,7 +443,7 @@
       },
       {
         "team": "Draw",
-        "odds": "10.5"
+        "odds": "11"
       }
     ]
   },
