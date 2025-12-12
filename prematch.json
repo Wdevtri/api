@@ -42,62 +42,6 @@
     ]
   },
   {
-    "date": "Dec 12, 08:00 PM",
-    "title": "Joburg Super Kings Srl - Pretoria Capitals Srl",
-    "bets": [
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.83"
-      },
-      {
-        "team": "Pretoria Capitals Srl",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 09:30 PM",
-    "title": "Auckland Hearts - Northern Brave",
-    "bets": [
-      {
-        "team": "Auckland Hearts",
-        "odds": "1.53"
-      },
-      {
-        "team": "Northern Brave",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 09:30 PM",
-    "title": "Central Hinds - Otago Sparks",
-    "bets": [
-      {
-        "team": "Central Hinds",
-        "odds": "1.49"
-      },
-      {
-        "team": "Otago Sparks",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 09:30 PM",
-    "title": "Canterbury Magicians - Wellington Blaze",
-    "bets": [
-      {
-        "team": "Canterbury Magicians",
-        "odds": "2.12"
-      },
-      {
-        "team": "Wellington Blaze",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
     "date": "Dec 12, 10:00 PM",
     "title": "Melbourne Renegades Srl - Melbourne Stars Srl",
     "bets": [
@@ -141,6 +85,20 @@
   },
   {
     "date": "Dec 12, 10:15 PM",
+    "title": "Dandenong 1sts T20 (w) - Plenty Valley 1sts T20 (w)",
+    "bets": [
+      {
+        "team": "Dandenong 1sts T20 (w)",
+        "odds": "1.12"
+      },
+      {
+        "team": "Plenty Valley 1sts T20 (w)",
+        "odds": "5.31"
+      }
+    ]
+  },
+  {
+    "date": "Dec 12, 10:15 PM",
     "title": "Ringwood 1st XI - Frankston Peninsula 1st XI",
     "bets": [
       {
@@ -164,20 +122,6 @@
       {
         "team": "Camberwell Magpies 1st XI",
         "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Dandenong 1sts T20 (w) - Plenty Valley 1sts T20 (w)",
-    "bets": [
-      {
-        "team": "Dandenong 1sts T20 (w)",
-        "odds": "1.12"
-      },
-      {
-        "team": "Plenty Valley 1sts T20 (w)",
-        "odds": "5.31"
       }
     ]
   },
@@ -784,6 +728,20 @@
     ]
   },
   {
+    "date": "Dec 13, 11:45 AM",
+    "title": "Mountaineers - Eagles",
+    "bets": [
+      {
+        "team": "Mountaineers",
+        "odds": "1.92"
+      },
+      {
+        "team": "Eagles",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
     "date": "Dec 13, 12:00 PM",
     "title": "Otago SRL - Central Districts SRL",
     "bets": [
@@ -864,6 +822,20 @@
       {
         "team": "Rajasthan Royals SRL",
         "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Dec 13, 04:30 PM",
+    "title": "Tuskers - Southern Rocks",
+    "bets": [
+      {
+        "team": "Tuskers",
+        "odds": "1.71"
+      },
+      {
+        "team": "Southern Rocks",
+        "odds": "1.98"
       }
     ]
   },
