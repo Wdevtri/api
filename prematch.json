@@ -42,160 +42,6 @@
     ]
   },
   {
-    "date": "Dec 12, 10:00 PM",
-    "title": "Melbourne Renegades Srl - Melbourne Stars Srl",
-    "bets": [
-      {
-        "team": "Melbourne Renegades Srl",
-        "odds": "1.94"
-      },
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Prahran 1st XI - Greenvale Kangaroos 1st XI",
-    "bets": [
-      {
-        "team": "Prahran 1st XI",
-        "odds": "1.25"
-      },
-      {
-        "team": "Greenvale Kangaroos 1st XI",
-        "odds": "3.56"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Melbourne 1st XI - Kingston Hawthorn 1st XI",
-    "bets": [
-      {
-        "team": "Melbourne 1st XI",
-        "odds": "1.55"
-      },
-      {
-        "team": "Kingston Hawthorn 1st XI",
-        "odds": "2.29"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Dandenong 1sts T20 (w) - Plenty Valley 1sts T20 (w)",
-    "bets": [
-      {
-        "team": "Dandenong 1sts T20 (w)",
-        "odds": "1.12"
-      },
-      {
-        "team": "Plenty Valley 1sts T20 (w)",
-        "odds": "5.31"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Ringwood 1st XI - Frankston Peninsula 1st XI",
-    "bets": [
-      {
-        "team": "Ringwood 1st XI",
-        "odds": "1.45"
-      },
-      {
-        "team": "Frankston Peninsula 1st XI",
-        "odds": "2.55"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Essendon 1st XI - Camberwell Magpies 1st XI",
-    "bets": [
-      {
-        "team": "Essendon 1st XI",
-        "odds": "2.55"
-      },
-      {
-        "team": "Camberwell Magpies 1st XI",
-        "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "St Kilda 1st XI - Melbourne University 1st XI",
-    "bets": [
-      {
-        "team": "St Kilda 1st XI",
-        "odds": "1.55"
-      },
-      {
-        "team": "Melbourne University 1st XI",
-        "odds": "2.29"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Richmond 1st XI - Dandenong 1st XI",
-    "bets": [
-      {
-        "team": "Richmond 1st XI",
-        "odds": "1.5"
-      },
-      {
-        "team": "Dandenong 1st XI",
-        "odds": "2.41"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Footscray 1st XI - Geelong 1st XI",
-    "bets": [
-      {
-        "team": "Footscray 1st XI",
-        "odds": "1.9"
-      },
-      {
-        "team": "Geelong 1st XI",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Carlton 1st XI - Casey South Melbourne 1st XI",
-    "bets": [
-      {
-        "team": "Carlton 1st XI",
-        "odds": "1.8"
-      },
-      {
-        "team": "Casey South Melbourne 1st XI",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
-    "title": "Northcote 1st XI - Fitzroy Doncaster 1st XI",
-    "bets": [
-      {
-        "team": "Northcote 1st XI",
-        "odds": "1.85"
-      },
-      {
-        "team": "Fitzroy Doncaster 1st XI",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
     "date": "Dec 12, 11:00 PM",
     "title": "WCMCC 1st Grade - Ginninderra 1st Grade",
     "bets": [
@@ -299,11 +145,11 @@
     "bets": [
       {
         "team": "Thailand",
-        "odds": "2.98"
+        "odds": "3.15"
       },
       {
         "team": "Philippines",
-        "odds": "1.36"
+        "odds": "1.32"
       }
     ]
   },
@@ -393,20 +239,6 @@
   },
   {
     "date": "Dec 13, 04:00 AM",
-    "title": "Auckland SRL - Wellington SRL",
-    "bets": [
-      {
-        "team": "Auckland SRL",
-        "odds": "1.95"
-      },
-      {
-        "team": "Wellington SRL",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 04:00 AM",
     "title": "HSBC II - NDB A",
     "bets": [
       {
@@ -420,16 +252,30 @@
     ]
   },
   {
+    "date": "Dec 13, 04:00 AM",
+    "title": "Auckland SRL - Wellington SRL",
+    "bets": [
+      {
+        "team": "Auckland SRL",
+        "odds": "1.95"
+      },
+      {
+        "team": "Wellington SRL",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
     "date": "Dec 13, 05:00 AM",
     "title": "Sri Lanka - Nepal U19",
     "bets": [
       {
         "team": "Sri Lanka",
-        "odds": "1.28"
+        "odds": "1.26"
       },
       {
         "team": "Nepal U19",
-        "odds": "3.25"
+        "odds": "3.35"
       }
     ]
   },
@@ -523,11 +369,11 @@
     "bets": [
       {
         "team": "Blasters",
-        "odds": "1.51"
+        "odds": "1.56"
       },
       {
         "team": "Titans",
-        "odds": "2.34"
+        "odds": "2.24"
       }
     ]
   },
@@ -621,11 +467,11 @@
     "bets": [
       {
         "team": "Nigeria",
-        "odds": "1.36"
+        "odds": "1.32"
       },
       {
         "team": "Rwanda",
-        "odds": "2.82"
+        "odds": "3"
       }
     ]
   },
@@ -719,11 +565,11 @@
     "bets": [
       {
         "team": "Gladiators",
-        "odds": "1.5"
+        "odds": "1.52"
       },
       {
         "team": "Warriors",
-        "odds": "2.38"
+        "odds": "2.32"
       }
     ]
   },
@@ -761,11 +607,11 @@
     "bets": [
       {
         "team": "Sierra Leone",
-        "odds": "2.82"
+        "odds": "3.15"
       },
       {
         "team": "Zambia",
-        "odds": "1.36"
+        "odds": "1.29"
       }
     ]
   },
@@ -929,11 +775,11 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.26"
+        "odds": "1.3"
       },
       {
         "team": "Pakistan",
-        "odds": "3.35"
+        "odds": "3.15"
       }
     ]
   },
@@ -1013,11 +859,11 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.41"
+        "odds": "1.42"
       },
       {
         "team": "South Africa",
-        "odds": "2.94"
+        "odds": "2.9"
       }
     ]
   }
