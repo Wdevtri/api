@@ -42,72 +42,16 @@
     ]
   },
   {
-    "date": "Dec 12, 10:00 AM",
-    "title": "Kolkata Knight Riders (Deolin) - Delhi Capitals (Jordan)",
+    "date": "Dec 14, 10:00 AM",
+    "title": "MI Emirates - Sharjah Warriors",
     "bets": [
       {
-        "team": "Kolkata Knight Riders (Deolin)",
-        "odds": "5.4"
+        "team": "MI Emirates",
+        "odds": "1.55"
       },
       {
-        "team": "Delhi Capitals (Jordan)",
-        "odds": "1.12"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 11:00 AM",
-    "title": "Mumbai - Hyderabad",
-    "bets": [
-      {
-        "team": "Mumbai",
-        "odds": "1.43"
-      },
-      {
-        "team": "Hyderabad",
-        "odds": "2.68"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 11:00 AM",
-    "title": "Strikers - Warriors",
-    "bets": [
-      {
-        "team": "Strikers",
-        "odds": "2.28"
-      },
-      {
-        "team": "Warriors",
-        "odds": "1.54"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 11:00 AM",
-    "title": "Barbados Royals Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "1.97"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 11:00 AM",
-    "title": "Kolkata Knight Riders (Deolin) - Lucknow Super Giants (Aidin)",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders (Deolin)",
-        "odds": "7.4"
-      },
-      {
-        "team": "Lucknow Super Giants (Aidin)",
-        "odds": "1.06"
+        "team": "Sharjah Warriors",
+        "odds": "2.44"
       }
     ]
   },
@@ -117,11 +61,11 @@
     "bets": [
       {
         "team": "Southern Rocks",
-        "odds": "2.34"
+        "odds": "2.42"
       },
       {
         "team": "Rhinos",
-        "odds": "1.51"
+        "odds": "1.48"
       }
     ]
   },
@@ -178,6 +122,20 @@
       {
         "team": "Sunrisers Hyderabad SRL",
         "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Dec 12, 01:00 PM",
+    "title": "Delhi Capitals (Jordan) - Kolkata Knight Riders (Deolin)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "1.11"
+      },
+      {
+        "team": "Kolkata Knight Riders (Deolin)",
+        "odds": "5.85"
       }
     ]
   },
@@ -421,20 +379,6 @@
   },
   {
     "date": "Dec 12, 10:15 PM",
-    "title": "Footscray 1st XI - Geelong 1st XI",
-    "bets": [
-      {
-        "team": "Footscray 1st XI",
-        "odds": "1.9"
-      },
-      {
-        "team": "Geelong 1st XI",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 10:15 PM",
     "title": "Carlton 1st XI - Casey South Melbourne 1st XI",
     "bets": [
       {
@@ -444,6 +388,20 @@
       {
         "team": "Casey South Melbourne 1st XI",
         "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Dec 12, 10:15 PM",
+    "title": "Footscray 1st XI - Geelong 1st XI",
+    "bets": [
+      {
+        "team": "Footscray 1st XI",
+        "odds": "1.9"
+      },
+      {
+        "team": "Geelong 1st XI",
+        "odds": "1.8"
       }
     ]
   },
@@ -561,20 +519,6 @@
   },
   {
     "date": "Dec 13, 02:00 AM",
-    "title": "St Kitts And Nevis Patriots Srl - Trinbago Knight Riders Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 02:00 AM",
     "title": "Thailand - Philippines",
     "bets": [
       {
@@ -584,6 +528,20 @@
       {
         "team": "Philippines",
         "odds": "1.36"
+      }
+    ]
+  },
+  {
+    "date": "Dec 13, 02:00 AM",
+    "title": "St Kitts And Nevis Patriots Srl - Trinbago Knight Riders Srl",
+    "bets": [
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "2.22"
+      },
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.61"
       }
     ]
   },
@@ -645,6 +603,20 @@
   },
   {
     "date": "Dec 13, 05:00 AM",
+    "title": "Afghanistan - Bangladesh",
+    "bets": [
+      {
+        "team": "Afghanistan",
+        "odds": "2"
+      },
+      {
+        "team": "Bangladesh",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Dec 13, 05:00 AM",
     "title": "Afghanistan Srl - Bangladesh Srl",
     "bets": [
       {
@@ -654,6 +626,20 @@
       {
         "team": "Bangladesh Srl",
         "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Dec 13, 05:00 AM",
+    "title": "Sri Lanka - Nepal U19",
+    "bets": [
+      {
+        "team": "Sri Lanka",
+        "odds": "1.29"
+      },
+      {
+        "team": "Nepal U19",
+        "odds": "3.2"
       }
     ]
   },
@@ -700,6 +686,20 @@
     ]
   },
   {
+    "date": "Dec 13, 07:00 AM",
+    "title": "Blasters - Titans",
+    "bets": [
+      {
+        "team": "Blasters",
+        "odds": "1.47"
+      },
+      {
+        "team": "Titans",
+        "odds": "2.46"
+      }
+    ]
+  },
+  {
     "date": "Dec 13, 07:30 AM",
     "title": "Dolphins - Lions",
     "bets": [
@@ -719,11 +719,11 @@
     "bets": [
       {
         "team": "South Africa",
-        "odds": "1.07"
+        "odds": "1.05"
       },
       {
         "team": "Ireland",
-        "odds": "6.6"
+        "odds": "7.2"
       }
     ]
   },
