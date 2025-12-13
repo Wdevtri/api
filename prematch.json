@@ -14,6 +14,20 @@
     ]
   },
   {
+    "date": "Dec 15, 08:15 AM",
+    "title": "Melbourne Renegades - Brisbane Heat",
+    "bets": [
+      {
+        "team": "Melbourne Renegades",
+        "odds": "1.86"
+      },
+      {
+        "team": "Brisbane Heat",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
     "date": "Dec 13, 02:30 PM",
     "title": "Abu Dhabi Knight Riders - Dubai Capitals",
     "bets": [
@@ -42,552 +56,6 @@
     ]
   },
   {
-    "date": "Dec 12, 11:00 PM",
-    "title": "WCMCC 1st Grade - Ginninderra 1st Grade",
-    "bets": [
-      {
-        "team": "WCMCC 1st Grade",
-        "odds": "2.85"
-      },
-      {
-        "team": "Ginninderra 1st Grade",
-        "odds": "1.35"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 11:00 PM",
-    "title": "NCGCC 1st Grade - Queanbeyan 1st Grade",
-    "bets": [
-      {
-        "team": "NCGCC 1st Grade",
-        "odds": "2.48"
-      },
-      {
-        "team": "Queanbeyan 1st Grade",
-        "odds": "1.46"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 11:00 PM",
-    "title": "WDCC 1st Grade - ANU 1st Grade",
-    "bets": [
-      {
-        "team": "WDCC 1st Grade",
-        "odds": "2.28"
-      },
-      {
-        "team": "ANU 1st Grade",
-        "odds": "1.54"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 11:00 PM",
-    "title": "Eastlake 1st Grade - Tuggeranong 1st Grade",
-    "bets": [
-      {
-        "team": "Eastlake 1st Grade",
-        "odds": "1.58"
-      },
-      {
-        "team": "Tuggeranong 1st Grade",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Dec 12, 11:00 PM",
-    "title": "St Kitts And Nevis Patriots Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "1.97"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 12:00 AM",
-    "title": "Australia Srl - South Africa Srl",
-    "bets": [
-      {
-        "team": "Australia Srl",
-        "odds": "1.8"
-      },
-      {
-        "team": "South Africa Srl",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 01:00 AM",
-    "title": "Sydney Sixers Srl - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 02:00 AM",
-    "title": "Thailand - Philippines",
-    "bets": [
-      {
-        "team": "Thailand",
-        "odds": "3.15"
-      },
-      {
-        "team": "Philippines",
-        "odds": "1.32"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 02:00 AM",
-    "title": "St Kitts And Nevis Patriots Srl - Trinbago Knight Riders Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 02:45 AM",
-    "title": "Melbourne 1sts T20 (w) - Geelong 1sts T20 (w)",
-    "bets": [
-      {
-        "team": "Melbourne 1sts T20 (w)",
-        "odds": "1.08"
-      },
-      {
-        "team": "Geelong 1sts T20 (w)",
-        "odds": "6.45"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 02:45 AM",
-    "title": "Essendon Maribyrnong Park 1sts T20 (w) - Carlton 1sts T20 (w)",
-    "bets": [
-      {
-        "team": "Essendon Maribyrnong Park 1sts T20 (w)",
-        "odds": "1.65"
-      },
-      {
-        "team": "Carlton 1sts T20 (w)",
-        "odds": "2.11"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 03:00 AM",
-    "title": "Islamabad United Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.99"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 04:00 AM",
-    "title": "Bhutan - Bahrain",
-    "bets": [
-      {
-        "team": "Bhutan",
-        "odds": "8"
-      },
-      {
-        "team": "Bahrain",
-        "odds": "1.04"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 04:00 AM",
-    "title": "S.A. Technology - John Keells Holdings",
-    "bets": [
-      {
-        "team": "S.A. Technology",
-        "odds": "1.6"
-      },
-      {
-        "team": "John Keells Holdings",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 04:00 AM",
-    "title": "HSBC II - NDB A",
-    "bets": [
-      {
-        "team": "HSBC II",
-        "odds": "2.05"
-      },
-      {
-        "team": "NDB A",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 04:00 AM",
-    "title": "Auckland SRL - Wellington SRL",
-    "bets": [
-      {
-        "team": "Auckland SRL",
-        "odds": "1.95"
-      },
-      {
-        "team": "Wellington SRL",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 05:00 AM",
-    "title": "Sri Lanka - Nepal U19",
-    "bets": [
-      {
-        "team": "Sri Lanka",
-        "odds": "1.26"
-      },
-      {
-        "team": "Nepal U19",
-        "odds": "3.35"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 05:00 AM",
-    "title": "Afghanistan - Bangladesh",
-    "bets": [
-      {
-        "team": "Afghanistan",
-        "odds": "2.1"
-      },
-      {
-        "team": "Bangladesh",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 05:00 AM",
-    "title": "Bauhinia Stars (w) - Jade Jets (w)",
-    "bets": [
-      {
-        "team": "Bauhinia Stars (w)",
-        "odds": "2"
-      },
-      {
-        "team": "Jade Jets (w)",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 05:00 AM",
-    "title": "Afghanistan Srl - Bangladesh Srl",
-    "bets": [
-      {
-        "team": "Afghanistan Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Bangladesh Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 05:30 AM",
-    "title": "United Arab Emirates - Qatar",
-    "bets": [
-      {
-        "team": "United Arab Emirates",
-        "odds": "1.06"
-      },
-      {
-        "team": "Qatar",
-        "odds": "6.8"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 06:00 AM",
-    "title": "Durban Super Giants Srl - Joburg Super Kings Srl",
-    "bets": [
-      {
-        "team": "Durban Super Giants Srl",
-        "odds": "1.86"
-      },
-      {
-        "team": "Joburg Super Kings Srl",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 06:30 AM",
-    "title": "Malaysia - Singapore",
-    "bets": [
-      {
-        "team": "Malaysia",
-        "odds": "1.15"
-      },
-      {
-        "team": "Singapore",
-        "odds": "4.85"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 07:00 AM",
-    "title": "Blasters - Titans",
-    "bets": [
-      {
-        "team": "Blasters",
-        "odds": "1.56"
-      },
-      {
-        "team": "Titans",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 07:00 AM",
-    "title": "Royal Challengers Bangalore SRL - Mumbai Indians SRL",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.98"
-      },
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 07:30 AM",
-    "title": "Dolphins - Lions",
-    "bets": [
-      {
-        "team": "Dolphins",
-        "odds": "1.71"
-      },
-      {
-        "team": "Lions",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 08:00 AM",
-    "title": "South Africa - Ireland",
-    "bets": [
-      {
-        "team": "South Africa",
-        "odds": "1.05"
-      },
-      {
-        "team": "Ireland",
-        "odds": "7.2"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 08:00 AM",
-    "title": "Sydney Thunder Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 08:15 AM",
-    "title": "Hobart Hurricanes (w) - Perth Scorchers (w)",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes (w)",
-        "odds": "1.65"
-      },
-      {
-        "team": "Perth Scorchers (w)",
-        "odds": "2.15"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 08:15 AM",
-    "title": "Akbar Brothers - CW Mackie",
-    "bets": [
-      {
-        "team": "Akbar Brothers",
-        "odds": "1.67"
-      },
-      {
-        "team": "CW Mackie",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 09:00 AM",
-    "title": "Nigeria - Rwanda",
-    "bets": [
-      {
-        "team": "Nigeria",
-        "odds": "1.32"
-      },
-      {
-        "team": "Rwanda",
-        "odds": "3"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 09:00 AM",
-    "title": "Mi Cape Town Srl - Paarl Royals Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.72"
-      },
-      {
-        "team": "Paarl Royals Srl",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 09:45 AM",
-    "title": "Sudurpaschim Royals - Lumbini Lions",
-    "bets": [
-      {
-        "team": "Sudurpaschim Royals",
-        "odds": "1.65"
-      },
-      {
-        "team": "Lumbini Lions",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 09:45 AM",
-    "title": "Sudurpaschim Royals - Lumbini Lions",
-    "bets": [
-      {
-        "team": "Sudurpaschim Royals",
-        "odds": "1.56"
-      },
-      {
-        "team": "Lumbini Lions",
-        "odds": "2.23"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 10:00 AM",
-    "title": "Oman - Saudi Arabia",
-    "bets": [
-      {
-        "team": "Oman",
-        "odds": "1.02"
-      },
-      {
-        "team": "Saudi Arabia",
-        "odds": "8.8"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 10:00 AM",
-    "title": "Peshawar Zalmi Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 11:00 AM",
-    "title": "Guyana Amazon Warriors Srl - Barbados Royals Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.68"
-      },
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 11:00 AM",
-    "title": "Gladiators - Warriors",
-    "bets": [
-      {
-        "team": "Gladiators",
-        "odds": "1.52"
-      },
-      {
-        "team": "Warriors",
-        "odds": "2.32"
-      }
-    ]
-  },
-  {
-    "date": "Dec 13, 11:45 AM",
-    "title": "Mountaineers - Eagles",
-    "bets": [
-      {
-        "team": "Mountaineers",
-        "odds": "1.92"
-      },
-      {
-        "team": "Eagles",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
     "date": "Dec 13, 12:00 PM",
     "title": "Otago SRL - Central Districts SRL",
     "bets": [
@@ -607,11 +75,11 @@
     "bets": [
       {
         "team": "Sierra Leone",
-        "odds": "3.15"
+        "odds": "3.1"
       },
       {
         "team": "Zambia",
-        "odds": "1.29"
+        "odds": "1.3"
       }
     ]
   },
@@ -649,11 +117,11 @@
     "bets": [
       {
         "team": "Bahrain",
-        "odds": "2.9"
+        "odds": "3.2"
       },
       {
         "team": "Kuwait",
-        "odds": "1.34"
+        "odds": "1.29"
       }
     ]
   },
@@ -710,6 +178,48 @@
       {
         "team": "Sunrisers Eastern Cape Srl",
         "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Dec 13, 09:30 PM",
+    "title": "Auckland Hearts - Northern Brave",
+    "bets": [
+      {
+        "team": "Auckland Hearts",
+        "odds": "1.65"
+      },
+      {
+        "team": "Northern Brave",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Dec 13, 09:30 PM",
+    "title": "Central Hinds - Otago Sparks",
+    "bets": [
+      {
+        "team": "Central Hinds",
+        "odds": "1.49"
+      },
+      {
+        "team": "Otago Sparks",
+        "odds": "2.4"
+      }
+    ]
+  },
+  {
+    "date": "Dec 13, 09:30 PM",
+    "title": "Canterbury Magicians - Wellington Blaze",
+    "bets": [
+      {
+        "team": "Canterbury Magicians",
+        "odds": "2.2"
+      },
+      {
+        "team": "Wellington Blaze",
+        "odds": "1.57"
       }
     ]
   },
@@ -775,11 +285,11 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.3"
+        "odds": "1.32"
       },
       {
         "team": "Pakistan",
-        "odds": "3.15"
+        "odds": "3"
       }
     ]
   },
@@ -789,11 +299,11 @@
     "bets": [
       {
         "team": "Andhra",
-        "odds": "2.4"
+        "odds": "2.52"
       },
       {
         "team": "Punjab",
-        "odds": "1.53"
+        "odds": "1.49"
       }
     ]
   },
@@ -817,11 +327,11 @@
     "bets": [
       {
         "team": "Hyderabad",
-        "odds": "1.67"
+        "odds": "1.72"
       },
       {
         "team": "Rajasthan",
-        "odds": "2.12"
+        "odds": "2.04"
       }
     ]
   },
@@ -864,6 +374,48 @@
       {
         "team": "South Africa",
         "odds": "2.9"
+      }
+    ]
+  },
+  {
+    "date": "Dec 15, 08:00 AM",
+    "title": "Gujarat Titans (Gerrard) - Delhi Capitals (Jordan)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "1.75"
+      },
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Dec 15, 09:00 AM",
+    "title": "Gujarat Titans (Gerrard) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (Gerrard)",
+        "odds": "1.75"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Dec 15, 10:00 AM",
+    "title": "Delhi Capitals (Jordan) - Sunrisers Hyderabad (Sibs)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (Jordan)",
+        "odds": "2"
+      },
+      {
+        "team": "Sunrisers Hyderabad (Sibs)",
+        "odds": "1.8"
       }
     ]
   }
