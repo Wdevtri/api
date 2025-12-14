@@ -28,72 +28,16 @@
     ]
   },
   {
-    "date": "Dec 14, 10:00 AM",
-    "title": "MI Emirates - Sharjah Warriors",
-    "bets": [
-      {
-        "team": "MI Emirates",
-        "odds": "1.44"
-      },
-      {
-        "team": "Sharjah Warriors",
-        "odds": "2.8"
-      }
-    ]
-  },
-  {
     "date": "Dec 14, 02:30 PM",
     "title": "Desert Vipers - Dubai Capitals",
     "bets": [
       {
         "team": "Desert Vipers",
-        "odds": "1.65"
+        "odds": "1.66"
       },
       {
         "team": "Dubai Capitals",
-        "odds": "2.23"
-      }
-    ]
-  },
-  {
-    "date": "Dec 14, 11:00 AM",
-    "title": "Madhya Pradesh - Jharkhand",
-    "bets": [
-      {
-        "team": "Madhya Pradesh",
-        "odds": "2.14"
-      },
-      {
-        "team": "Jharkhand",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "Dec 14, 11:00 AM",
-    "title": "Warriors - Blasters",
-    "bets": [
-      {
-        "team": "Warriors",
-        "odds": "2.18"
-      },
-      {
-        "team": "Blasters",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "Dec 14, 11:00 AM",
-    "title": "St Lucia Kings Srl - Trinbago Knight Riders Srl",
-    "bets": [
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "2.1"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.69"
+        "odds": "2.22"
       }
     ]
   },
@@ -280,6 +224,34 @@
     ]
   },
   {
+    "date": "Dec 15, 02:00 AM",
+    "title": "Thailand (w) - Myanmar (w)",
+    "bets": [
+      {
+        "team": "Thailand (w)",
+        "odds": "1.03"
+      },
+      {
+        "team": "Myanmar (w)",
+        "odds": "9.4"
+      }
+    ]
+  },
+  {
+    "date": "Dec 15, 02:00 AM",
+    "title": "Thailand - Indonesia",
+    "bets": [
+      {
+        "team": "Thailand",
+        "odds": "2.02"
+      },
+      {
+        "team": "Indonesia",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
     "date": "Dec 15, 03:00 AM",
     "title": "Multan Sultans Srl - Islamabad United Srl",
     "bets": [
@@ -294,6 +266,20 @@
     ]
   },
   {
+    "date": "Dec 15, 03:30 AM",
+    "title": "Kanyakumari - Salem",
+    "bets": [
+      {
+        "team": "Kanyakumari",
+        "odds": "2.4"
+      },
+      {
+        "team": "Salem",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
     "date": "Dec 15, 04:00 AM",
     "title": "Wellington SRL - Central Districts SRL",
     "bets": [
@@ -304,6 +290,20 @@
       {
         "team": "Central Districts SRL",
         "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Dec 15, 04:00 AM",
+    "title": "Malaysia - Philippines",
+    "bets": [
+      {
+        "team": "Malaysia",
+        "odds": "1.05"
+      },
+      {
+        "team": "Philippines",
+        "odds": "8"
       }
     ]
   },
@@ -336,6 +336,20 @@
     ]
   },
   {
+    "date": "Dec 15, 06:30 AM",
+    "title": "Indonesia (w) - Malaysia (w)",
+    "bets": [
+      {
+        "team": "Indonesia (w)",
+        "odds": "1.72"
+      },
+      {
+        "team": "Malaysia (w)",
+        "odds": "2.02"
+      }
+    ]
+  },
+  {
     "date": "Dec 15, 07:00 AM",
     "title": "Royal Challengers Bangalore SRL - Chennai Super Kings SRL",
     "bets": [
@@ -346,6 +360,20 @@
       {
         "team": "Chennai Super Kings SRL",
         "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Dec 15, 07:30 AM",
+    "title": "Tiruvannamalai - Dindigul District",
+    "bets": [
+      {
+        "team": "Tiruvannamalai",
+        "odds": "2.66"
+      },
+      {
+        "team": "Dindigul District",
+        "odds": "1.42"
       }
     ]
   },
