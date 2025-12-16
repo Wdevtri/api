@@ -33,25 +33,11 @@
     "bets": [
       {
         "team": "Dubai Capitals",
-        "odds": "2.48"
+        "odds": "2.34"
       },
       {
         "team": "MI Emirates",
-        "odds": "1.54"
-      }
-    ]
-  },
-  {
-    "date": "Dec 16, 06:00 PM",
-    "title": "England Srl - New Zealand Srl",
-    "bets": [
-      {
-        "team": "England Srl",
-        "odds": "1.63"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "2.2"
+        "odds": "1.6"
       }
     ]
   },
@@ -103,11 +89,11 @@
     "bets": [
       {
         "team": "Australia",
-        "odds": "1.5"
+        "odds": "1.57"
       },
       {
         "team": "Draw",
-        "odds": "12"
+        "odds": "11"
       }
     ]
   },
@@ -155,20 +141,6 @@
   },
   {
     "date": "Dec 17, 02:00 AM",
-    "title": "St Kitts And Nevis Patriots Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "1.97"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Dec 17, 02:00 AM",
     "title": "Malaysia (w) - Philippines (w)",
     "bets": [
       {
@@ -187,11 +159,25 @@
     "bets": [
       {
         "team": "Philippines",
-        "odds": "2.34"
+        "odds": "2.15"
       },
       {
         "team": "Singapore",
-        "odds": "1.55"
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Dec 17, 02:00 AM",
+    "title": "St Kitts And Nevis Patriots Srl - St Lucia Kings Srl",
+    "bets": [
+      {
+        "team": "St Kitts And Nevis Patriots Srl",
+        "odds": "1.97"
+      },
+      {
+        "team": "St Lucia Kings Srl",
+        "odds": "1.78"
       }
     ]
   },
@@ -332,6 +318,20 @@
       {
         "team": "Sunrisers Hyderabad SRL",
         "odds": "1.84"
+      }
+    ]
+  },
+  {
+    "date": "Dec 17, 07:30 AM",
+    "title": "Ranipet - Thiruvallur",
+    "bets": [
+      {
+        "team": "Ranipet",
+        "odds": "2.46"
+      },
+      {
+        "team": "Thiruvallur",
+        "odds": "1.5"
       }
     ]
   },
