@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Brisbane Heat",
-        "odds": "2.05"
+        "odds": "2.22"
       },
       {
         "team": "Perth Scorchers",
-        "odds": "1.77"
+        "odds": "1.66"
       }
     ]
   },
@@ -42,44 +42,16 @@
     ]
   },
   {
-    "date": "Dec 18, 08:00 PM",
-    "title": "Paarl Royals Srl - Sunrisers Eastern Cape Srl",
+    "date": "Dec 20, 10:00 AM",
+    "title": "Abu Dhabi Knight Riders - MI Emirates",
     "bets": [
       {
-        "team": "Paarl Royals Srl",
+        "team": "Abu Dhabi Knight Riders",
+        "odds": "2"
+      },
+      {
+        "team": "MI Emirates",
         "odds": "1.8"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Dec 18, 10:00 PM",
-    "title": "Wellington SRL - Auckland SRL",
-    "bets": [
-      {
-        "team": "Wellington SRL",
-        "odds": "1.8"
-      },
-      {
-        "team": "Auckland SRL",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Dec 18, 11:00 PM",
-    "title": "Barbados Royals Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "1.97"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.78"
       }
     ]
   },
@@ -131,11 +103,11 @@
     "bets": [
       {
         "team": "Indonesia (w)",
-        "odds": "1.36"
+        "odds": "1.17"
       },
       {
         "team": "Myanmar (w)",
-        "odds": "2.98"
+        "odds": "4.44"
       }
     ]
   },
@@ -187,11 +159,11 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.2"
+        "odds": "1.15"
       },
       {
         "team": "Sri Lanka",
-        "odds": "3.9"
+        "odds": "4.6"
       }
     ]
   },
@@ -430,6 +402,20 @@
       {
         "team": "Peshawar Zalmi Srl",
         "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Dec 19, 02:30 PM",
+    "title": "United Arab Emirates - Oman",
+    "bets": [
+      {
+        "team": "United Arab Emirates",
+        "odds": "1.15"
+      },
+      {
+        "team": "Oman",
+        "odds": "4.6"
       }
     ]
   },
