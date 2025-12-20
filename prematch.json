@@ -42,20 +42,6 @@
     ]
   },
   {
-    "date": "Dec 20, 04:00 PM",
-    "title": "Mumbai Indians SRL - Punjab Kings SRL",
-    "bets": [
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.75"
-      },
-      {
-        "team": "Punjab Kings SRL",
-        "odds": "2"
-      }
-    ]
-  },
-  {
     "date": "Dec 20, 06:00 PM",
     "title": "Sri Lanka Srl - Bangladesh Srl",
     "bets": [
@@ -453,7 +439,7 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.14"
+        "odds": "1.13"
       },
       {
         "team": "Sri Lanka",
