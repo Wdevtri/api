@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Sydney Thunder",
-        "odds": "2"
+        "odds": "1.9"
       },
       {
         "team": "Brisbane Heat",
-        "odds": "1.81"
+        "odds": "1.9"
       }
     ]
   },
@@ -19,7 +19,7 @@
     "bets": [
       {
         "team": "Adelaide Strikers",
-        "odds": "1.8"
+        "odds": "1.81"
       },
       {
         "team": "Melbourne Stars",
@@ -33,39 +33,25 @@
     "bets": [
       {
         "team": "Abu Dhabi Knight Riders",
-        "odds": "1.77"
+        "odds": "1.73"
       },
       {
         "team": "Sharjah Warriors",
-        "odds": "2.05"
+        "odds": "2.1"
       }
     ]
   },
   {
-    "date": "Dec 21, 06:00 PM",
-    "title": "New Zealand Srl - Afghanistan Srl",
+    "date": "Dec 23, 02:30 PM",
+    "title": "MI Emirates - Gulf Giants",
     "bets": [
       {
-        "team": "New Zealand Srl",
+        "team": "MI Emirates",
         "odds": "1.63"
       },
       {
-        "team": "Afghanistan Srl",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Dec 21, 06:30 PM",
-    "title": "Chattogram FC - Greater Noakhali Express",
-    "bets": [
-      {
-        "team": "Chattogram FC",
-        "odds": "6.25"
-      },
-      {
-        "team": "Greater Noakhali Express",
-        "odds": "1.07"
+        "team": "Gulf Giants",
+        "odds": "2.28"
       }
     ]
   },
@@ -117,11 +103,11 @@
     "bets": [
       {
         "team": "Tasmania U-19 (w)",
-        "odds": "1.6"
+        "odds": "1.49"
       },
       {
         "team": "South Australia U-19 (w)",
-        "odds": "2.2"
+        "odds": "2.44"
       }
     ]
   },
