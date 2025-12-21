@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Sydney Thunder",
-        "odds": "2.05"
+        "odds": "2"
       },
       {
         "team": "Brisbane Heat",
-        "odds": "1.77"
+        "odds": "1.81"
       }
     ]
   },
@@ -19,11 +19,11 @@
     "bets": [
       {
         "team": "Adelaide Strikers",
-        "odds": "1.83"
+        "odds": "1.8"
       },
       {
         "team": "Melbourne Stars",
-        "odds": "1.97"
+        "odds": "2"
       }
     ]
   },
@@ -33,25 +33,11 @@
     "bets": [
       {
         "team": "Abu Dhabi Knight Riders",
-        "odds": "1.7"
+        "odds": "1.77"
       },
       {
         "team": "Sharjah Warriors",
-        "odds": "2.15"
-      }
-    ]
-  },
-  {
-    "date": "Dec 21, 04:00 PM",
-    "title": "Kolkata Knight Riders Srl - Delhi Capitals SRL",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders Srl",
-        "odds": "1.89"
-      },
-      {
-        "team": "Delhi Capitals SRL",
-        "odds": "1.85"
+        "odds": "2.05"
       }
     ]
   },
@@ -127,20 +113,6 @@
   },
   {
     "date": "Dec 21, 11:00 PM",
-    "title": "Trinbago Knight Riders Srl - Barbados Royals Srl",
-    "bets": [
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.61"
-      },
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
-    "date": "Dec 21, 11:00 PM",
     "title": "Tasmania U-19 (w) - South Australia U-19 (w)",
     "bets": [
       {
@@ -164,6 +136,20 @@
       {
         "team": "New South Wales Country U-19 (w)",
         "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Dec 21, 11:00 PM",
+    "title": "Trinbago Knight Riders Srl - Barbados Royals Srl",
+    "bets": [
+      {
+        "team": "Trinbago Knight Riders Srl",
+        "odds": "1.61"
+      },
+      {
+        "team": "Barbados Royals Srl",
+        "odds": "2.24"
       }
     ]
   },
@@ -257,11 +243,11 @@
     "bets": [
       {
         "team": "Nepal Armed Police Force Club",
-        "odds": "1.74"
+        "odds": "1.67"
       },
       {
         "team": "Delhi Wonders Cricket Club",
-        "odds": "1.94"
+        "odds": "2.04"
       }
     ]
   },
@@ -528,6 +514,20 @@
       {
         "team": "Sui Northern Gas Pipelines Limited",
         "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Dec 23, 01:30 PM",
+    "title": "India - Sri Lanka",
+    "bets": [
+      {
+        "team": "India",
+        "odds": "1.1"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "7.2"
       }
     ]
   }
