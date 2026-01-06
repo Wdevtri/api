@@ -89,11 +89,11 @@
     "bets": [
       {
         "team": "Wellington Blaze",
-        "odds": "1.38"
+        "odds": "1.35"
       },
       {
         "team": "Central Hinds",
-        "odds": "2.74"
+        "odds": "2.86"
       }
     ]
   },
@@ -159,11 +159,11 @@
     "bets": [
       {
         "team": "Wellington Firebirds",
-        "odds": "1.85"
+        "odds": "1.78"
       },
       {
         "team": "Central Stags",
-        "odds": "1.89"
+        "odds": "1.96"
       }
     ]
   },
@@ -547,20 +547,6 @@
   },
   {
     "date": "Jan 8, 03:30 AM",
-    "title": "Puducherry - Rajasthan",
-    "bets": [
-      {
-        "team": "Puducherry",
-        "odds": "2.44"
-      },
-      {
-        "team": "Rajasthan",
-        "odds": "1.47"
-      }
-    ]
-  },
-  {
-    "date": "Jan 8, 03:30 AM",
     "title": "Jharkhand - Tripura",
     "bets": [
       {
@@ -570,6 +556,20 @@
       {
         "team": "Tripura",
         "odds": "2.94"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 03:30 AM",
+    "title": "Puducherry - Rajasthan",
+    "bets": [
+      {
+        "team": "Puducherry",
+        "odds": "2.44"
+      },
+      {
+        "team": "Rajasthan",
+        "odds": "1.47"
       }
     ]
   },
