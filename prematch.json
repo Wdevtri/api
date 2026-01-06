@@ -42,16 +42,16 @@
     ]
   },
   {
-    "date": "Jan 6, 08:00 PM",
-    "title": "South Africa Srl - England Srl",
+    "date": "Jan 8, 03:30 PM",
+    "title": "Joburg Super Kings - Paarl Royals",
     "bets": [
       {
-        "team": "South Africa Srl",
-        "odds": "1.9"
+        "team": "Joburg Super Kings",
+        "odds": "1.69"
       },
       {
-        "team": "England Srl",
-        "odds": "1.84"
+        "team": "Paarl Royals",
+        "odds": "2.14"
       }
     ]
   },
@@ -588,6 +588,20 @@
     ]
   },
   {
+    "date": "Jan 8, 03:30 AM",
+    "title": "Chengalpattu - Theni",
+    "bets": [
+      {
+        "team": "Chengalpattu",
+        "odds": "1.62"
+      },
+      {
+        "team": "Theni",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
     "date": "Jan 8, 05:30 AM",
     "title": "South Hobart Sandy Bay CC 1st Grade - University of Tasmania 1st Grade",
     "bets": [
@@ -612,6 +626,20 @@
       {
         "team": "Glenorchy 1st Grade",
         "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 07:30 AM",
+    "title": "Ranipet - Coimbatore District",
+    "bets": [
+      {
+        "team": "Ranipet",
+        "odds": "2.05"
+      },
+      {
+        "team": "Coimbatore District",
+        "odds": "1.65"
       }
     ]
   }
