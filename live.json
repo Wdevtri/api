@@ -1,1 +1,208 @@
-[]
+[
+  {
+    "date": "Jan 3, 11:30 PM",
+    "title": "Australia - England",
+    "bets": [
+      {
+        "team": "Australia",
+        "odds": "1.05"
+      },
+      {
+        "team": "Draw",
+        "odds": "36"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 08:08 PM",
+    "title": "Hyderabad Legends (V) - Delhi Legends (V)",
+    "bets": [
+      {
+        "team": "Hyderabad Legends (V)",
+        "odds": "4.24"
+      },
+      {
+        "team": "Delhi Legends (V)",
+        "odds": "1.19"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 08:35 PM",
+    "title": "Lucknow Super Giants (cyber) - Chennai Super Kings (cyber)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (cyber)",
+        "odds": "16.83"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:05 PM",
+    "title": "Germany (cyber) - Thailand (cyber)",
+    "bets": [
+      {
+        "team": "Germany (cyber)",
+        "odds": "2.97"
+      },
+      {
+        "team": "Thailand (cyber)",
+        "odds": "1.29"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:27 PM",
+    "title": "Rajasthan Royals (V) - Delhi Capitals (V)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (V)",
+        "odds": "1.34"
+      },
+      {
+        "team": "Delhi Capitals (V)",
+        "odds": "3.01"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:30 PM",
+    "title": "Strikers - Night Avengers",
+    "bets": [
+      {
+        "team": "Strikers",
+        "odds": "1.77"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.34"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:30 PM",
+    "title": "Royal Challengers Bengaluru (Azazel) - Chennai Super Kings (Scalpel)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bengaluru (Azazel)",
+        "odds": "9.54"
+      },
+      {
+        "team": "Chennai Super Kings (Scalpel)",
+        "odds": "1.02"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:35 PM",
+    "title": "Kolkata Knight Riders (cyber) - Mumbai Indians (cyber)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "2.05"
+      },
+      {
+        "team": "Mumbai Indians (cyber)",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:42 PM",
+    "title": "India (V) - New Zealand (V)",
+    "bets": [
+      {
+        "team": "India (V)",
+        "odds": "2.17"
+      },
+      {
+        "team": "New Zealand (V)",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:48 PM",
+    "title": "Delhi Capitals (e-w) - Rajasthan Royals (e-w)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (e-w)",
+        "odds": "9.1"
+      },
+      {
+        "team": "Rajasthan Royals (e-w)",
+        "odds": "1.03"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:48 PM",
+    "title": "Mumbai Indians (e) - Royal Challengers Bengaluru (e)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e)",
+        "odds": "1.78"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:48 PM",
+    "title": "Australia (V) - Zimbabwe (V)",
+    "bets": [
+      {
+        "team": "Australia (V)",
+        "odds": "1.01"
+      },
+      {
+        "team": "Draw",
+        "odds": "41"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:50 PM",
+    "title": "Mumbai Indians (V) - Chennai Super Kings (V)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (V)",
+        "odds": "2.05"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:52 PM",
+    "title": "Pakistan (V) - Bangladesh (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "1.35"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Jan 7, 09:51 PM",
+    "title": "Mumbai Indians (e) - Punjab Kings (e)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e)",
+        "odds": "1.49"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  }
+]
