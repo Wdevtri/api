@@ -1,147 +1,311 @@
 [
   {
-    "date": "Jan 3, 11:30 PM",
-    "title": "Australia - England",
+    "date": "Jan 8, 03:30 AM",
+    "title": "Baroda - Chandigarh",
     "bets": [
       {
-        "team": "Australia",
-        "odds": "1.05"
-      },
-      {
-        "team": "Draw",
-        "odds": "36"
-      }
-    ]
-  },
-  {
-    "date": "Jan 7, 08:08 PM",
-    "title": "Hyderabad Legends (V) - Delhi Legends (V)",
-    "bets": [
-      {
-        "team": "Hyderabad Legends (V)",
-        "odds": "4.66"
-      },
-      {
-        "team": "Delhi Legends (V)",
-        "odds": "1.16"
-      }
-    ]
-  },
-  {
-    "date": "Jan 7, 08:35 PM",
-    "title": "Lucknow Super Giants (cyber) - Chennai Super Kings (cyber)",
-    "bets": [
-      {
-        "team": "Chennai Super Kings (cyber)",
-        "odds": "13.86"
-      }
-    ]
-  },
-  {
-    "date": "Jan 7, 09:05 PM",
-    "title": "Germany (cyber) - Thailand (cyber)",
-    "bets": [
-      {
-        "team": "Germany (cyber)",
-        "odds": "2.39"
-      },
-      {
-        "team": "Thailand (cyber)",
-        "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Jan 7, 09:27 PM",
-    "title": "Rajasthan Royals (V) - Delhi Capitals (V)",
-    "bets": [
-      {
-        "team": "Rajasthan Royals (V)",
-        "odds": "2.46"
-      },
-      {
-        "team": "Delhi Capitals (V)",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "Jan 7, 09:30 PM",
-    "title": "Strikers - Night Avengers",
-    "bets": [
-      {
-        "team": "Strikers",
-        "odds": "1.4"
-      },
-      {
-        "team": "Draw",
-        "odds": "24.29"
-      }
-    ]
-  },
-  {
-    "date": "Jan 7, 09:30 PM",
-    "title": "Royal Challengers Bengaluru (Azazel) - Chennai Super Kings (Scalpel)",
-    "bets": [
-      {
-        "team": "Royal Challengers Bengaluru (Azazel)",
-        "odds": "9.54"
-      },
-      {
-        "team": "Chennai Super Kings (Scalpel)",
+        "team": "Baroda",
         "odds": "1.02"
+      },
+      {
+        "team": "Chandigarh",
+        "odds": "9"
       }
     ]
   },
   {
-    "date": "Jan 7, 09:35 PM",
-    "title": "Kolkata Knight Riders (cyber) - Mumbai Indians (cyber)",
+    "date": "Jan 8, 03:30 AM",
+    "title": "Karnataka - Madhya Pradesh",
     "bets": [
       {
-        "team": "Kolkata Knight Riders (cyber)",
-        "odds": "1.91"
+        "team": "Karnataka",
+        "odds": "5.2"
       },
       {
-        "team": "Mumbai Indians (cyber)",
-        "odds": "1.71"
+        "team": "Madhya Pradesh",
+        "odds": "1.11"
       }
     ]
   },
   {
-    "date": "Jan 7, 09:42 PM",
-    "title": "India (V) - New Zealand (V)",
+    "date": "Jan 8, 05:20 AM",
+    "title": "Northern Brave - Canterbury Magicians",
     "bets": [
       {
-        "team": "India (V)",
-        "odds": "2.43"
+        "team": "Northern Brave",
+        "odds": "1.14"
       },
       {
-        "team": "New Zealand (V)",
-        "odds": "1.49"
+        "team": "Canterbury Magicians",
+        "odds": "4.7"
       }
     ]
   },
   {
-    "date": "Jan 7, 09:48 PM",
-    "title": "Delhi Capitals (e-w) - Rajasthan Royals (e-w)",
+    "date": "Jan 8, 06:00 AM",
+    "title": "Western Australia - South Australian Scorpions",
     "bets": [
       {
-        "team": "Delhi Capitals (e-w)",
-        "odds": "9.1"
+        "team": "Western Australia",
+        "odds": "3.75"
       },
       {
-        "team": "Rajasthan Royals (e-w)",
+        "team": "South Australian Scorpions",
+        "odds": "1.22"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 05:30 AM",
+    "title": "Kingborough 1st Grade - Glenorchy 1st Grade",
+    "bets": [
+      {
+        "team": "Kingborough 1st Grade",
+        "odds": "1.85"
+      },
+      {
+        "team": "Glenorchy 1st Grade",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:00 AM",
+    "title": "West Indies Srl - South Africa Srl",
+    "bets": [
+      {
+        "team": "West Indies Srl",
+        "odds": "1.14"
+      },
+      {
+        "team": "South Africa Srl",
+        "odds": "5.1"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 05:00 AM",
+    "title": "Joburg Super Kings Srl - Durban Super Giants Srl",
+    "bets": [
+      {
+        "team": "Joburg Super Kings Srl",
+        "odds": "2.62"
+      },
+      {
+        "team": "Durban Super Giants Srl",
+        "odds": "1.46"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 04:00 AM",
+    "title": "Hustlers - Patna Pacers",
+    "bets": [
+      {
+        "team": "Hustlers",
+        "odds": "9.5"
+      },
+      {
+        "team": "Patna Pacers",
         "odds": "1.03"
       }
     ]
   },
   {
-    "date": "Jan 7, 09:48 PM",
-    "title": "Mumbai Indians (e) - Royal Challengers Bengaluru (e)",
+    "date": "Jan 8, 04:09 AM",
+    "title": "Sri Lanka (V) - England (V)",
     "bets": [
       {
-        "team": "Mumbai Indians (e)",
-        "odds": "1.78"
+        "team": "Sri Lanka (V)",
+        "odds": "1.9"
+      },
+      {
+        "team": "England (V)",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 04:19 AM",
+    "title": "Lucknow Super Giants (V) - Gujarat Titans (V)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (V)",
+        "odds": "4.53"
+      },
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 05:30 AM",
+    "title": "Hawks Chennai - Titans Chennai",
+    "bets": [
+      {
+        "team": "Hawks Chennai",
+        "odds": "1.66"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.32"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 05:35 AM",
+    "title": "Kolkata Knight Riders (cyber) - Rajasthan Royals (cyber)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "3.87"
+      },
+      {
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "1.14"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 05:40 AM",
+    "title": "Chitrakoot Tribes - Silly Squads",
+    "bets": [
+      {
+        "team": "Chitrakoot Tribes",
+        "odds": "1.64"
+      },
+      {
+        "team": "Silly Squads",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:00 AM",
+    "title": "Stunners Indoor - Top Guns Indoor",
+    "bets": [
+      {
+        "team": "Stunners Indoor",
+        "odds": "1.5"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.1"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:05 AM",
+    "title": "Pakistan (cyber) - India (cyber)",
+    "bets": [
+      {
+        "team": "Pakistan (cyber)",
+        "odds": "2.69"
+      },
+      {
+        "team": "India (cyber)",
+        "odds": "1.35"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:14 AM",
+    "title": "West Indies Legends (V) - England Legends (V)",
+    "bets": [
+      {
+        "team": "West Indies Legends (V)",
+        "odds": "2.71"
+      },
+      {
+        "team": "England Legends (V)",
+        "odds": "1.41"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:15 AM",
+    "title": "India (Anjidan) - Pakistan (MarkzMan)",
+    "bets": [
+      {
+        "team": "India (Anjidan)",
+        "odds": "1.37"
+      },
+      {
+        "team": "Pakistan (MarkzMan)",
+        "odds": "2.77"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:21 AM",
+    "title": "South Africa (V) - England (V)",
+    "bets": [
+      {
+        "team": "Draw",
+        "odds": "3.1"
+      },
+      {
+        "team": "England (V)",
+        "odds": "1.27"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:23 AM",
+    "title": "Lucknow Super Giants (V) - Rajasthan Royals (V)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (V)",
+        "odds": "2.75"
+      },
+      {
+        "team": "Draw",
+        "odds": "12"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:24 AM",
+    "title": "Lucknow Super Giants (e) - Sunrisers Hyderabad (e)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (e)",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:24 AM",
+    "title": "Kolkata Knight Riders (e-w) - UP Warriorz (e-w)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (e-w)",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:25 AM",
+    "title": "Pakistan (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "1.22"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:27 AM",
+    "title": "Melbourne Renegades (V) - Hobart Hurricanes (V)",
+    "bets": [
+      {
+        "team": "Melbourne Renegades (V)",
+        "odds": "2.1"
       },
       {
         "team": "Draw",
@@ -150,11 +314,67 @@
     ]
   },
   {
-    "date": "Jan 7, 09:51 PM",
-    "title": "Mumbai Indians (e) - Punjab Kings (e)",
+    "date": "Jan 8, 06:30 AM",
+    "title": "Military - Courageous",
     "bets": [
       {
-        "team": "Mumbai Indians (e)",
+        "team": "Military",
+        "odds": "1.87"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.3"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:30 AM",
+    "title": "Dexterous - Crickmasters",
+    "bets": [
+      {
+        "team": "Dexterous",
+        "odds": "1.85"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.14"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:30 AM",
+    "title": "New Zealand (V) - Australia (V)",
+    "bets": [
+      {
+        "team": "New Zealand (V)",
+        "odds": "1.95"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:35 AM",
+    "title": "Lucknow Super Giants (cyber) - Gujarat Titans (cyber)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "1.7"
+      },
+      {
+        "team": "Gujarat Titans (cyber)",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Jan 8, 06:27 AM",
+    "title": "Punjab Kings (e) - Chennai Super Kings (e)",
+    "bets": [
+      {
+        "team": "Punjab Kings (e)",
         "odds": "1.49"
       },
       {
