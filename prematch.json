@@ -112,20 +112,6 @@
     ]
   },
   {
-    "date": "Jan 9, 09:00 AM",
-    "title": "Kolkata Knight Riders (Deolin) - Sunrisers Hyderabad (Sibs)",
-    "bets": [
-      {
-        "team": "Kolkata Knight Riders (Deolin)",
-        "odds": "3.1"
-      },
-      {
-        "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "1.33"
-      }
-    ]
-  },
-  {
     "date": "Jan 9, 10:00 AM",
     "title": "Peshawar Zalmi Srl - Multan Sultans Srl",
     "bets": [
@@ -145,11 +131,11 @@
     "bets": [
       {
         "team": "Gujarat Titans (Gerrard)",
-        "odds": "2.44"
+        "odds": "2.4"
       },
       {
         "team": "Sunrisers Hyderabad (Sibs)",
-        "odds": "1.55"
+        "odds": "1.52"
       }
     ]
   },
