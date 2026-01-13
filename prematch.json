@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Hobart Hurricanes",
-        "odds": "1.58"
+        "odds": "1.66"
       },
       {
         "team": "Brisbane Heat",
-        "odds": "2.39"
+        "odds": "2.22"
       }
     ]
   },
@@ -19,25 +19,11 @@
     "bets": [
       {
         "team": "Melbourne Renegades",
-        "odds": "2.18"
+        "odds": "2.28"
       },
       {
         "team": "Perth Scorchers",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Jan 13, 03:30 PM",
-    "title": "Paarl Royals - Durban's Super Giants",
-    "bets": [
-      {
-        "team": "Paarl Royals",
-        "odds": "2.24"
-      },
-      {
-        "team": "Durban's Super Giants",
-        "odds": "1.65"
+        "odds": "1.63"
       }
     ]
   },
@@ -56,86 +42,16 @@
     ]
   },
   {
-    "date": "Jan 13, 02:00 PM",
-    "title": "Mumbai Indians (w) - Gujarat Giants (w)",
-    "bets": [
-      {
-        "team": "Mumbai Indians (w)",
-        "odds": "1.7"
-      },
-      {
-        "team": "Gujarat Giants (w)",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
     "date": "Jan 14, 02:00 PM",
     "title": "UP Warriorz (w) - Delhi Capitals (w)",
     "bets": [
       {
         "team": "UP Warriorz (w)",
-        "odds": "2.1"
+        "odds": "2.02"
       },
       {
         "team": "Delhi Capitals (w)",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Jan 13, 02:00 PM",
-    "title": "Karachi Kings Srl - Multan Sultans Srl",
-    "bets": [
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "1.72"
-      },
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Jan 13, 03:30 PM",
-    "title": "Ias Invincibles - Majees Titan",
-    "bets": [
-      {
-        "team": "Ias Invincibles",
-        "odds": "2.3"
-      },
-      {
-        "team": "Majees Titan",
-        "odds": "1.53"
-      }
-    ]
-  },
-  {
-    "date": "Jan 13, 04:00 PM",
-    "title": "Adelaide Strikers Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "1.86"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Jan 13, 05:00 PM",
-    "title": "Z Sports - Dubai Dare Devils",
-    "bets": [
-      {
-        "team": "Z Sports",
-        "odds": "1.45"
-      },
-      {
-        "team": "Dubai Dare Devils",
-        "odds": "2.58"
+        "odds": "1.74"
       }
     ]
   },
@@ -201,11 +117,11 @@
     "bets": [
       {
         "team": "Trinidad And Tobago Divas",
-        "odds": "1.64"
+        "odds": "1.66"
       },
       {
         "team": "Barbados",
-        "odds": "2.08"
+        "odds": "2.06"
       }
     ]
   },
@@ -229,11 +145,11 @@
     "bets": [
       {
         "team": "Auckland Aces",
-        "odds": "1.75"
+        "odds": "1.76"
       },
       {
         "team": "Canterbury Kings",
-        "odds": "2"
+        "odds": "1.99"
       }
     ]
   },
@@ -294,6 +210,20 @@
     ]
   },
   {
+    "date": "Jan 14, 03:00 AM",
+    "title": "Lucknow Development Authority - UP Timber CC",
+    "bets": [
+      {
+        "team": "Lucknow Development Authority",
+        "odds": "1.72"
+      },
+      {
+        "team": "UP Timber CC",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
     "date": "Jan 14, 03:15 AM",
     "title": "Nepal (w) - Ireland (w)",
     "bets": [
@@ -322,30 +252,30 @@
     ]
   },
   {
+    "date": "Jan 14, 03:15 AM",
+    "title": "Bangladesh (w) - Netherlands (w)",
+    "bets": [
+      {
+        "team": "Bangladesh (w)",
+        "odds": "1.34"
+      },
+      {
+        "team": "Netherlands (w)",
+        "odds": "3"
+      }
+    ]
+  },
+  {
     "date": "Jan 14, 03:50 AM",
     "title": "Auckland Hearts - Canterbury Magicians",
     "bets": [
       {
         "team": "Auckland Hearts",
-        "odds": "1.45"
+        "odds": "1.43"
       },
       {
         "team": "Canterbury Magicians",
-        "odds": "2.52"
-      }
-    ]
-  },
-  {
-    "date": "Jan 14, 04:00 AM",
-    "title": "Royal Challengers Bangalore SRL - Chennai Super Kings SRL",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.66"
-      },
-      {
-        "team": "Chennai Super Kings SRL",
-        "odds": "2.14"
+        "odds": "2.58"
       }
     ]
   },
@@ -360,6 +290,34 @@
       {
         "team": "Team Greys",
         "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Jan 14, 04:00 AM",
+    "title": "Red Caps Cc - Ordnance Cc",
+    "bets": [
+      {
+        "team": "Red Caps Cc",
+        "odds": "2.72"
+      },
+      {
+        "team": "Ordnance Cc",
+        "odds": "1.39"
+      }
+    ]
+  },
+  {
+    "date": "Jan 14, 04:00 AM",
+    "title": "Royal Challengers Bangalore SRL - Chennai Super Kings SRL",
+    "bets": [
+      {
+        "team": "Royal Challengers Bangalore SRL",
+        "odds": "1.66"
+      },
+      {
+        "team": "Chennai Super Kings SRL",
+        "odds": "2.14"
       }
     ]
   },
@@ -392,6 +350,20 @@
     ]
   },
   {
+    "date": "Jan 14, 06:30 AM",
+    "title": "Dhruv CA - Akhil Infra CC",
+    "bets": [
+      {
+        "team": "Dhruv CA",
+        "odds": "1.98"
+      },
+      {
+        "team": "Akhil Infra CC",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
     "date": "Jan 14, 07:00 AM",
     "title": "Islamabad United Srl - Karachi Kings Srl",
     "bets": [
@@ -411,11 +383,11 @@
     "bets": [
       {
         "team": "USA (w)",
-        "odds": "4.4"
+        "odds": "4.85"
       },
       {
         "team": "Scotland (w)",
-        "odds": "1.17"
+        "odds": "1.15"
       }
     ]
   },
@@ -453,11 +425,25 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.18"
+        "odds": "1.19"
       },
       {
         "team": "New Zealand",
-        "odds": "4.9"
+        "odds": "4.7"
+      }
+    ]
+  },
+  {
+    "date": "Jan 14, 08:00 AM",
+    "title": "Valley Stars Ganderbal - Valley Warriors Srinagar",
+    "bets": [
+      {
+        "team": "Valley Stars Ganderbal",
+        "odds": "2.7"
+      },
+      {
+        "team": "Valley Warriors Srinagar",
+        "odds": "1.38"
       }
     ]
   },
@@ -481,11 +467,25 @@
     "bets": [
       {
         "team": "Team Blues",
-        "odds": "1.62"
+        "odds": "1.65"
       },
       {
         "team": "Team Greens",
-        "odds": "2.12"
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Jan 14, 08:30 AM",
+    "title": "Lion Warriors Cc - Gleam Stars Cc",
+    "bets": [
+      {
+        "team": "Lion Warriors Cc",
+        "odds": "1.38"
+      },
+      {
+        "team": "Gleam Stars Cc",
+        "odds": "2.76"
       }
     ]
   },
@@ -532,6 +532,20 @@
     ]
   },
   {
+    "date": "Jan 14, 11:30 AM",
+    "title": "Hill View Rajouri Cricket Club - Jk 11 Kings",
+    "bets": [
+      {
+        "team": "Hill View Rajouri Cricket Club",
+        "odds": "1.59"
+      },
+      {
+        "team": "Jk 11 Kings",
+        "odds": "2.15"
+      }
+    ]
+  },
+  {
     "date": "Jan 14, 12:00 PM",
     "title": "Auckland SRL - Canterbury SRL",
     "bets": [
@@ -542,6 +556,20 @@
       {
         "team": "Canterbury SRL",
         "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Jan 14, 01:00 PM",
+    "title": "DCC Starlets - ZMI Holdings",
+    "bets": [
+      {
+        "team": "DCC Starlets",
+        "odds": "1.86"
+      },
+      {
+        "team": "ZMI Holdings",
+        "odds": "1.86"
       }
     ]
   },
@@ -663,11 +691,25 @@
     "bets": [
       {
         "team": "Otago Volts",
-        "odds": "1.85"
+        "odds": "1.87"
       },
       {
         "team": "Wellington Firebirds",
-        "odds": "1.89"
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Jan 15, 03:30 AM",
+    "title": "Karnataka - Vidarbha",
+    "bets": [
+      {
+        "team": "Karnataka",
+        "odds": "1.53"
+      },
+      {
+        "team": "Vidarbha",
+        "odds": "2.3"
       }
     ]
   },
