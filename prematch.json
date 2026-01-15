@@ -42,20 +42,6 @@
     ]
   },
   {
-    "date": "Jan 15, 03:30 PM",
-    "title": "Pretoria Capitals - Paarl Royals",
-    "bets": [
-      {
-        "team": "Pretoria Capitals",
-        "odds": "1.72"
-      },
-      {
-        "team": "Paarl Royals",
-        "odds": "2.12"
-      }
-    ]
-  },
-  {
     "date": "Jan 16, 03:30 PM",
     "title": "MI Cape Town - Sunrisers Eastern Cape",
     "bets": [
@@ -80,48 +66,6 @@
       {
         "team": "Gujarat Giants (w)",
         "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Jan 15, 03:30 PM",
-    "title": "Renaissance Challengers - Ias Invincibles",
-    "bets": [
-      {
-        "team": "Renaissance Challengers",
-        "odds": "2.12"
-      },
-      {
-        "team": "Ias Invincibles",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Jan 15, 04:00 PM",
-    "title": "Melbourne Stars Srl - Adelaide Strikers Srl",
-    "bets": [
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "1.81"
-      },
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "1.93"
-      }
-    ]
-  },
-  {
-    "date": "Jan 15, 05:00 PM",
-    "title": "ZMI Holdings - Dubai Dare Devils",
-    "bets": [
-      {
-        "team": "ZMI Holdings",
-        "odds": "2.02"
-      },
-      {
-        "team": "Dubai Dare Devils",
-        "odds": "1.72"
       }
     ]
   },
@@ -234,6 +178,20 @@
       {
         "team": "Mumbai Indians SRL",
         "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Jan 16, 01:00 AM",
+    "title": "Kowloon Lions - New Territories Tigers",
+    "bets": [
+      {
+        "team": "Kowloon Lions",
+        "odds": "2.08"
+      },
+      {
+        "team": "New Territories Tigers",
+        "odds": "1.61"
       }
     ]
   },
@@ -640,6 +598,20 @@
       {
         "team": "Cosmic Titans",
         "odds": "4.85"
+      }
+    ]
+  },
+  {
+    "date": "Jan 16, 05:00 PM",
+    "title": "Houston Riders - New York Liberty",
+    "bets": [
+      {
+        "team": "Houston Riders",
+        "odds": "1.55"
+      },
+      {
+        "team": "New York Liberty",
+        "odds": "2.34"
       }
     ]
   },
