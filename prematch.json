@@ -14,156 +14,16 @@
     ]
   },
   {
-    "date": "Jan 17, 03:30 PM",
-    "title": "Joburg Super Kings - Pretoria Capitals",
-    "bets": [
-      {
-        "team": "Joburg Super Kings",
-        "odds": "1.98"
-      },
-      {
-        "team": "Pretoria Capitals",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
     "date": "Jan 18, 01:30 PM",
     "title": "Sunrisers Eastern Cape - MI Cape Town",
     "bets": [
       {
         "team": "Sunrisers Eastern Cape",
-        "odds": "2.04"
+        "odds": "2.08"
       },
       {
         "team": "MI Cape Town",
         "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "Jan 17, 02:00 PM",
-    "title": "Delhi Capitals (w) - Royal Challengers Bengaluru (w)",
-    "bets": [
-      {
-        "team": "Delhi Capitals (w)",
-        "odds": "2.08"
-      },
-      {
-        "team": "Royal Challengers Bengaluru (w)",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "Jan 17, 12:00 PM",
-    "title": "Chattogram Royals - Rajshahi Warriors",
-    "bets": [
-      {
-        "team": "Chattogram Royals",
-        "odds": "2.06"
-      },
-      {
-        "team": "Rajshahi Warriors",
-        "odds": "1.71"
-      }
-    ]
-  },
-  {
-    "date": "Jan 17, 12:00 PM",
-    "title": "Canterbury SRL - Northern Districts SRL",
-    "bets": [
-      {
-        "team": "Canterbury SRL",
-        "odds": "1.6"
-      },
-      {
-        "team": "Northern Districts SRL",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
-    "date": "Jan 17, 01:00 PM",
-    "title": "ZMI Holdings - Cosmic Titans",
-    "bets": [
-      {
-        "team": "ZMI Holdings",
-        "odds": "1.25"
-      },
-      {
-        "team": "Cosmic Titans",
-        "odds": "3.6"
-      }
-    ]
-  },
-  {
-    "date": "Jan 17, 01:00 PM",
-    "title": "Rajasthan Royals SRL - Lucknow Super Giants Srl",
-    "bets": [
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "1.93"
-      },
-      {
-        "team": "Lucknow Super Giants Srl",
-        "odds": "1.81"
-      }
-    ]
-  },
-  {
-    "date": "Jan 17, 01:30 PM",
-    "title": "Leeward Islands - Trinidad And Tobago Divas",
-    "bets": [
-      {
-        "team": "Leeward Islands",
-        "odds": "1.57"
-      },
-      {
-        "team": "Trinidad And Tobago Divas",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "Jan 17, 02:00 PM",
-    "title": "Quetta Gladiators Srl - Karachi Kings Srl",
-    "bets": [
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.7"
-      },
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Jan 17, 04:00 PM",
-    "title": "Adelaide Strikers Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Jan 17, 05:00 PM",
-    "title": "Galaxy CC - GHK Properties",
-    "bets": [
-      {
-        "team": "Galaxy CC",
-        "odds": "3"
-      },
-      {
-        "team": "GHK Properties",
-        "odds": "1.35"
       }
     ]
   },
@@ -253,6 +113,20 @@
   },
   {
     "date": "Jan 17, 11:30 PM",
+    "title": "St George 1st Grade - Sydney University 1st Grade",
+    "bets": [
+      {
+        "team": "St George 1st Grade",
+        "odds": "1.8"
+      },
+      {
+        "team": "Sydney University 1st Grade",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Jan 17, 11:30 PM",
     "title": "Eastern Suburbs 1st Grade - Mosman 1st Grade",
     "bets": [
       {
@@ -294,30 +168,16 @@
     ]
   },
   {
-    "date": "Jan 17, 11:30 PM",
-    "title": "St George 1st Grade - Sydney University 1st Grade",
-    "bets": [
-      {
-        "team": "St George 1st Grade",
-        "odds": "1.8"
-      },
-      {
-        "team": "Sydney University 1st Grade",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
     "date": "Jan 17, 11:40 PM",
     "title": "Otago Sparks - Northern Brave",
     "bets": [
       {
         "team": "Otago Sparks",
-        "odds": "1.65"
+        "odds": "1.63"
       },
       {
         "team": "Northern Brave",
-        "odds": "2.06"
+        "odds": "2.1"
       }
     ]
   },
@@ -383,11 +243,11 @@
     "bets": [
       {
         "team": "Lindisfarne 1st Grade",
-        "odds": "1.57"
+        "odds": "1.54"
       },
       {
         "team": "University of Tasmania 1st Grade",
-        "odds": "2.16"
+        "odds": "2.23"
       }
     ]
   },
@@ -425,11 +285,11 @@
     "bets": [
       {
         "team": "Nepal (w)",
-        "odds": "2.72"
+        "odds": "2.98"
       },
       {
         "team": "Thailand (w)",
-        "odds": "1.4"
+        "odds": "1.36"
       }
     ]
   },
@@ -453,11 +313,11 @@
     "bets": [
       {
         "team": "Otago Volts",
-        "odds": "2.06"
+        "odds": "2.02"
       },
       {
         "team": "Northern Brave",
-        "odds": "1.71"
+        "odds": "1.74"
       }
     ]
   },
@@ -486,6 +346,20 @@
       {
         "team": "Pretoria Capitals Srl",
         "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Jan 18, 05:30 AM",
+    "title": "Hong Kong Islanders - Kowloon Lions",
+    "bets": [
+      {
+        "team": "Hong Kong Islanders",
+        "odds": "1.63"
+      },
+      {
+        "team": "Kowloon Lions",
+        "odds": "2.05"
       }
     ]
   },
@@ -523,11 +397,11 @@
     "bets": [
       {
         "team": "Ireland (w)",
-        "odds": "1.06"
+        "odds": "1.1"
       },
       {
         "team": "Papua New Guinea (w)",
-        "odds": "7"
+        "odds": "6"
       }
     ]
   },
@@ -551,11 +425,11 @@
     "bets": [
       {
         "team": "New Zealand U-19",
-        "odds": "1.15"
+        "odds": "1.11"
       },
       {
         "team": "USA U-19",
-        "odds": "5.45"
+        "odds": "6.4"
       }
     ]
   },
@@ -565,11 +439,11 @@
     "bets": [
       {
         "team": "England U-19",
-        "odds": "1.09"
+        "odds": "1.06"
       },
       {
         "team": "Zimbabwe U-19",
-        "odds": "7"
+        "odds": "8.8"
       }
     ]
   },
@@ -579,11 +453,11 @@
     "bets": [
       {
         "team": "West Indies U-19",
-        "odds": "1.83"
+        "odds": "1.9"
       },
       {
         "team": "Afghanistan U-19",
-        "odds": "1.97"
+        "odds": "1.9"
       }
     ]
   },
@@ -597,7 +471,7 @@
       },
       {
         "team": "New Zealand",
-        "odds": "3.75"
+        "odds": "3.7"
       }
     ]
   },
@@ -640,6 +514,20 @@
       {
         "team": "Australia Srl",
         "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Jan 18, 09:30 AM",
+    "title": "Gorilla XI - Dubai Wanderers",
+    "bets": [
+      {
+        "team": "Gorilla XI",
+        "odds": "1.98"
+      },
+      {
+        "team": "Dubai Wanderers",
+        "odds": "1.76"
       }
     ]
   },
@@ -687,6 +575,20 @@
   },
   {
     "date": "Jan 18, 01:00 PM",
+    "title": "Dhaka Capital - Chattogram Royals",
+    "bets": [
+      {
+        "team": "Dhaka Capital",
+        "odds": "2.24"
+      },
+      {
+        "team": "Chattogram Royals",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Jan 18, 01:00 PM",
     "title": "Kolkata Knight Riders Srl - Rajasthan Royals SRL",
     "bets": [
       {
@@ -724,6 +626,20 @@
       {
         "team": "Sydney Thunder Srl",
         "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Jan 18, 05:00 PM",
+    "title": "Alif Pharma - Z Sports",
+    "bets": [
+      {
+        "team": "Alif Pharma",
+        "odds": "2.34"
+      },
+      {
+        "team": "Z Sports",
+        "odds": "1.55"
       }
     ]
   },
