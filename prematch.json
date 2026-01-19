@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Perth Scorchers",
-        "odds": "1.81"
+        "odds": "1.77"
       },
       {
         "team": "Sydney Sixers",
-        "odds": "2"
+        "odds": "2.05"
       }
     ]
   },
@@ -28,128 +28,30 @@
     ]
   },
   {
-    "date": "Jan 20, 02:00 PM",
-    "title": "Delhi Capitals (w) - Mumbai Indians (w)",
+    "date": "Jan 21, 03:30 PM",
+    "title": "Sunrisers Eastern Cape - Pretoria Capitals",
     "bets": [
       {
-        "team": "Delhi Capitals (w)",
-        "odds": "2.18"
+        "team": "Sunrisers Eastern Cape",
+        "odds": "1.72"
       },
       {
-        "team": "Mumbai Indians (w)",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Jan 19, 06:00 PM",
-    "title": "Wellington SRL - Otago SRL",
-    "bets": [
-      {
-        "team": "Wellington SRL",
-        "odds": "1.63"
-      },
-      {
-        "team": "Otago SRL",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Jan 19, 06:30 PM",
-    "title": "Trinidad And Tobago Divas - Guyana",
-    "bets": [
-      {
-        "team": "Trinidad And Tobago Divas",
-        "odds": "2.6"
-      },
-      {
-        "team": "Guyana",
-        "odds": "1.42"
-      }
-    ]
-  },
-  {
-    "date": "Jan 19, 08:00 PM",
-    "title": "Sri Lanka Srl - Pakistan Srl",
-    "bets": [
-      {
-        "team": "Sri Lanka Srl",
-        "odds": "2.14"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Jan 19, 10:00 PM",
-    "title": "Sydney Thunder Srl - Brisbane Heat Srl",
-    "bets": [
-      {
-        "team": "Sydney Thunder Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Jan 19, 11:00 PM",
-    "title": "ACT Meteors - New South Wales Breakers",
-    "bets": [
-      {
-        "team": "ACT Meteors",
-        "odds": "3.7"
-      },
-      {
-        "team": "New South Wales Breakers",
-        "odds": "1.22"
-      }
-    ]
-  },
-  {
-    "date": "Jan 19, 11:00 PM",
-    "title": "Jamaica - Windward Islands",
-    "bets": [
-      {
-        "team": "Jamaica",
-        "odds": "1.54"
-      },
-      {
-        "team": "Windward Islands",
-        "odds": "2.26"
-      }
-    ]
-  },
-  {
-    "date": "Jan 19, 11:00 PM",
-    "title": "Trinbago Knight Riders Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "St Lucia Kings Srl",
+        "team": "Pretoria Capitals",
         "odds": "2.1"
       }
     ]
   },
   {
-    "date": "Jan 19, 11:30 PM",
-    "title": "Queensland Fire - South Australian Scorpions",
+    "date": "Jan 20, 02:00 PM",
+    "title": "Delhi Capitals (w) - Mumbai Indians (w)",
     "bets": [
       {
-        "team": "Queensland Fire",
-        "odds": "2.12"
+        "team": "Delhi Capitals (w)",
+        "odds": "2.14"
       },
       {
-        "team": "South Australian Scorpions",
-        "odds": "1.62"
+        "team": "Mumbai Indians (w)",
+        "odds": "1.66"
       }
     ]
   },
@@ -187,11 +89,11 @@
     "bets": [
       {
         "team": "Northern Brave",
-        "odds": "1.98"
+        "odds": "2.12"
       },
       {
         "team": "Central Hinds",
-        "odds": "1.71"
+        "odds": "1.61"
       }
     ]
   },
@@ -229,11 +131,11 @@
     "bets": [
       {
         "team": "Papua New Guinea (w)",
-        "odds": "8"
+        "odds": "8.6"
       },
       {
         "team": "Bangladesh (w)",
-        "odds": "1.05"
+        "odds": "1.04"
       }
     ]
   },
@@ -243,11 +145,11 @@
     "bets": [
       {
         "team": "Zimbabwe (w)",
-        "odds": "2.24"
+        "odds": "2.34"
       },
       {
         "team": "Thailand (w)",
-        "odds": "1.59"
+        "odds": "1.55"
       }
     ]
   },
@@ -262,6 +164,34 @@
       {
         "team": "Chennai Super Kings SRL",
         "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Jan 20, 04:30 AM",
+    "title": "Bhutan (w) - Malaysia (w)",
+    "bets": [
+      {
+        "team": "Bhutan (w)",
+        "odds": "5.85"
+      },
+      {
+        "team": "Malaysia (w)",
+        "odds": "1.11"
+      }
+    ]
+  },
+  {
+    "date": "Jan 20, 04:55 AM",
+    "title": "Northern Brave - Central Stags",
+    "bets": [
+      {
+        "team": "Northern Brave",
+        "odds": "1.64"
+      },
+      {
+        "team": "Central Stags",
+        "odds": "2.18"
       }
     ]
   },
@@ -327,11 +257,11 @@
     "bets": [
       {
         "team": "Namibia (w)",
-        "odds": "2.14"
+        "odds": "2.18"
       },
       {
         "team": "USA (w)",
-        "odds": "1.65"
+        "odds": "1.62"
       }
     ]
   },
@@ -612,6 +542,20 @@
       {
         "team": "New Zealand",
         "odds": "3.15"
+      }
+    ]
+  },
+  {
+    "date": "Jan 21, 02:30 PM",
+    "title": "Afghanistan - West Indies",
+    "bets": [
+      {
+        "team": "Afghanistan",
+        "odds": "1.58"
+      },
+      {
+        "team": "West Indies",
+        "odds": "2.38"
       }
     ]
   }
