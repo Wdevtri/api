@@ -28,20 +28,6 @@
     ]
   },
   {
-    "date": "Jan 23, 11:00 AM",
-    "title": "Guyana Amazon Warriors Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.76"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
     "date": "Jan 23, 12:00 PM",
     "title": "Chattogram Royals - Rajshahi Warriors",
     "bets": [
@@ -696,6 +682,20 @@
       {
         "team": "Barbados Royals Srl",
         "odds": "1.81"
+      }
+    ]
+  },
+  {
+    "date": "Jan 25, 05:30 AM",
+    "title": "Ireland - Italy",
+    "bets": [
+      {
+        "team": "Ireland",
+        "odds": "1.12"
+      },
+      {
+        "team": "Italy",
+        "odds": "5.7"
       }
     ]
   }
