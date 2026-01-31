@@ -1,1177 +1,407 @@
 [
   {
-    "date": "Jan 29, 02:00 PM",
-    "title": "UP Warriorz (w) - Royal Challengers Bengaluru (w)",
+    "date": "Feb 1, 02:00 PM",
+    "title": "Delhi Capitals (w) - UP Warriorz (w)",
     "bets": [
+      {
+        "team": "Delhi Capitals (w)",
+        "odds": "1.69"
+      },
       {
         "team": "UP Warriorz (w)",
-        "odds": "2.3"
-      },
-      {
-        "team": "Royal Challengers Bengaluru (w)",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 02:00 PM",
-    "title": "Gujarat Giants (w) - Mumbai Indians (w)",
-    "bets": [
-      {
-        "team": "Gujarat Giants (w)",
-        "odds": "2.18"
-      },
-      {
-        "team": "Mumbai Indians (w)",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Jan 28, 10:00 PM",
-    "title": "Adelaide Strikers Srl - Hobart Hurricanes Srl",
-    "bets": [
-      {
-        "team": "Adelaide Strikers Srl",
-        "odds": "2.02"
-      },
-      {
-        "team": "Hobart Hurricanes Srl",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Jan 28, 11:00 PM",
-    "title": "Guyana Amazon Warriors Srl - St Lucia Kings Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.76"
-      },
-      {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 12:00 AM",
-    "title": "South Africa Srl - Pakistan Srl",
-    "bets": [
-      {
-        "team": "South Africa Srl",
-        "odds": "1.7"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 01:00 AM",
-    "title": "Mumbai Indians SRL - Delhi Capitals SRL",
-    "bets": [
-      {
-        "team": "Mumbai Indians SRL",
-        "odds": "1.66"
-      },
-      {
-        "team": "Delhi Capitals SRL",
         "odds": "2.14"
       }
     ]
   },
   {
-    "date": "Jan 29, 02:00 AM",
-    "title": "Durban Super Giants Srl - Paarl Royals Srl",
+    "date": "Jan 31, 07:30 AM",
+    "title": "Bangladesh U-19 - Zimbabwe U-19",
     "bets": [
       {
-        "team": "Durban Super Giants Srl",
-        "odds": "2"
+        "team": "Bangladesh U-19",
+        "odds": "1.12"
       },
       {
-        "team": "Paarl Royals Srl",
+        "team": "Zimbabwe U-19",
+        "odds": "6.2"
+      }
+    ]
+  },
+  {
+    "date": "Jan 31, 08:00 AM",
+    "title": "North West - Nashua Dolphins",
+    "bets": [
+      {
+        "team": "North West",
+        "odds": "1.72"
+      },
+      {
+        "team": "Nashua Dolphins",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Jan 31, 08:30 AM",
+    "title": "Camera LK - Empire Tea",
+    "bets": [
+      {
+        "team": "Camera LK",
+        "odds": "1.45"
+      },
+      {
+        "team": "Empire Tea",
+        "odds": "2.48"
+      }
+    ]
+  },
+  {
+    "date": "Jan 31, 09:00 AM",
+    "title": "Gurugram Thunders - Rajasthan Lions",
+    "bets": [
+      {
+        "team": "Gurugram Thunders",
+        "odds": "2.04"
+      },
+      {
+        "team": "Rajasthan Lions",
         "odds": "1.75"
       }
     ]
   },
   {
-    "date": "Jan 29, 03:00 AM",
-    "title": "Nagaland - Andhra",
+    "date": "Jan 31, 09:00 AM",
+    "title": "MTM Riders - KS Kings",
     "bets": [
       {
-        "team": "Nagaland",
-        "odds": "15"
-      },
-      {
-        "team": "Andhra",
-        "odds": "1.03"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 03:00 AM",
-    "title": "Barbados Royals Srl - Trinbago Knight Riders Srl",
-    "bets": [
-      {
-        "team": "Barbados Royals Srl",
-        "odds": "2.22"
-      },
-      {
-        "team": "Trinbago Knight Riders Srl",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 03:30 AM",
-    "title": "Jharkhand - Odisha",
-    "bets": [
-      {
-        "team": "Jharkhand",
-        "odds": "1.18"
-      },
-      {
-        "team": "Odisha",
-        "odds": "4.55"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 03:30 AM",
-    "title": "Tripura - Gujarat",
-    "bets": [
-      {
-        "team": "Tripura",
-        "odds": "2.46"
-      },
-      {
-        "team": "Gujarat",
-        "odds": "1.52"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Storm Strickers - Titan Tigers",
-    "bets": [
-      {
-        "team": "Storm Strickers",
-        "odds": "1.62"
-      },
-      {
-        "team": "Titan Tigers",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Chandigarh - Saurashtra",
-    "bets": [
-      {
-        "team": "Chandigarh",
-        "odds": "3.4"
-      },
-      {
-        "team": "Saurashtra",
-        "odds": "1.3"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Mumbai - Delhi",
-    "bets": [
-      {
-        "team": "Mumbai",
-        "odds": "1.48"
-      },
-      {
-        "team": "Delhi",
-        "odds": "2.6"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Pondicherry - Rajasthan",
-    "bets": [
-      {
-        "team": "Pondicherry",
-        "odds": "3"
-      },
-      {
-        "team": "Rajasthan",
-        "odds": "1.37"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Haryana - Bengal",
-    "bets": [
-      {
-        "team": "Haryana",
-        "odds": "2.4"
-      },
-      {
-        "team": "Bengal",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Sunrisers Hyderabad SRL - Gujarat Titans Srl",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad SRL",
-        "odds": "1.98"
-      },
-      {
-        "team": "Gujarat Titans Srl",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Goa - Kerala",
-    "bets": [
-      {
-        "team": "Goa",
-        "odds": "2.08"
-      },
-      {
-        "team": "Kerala",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Punjab - Karnataka",
-    "bets": [
-      {
-        "team": "Punjab",
-        "odds": "2.46"
-      },
-      {
-        "team": "Karnataka",
-        "odds": "1.52"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Services - Railways",
-    "bets": [
-      {
-        "team": "Services",
-        "odds": "2.08"
-      },
-      {
-        "team": "Railways",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Vidarbha - Uttar Pradesh",
-    "bets": [
-      {
-        "team": "Vidarbha",
-        "odds": "1.6"
-      },
-      {
-        "team": "Uttar Pradesh",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Himachal Pradesh - Jammu and Kashmir",
-    "bets": [
-      {
-        "team": "Himachal Pradesh",
-        "odds": "2.46"
-      },
-      {
-        "team": "Jammu and Kashmir",
-        "odds": "1.52"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Tamil Nadu - Baroda",
-    "bets": [
-      {
-        "team": "Tamil Nadu",
-        "odds": "1.63"
-      },
-      {
-        "team": "Baroda",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Uttarakhand - Assam",
-    "bets": [
-      {
-        "team": "Uttarakhand",
-        "odds": "1.26"
-      },
-      {
-        "team": "Assam",
-        "odds": "3.7"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Madhya Pradesh - Maharashtra",
-    "bets": [
-      {
-        "team": "Madhya Pradesh",
-        "odds": "1.88"
-      },
-      {
-        "team": "Maharashtra",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 AM",
-    "title": "Hyderabad - Chhattisgarh",
-    "bets": [
-      {
-        "team": "Hyderabad",
-        "odds": "1.88"
-      },
-      {
-        "team": "Chhattisgarh",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:30 AM",
-    "title": "Hong Kong, China - Bhutan",
-    "bets": [
-      {
-        "team": "Hong Kong, China",
-        "odds": "1.06"
-      },
-      {
-        "team": "Bhutan",
-        "odds": "6.8"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 05:00 AM",
-    "title": "Mi Cape Town Srl - Sunrisers Eastern Cape Srl",
-    "bets": [
-      {
-        "team": "Mi Cape Town Srl",
-        "odds": "1.66"
-      },
-      {
-        "team": "Sunrisers Eastern Cape Srl",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 05:30 AM",
-    "title": "Kingborough 1st Grade - University of Tasmania 1st Grade",
-    "bets": [
-      {
-        "team": "Kingborough 1st Grade",
-        "odds": "2.1"
-      },
-      {
-        "team": "University of Tasmania 1st Grade",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 06:00 AM",
-    "title": "India Srl - England Srl",
-    "bets": [
-      {
-        "team": "India Srl",
-        "odds": "1.65"
-      },
-      {
-        "team": "England Srl",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 07:00 AM",
-    "title": "Islamabad United Srl - Quetta Gladiators Srl",
-    "bets": [
-      {
-        "team": "Islamabad United Srl",
-        "odds": "1.99"
-      },
-      {
-        "team": "Quetta Gladiators Srl",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 07:30 AM",
-    "title": "South Africa U-19 - Sri Lanka U-19",
-    "bets": [
-      {
-        "team": "South Africa U-19",
-        "odds": "1.94"
-      },
-      {
-        "team": "Sri Lanka U-19",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 08:00 AM",
-    "title": "Market Super Kings - Aiwan E Shahi Royals",
-    "bets": [
-      {
-        "team": "Market Super Kings",
-        "odds": "2.06"
-      },
-      {
-        "team": "Aiwan E Shahi Royals",
+        "team": "MTM Riders",
         "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 08:00 AM",
-    "title": "Royal Challengers Bangalore SRL - Kolkata Knight Riders Srl",
-    "bets": [
-      {
-        "team": "Royal Challengers Bangalore SRL",
-        "odds": "1.74"
       },
       {
-        "team": "Kolkata Knight Riders Srl",
-        "odds": "2.02"
+        "team": "KS Kings",
+        "odds": "2"
       }
     ]
   },
   {
-    "date": "Jan 29, 08:00 AM",
-    "title": "Vortex Vipers - Blazzing Bulls",
-    "bets": [
-      {
-        "team": "Vortex Vipers",
-        "odds": "1.78"
-      },
-      {
-        "team": "Blazzing Bulls",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 09:00 AM",
-    "title": "Rajasthan Lions - Dubai Royals",
-    "bets": [
-      {
-        "team": "Rajasthan Lions",
-        "odds": "2.1"
-      },
-      {
-        "team": "Dubai Royals",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 09:00 AM",
-    "title": "West Indies Srl - New Zealand Srl",
-    "bets": [
-      {
-        "team": "West Indies Srl",
-        "odds": "1.86"
-      },
-      {
-        "team": "New Zealand Srl",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 10:00 AM",
-    "title": "Peshawar Zalmi Srl - Lahore Qalanders Srl",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi Srl",
-        "odds": "2.12"
-      },
-      {
-        "team": "Lahore Qalanders Srl",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 11:00 AM",
+    "date": "Jan 31, 11:00 AM",
     "title": "Pakistan - Australia",
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "2.34"
+        "odds": "2.41"
       },
       {
         "team": "Australia",
-        "odds": "1.61"
+        "odds": "1.57"
       }
     ]
   },
   {
-    "date": "Jan 29, 11:00 AM",
-    "title": "Emirates Blues - Emirates Red",
+    "date": "Jan 31, 11:00 AM",
+    "title": "Emirates Blues - Dubai",
     "bets": [
       {
         "team": "Emirates Blues",
-        "odds": "1.28"
+        "odds": "2.1"
       },
       {
-        "team": "Emirates Red",
-        "odds": "3.4"
+        "team": "Dubai",
+        "odds": "1.66"
       }
     ]
   },
   {
-    "date": "Jan 29, 11:00 AM",
-    "title": "St Lucia Kings Srl - Antigua And Barbuda Falcons SRL",
+    "date": "Jan 31, 01:00 PM",
+    "title": "Aiwan E Shahi Royals - Rauza Stars",
     "bets": [
       {
-        "team": "St Lucia Kings Srl",
-        "odds": "1.72"
+        "team": "Aiwan E Shahi Royals",
+        "odds": "1.92"
       },
       {
-        "team": "Antigua And Barbuda Falcons SRL",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 12:00 PM",
-    "title": "Auckland SRL - Wellington SRL",
-    "bets": [
-      {
-        "team": "Auckland SRL",
-        "odds": "1.95"
-      },
-      {
-        "team": "Wellington SRL",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 01:00 PM",
-    "title": "Pharma Solutions - Dubai Dare Devils",
-    "bets": [
-      {
-        "team": "Pharma Solutions",
-        "odds": "1.15"
-      },
-      {
-        "team": "Dubai Dare Devils",
-        "odds": "4.85"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 01:00 PM",
-    "title": "Rajasthan Royals SRL - Lucknow Super Giants Srl",
-    "bets": [
-      {
-        "team": "Rajasthan Royals SRL",
-        "odds": "1.93"
-      },
-      {
-        "team": "Lucknow Super Giants Srl",
+        "team": "Rauza Stars",
         "odds": "1.81"
       }
     ]
   },
   {
-    "date": "Jan 29, 01:30 PM",
-    "title": "Windward Islands - Leeward Islands",
+    "date": "Jan 31, 01:00 PM",
+    "title": "SK Strikers - AP Superstars",
     "bets": [
       {
-        "team": "Windward Islands",
-        "odds": "1.84"
+        "team": "SK Strikers",
+        "odds": "1.38"
       },
       {
-        "team": "Leeward Islands",
-        "odds": "1.83"
+        "team": "AP Superstars",
+        "odds": "2.7"
       }
     ]
   },
   {
-    "date": "Jan 29, 01:30 PM",
-    "title": "Jamaica - Barbados",
+    "date": "Jan 31, 01:15 PM",
+    "title": "Abu Dhabi - Ajman",
     "bets": [
       {
-        "team": "Jamaica",
-        "odds": "2.12"
+        "team": "Abu Dhabi",
+        "odds": "1.94"
       },
       {
-        "team": "Barbados",
-        "odds": "1.62"
+        "team": "Ajman",
+        "odds": "1.8"
       }
     ]
   },
   {
-    "date": "Jan 29, 01:30 PM",
-    "title": "Guyana - Trinidad And Tobago Divas",
+    "date": "Jan 31, 01:30 PM",
+    "title": "India - New Zealand",
     "bets": [
       {
-        "team": "Guyana",
-        "odds": "1.92"
+        "team": "India",
+        "odds": "1.3"
       },
       {
-        "team": "Trinidad And Tobago Divas",
-        "odds": "1.76"
+        "team": "New Zealand",
+        "odds": "3.5"
       }
     ]
   },
   {
-    "date": "Jan 29, 02:00 PM",
-    "title": "United Arab Emirates - Ireland",
+    "date": "Jan 31, 01:30 PM",
+    "title": "Trinidad and Tobago (w) - Barbados (w)",
     "bets": [
       {
-        "team": "United Arab Emirates",
-        "odds": "2.78"
-      },
-      {
-        "team": "Ireland",
-        "odds": "1.41"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 02:00 PM",
-    "title": "Gurugram Thunders - Maharashtra Tycoons",
-    "bets": [
-      {
-        "team": "Gurugram Thunders",
-        "odds": "2.22"
-      },
-      {
-        "team": "Maharashtra Tycoons",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 02:00 PM",
-    "title": "Karachi Kings Srl - Multan Sultans Srl",
-    "bets": [
-      {
-        "team": "Karachi Kings Srl",
-        "odds": "1.72"
-      },
-      {
-        "team": "Multan Sultans Srl",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 PM",
-    "title": "South Africa - West Indies",
-    "bets": [
-      {
-        "team": "South Africa",
-        "odds": "1.36"
-      },
-      {
-        "team": "West Indies",
-        "odds": "3.2"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 04:00 PM",
-    "title": "Brisbane Heat Srl - Perth Scorchers Srl",
-    "bets": [
-      {
-        "team": "Brisbane Heat Srl",
-        "odds": "2.2"
-      },
-      {
-        "team": "Perth Scorchers Srl",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 05:00 PM",
-    "title": "CSS Group - Seven Districts",
-    "bets": [
-      {
-        "team": "CSS Group",
-        "odds": "2"
-      },
-      {
-        "team": "Seven Districts",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 06:00 PM",
-    "title": "Otago SRL - Central Districts SRL",
-    "bets": [
-      {
-        "team": "Otago SRL",
+        "team": "Trinidad and Tobago (w)",
         "odds": "1.78"
       },
       {
-        "team": "Central Districts SRL",
+        "team": "Barbados (w)",
         "odds": "1.96"
       }
     ]
   },
   {
-    "date": "Jan 29, 08:00 PM",
-    "title": "Sri Lanka Srl - Pakistan Srl",
+    "date": "Jan 31, 01:30 PM",
+    "title": "Windward Islands (w) - Guyana (w)",
     "bets": [
       {
-        "team": "Sri Lanka Srl",
-        "odds": "2.14"
-      },
-      {
-        "team": "Pakistan Srl",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 10:00 PM",
-    "title": "Melbourne Stars Srl - Sydney Sixers Srl",
-    "bets": [
-      {
-        "team": "Melbourne Stars Srl",
-        "odds": "2.02"
-      },
-      {
-        "team": "Sydney Sixers Srl",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 11:00 PM",
-    "title": "Guyana Amazon Warriors Srl - St Kitts And Nevis Patriots Srl",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors Srl",
-        "odds": "1.69"
-      },
-      {
-        "team": "St Kitts And Nevis Patriots Srl",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Jan 29, 11:30 PM",
-    "title": "Tasmania - Western Australia",
-    "bets": [
-      {
-        "team": "Tasmania",
-        "odds": "2.36"
-      },
-      {
-        "team": "Western Australia",
-        "odds": "1.5"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 01:10 AM",
-    "title": "Northern Brave - Auckland Hearts",
-    "bets": [
-      {
-        "team": "Northern Brave",
-        "odds": "2.06"
-      },
-      {
-        "team": "Auckland Hearts",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 02:15 AM",
-    "title": "Sikkim U-23 - Arunachal Pradesh U-23",
-    "bets": [
-      {
-        "team": "Sikkim U-23",
-        "odds": "1.85"
-      },
-      {
-        "team": "Arunachal Pradesh U-23",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 02:30 AM",
-    "title": "Tripura U-23 - Delhi U-23",
-    "bets": [
-      {
-        "team": "Tripura U-23",
-        "odds": "2.04"
-      },
-      {
-        "team": "Delhi U-23",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 02:30 AM",
-    "title": "Meghalaya U-23 - Kerala U-23",
-    "bets": [
-      {
-        "team": "Meghalaya U-23",
-        "odds": "11"
-      },
-      {
-        "team": "Kerala U-23",
-        "odds": "1.01"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 02:30 AM",
-    "title": "Nagaland U-23 - Bihar U-23",
-    "bets": [
-      {
-        "team": "Nagaland U-23",
-        "odds": "4.44"
-      },
-      {
-        "team": "Bihar U-23",
-        "odds": "1.17"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 03:00 AM",
-    "title": "Bengal U-23 - Vidarbha U-23",
-    "bets": [
-      {
-        "team": "Bengal U-23",
-        "odds": "2"
-      },
-      {
-        "team": "Vidarbha U-23",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 03:00 AM",
-    "title": "Assam U-23 - Haryana U-23",
-    "bets": [
-      {
-        "team": "Assam U-23",
+        "team": "Windward Islands (w)",
         "odds": "1.8"
       },
       {
-        "team": "Haryana U-23",
-        "odds": "1.9"
+        "team": "Guyana (w)",
+        "odds": "1.94"
       }
     ]
   },
   {
-    "date": "Jan 30, 03:00 AM",
-    "title": "Jharkhand U-23 - Jammu and Kashmir U-23",
+    "date": "Jan 31, 01:30 PM",
+    "title": "Leeward Islands (w) - Jamaica (w)",
     "bets": [
       {
-        "team": "Jharkhand U-23",
-        "odds": "1.5"
+        "team": "Leeward Islands (w)",
+        "odds": "1.94"
       },
       {
-        "team": "Jammu and Kashmir U-23",
-        "odds": "2.41"
+        "team": "Jamaica (w)",
+        "odds": "1.8"
       }
     ]
   },
   {
-    "date": "Jan 30, 03:15 AM",
-    "title": "Bangladesh (w) - Scotland (w)",
+    "date": "Jan 31, 02:00 PM",
+    "title": "Dubai Royals - Pune Panthers",
     "bets": [
       {
-        "team": "Bangladesh (w)",
-        "odds": "1.4"
+        "team": "Dubai Royals",
+        "odds": "2.2"
       },
       {
-        "team": "Scotland (w)",
-        "odds": "2.72"
+        "team": "Pune Panthers",
+        "odds": "1.67"
       }
     ]
   },
   {
-    "date": "Jan 30, 03:15 AM",
-    "title": "Ireland (w) - Netherlands (w)",
+    "date": "Jan 31, 02:00 PM",
+    "title": "CSS Group - Z Sports",
     "bets": [
       {
-        "team": "Ireland (w)",
-        "odds": "1.45"
+        "team": "CSS Group",
+        "odds": "1.86"
       },
       {
-        "team": "Netherlands (w)",
-        "odds": "2.58"
+        "team": "Z Sports",
+        "odds": "1.86"
       }
     ]
   },
   {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Madhya Pradesh U-23 - Andhra U-23",
+    "date": "Jan 31, 03:30 PM",
+    "title": "Sharjah - Emirates Red",
     "bets": [
       {
-        "team": "Madhya Pradesh U-23",
-        "odds": "1.51"
+        "team": "Sharjah",
+        "odds": "1.18"
       },
       {
-        "team": "Andhra U-23",
-        "odds": "2.4"
+        "team": "Emirates Red",
+        "odds": "4.3"
       }
     ]
   },
   {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Mizoram U-23 - Manipur U-23",
+    "date": "Jan 31, 04:00 PM",
+    "title": "South Africa - West Indies",
     "bets": [
       {
-        "team": "Mizoram U-23",
-        "odds": "1.6"
+        "team": "South Africa",
+        "odds": "1.37"
       },
       {
-        "team": "Manipur U-23",
-        "odds": "2.19"
+        "team": "West Indies",
+        "odds": "3.1"
       }
     ]
   },
   {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Maharashtra U-23 - Pondicherry U-23",
+    "date": "Feb 1, 02:30 AM",
+    "title": "Queanbeyan 1st Grade - WDCC 1st Grade",
     "bets": [
       {
-        "team": "Maharashtra U-23",
+        "team": "Queanbeyan 1st Grade",
         "odds": "1.2"
       },
       {
-        "team": "Pondicherry U-23",
-        "odds": "4"
+        "team": "WDCC 1st Grade",
+        "odds": "3.9"
       }
     ]
   },
   {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Mumbai U-23 - Hyderabad U-23",
+    "date": "Feb 1, 03:15 AM",
+    "title": "Ireland (w) - Thailand (w)",
     "bets": [
       {
-        "team": "Mumbai U-23",
-        "odds": "1.36"
+        "team": "Ireland (w)",
+        "odds": "1.16"
       },
-      {
-        "team": "Hyderabad U-23",
-        "odds": "2.9"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Railways U-23 - Himachal Pradesh U-23",
-    "bets": [
-      {
-        "team": "Railways U-23",
-        "odds": "1.29"
-      },
-      {
-        "team": "Himachal Pradesh U-23",
-        "odds": "3.25"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Rajasthan U-23 - Odisha U-23",
-    "bets": [
-      {
-        "team": "Rajasthan U-23",
-        "odds": "1.36"
-      },
-      {
-        "team": "Odisha U-23",
-        "odds": "2.9"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Baroda U-23 - Gujarat U-23",
-    "bets": [
-      {
-        "team": "Baroda U-23",
-        "odds": "1.29"
-      },
-      {
-        "team": "Gujarat U-23",
-        "odds": "3.25"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Chandigarh U-23 - Chhattisgarh U-23",
-    "bets": [
-      {
-        "team": "Chandigarh U-23",
-        "odds": "2.1"
-      },
-      {
-        "team": "Chhattisgarh U-23",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Goa U-23 - Punjab U-23",
-    "bets": [
-      {
-        "team": "Goa U-23",
-        "odds": "8"
-      },
-      {
-        "team": "Punjab U-23",
-        "odds": "1.05"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Uttarakhand U-23 - Uttar Pradesh U-23",
-    "bets": [
-      {
-        "team": "Uttarakhand U-23",
-        "odds": "1.8"
-      },
-      {
-        "team": "Uttar Pradesh U-23",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 03:30 AM",
-    "title": "Saurashtra U-23 - Tamil Nadu U-23",
-    "bets": [
-      {
-        "team": "Saurashtra U-23",
-        "odds": "1.95"
-      },
-      {
-        "team": "Tamil Nadu U-23",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 04:55 AM",
-    "title": "Auckland Aces - Canterbury Kings",
-    "bets": [
-      {
-        "team": "Auckland Aces",
-        "odds": "1.78"
-      },
-      {
-        "team": "Canterbury Kings",
-        "odds": "1.97"
-      }
-    ]
-  },
-  {
-    "date": "Jan 30, 07:15 AM",
-    "title": "Thailand (w) - USA (w)",
-    "bets": [
       {
         "team": "Thailand (w)",
-        "odds": "1.86"
+        "odds": "4.65"
+      }
+    ]
+  },
+  {
+    "date": "Feb 1, 03:15 AM",
+    "title": "Bangladesh (w) - Netherlands (w)",
+    "bets": [
+      {
+        "team": "Bangladesh (w)",
+        "odds": "1.22"
+      },
+      {
+        "team": "Netherlands (w)",
+        "odds": "3.8"
+      }
+    ]
+  },
+  {
+    "date": "Feb 1, 04:00 AM",
+    "title": "Ginninderra 1st Grade - Tuggeranong 1st Grade",
+    "bets": [
+      {
+        "team": "Ginninderra 1st Grade",
+        "odds": "1.75"
+      },
+      {
+        "team": "Tuggeranong 1st Grade",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Feb 1, 04:00 AM",
+    "title": "Commercial Bank B - Siam City Cement",
+    "bets": [
+      {
+        "team": "Commercial Bank B",
+        "odds": "1.6"
+      },
+      {
+        "team": "Siam City Cement",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Feb 1, 07:15 AM",
+    "title": "Scotland (w) - USA (w)",
+    "bets": [
+      {
+        "team": "Scotland (w)",
+        "odds": "1.42"
       },
       {
         "team": "USA (w)",
-        "odds": "1.86"
+        "odds": "2.66"
       }
     ]
   },
   {
-    "date": "Jan 30, 07:30 AM",
-    "title": "Afghanistan U-19 - Ireland U-19",
+    "date": "Feb 1, 07:30 AM",
+    "title": "India U-19 - Pakistan U-19",
     "bets": [
       {
-        "team": "Afghanistan U-19",
-        "odds": "1.12"
+        "team": "India U-19",
+        "odds": "1.34"
       },
       {
-        "team": "Ireland U-19",
-        "odds": "6"
+        "team": "Pakistan U-19",
+        "odds": "3.25"
       }
     ]
   },
   {
-    "date": "Jan 30, 07:30 AM",
-    "title": "New Zealand U-19 - England U-19",
+    "date": "Feb 1, 08:00 AM",
+    "title": "Boland - Western Province",
     "bets": [
       {
-        "team": "New Zealand U-19",
-        "odds": "4.3"
+        "team": "Boland",
+        "odds": "1.71"
       },
       {
-        "team": "England U-19",
-        "odds": "1.21"
+        "team": "Western Province",
+        "odds": "2.06"
       }
     ]
   },
   {
-    "date": "Jan 30, 01:30 PM",
+    "date": "Feb 1, 08:30 AM",
+    "title": "Commercial Credit - HNB Assurance",
+    "bets": [
+      {
+        "team": "Commercial Credit",
+        "odds": "2.48"
+      },
+      {
+        "team": "HNB Assurance",
+        "odds": "1.45"
+      }
+    ]
+  },
+  {
+    "date": "Feb 1, 01:30 PM",
     "title": "Sri Lanka - England",
     "bets": [
       {
         "team": "Sri Lanka",
-        "odds": "2.32"
+        "odds": "2.6"
       },
       {
         "team": "England",
-        "odds": "1.61"
+        "odds": "1.49"
       }
     ]
   }
