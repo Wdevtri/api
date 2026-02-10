@@ -1,711 +1,183 @@
 [
   {
-    "date": "Feb 7, 11:30 PM",
-    "title": "Port Adelaide - Kensington",
+    "date": "Feb 11, 03:30 AM",
+    "title": "JD Club - SSSA",
     "bets": [
       {
-        "team": "Port Adelaide",
-        "odds": "1.48"
-      },
-      {
-        "team": "Kensington",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
-    "date": "Feb 7, 11:30 PM",
-    "title": "West Torrens - Adelaide",
-    "bets": [
-      {
-        "team": "West Torrens",
-        "odds": "1.54"
-      },
-      {
-        "team": "Adelaide",
-        "odds": "2.25"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 01:30 AM",
-    "title": "Craigengower (w) - Hong Kong CC (w)",
-    "bets": [
-      {
-        "team": "Craigengower (w)",
-        "odds": "2.6"
-      },
-      {
-        "team": "Hong Kong CC (w)",
-        "odds": "1.44"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 02:45 AM",
-    "title": "Gandaki Heroes Pokhara - Global Star Lucknow",
-    "bets": [
-      {
-        "team": "Gandaki Heroes Pokhara",
-        "odds": "1.75"
-      },
-      {
-        "team": "Global Star Lucknow",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Genius Kinniya - Old Mazendonians",
-    "bets": [
-      {
-        "team": "Genius Kinniya",
-        "odds": "2.38"
-      },
-      {
-        "team": "Old Mazendonians",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Himachal Pradesh (w) - Tamil Nadu (w)",
-    "bets": [
-      {
-        "team": "Himachal Pradesh (w)",
-        "odds": "1.58"
-      },
-      {
-        "team": "Tamil Nadu (w)",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Turf Blasters - KS Kings",
-    "bets": [
-      {
-        "team": "Turf Blasters",
-        "odds": "1.55"
-      },
-      {
-        "team": "KS Kings",
-        "odds": "2.23"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Gujarat (w) - Mumbai (w)",
-    "bets": [
-      {
-        "team": "Gujarat (w)",
-        "odds": "2.63"
-      },
-      {
-        "team": "Mumbai (w)",
-        "odds": "1.41"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Bengal (w) - Chandigarh (w)",
-    "bets": [
-      {
-        "team": "Bengal (w)",
-        "odds": "1.11"
-      },
-      {
-        "team": "Chandigarh (w)",
-        "odds": "5.55"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Delhi (w) - Railways (w)",
-    "bets": [
-      {
-        "team": "Delhi (w)",
-        "odds": "2.28"
-      },
-      {
-        "team": "Railways (w)",
-        "odds": "1.54"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Baroda (w) - Karnataka (w)",
-    "bets": [
-      {
-        "team": "Baroda (w)",
-        "odds": "3.07"
-      },
-      {
-        "team": "Karnataka (w)",
-        "odds": "1.31"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Maharashtra (w) - Uttar Pradesh (w)",
-    "bets": [
-      {
-        "team": "Maharashtra (w)",
-        "odds": "1.44"
-      },
-      {
-        "team": "Uttar Pradesh (w)",
-        "odds": "2.52"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Arunachal Pradesh (w) - Rajasthan (w)",
-    "bets": [
-      {
-        "team": "Arunachal Pradesh (w)",
-        "odds": "13"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Goa (w) - Hyderabad (w)",
-    "bets": [
-      {
-        "team": "Goa (w)",
-        "odds": "2.18"
-      },
-      {
-        "team": "Hyderabad (w)",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Assam (w) - Odisha (w)",
-    "bets": [
-      {
-        "team": "Assam (w)",
-        "odds": "2.63"
-      },
-      {
-        "team": "Odisha (w)",
-        "odds": "1.41"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Madhya Pradesh (w) - Pondicherry (w)",
-    "bets": [
-      {
-        "team": "Madhya Pradesh (w)",
-        "odds": "1.1"
-      },
-      {
-        "team": "Pondicherry (w)",
-        "odds": "5.46"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:00 AM",
-    "title": "Bihar (w) - Nagaland (w)",
-    "bets": [
-      {
-        "team": "Bihar (w)",
-        "odds": "1.05"
-      },
-      {
-        "team": "Nagaland (w)",
-        "odds": "7.15"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:30 AM",
-    "title": "Weliveriya - Atulugama",
-    "bets": [
-      {
-        "team": "Weliveriya",
-        "odds": "1.59"
-      },
-      {
-        "team": "Atulugama",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:30 AM",
-    "title": "Punjab (w) - Tripura (w)",
-    "bets": [
-      {
-        "team": "Punjab (w)",
-        "odds": "1.34"
-      },
-      {
-        "team": "Tripura (w)",
-        "odds": "3.05"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:30 AM",
-    "title": "National Youth - SSSA",
-    "bets": [
-      {
-        "team": "National Youth",
-        "odds": "2.1"
+        "team": "JD Club",
+        "odds": "1.86"
       },
       {
         "team": "SSSA",
-        "odds": "1.66"
+        "odds": "1.86"
       }
     ]
   },
   {
-    "date": "Feb 8, 03:45 AM",
-    "title": "Aitken Spence - PABC",
+    "date": "Feb 11, 04:00 AM",
+    "title": "Non Proffesional - Sadar Bazar CC",
     "bets": [
       {
-        "team": "Aitken Spence",
-        "odds": "1.18"
-      },
-      {
-        "team": "PABC",
-        "odds": "4.07"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 03:45 AM",
-    "title": "Emerchemie NB - Ansell Textile",
-    "bets": [
-      {
-        "team": "Emerchemie NB",
-        "odds": "1.7"
-      },
-      {
-        "team": "Ansell Textile",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 04:00 AM",
-    "title": "Majestic Stickers - Sky Eagles",
-    "bets": [
-      {
-        "team": "Majestic Stickers",
-        "odds": "1.38"
-      },
-      {
-        "team": "Sky Eagles",
-        "odds": "2.8"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 04:15 AM",
-    "title": "HNB Assurance - Sitrek Group",
-    "bets": [
-      {
-        "team": "HNB Assurance",
-        "odds": "1.23"
-      },
-      {
-        "team": "Sitrek Group",
-        "odds": "3.6"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 05:00 AM",
-    "title": "Colombo Aces - South Asian Technologies",
-    "bets": [
-      {
-        "team": "Colombo Aces",
-        "odds": "1.45"
-      },
-      {
-        "team": "South Asian Technologies",
-        "odds": "2.5"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 05:00 AM",
-    "title": "Indore - Sahgal CC",
-    "bets": [
-      {
-        "team": "Indore",
-        "odds": "2.1"
-      },
-      {
-        "team": "Sahgal CC",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 05:30 AM",
-    "title": "New Zealand - Afghanistan",
-    "bets": [
-      {
-        "team": "New Zealand",
-        "odds": "1.5"
-      },
-      {
-        "team": "Afghanistan",
-        "odds": "2.6"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 05:30 AM",
-    "title": "Hong Kong CC - Pakistan Association of Hong Kong",
-    "bets": [
-      {
-        "team": "Hong Kong CC",
-        "odds": "1.67"
-      },
-      {
-        "team": "Pakistan Association of Hong Kong",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 05:30 AM",
-    "title": "ZM CC - St Josephs Moratuwa",
-    "bets": [
-      {
-        "team": "ZM CC",
-        "odds": "1.71"
-      },
-      {
-        "team": "St Josephs Moratuwa",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 06:00 AM",
-    "title": "Kowloon CC - Diasqua Little Sai Wan CC",
-    "bets": [
-      {
-        "team": "Kowloon CC",
-        "odds": "1.5"
-      },
-      {
-        "team": "Diasqua Little Sai Wan CC",
-        "odds": "2.32"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 06:30 AM",
-    "title": "Solar Daredevils - Titan Tornadoes",
-    "bets": [
-      {
-        "team": "Solar Daredevils",
-        "odds": "2.66"
-      },
-      {
-        "team": "Titan Tornadoes",
-        "odds": "1.42"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 07:00 AM",
-    "title": "Mavericks CC - New India Titans",
-    "bets": [
-      {
-        "team": "Mavericks CC",
-        "odds": "1.95"
-      },
-      {
-        "team": "New India Titans",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 07:15 AM",
-    "title": "Friends Youth Club Dadeldhura - Snowlion Sikkim",
-    "bets": [
-      {
-        "team": "Friends Youth Club Dadeldhura",
-        "odds": "1.79"
-      },
-      {
-        "team": "Snowlion Sikkim",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 07:30 AM",
-    "title": "Southern Rocks - Mashonaland Eagles",
-    "bets": [
-      {
-        "team": "Southern Rocks",
-        "odds": "2.14"
-      },
-      {
-        "team": "Mashonaland Eagles",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 07:30 AM",
-    "title": "Mid West Rhinos - Mountaineers",
-    "bets": [
-      {
-        "team": "Mid West Rhinos",
+        "team": "Non Proffesional",
         "odds": "1.8"
       },
       {
-        "team": "Mountaineers",
-        "odds": "1.9"
+        "team": "Sadar Bazar CC",
+        "odds": "1.94"
       }
     ]
   },
   {
-    "date": "Feb 8, 07:30 AM",
-    "title": "Queanbeyan 1st Grade - Ginninderra 1st Grade",
+    "date": "Feb 11, 05:30 AM",
+    "title": "South Africa - Afghanistan",
     "bets": [
       {
-        "team": "Queanbeyan 1st Grade",
-        "odds": "1.83"
+        "team": "South Africa",
+        "odds": "1.34"
       },
       {
-        "team": "Ginninderra 1st Grade",
-        "odds": "1.83"
+        "team": "Afghanistan",
+        "odds": "3.26"
       }
     ]
   },
   {
-    "date": "Feb 8, 07:45 AM",
-    "title": "Knights RPL - Royal Knights",
+    "date": "Feb 11, 07:00 AM",
+    "title": "Al Barkat - Radio Shop",
     "bets": [
       {
-        "team": "Knights RPL",
-        "odds": "1.62"
+        "team": "Al Barkat",
+        "odds": "1.76"
       },
       {
-        "team": "Royal Knights",
-        "odds": "2.11"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 08:00 AM",
-    "title": "E B Creasy - Attire Group",
-    "bets": [
-      {
-        "team": "E B Creasy",
-        "odds": "3.41"
-      },
-      {
-        "team": "Attire Group",
-        "odds": "1.25"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 08:00 AM",
-    "title": "Power Hand Plantation B - Ranpath Group",
-    "bets": [
-      {
-        "team": "Power Hand Plantation B",
-        "odds": "1.11"
-      },
-      {
-        "team": "Ranpath Group",
-        "odds": "5.2"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 08:00 AM",
-    "title": "Empire Tea - Siam City Cement",
-    "bets": [
-      {
-        "team": "Empire Tea",
-        "odds": "2.35"
-      },
-      {
-        "team": "Siam City Cement",
-        "odds": "1.5"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 08:00 AM",
-    "title": "Sonnet Club - Bharat Club",
-    "bets": [
-      {
-        "team": "Sonnet Club",
-        "odds": "2.02"
-      },
-      {
-        "team": "Bharat Club",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 08:00 AM",
-    "title": "Western Province (w) - Garden Route Badgers (w)",
-    "bets": [
-      {
-        "team": "Western Province (w)",
-        "odds": "1.55"
-      },
-      {
-        "team": "Garden Route Badgers (w)",
-        "odds": "2.23"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 08:30 AM",
-    "title": "Camera LK - Ansell Lanka",
-    "bets": [
-      {
-        "team": "Camera LK",
-        "odds": "1.44"
-      },
-      {
-        "team": "Ansell Lanka",
-        "odds": "2.5"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 09:00 AM",
-    "title": "Fidelity Titans (w) - North West (w)",
-    "bets": [
-      {
-        "team": "Fidelity Titans (w)",
-        "odds": "1.7"
-      },
-      {
-        "team": "North West (w)",
+        "team": "Radio Shop",
         "odds": "1.98"
       }
     ]
   },
   {
-    "date": "Feb 8, 09:00 AM",
-    "title": "Royal Zappers - Assam Blazers",
+    "date": "Feb 11, 08:00 AM",
+    "title": "C Sporting Union - National Youth",
     "bets": [
       {
-        "team": "Royal Zappers",
-        "odds": "1.65"
+        "team": "C Sporting Union",
+        "odds": "1.72"
       },
       {
-        "team": "Assam Blazers",
-        "odds": "2.14"
+        "team": "National Youth",
+        "odds": "2.02"
       }
     ]
   },
   {
-    "date": "Feb 8, 09:30 AM",
-    "title": "England - Nepal",
+    "date": "Feb 11, 09:30 AM",
+    "title": "Australia - Ireland",
     "bets": [
       {
-        "team": "England",
-        "odds": "1.01"
-      },
-      {
-        "team": "Nepal",
-        "odds": "16"
-      }
-    ]
-  },
-  {
-    "date": "Feb 8, 01:30 PM",
-    "title": "Sri Lanka - Ireland",
-    "bets": [
-      {
-        "team": "Sri Lanka",
-        "odds": "1.15"
+        "team": "Australia",
+        "odds": "1.08"
       },
       {
         "team": "Ireland",
-        "odds": "5.55"
+        "odds": "7.77"
       }
     ]
   },
   {
-    "date": "Feb 9, 05:30 AM",
-    "title": "Scotland - Italy",
+    "date": "Feb 11, 11:00 AM",
+    "title": "11 Stars - 90FT CC",
     "bets": [
       {
-        "team": "Scotland",
-        "odds": "1.53"
+        "team": "11 Stars",
+        "odds": "2.02"
       },
       {
-        "team": "Italy",
-        "odds": "2.5"
+        "team": "90FT CC",
+        "odds": "1.72"
       }
     ]
   },
   {
-    "date": "Feb 9, 09:30 AM",
-    "title": "Zimbabwe - Oman",
+    "date": "Feb 11, 12:00 PM",
+    "title": "Qatar - Bahrain",
     "bets": [
       {
-        "team": "Zimbabwe",
-        "odds": "1.23"
+        "team": "Qatar",
+        "odds": "1.35"
+      },
+      {
+        "team": "Bahrain",
+        "odds": "3"
+      }
+    ]
+  },
+  {
+    "date": "Feb 11, 01:30 PM",
+    "title": "England - West Indies",
+    "bets": [
+      {
+        "team": "England",
+        "odds": "1.44"
+      },
+      {
+        "team": "West Indies",
+        "odds": "2.78"
+      }
+    ]
+  },
+  {
+    "date": "Feb 12, 05:30 AM",
+    "title": "Sri Lanka - Oman",
+    "bets": [
+      {
+        "team": "Sri Lanka",
+        "odds": "1.07"
       },
       {
         "team": "Oman",
-        "odds": "4.15"
+        "odds": "8"
       }
     ]
   },
   {
-    "date": "Feb 9, 12:00 PM",
-    "title": "Durbar - Dhumketu",
+    "date": "Feb 12, 09:30 AM",
+    "title": "Nepal - Italy",
     "bets": [
       {
-        "team": "Durbar",
-        "odds": "2.06"
+        "team": "Nepal",
+        "odds": "1.29"
       },
       {
-        "team": "Dhumketu",
-        "odds": "1.63"
+        "team": "Italy",
+        "odds": "3.55"
       }
     ]
   },
   {
-    "date": "Feb 9, 01:30 PM",
-    "title": "South Africa - Canada",
+    "date": "Feb 12, 10:00 AM",
+    "title": "Qatar (w) - Oman (w)",
     "bets": [
       {
-        "team": "South Africa",
-        "odds": "1.02"
+        "team": "Qatar (w)",
+        "odds": "4.7"
       },
       {
-        "team": "Canada",
-        "odds": "13"
+        "team": "Oman (w)",
+        "odds": "1.15"
+      }
+    ]
+  },
+  {
+    "date": "Feb 12, 01:30 PM",
+    "title": "India - Namibia",
+    "bets": [
+      {
+        "team": "India",
+        "odds": "1.01"
+      },
+      {
+        "team": "Namibia",
+        "odds": "21"
       }
     ]
   }
