@@ -1,234 +1,444 @@
 [
   {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Bengal (w) - Haryana (w)",
+    "date": "Feb 14, 09:30 PM",
+    "title": "Northern Brave (w) - Central Hinds (w)",
     "bets": [
       {
-        "team": "Bengal (w)",
-        "odds": "1.74"
-      },
-      {
-        "team": "Haryana (w)",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Andhra (w) - Mumbai (w)",
-    "bets": [
-      {
-        "team": "Andhra (w)",
-        "odds": "1.83"
-      },
-      {
-        "team": "Mumbai (w)",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Baroda (w) - Maharashtra (w)",
-    "bets": [
-      {
-        "team": "Baroda (w)",
-        "odds": "3.07"
-      },
-      {
-        "team": "Maharashtra (w)",
-        "odds": "1.31"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Assam (w) - Pondicherry (w)",
-    "bets": [
-      {
-        "team": "Assam (w)",
-        "odds": "1.58"
-      },
-      {
-        "team": "Pondicherry (w)",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Delhi (w) - Saurashtra (w)",
-    "bets": [
-      {
-        "team": "Delhi (w)",
-        "odds": "1.24"
-      },
-      {
-        "team": "Saurashtra (w)",
-        "odds": "3.56"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Gujarat (w) - Jharkhand (w)",
-    "bets": [
-      {
-        "team": "Gujarat (w)",
-        "odds": "1.79"
-      },
-      {
-        "team": "Jharkhand (w)",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Karnataka (w) - Odisha (w)",
-    "bets": [
-      {
-        "team": "Karnataka (w)",
+        "team": "Northern Brave (w)",
         "odds": "1.56"
       },
       {
-        "team": "Odisha (w)",
-        "odds": "2.22"
+        "team": "Central Hinds (w)",
+        "odds": "2.24"
       }
     ]
   },
   {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Kerala (w) - Tripura (w)",
+    "date": "Feb 14, 09:30 PM",
+    "title": "Wellington Blaze (w) - Auckland Hearts (w)",
     "bets": [
+      {
+        "team": "Wellington Blaze (w)",
+        "odds": "1.57"
+      },
+      {
+        "team": "Auckland Hearts (w)",
+        "odds": "2.21"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 01:30 AM",
+    "title": "Diasqua Little Sai Wan CC (w) - Lantau CC (w)",
+    "bets": [
+      {
+        "team": "Diasqua Little Sai Wan CC (w)",
+        "odds": "1.65"
+      },
+      {
+        "team": "Lantau CC (w)",
+        "odds": "2.11"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 02:00 AM",
+    "title": "Craigengower (w) - Kowloon CC (w)",
+    "bets": [
+      {
+        "team": "Craigengower (w)",
+        "odds": "1.02"
+      },
+      {
+        "team": "Kowloon CC (w)",
+        "odds": "10"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 02:30 AM",
+    "title": "United Arab Emirates (w) - Nepal (w)",
+    "bets": [
+      {
+        "team": "United Arab Emirates (w)",
+        "odds": "1.45"
+      },
+      {
+        "team": "Nepal (w)",
+        "odds": "2.55"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 03:30 AM",
+    "title": "Bengal - Jammu and Kashmir",
+    "bets": [
+      {
+        "team": "Bengal",
+        "odds": "1.6"
+      },
+      {
+        "team": "Jammu and Kashmir",
+        "odds": "2.13"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 04:00 AM",
+    "title": "SPS Superstars - New India Titans",
+    "bets": [
+      {
+        "team": "SPS Superstars",
+        "odds": "1.48"
+      },
+      {
+        "team": "New India Titans",
+        "odds": "2.36"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 04:00 AM",
+    "title": "Uttarakhand - Karnataka",
+    "bets": [
+      {
+        "team": "Uttarakhand",
+        "odds": "2.75"
+      },
+      {
+        "team": "Karnataka",
+        "odds": "1.37"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 04:00 AM",
+    "title": "Bhairavnath CC Phaltan - Phoenix CC",
+    "bets": [
+      {
+        "team": "Bhairavnath CC Phaltan",
+        "odds": "2.1"
+      },
+      {
+        "team": "Phoenix CC",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 05:30 AM",
+    "title": "West Indies - Nepal",
+    "bets": [
+      {
+        "team": "West Indies",
+        "odds": "1.15"
+      },
+      {
+        "team": "Nepal",
+        "odds": "5.5"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 05:30 AM",
+    "title": "Diasqua Little Sai Wan CC - United Services Recreation Club",
+    "bets": [
+      {
+        "team": "Diasqua Little Sai Wan CC",
+        "odds": "1.77"
+      },
+      {
+        "team": "United Services Recreation Club",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 06:00 AM",
+    "title": "Pakistan Association of Hong Kong - Kowloon CC",
+    "bets": [
+      {
+        "team": "Pakistan Association of Hong Kong",
+        "odds": "2.15"
+      },
+      {
+        "team": "Kowloon CC",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 07:00 AM",
+    "title": "India A (w) - Pakistan A (w)",
+    "bets": [
+      {
+        "team": "India A (w)",
+        "odds": "1.35"
+      },
+      {
+        "team": "Pakistan A (w)",
+        "odds": "3"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 07:00 AM",
+    "title": "90FT CC - Manzini Superstars",
+    "bets": [
+      {
+        "team": "90FT CC",
+        "odds": "1.8"
+      },
+      {
+        "team": "Manzini Superstars",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 08:00 AM",
+    "title": "Fidelity Titans (w) - Western Province (w)",
+    "bets": [
+      {
+        "team": "Fidelity Titans (w)",
+        "odds": "1.92"
+      },
+      {
+        "team": "Western Province (w)",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 08:00 AM",
+    "title": "Turf Blasters - Mavericks CC",
+    "bets": [
+      {
+        "team": "Turf Blasters",
+        "odds": "1.66"
+      },
+      {
+        "team": "Mavericks CC",
+        "odds": "2.01"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 08:15 AM",
+    "title": "Australia (w) - India (w)",
+    "bets": [
+      {
+        "team": "Australia (w)",
+        "odds": "1.35"
+      },
+      {
+        "team": "India (w)",
+        "odds": "3.04"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 09:00 AM",
+    "title": "Al Barkat - Mbabane Capitals",
+    "bets": [
+      {
+        "team": "Al Barkat",
+        "odds": "2.14"
+      },
+      {
+        "team": "Mbabane Capitals",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 09:30 AM",
+    "title": "USA - Namibia",
+    "bets": [
+      {
+        "team": "USA",
+        "odds": "1.52"
+      },
+      {
+        "team": "Namibia",
+        "odds": "2.53"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 10:00 AM",
+    "title": "North West (w) - Dolphins (w)",
+    "bets": [
+      {
+        "team": "North West (w)",
+        "odds": "2.35"
+      },
+      {
+        "team": "Dolphins (w)",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 12:00 PM",
+    "title": "MTM Riders - SK Strikers",
+    "bets": [
+      {
+        "team": "MTM Riders",
+        "odds": "2.36"
+      },
+      {
+        "team": "SK Strikers",
+        "odds": "1.48"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 01:00 PM",
+    "title": "Qatar - Bahrain",
+    "bets": [
+      {
+        "team": "Qatar",
+        "odds": "1.29"
+      },
+      {
+        "team": "Bahrain",
+        "odds": "3.35"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 01:30 PM",
+    "title": "India - Pakistan",
+    "bets": [
+      {
+        "team": "India",
+        "odds": "1.37"
+      },
+      {
+        "team": "Pakistan",
+        "odds": "3.1"
+      }
+    ]
+  },
+  {
+    "date": "Feb 15, 11:00 PM",
+    "title": "Victoria (w) - Western Australia (w)",
+    "bets": [
+      {
+        "team": "Victoria (w)",
+        "odds": "2.36"
+      },
+      {
+        "team": "Western Australia (w)",
+        "odds": "1.51"
+      }
+    ]
+  },
+  {
+    "date": "Feb 16, 03:00 AM",
+    "title": "Delhi (w) - Kerala (w)",
+    "bets": [
+      {
+        "team": "Delhi (w)",
+        "odds": "1.45"
+      },
       {
         "team": "Kerala (w)",
-        "odds": "1.44"
-      },
-      {
-        "team": "Tripura (w)",
         "odds": "2.53"
       }
     ]
   },
   {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Madhya Pradesh (w) - Uttar Pradesh (w)",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Andhra (w) - Tamil Nadu (w)",
     "bets": [
+      {
+        "team": "Andhra (w)",
+        "odds": "1.42"
+      },
+      {
+        "team": "Tamil Nadu (w)",
+        "odds": "2.64"
+      }
+    ]
+  },
+  {
+    "date": "Feb 16, 03:00 AM",
+    "title": "Assam (w) - Madhya Pradesh (w)",
+    "bets": [
+      {
+        "team": "Assam (w)",
+        "odds": "2.4"
+      },
       {
         "team": "Madhya Pradesh (w)",
-        "odds": "2.39"
-      },
-      {
-        "team": "Uttar Pradesh (w)",
-        "odds": "1.49"
+        "odds": "1.5"
       }
     ]
   },
   {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Manipur (w) - Sikkim (w)",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Baroda (w) - Odisha (w)",
     "bets": [
       {
-        "team": "Manipur (w)",
-        "odds": "3.18"
+        "team": "Baroda (w)",
+        "odds": "2.84"
       },
       {
-        "team": "Sikkim (w)",
-        "odds": "1.29"
+        "team": "Odisha (w)",
+        "odds": "1.36"
       }
     ]
   },
   {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Bihar (w) - Cricket Association of Mizoram (w)",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Bengal (w) - Rajasthan (w)",
     "bets": [
       {
-        "team": "Bihar (w)",
-        "odds": "1.14"
-      },
-      {
-        "team": "Cricket Association of Mizoram (w)",
-        "odds": "4.67"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Meghalaya (w) - Nagaland (w)",
-    "bets": [
-      {
-        "team": "Meghalaya (w)",
-        "odds": "2.53"
-      },
-      {
-        "team": "Nagaland (w)",
-        "odds": "1.44"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Chandigarh (w) - Rajasthan (w)",
-    "bets": [
-      {
-        "team": "Chandigarh (w)",
-        "odds": "2.52"
+        "team": "Bengal (w)",
+        "odds": "1.45"
       },
       {
         "team": "Rajasthan (w)",
-        "odds": "1.44"
+        "odds": "2.53"
       }
     ]
   },
   {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Himachal Pradesh (w) - Jammu and Kashmir (w)",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Bihar (w) - Sikkim (w)",
     "bets": [
       {
-        "team": "Himachal Pradesh (w)",
-        "odds": "1.83"
+        "team": "Bihar (w)",
+        "odds": "1.06"
       },
       {
-        "team": "Jammu and Kashmir (w)",
-        "odds": "1.83"
+        "team": "Sikkim (w)",
+        "odds": "7.27"
       }
     ]
   },
   {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Chhattisgarh (w) - Vidarbha (w)",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Chandigarh (w) - Haryana (w)",
     "bets": [
       {
-        "team": "Chhattisgarh (w)",
-        "odds": "1.95"
+        "team": "Chandigarh (w)",
+        "odds": "2.84"
       },
       {
-        "team": "Vidarbha (w)",
-        "odds": "1.74"
+        "team": "Haryana (w)",
+        "odds": "1.36"
       }
     ]
   },
   {
-    "date": "Feb 12, 03:00 AM",
-    "title": "Hyderabad (w) - Railways (w)",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Hyderabad (w) - Punjab (w)",
     "bets": [
       {
         "team": "Hyderabad (w)",
-        "odds": "5.75"
-      },
-      {
-        "team": "Railways (w)",
-        "odds": "1.09"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 03:30 AM",
-    "title": "Goa (w) - Punjab (w)",
-    "bets": [
-      {
-        "team": "Goa (w)",
         "odds": "1.89"
       },
       {
@@ -238,352 +448,156 @@
     ]
   },
   {
-    "date": "Feb 12, 05:30 AM",
-    "title": "Sri Lanka - Oman",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Jammu and Kashmir (w) - Mumbai (w)",
     "bets": [
       {
-        "team": "Sri Lanka",
-        "odds": "1.05"
+        "team": "Jammu and Kashmir (w)",
+        "odds": "1.89"
       },
       {
-        "team": "Oman",
-        "odds": "9.99"
+        "team": "Mumbai (w)",
+        "odds": "1.79"
       }
     ]
   },
   {
-    "date": "Feb 12, 09:30 AM",
-    "title": "Nepal - Italy",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Karnataka (w) - Maharashtra (w)",
     "bets": [
       {
-        "team": "Nepal",
-        "odds": "1.31"
+        "team": "Karnataka (w)",
+        "odds": "1.79"
       },
       {
-        "team": "Italy",
-        "odds": "3.44"
+        "team": "Maharashtra (w)",
+        "odds": "1.89"
       }
     ]
   },
   {
-    "date": "Feb 12, 10:00 AM",
-    "title": "Qatar (w) - Oman (w)",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Pondicherry (w) - Uttar Pradesh (w)",
     "bets": [
       {
-        "team": "Qatar (w)",
-        "odds": "3.8"
+        "team": "Pondicherry (w)",
+        "odds": "3.79"
       },
       {
-        "team": "Oman (w)",
+        "team": "Uttar Pradesh (w)",
         "odds": "1.22"
       }
     ]
   },
   {
-    "date": "Feb 12, 01:30 PM",
-    "title": "India - Namibia",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Saurashtra (w) - Tripura (w)",
     "bets": [
       {
-        "team": "India",
-        "odds": "1.01"
+        "team": "Saurashtra (w)",
+        "odds": "1.84"
       },
       {
-        "team": "Namibia",
-        "odds": "21"
+        "team": "Tripura (w)",
+        "odds": "1.84"
       }
     ]
   },
   {
-    "date": "Feb 12, 09:30 PM",
-    "title": "Canterbury Kings - Wellington Firebirds",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Uttarakhand (w) - Vidarbha (w)",
     "bets": [
       {
-        "team": "Canterbury Kings",
-        "odds": "1.69"
+        "team": "Uttarakhand (w)",
+        "odds": "1.89"
       },
       {
-        "team": "Wellington Firebirds",
-        "odds": "2.14"
+        "team": "Vidarbha (w)",
+        "odds": "1.79"
       }
     ]
   },
   {
-    "date": "Feb 12, 09:30 PM",
-    "title": "Central Stags - Otago Volts",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Gujarat (w) - Himachal Pradesh (w)",
     "bets": [
       {
-        "team": "Central Stags",
-        "odds": "1.55"
+        "team": "Gujarat (w)",
+        "odds": "2.84"
       },
       {
-        "team": "Otago Volts",
-        "odds": "2.44"
-      }
-    ]
-  },
-  {
-    "date": "Feb 12, 09:30 PM",
-    "title": "Northern Districts - Auckland Aces",
-    "bets": [
-      {
-        "team": "Northern Districts",
-        "odds": "2.04"
-      },
-      {
-        "team": "Auckland Aces",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 02:30 AM",
-    "title": "Meghalaya U-23 - Gujarat U-23",
-    "bets": [
-      {
-        "team": "Meghalaya U-23",
-        "odds": "11"
-      },
-      {
-        "team": "Gujarat U-23",
-        "odds": "1.01"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:00 AM",
-    "title": "Bengal U-23 - Hyderabad U-23",
-    "bets": [
-      {
-        "team": "Bengal U-23",
-        "odds": "1.57"
-      },
-      {
-        "team": "Hyderabad U-23",
-        "odds": "2.25"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Punjab U-23 - Baroda U-23",
-    "bets": [
-      {
-        "team": "Punjab U-23",
-        "odds": "1.19"
-      },
-      {
-        "team": "Baroda U-23",
-        "odds": "4.2"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Jammu and Kashmir U-23 - Goa U-23",
-    "bets": [
-      {
-        "team": "Jammu and Kashmir U-23",
-        "odds": "1.29"
-      },
-      {
-        "team": "Goa U-23",
-        "odds": "3.25"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Delhi U-23 - Maharashtra U-23",
-    "bets": [
-      {
-        "team": "Delhi U-23",
-        "odds": "2.7"
-      },
-      {
-        "team": "Maharashtra U-23",
-        "odds": "1.41"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Pondicherry U-23 - Saurashtra U-23",
-    "bets": [
-      {
-        "team": "Pondicherry U-23",
-        "odds": "3.25"
-      },
-      {
-        "team": "Saurashtra U-23",
-        "odds": "1.29"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Andhra U-23 - Tripura U-23",
-    "bets": [
-      {
-        "team": "Andhra U-23",
+        "team": "Himachal Pradesh (w)",
         "odds": "1.36"
-      },
-      {
-        "team": "Tripura U-23",
-        "odds": "2.9"
       }
     ]
   },
   {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Haryana U-23 - Rajasthan U-23",
+    "date": "Feb 16, 03:00 AM",
+    "title": "Goa (w) - Railways (w)",
     "bets": [
       {
-        "team": "Haryana U-23",
-        "odds": "6.2"
+        "team": "Goa (w)",
+        "odds": "8.37"
       },
       {
-        "team": "Rajasthan U-23",
-        "odds": "1.09"
+        "team": "Railways (w)",
+        "odds": "1.04"
       }
     ]
   },
   {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Railways U-23 - Chhattisgarh U-23",
+    "date": "Feb 16, 05:30 AM",
+    "title": "Afghanistan - United Arab Emirates",
     "bets": [
       {
-        "team": "Railways U-23",
-        "odds": "2.1"
-      },
-      {
-        "team": "Chhattisgarh U-23",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Kerala U-23 - Jharkhand U-23",
-    "bets": [
-      {
-        "team": "Kerala U-23",
-        "odds": "1.9"
-      },
-      {
-        "team": "Jharkhand U-23",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Mumbai U-23 - Odisha U-23",
-    "bets": [
-      {
-        "team": "Mumbai U-23",
-        "odds": "1.51"
-      },
-      {
-        "team": "Odisha U-23",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Himachal Pradesh U-23 - Karnataka U-23",
-    "bets": [
-      {
-        "team": "Himachal Pradesh U-23",
-        "odds": "1.9"
-      },
-      {
-        "team": "Karnataka U-23",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Madhya Pradesh U-23 - Tamil Nadu U-23",
-    "bets": [
-      {
-        "team": "Madhya Pradesh U-23",
-        "odds": "2.1"
-      },
-      {
-        "team": "Tamil Nadu U-23",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Chandigarh U-23 - Uttarakhand U-23",
-    "bets": [
-      {
-        "team": "Chandigarh U-23",
-        "odds": "1.61"
-      },
-      {
-        "team": "Uttarakhand U-23",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 03:30 AM",
-    "title": "Vidarbha U-23 - Assam U-23",
-    "bets": [
-      {
-        "team": "Vidarbha U-23",
-        "odds": "1.09"
-      },
-      {
-        "team": "Assam U-23",
-        "odds": "6.2"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 05:30 AM",
-    "title": "Australia - Zimbabwe",
-    "bets": [
-      {
-        "team": "Australia",
-        "odds": "1.09"
-      },
-      {
-        "team": "Zimbabwe",
-        "odds": "7"
-      }
-    ]
-  },
-  {
-    "date": "Feb 13, 09:30 AM",
-    "title": "Canada - United Arab Emirates",
-    "bets": [
-      {
-        "team": "Canada",
-        "odds": "2.64"
+        "team": "Afghanistan",
+        "odds": "1.11"
       },
       {
         "team": "United Arab Emirates",
-        "odds": "1.48"
+        "odds": "6.4"
       }
     ]
   },
   {
-    "date": "Feb 13, 01:30 PM",
-    "title": "USA - Netherlands",
+    "date": "Feb 16, 09:30 AM",
+    "title": "England - Italy",
     "bets": [
       {
-        "team": "USA",
-        "odds": "2.22"
+        "team": "England",
+        "odds": "1.04"
       },
       {
-        "team": "Netherlands",
-        "odds": "1.65"
+        "team": "Italy",
+        "odds": "10"
+      }
+    ]
+  },
+  {
+    "date": "Feb 16, 01:30 PM",
+    "title": "Australia - Sri Lanka",
+    "bets": [
+      {
+        "team": "Australia",
+        "odds": "1.4"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "2.94"
+      }
+    ]
+  },
+  {
+    "date": "Feb 16, 04:00 PM",
+    "title": "South Africa (w) - Pakistan (w)",
+    "bets": [
+      {
+        "team": "South Africa (w)",
+        "odds": "1.19"
+      },
+      {
+        "team": "Pakistan (w)",
+        "odds": "4.7"
       }
     ]
   }
