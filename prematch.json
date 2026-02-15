@@ -1,365 +1,15 @@
 [
   {
-    "date": "Feb 14, 09:30 PM",
-    "title": "Northern Brave (w) - Central Hinds (w)",
-    "bets": [
-      {
-        "team": "Northern Brave (w)",
-        "odds": "1.56"
-      },
-      {
-        "team": "Central Hinds (w)",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
-    "date": "Feb 14, 09:30 PM",
-    "title": "Wellington Blaze (w) - Auckland Hearts (w)",
-    "bets": [
-      {
-        "team": "Wellington Blaze (w)",
-        "odds": "1.57"
-      },
-      {
-        "team": "Auckland Hearts (w)",
-        "odds": "2.21"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 01:30 AM",
-    "title": "Diasqua Little Sai Wan CC (w) - Lantau CC (w)",
-    "bets": [
-      {
-        "team": "Diasqua Little Sai Wan CC (w)",
-        "odds": "1.65"
-      },
-      {
-        "team": "Lantau CC (w)",
-        "odds": "2.11"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 02:00 AM",
-    "title": "Craigengower (w) - Kowloon CC (w)",
-    "bets": [
-      {
-        "team": "Craigengower (w)",
-        "odds": "1.02"
-      },
-      {
-        "team": "Kowloon CC (w)",
-        "odds": "10"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 02:30 AM",
-    "title": "United Arab Emirates (w) - Nepal (w)",
-    "bets": [
-      {
-        "team": "United Arab Emirates (w)",
-        "odds": "1.45"
-      },
-      {
-        "team": "Nepal (w)",
-        "odds": "2.55"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 03:30 AM",
-    "title": "Bengal - Jammu and Kashmir",
-    "bets": [
-      {
-        "team": "Bengal",
-        "odds": "1.6"
-      },
-      {
-        "team": "Jammu and Kashmir",
-        "odds": "2.13"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 04:00 AM",
-    "title": "SPS Superstars - New India Titans",
-    "bets": [
-      {
-        "team": "SPS Superstars",
-        "odds": "1.48"
-      },
-      {
-        "team": "New India Titans",
-        "odds": "2.36"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 04:00 AM",
-    "title": "Uttarakhand - Karnataka",
-    "bets": [
-      {
-        "team": "Uttarakhand",
-        "odds": "2.75"
-      },
-      {
-        "team": "Karnataka",
-        "odds": "1.37"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 04:00 AM",
-    "title": "Bhairavnath CC Phaltan - Phoenix CC",
-    "bets": [
-      {
-        "team": "Bhairavnath CC Phaltan",
-        "odds": "2.1"
-      },
-      {
-        "team": "Phoenix CC",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 05:30 AM",
-    "title": "West Indies - Nepal",
-    "bets": [
-      {
-        "team": "West Indies",
-        "odds": "1.15"
-      },
-      {
-        "team": "Nepal",
-        "odds": "5.5"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 05:30 AM",
-    "title": "Diasqua Little Sai Wan CC - United Services Recreation Club",
-    "bets": [
-      {
-        "team": "Diasqua Little Sai Wan CC",
-        "odds": "1.77"
-      },
-      {
-        "team": "United Services Recreation Club",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 06:00 AM",
-    "title": "Pakistan Association of Hong Kong - Kowloon CC",
-    "bets": [
-      {
-        "team": "Pakistan Association of Hong Kong",
-        "odds": "2.15"
-      },
-      {
-        "team": "Kowloon CC",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 07:00 AM",
-    "title": "India A (w) - Pakistan A (w)",
-    "bets": [
-      {
-        "team": "India A (w)",
-        "odds": "1.35"
-      },
-      {
-        "team": "Pakistan A (w)",
-        "odds": "3"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 07:00 AM",
-    "title": "90FT CC - Manzini Superstars",
-    "bets": [
-      {
-        "team": "90FT CC",
-        "odds": "1.8"
-      },
-      {
-        "team": "Manzini Superstars",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 08:00 AM",
-    "title": "Fidelity Titans (w) - Western Province (w)",
-    "bets": [
-      {
-        "team": "Fidelity Titans (w)",
-        "odds": "1.92"
-      },
-      {
-        "team": "Western Province (w)",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 08:00 AM",
-    "title": "Turf Blasters - Mavericks CC",
-    "bets": [
-      {
-        "team": "Turf Blasters",
-        "odds": "1.66"
-      },
-      {
-        "team": "Mavericks CC",
-        "odds": "2.01"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 08:15 AM",
-    "title": "Australia (w) - India (w)",
-    "bets": [
-      {
-        "team": "Australia (w)",
-        "odds": "1.35"
-      },
-      {
-        "team": "India (w)",
-        "odds": "3.04"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 09:00 AM",
-    "title": "Al Barkat - Mbabane Capitals",
-    "bets": [
-      {
-        "team": "Al Barkat",
-        "odds": "2.14"
-      },
-      {
-        "team": "Mbabane Capitals",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 09:30 AM",
-    "title": "USA - Namibia",
-    "bets": [
-      {
-        "team": "USA",
-        "odds": "1.52"
-      },
-      {
-        "team": "Namibia",
-        "odds": "2.53"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 10:00 AM",
-    "title": "North West (w) - Dolphins (w)",
-    "bets": [
-      {
-        "team": "North West (w)",
-        "odds": "2.35"
-      },
-      {
-        "team": "Dolphins (w)",
-        "odds": "1.5"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 12:00 PM",
-    "title": "MTM Riders - SK Strikers",
-    "bets": [
-      {
-        "team": "MTM Riders",
-        "odds": "2.36"
-      },
-      {
-        "team": "SK Strikers",
-        "odds": "1.48"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 01:00 PM",
-    "title": "Qatar - Bahrain",
-    "bets": [
-      {
-        "team": "Qatar",
-        "odds": "1.29"
-      },
-      {
-        "team": "Bahrain",
-        "odds": "3.35"
-      }
-    ]
-  },
-  {
-    "date": "Feb 15, 01:30 PM",
-    "title": "India - Pakistan",
-    "bets": [
-      {
-        "team": "India",
-        "odds": "1.37"
-      },
-      {
-        "team": "Pakistan",
-        "odds": "3.1"
-      }
-    ]
-  },
-  {
     "date": "Feb 15, 11:00 PM",
     "title": "Victoria (w) - Western Australia (w)",
     "bets": [
       {
         "team": "Victoria (w)",
-        "odds": "2.36"
+        "odds": "2.47"
       },
       {
         "team": "Western Australia (w)",
-        "odds": "1.51"
-      }
-    ]
-  },
-  {
-    "date": "Feb 16, 03:00 AM",
-    "title": "Delhi (w) - Kerala (w)",
-    "bets": [
-      {
-        "team": "Delhi (w)",
-        "odds": "1.45"
-      },
-      {
-        "team": "Kerala (w)",
-        "odds": "2.53"
-      }
-    ]
-  },
-  {
-    "date": "Feb 16, 03:00 AM",
-    "title": "Andhra (w) - Tamil Nadu (w)",
-    "bets": [
-      {
-        "team": "Andhra (w)",
-        "odds": "1.42"
-      },
-      {
-        "team": "Tamil Nadu (w)",
-        "odds": "2.64"
+        "odds": "1.48"
       }
     ]
   },
@@ -374,6 +24,48 @@
       {
         "team": "Madhya Pradesh (w)",
         "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Feb 16, 03:00 AM",
+    "title": "Hyderabad (w) - Punjab (w)",
+    "bets": [
+      {
+        "team": "Hyderabad (w)",
+        "odds": "1.89"
+      },
+      {
+        "team": "Punjab (w)",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Feb 16, 03:00 AM",
+    "title": "Jammu and Kashmir (w) - Mumbai (w)",
+    "bets": [
+      {
+        "team": "Jammu and Kashmir (w)",
+        "odds": "1.89"
+      },
+      {
+        "team": "Mumbai (w)",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Feb 16, 03:00 AM",
+    "title": "Andhra (w) - Tamil Nadu (w)",
+    "bets": [
+      {
+        "team": "Andhra (w)",
+        "odds": "1.31"
+      },
+      {
+        "team": "Tamil Nadu (w)",
+        "odds": "3.09"
       }
     ]
   },
@@ -430,34 +122,6 @@
       {
         "team": "Haryana (w)",
         "odds": "1.36"
-      }
-    ]
-  },
-  {
-    "date": "Feb 16, 03:00 AM",
-    "title": "Hyderabad (w) - Punjab (w)",
-    "bets": [
-      {
-        "team": "Hyderabad (w)",
-        "odds": "1.89"
-      },
-      {
-        "team": "Punjab (w)",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Feb 16, 03:00 AM",
-    "title": "Jammu and Kashmir (w) - Mumbai (w)",
-    "bets": [
-      {
-        "team": "Jammu and Kashmir (w)",
-        "odds": "1.89"
-      },
-      {
-        "team": "Mumbai (w)",
-        "odds": "1.79"
       }
     ]
   },
@@ -546,16 +210,44 @@
     ]
   },
   {
+    "date": "Feb 16, 04:00 AM",
+    "title": "Phoenix CC - Non Proffesional",
+    "bets": [
+      {
+        "team": "Phoenix CC",
+        "odds": "2.22"
+      },
+      {
+        "team": "Non Proffesional",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
     "date": "Feb 16, 05:30 AM",
     "title": "Afghanistan - United Arab Emirates",
     "bets": [
       {
         "team": "Afghanistan",
-        "odds": "1.11"
+        "odds": "1.15"
       },
       {
         "team": "United Arab Emirates",
-        "odds": "6.4"
+        "odds": "5.5"
+      }
+    ]
+  },
+  {
+    "date": "Feb 16, 07:30 AM",
+    "title": "Khalsa Mansa CC - S Yamuna Nagar XI",
+    "bets": [
+      {
+        "team": "Khalsa Mansa CC",
+        "odds": "1.6"
+      },
+      {
+        "team": "S Yamuna Nagar XI",
+        "odds": "2.14"
       }
     ]
   },
@@ -574,16 +266,30 @@
     ]
   },
   {
+    "date": "Feb 16, 01:00 PM",
+    "title": "Delhi Challengers CC - Patiala Shahi",
+    "bets": [
+      {
+        "team": "Delhi Challengers CC",
+        "odds": "1.83"
+      },
+      {
+        "team": "Patiala Shahi",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
     "date": "Feb 16, 01:30 PM",
     "title": "Australia - Sri Lanka",
     "bets": [
       {
         "team": "Australia",
-        "odds": "1.4"
+        "odds": "1.43"
       },
       {
         "team": "Sri Lanka",
-        "odds": "2.94"
+        "odds": "2.85"
       }
     ]
   },
@@ -598,6 +304,48 @@
       {
         "team": "Pakistan (w)",
         "odds": "4.7"
+      }
+    ]
+  },
+  {
+    "date": "Feb 17, 05:30 AM",
+    "title": "New Zealand - Canada",
+    "bets": [
+      {
+        "team": "New Zealand",
+        "odds": "1.02"
+      },
+      {
+        "team": "Canada",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Feb 17, 09:30 AM",
+    "title": "Ireland - Zimbabwe",
+    "bets": [
+      {
+        "team": "Ireland",
+        "odds": "2.22"
+      },
+      {
+        "team": "Zimbabwe",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Feb 17, 01:30 PM",
+    "title": "Scotland - Nepal",
+    "bets": [
+      {
+        "team": "Scotland",
+        "odds": "1.58"
+      },
+      {
+        "team": "Nepal",
+        "odds": "2.38"
       }
     ]
   }
