@@ -1,29 +1,15 @@
 [
   {
-    "date": "Feb 19, 06:15 PM",
-    "title": "Dera Murad Jamali Region - Rawalpindi Region FC",
-    "bets": [
-      {
-        "team": "Dera Murad Jamali Region",
-        "odds": "3.05"
-      },
-      {
-        "team": "Rawalpindi Region FC",
-        "odds": "1.37"
-      }
-    ]
-  },
-  {
     "date": "Feb 19, 09:30 PM",
     "title": "Central Stags - Wellington Firebirds",
     "bets": [
       {
         "team": "Central Stags",
-        "odds": "1.69"
+        "odds": "1.74"
       },
       {
         "team": "Wellington Firebirds",
-        "odds": "2.05"
+        "odds": "2.1"
       }
     ]
   },
@@ -42,7 +28,7 @@
     ]
   },
   {
-    "date": "Feb 20, 03:00 AM",
+    "date": "Feb 20, 04:00 AM",
     "title": "Rishikesh - Rudraprayag",
     "bets": [
       {
@@ -52,20 +38,6 @@
       {
         "team": "Rudraprayag",
         "odds": "1.96"
-      }
-    ]
-  },
-  {
-    "date": "Feb 20, 06:30 AM",
-    "title": "Kedarnath - Mussoorie",
-    "bets": [
-      {
-        "team": "Kedarnath",
-        "odds": "2.02"
-      },
-      {
-        "team": "Mussoorie",
-        "odds": "1.72"
       }
     ]
   },
@@ -84,6 +56,20 @@
     ]
   },
   {
+    "date": "Feb 20, 07:00 AM",
+    "title": "TMN Ghaziabad - Sabi Hoshiarpur XI",
+    "bets": [
+      {
+        "team": "TMN Ghaziabad",
+        "odds": "4.25"
+      },
+      {
+        "team": "Sabi Hoshiarpur XI",
+        "odds": "1.16"
+      }
+    ]
+  },
+  {
     "date": "Feb 20, 07:30 AM",
     "title": "Ingabo Titans - Imanzi Guardians",
     "bets": [
@@ -94,6 +80,20 @@
       {
         "team": "Imanzi Guardians",
         "odds": "2.5"
+      }
+    ]
+  },
+  {
+    "date": "Feb 20, 07:30 AM",
+    "title": "Kedarnath - Mussoorie",
+    "bets": [
+      {
+        "team": "Kedarnath",
+        "odds": "2.02"
+      },
+      {
+        "team": "Mussoorie",
+        "odds": "1.72"
       }
     ]
   },
@@ -154,6 +154,20 @@
     ]
   },
   {
+    "date": "Feb 20, 12:30 PM",
+    "title": "LBS Bhopal - MUCC Odisha",
+    "bets": [
+      {
+        "team": "LBS Bhopal",
+        "odds": "2.24"
+      },
+      {
+        "team": "MUCC Odisha",
+        "odds": "1.53"
+      }
+    ]
+  },
+  {
     "date": "Feb 20, 12:55 PM",
     "title": "West Indies (w) - Sri Lanka (w)",
     "bets": [
@@ -201,11 +215,25 @@
     "bets": [
       {
         "team": "Azad Jammu & Kashmir Region",
-        "odds": "2.5"
+        "odds": "2.32"
       },
       {
         "team": "Karachi Region Blues",
-        "odds": "1.53"
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Feb 20, 04:30 PM",
+    "title": "Vredenburg/Saldanha CC - Paarl East",
+    "bets": [
+      {
+        "team": "Vredenburg/Saldanha CC",
+        "odds": "1.65"
+      },
+      {
+        "team": "Paarl East",
+        "odds": "2.03"
       }
     ]
   },
@@ -215,11 +243,11 @@
     "bets": [
       {
         "team": "Larkana Region",
-        "odds": "2.44"
+        "odds": "2.14"
       },
       {
         "team": "Quetta Region",
-        "odds": "1.55"
+        "odds": "1.61"
       }
     ]
   },
@@ -243,11 +271,11 @@
     "bets": [
       {
         "team": "New South Wales Breakers (w)",
-        "odds": "1.33"
+        "odds": "1.35"
       },
       {
         "team": "Tasmanian Tigers (w)",
-        "odds": "3.1"
+        "odds": "3.2"
       }
     ]
   },
@@ -276,6 +304,48 @@
       {
         "team": "New South Wales",
         "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Feb 21, 03:30 AM",
+    "title": "Punjab U-23 - Tamil Nadu U-23",
+    "bets": [
+      {
+        "team": "Punjab U-23",
+        "odds": "1.49"
+      },
+      {
+        "team": "Tamil Nadu U-23",
+        "odds": "2.39"
+      }
+    ]
+  },
+  {
+    "date": "Feb 21, 03:30 AM",
+    "title": "Chhattisgarh U-23 - Rajasthan U-23",
+    "bets": [
+      {
+        "team": "Chhattisgarh U-23",
+        "odds": "1.83"
+      },
+      {
+        "team": "Rajasthan U-23",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Feb 21, 03:30 AM",
+    "title": "Mumbai U-23 - Karnataka U-23",
+    "bets": [
+      {
+        "team": "Mumbai U-23",
+        "odds": "1.56"
+      },
+      {
+        "team": "Karnataka U-23",
+        "odds": "2.23"
       }
     ]
   },
