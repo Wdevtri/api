@@ -1,19 +1,5 @@
 [
   {
-    "date": "Feb 24, 04:30 PM",
-    "title": "Paarl CC - Maties Cricket Club",
-    "bets": [
-      {
-        "team": "Paarl CC",
-        "odds": "1.69"
-      },
-      {
-        "team": "Maties Cricket Club",
-        "odds": "1.97"
-      }
-    ]
-  },
-  {
     "date": "Feb 25, 02:00 AM",
     "title": "Thailand - Japan",
     "bets": [
@@ -89,11 +75,25 @@
     "bets": [
       {
         "team": "Bhutan",
-        "odds": "6"
+        "odds": "6.6"
       },
       {
         "team": "Bahrain",
-        "odds": "1.1"
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Feb 25, 07:30 AM",
+    "title": "Mpumalanga - Garden Route Badgers",
+    "bets": [
+      {
+        "team": "Mpumalanga",
+        "odds": "2.04"
+      },
+      {
+        "team": "Garden Route Badgers",
+        "odds": "1.75"
       }
     ]
   },
@@ -127,6 +127,20 @@
   },
   {
     "date": "Feb 25, 08:00 AM",
+    "title": "Northern Cape - Eastern Storm",
+    "bets": [
+      {
+        "team": "Northern Cape",
+        "odds": "2.28"
+      },
+      {
+        "team": "Eastern Storm",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Feb 25, 08:00 AM",
     "title": "Matabeleland Tuskers - Mountaineers",
     "bets": [
       {
@@ -136,6 +150,20 @@
       {
         "team": "Mountaineers",
         "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Feb 25, 08:30 AM",
+    "title": "Kripa XI - Atheneon XI",
+    "bets": [
+      {
+        "team": "Kripa XI",
+        "odds": "2.89"
+      },
+      {
+        "team": "Atheneon XI",
+        "odds": "1.34"
       }
     ]
   },
@@ -164,6 +192,34 @@
       {
         "team": "Pakistan (w)",
         "odds": "4.11"
+      }
+    ]
+  },
+  {
+    "date": "Feb 25, 12:30 PM",
+    "title": "Ultracon Madgaon Royals CC - Vimson Panjim Powerplay",
+    "bets": [
+      {
+        "team": "Ultracon Madgaon Royals CC",
+        "odds": "1.54"
+      },
+      {
+        "team": "Vimson Panjim Powerplay",
+        "odds": "2.23"
+      }
+    ]
+  },
+  {
+    "date": "Feb 25, 12:30 PM",
+    "title": "Savani champs - Shiv & Soham XI",
+    "bets": [
+      {
+        "team": "Savani champs",
+        "odds": "3.18"
+      },
+      {
+        "team": "Shiv & Soham XI",
+        "odds": "1.29"
       }
     ]
   },
@@ -206,6 +262,20 @@
       {
         "team": "Vredenburg/Saldanha CC",
         "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Feb 26, 03:45 AM",
+    "title": "Crystal Balaji Titans - Vasundhara Superkings",
+    "bets": [
+      {
+        "team": "Crystal Balaji Titans",
+        "odds": "2.03"
+      },
+      {
+        "team": "Vasundhara Superkings",
+        "odds": "1.7"
       }
     ]
   },
