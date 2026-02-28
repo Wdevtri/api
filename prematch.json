@@ -1,211 +1,43 @@
 [
   {
-    "date": "Feb 27, 09:30 PM",
-    "title": "Central Stags - Wellington Firebirds",
+    "date": "Feb 28, 12:00 PM",
+    "title": "Maties Cricket Club - Vredenburg/Saldanha CC",
     "bets": [
       {
-        "team": "Central Stags",
-        "odds": "1.5"
+        "team": "Maties Cricket Club",
+        "odds": "1.45"
       },
       {
-        "team": "Wellington Firebirds",
-        "odds": "2.41"
+        "team": "Vredenburg/Saldanha CC",
+        "odds": "2.6"
       }
     ]
   },
   {
-    "date": "Feb 27, 09:30 PM",
-    "title": "Canterbury Kings - Otago Volts",
+    "date": "Feb 28, 12:30 PM",
+    "title": "Jay ambe XI - Atheneon XI",
     "bets": [
       {
-        "team": "Canterbury Kings",
-        "odds": "1.5"
-      },
-      {
-        "team": "Otago Volts",
-        "odds": "2.41"
-      }
-    ]
-  },
-  {
-    "date": "Feb 27, 09:30 PM",
-    "title": "Auckland Aces - Northern Districts",
-    "bets": [
-      {
-        "team": "Auckland Aces",
-        "odds": "1.72"
-      },
-      {
-        "team": "Northern Districts",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 02:00 AM",
-    "title": "Thailand - Bhutan",
-    "bets": [
-      {
-        "team": "Thailand",
-        "odds": "1.16"
-      },
-      {
-        "team": "Bhutan",
-        "odds": "4.75"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 03:30 AM",
-    "title": "Delhi (w) - Railways (w)",
-    "bets": [
-      {
-        "team": "Delhi (w)",
-        "odds": "1.81"
-      },
-      {
-        "team": "Railways (w)",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 03:45 AM",
-    "title": "Crystal Balaji Titans - Bindals Strikers",
-    "bets": [
-      {
-        "team": "Crystal Balaji Titans",
-        "odds": "2.46"
-      },
-      {
-        "team": "Bindals Strikers",
-        "odds": "1.5"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 05:15 AM",
-    "title": "Hong Kong - Kuwait",
-    "bets": [
-      {
-        "team": "Hong Kong",
-        "odds": "1.67"
-      },
-      {
-        "team": "Kuwait",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 06:30 AM",
-    "title": "Japan - Bahrain",
-    "bets": [
-      {
-        "team": "Japan",
-        "odds": "1.8"
-      },
-      {
-        "team": "Bahrain",
+        "team": "Jay ambe XI",
         "odds": "1.94"
+      },
+      {
+        "team": "Atheneon XI",
+        "odds": "1.74"
       }
     ]
   },
   {
-    "date": "Feb 28, 07:45 AM",
-    "title": "Cricgiri Champs - Silvertons Tigers",
+    "date": "Feb 28, 12:30 PM",
+    "title": "HCA Pioneer - BCC Noida",
     "bets": [
       {
-        "team": "Cricgiri Champs",
-        "odds": "2.06"
+        "team": "HCA Pioneer",
+        "odds": "1.9"
       },
       {
-        "team": "Silvertons Tigers",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 08:00 AM",
-    "title": "South Western Districts (w) - Dolphins (w)",
-    "bets": [
-      {
-        "team": "South Western Districts (w)",
-        "odds": "2.47"
-      },
-      {
-        "team": "Dolphins (w)",
-        "odds": "1.47"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 08:00 AM",
-    "title": "Western Province (w) - North West (w)",
-    "bets": [
-      {
-        "team": "Western Province (w)",
-        "odds": "1.52"
-      },
-      {
-        "team": "North West (w)",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 08:00 AM",
-    "title": "Eastern Storm - Garden Route Badgers",
-    "bets": [
-      {
-        "team": "Eastern Storm",
-        "odds": "1.62"
-      },
-      {
-        "team": "Garden Route Badgers",
-        "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 08:00 AM",
-    "title": "Lions (w) - Fidelity Titans (w)",
-    "bets": [
-      {
-        "team": "Lions (w)",
-        "odds": "1.65"
-      },
-      {
-        "team": "Fidelity Titans (w)",
-        "odds": "2.09"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 08:00 AM",
-    "title": "Garden Route Badgers (w) - Dolphins (w)",
-    "bets": [
-      {
-        "team": "Garden Route Badgers (w)",
-        "odds": "2.4"
-      },
-      {
-        "team": "Dolphins (w)",
-        "odds": "1.52"
-      }
-    ]
-  },
-  {
-    "date": "Feb 28, 11:00 AM",
-    "title": "Lions - Western Province",
-    "bets": [
-      {
-        "team": "Lions",
-        "odds": "1.69"
-      },
-      {
-        "team": "Western Province",
-        "odds": "2.14"
+        "team": "BCC Noida",
+        "odds": "1.74"
       }
     ]
   },
@@ -215,11 +47,11 @@
     "bets": [
       {
         "team": "Sri Lanka",
-        "odds": "2.24"
+        "odds": "2.3"
       },
       {
         "team": "Pakistan",
-        "odds": "1.65"
+        "odds": "1.62"
       }
     ]
   },
@@ -243,11 +75,11 @@
     "bets": [
       {
         "team": "West Indies (w)",
-        "odds": "1.56"
+        "odds": "1.57"
       },
       {
         "team": "Sri Lanka (w)",
-        "odds": "2.42"
+        "odds": "2.31"
       }
     ]
   },
@@ -280,6 +112,34 @@
     ]
   },
   {
+    "date": "Mar 1, 03:30 AM",
+    "title": "Chhattisgarh U-23 - Tamil Nadu U-23",
+    "bets": [
+      {
+        "team": "Chhattisgarh U-23",
+        "odds": "2.23"
+      },
+      {
+        "team": "Tamil Nadu U-23",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Mar 1, 03:45 AM",
+    "title": "Emerchemie NB - MAS Active Biyagama",
+    "bets": [
+      {
+        "team": "Emerchemie NB",
+        "odds": "1.87"
+      },
+      {
+        "team": "MAS Active Biyagama",
+        "odds": "1.77"
+      }
+    ]
+  },
+  {
     "date": "Mar 1, 03:50 AM",
     "title": "Australia (w) - India (w)",
     "bets": [
@@ -289,7 +149,49 @@
       },
       {
         "team": "India (w)",
-        "odds": "3.7"
+        "odds": "3.5"
+      }
+    ]
+  },
+  {
+    "date": "Mar 1, 05:15 AM",
+    "title": "Hong Kong - Kuwait",
+    "bets": [
+      {
+        "team": "Hong Kong",
+        "odds": "1.72"
+      },
+      {
+        "team": "Kuwait",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Mar 1, 06:00 AM",
+    "title": "England Lions - Pakistan A",
+    "bets": [
+      {
+        "team": "England Lions",
+        "odds": "1.31"
+      },
+      {
+        "team": "Pakistan A",
+        "odds": "3.45"
+      }
+    ]
+  },
+  {
+    "date": "Mar 1, 07:30 AM",
+    "title": "Challengers CC - Spartans CC",
+    "bets": [
+      {
+        "team": "Challengers CC",
+        "odds": "1.37"
+      },
+      {
+        "team": "Spartans CC",
+        "odds": "2.84"
       }
     ]
   },
@@ -299,11 +201,25 @@
     "bets": [
       {
         "team": "Mpumalanga",
-        "odds": "1.77"
+        "odds": "1.74"
       },
       {
         "team": "Eastern Cape Inyathi",
-        "odds": "1.94"
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Mar 1, 07:45 AM",
+    "title": "Telugu Royals - Right Guards CC",
+    "bets": [
+      {
+        "team": "Telugu Royals",
+        "odds": "2.02"
+      },
+      {
+        "team": "Right Guards CC",
+        "odds": "1.72"
       }
     ]
   },
@@ -323,29 +239,29 @@
   },
   {
     "date": "Mar 1, 08:00 AM",
-    "title": "Tuskers - North West",
+    "title": "Knights - South Africa Emerging Players",
     "bets": [
       {
-        "team": "Tuskers",
-        "odds": "2.5"
+        "team": "Knights",
+        "odds": "1.36"
       },
       {
-        "team": "North West",
-        "odds": "1.47"
+        "team": "South Africa Emerging Players",
+        "odds": "3.1"
       }
     ]
   },
   {
     "date": "Mar 1, 08:00 AM",
-    "title": "Knights - South Africa Emerging Players",
+    "title": "Tuskers - North West",
     "bets": [
       {
-        "team": "Knights",
-        "odds": "1.39"
+        "team": "Tuskers",
+        "odds": "2.64"
       },
       {
-        "team": "South Africa Emerging Players",
-        "odds": "2.75"
+        "team": "North West",
+        "odds": "1.48"
       }
     ]
   },
@@ -355,11 +271,11 @@
     "bets": [
       {
         "team": "Titans",
-        "odds": "1.7"
+        "odds": "1.67"
       },
       {
         "team": "Boland",
-        "odds": "2.03"
+        "odds": "2.2"
       }
     ]
   },
@@ -369,11 +285,11 @@
     "bets": [
       {
         "team": "Northern Cape",
-        "odds": "1.63"
+        "odds": "1.69"
       },
       {
         "team": "Limpopo",
-        "odds": "2.14"
+        "odds": "2.16"
       }
     ]
   },
@@ -392,16 +308,44 @@
     ]
   },
   {
+    "date": "Mar 1, 10:15 AM",
+    "title": "Tally Globe CC - Tamil Lions",
+    "bets": [
+      {
+        "team": "Tally Globe CC",
+        "odds": "1.55"
+      },
+      {
+        "team": "Tamil Lions",
+        "odds": "2.34"
+      }
+    ]
+  },
+  {
     "date": "Mar 1, 01:30 PM",
     "title": "India - West Indies",
     "bets": [
       {
         "team": "India",
-        "odds": "1.25"
+        "odds": "1.29"
       },
       {
         "team": "West Indies",
-        "odds": "3.8"
+        "odds": "3.6"
+      }
+    ]
+  },
+  {
+    "date": "Mar 2, 10:30 AM",
+    "title": "DTDC - CAG",
+    "bets": [
+      {
+        "team": "DTDC",
+        "odds": "2.12"
+      },
+      {
+        "team": "CAG",
+        "odds": "1.62"
       }
     ]
   }
