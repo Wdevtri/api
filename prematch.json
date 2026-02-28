@@ -19,11 +19,11 @@
     "bets": [
       {
         "team": "Rising Stars of Ponda",
-        "odds": "2.5"
+        "odds": "2.69"
       },
       {
         "team": "KK Strikers",
-        "odds": "1.45"
+        "odds": "1.39"
       }
     ]
   },
@@ -75,11 +75,11 @@
     "bets": [
       {
         "team": "Tehri Falcons",
-        "odds": "1.56"
+        "odds": "1.5"
       },
       {
         "team": "Devbhoomi Royals",
-        "odds": "2.24"
+        "odds": "2.37"
       }
     ]
   },
@@ -122,6 +122,20 @@
       {
         "team": "Pakistan A",
         "odds": "3.21"
+      }
+    ]
+  },
+  {
+    "date": "Mar 1, 07:00 AM",
+    "title": "Van Der Stel - Paarl East",
+    "bets": [
+      {
+        "team": "Van Der Stel",
+        "odds": "1.55"
+      },
+      {
+        "team": "Paarl East",
+        "odds": "2.34"
       }
     ]
   },
@@ -173,11 +187,11 @@
     "bets": [
       {
         "team": "Vasundhara Superkings",
-        "odds": "1.72"
+        "odds": "1.66"
       },
       {
         "team": "Bhawani Lions",
-        "odds": "1.96"
+        "odds": "2.04"
       }
     ]
   },
@@ -201,11 +215,11 @@
     "bets": [
       {
         "team": "South Africa (w)",
-        "odds": "1.18"
+        "odds": "1.19"
       },
       {
         "team": "Pakistan (w)",
-        "odds": "4.44"
+        "odds": "4.7"
       }
     ]
   },
@@ -257,11 +271,11 @@
     "bets": [
       {
         "team": "Lions (w)",
-        "odds": "2.51"
+        "odds": "2.18"
       },
       {
         "team": "Fidelity Titans (w)",
-        "odds": "1.44"
+        "odds": "1.62"
       }
     ]
   },
