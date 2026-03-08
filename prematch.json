@@ -1,341 +1,5 @@
 [
   {
-    "date": "Mar 8, 07:45 AM",
-    "title": "Silverton Panthers - Bindals Strikers",
-    "bets": [
-      {
-        "team": "Silverton Panthers",
-        "odds": "1.65"
-      },
-      {
-        "team": "Bindals Strikers",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 07:45 AM",
-    "title": "Tally Globe CC - Right Guards CC",
-    "bets": [
-      {
-        "team": "Tally Globe CC",
-        "odds": "1.76"
-      },
-      {
-        "team": "Right Guards CC",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 07:45 AM",
-    "title": "Rising Stars of Ponda - Vimson Panjim Powerplay",
-    "bets": [
-      {
-        "team": "Rising Stars of Ponda",
-        "odds": "1.74"
-      },
-      {
-        "team": "Vimson Panjim Powerplay",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "Tuskers - Nashua Dolphins",
-    "bets": [
-      {
-        "team": "Tuskers",
-        "odds": "2.66"
-      },
-      {
-        "team": "Nashua Dolphins",
-        "odds": "1.48"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "Knights - Northern Cape",
-    "bets": [
-      {
-        "team": "Knights",
-        "odds": "1.48"
-      },
-      {
-        "team": "Northern Cape",
-        "odds": "2.47"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "Titans - Western Province",
-    "bets": [
-      {
-        "team": "Titans",
-        "odds": "1.72"
-      },
-      {
-        "team": "Western Province",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "Matabeleland Tuskers - Mashonaland Eagles",
-    "bets": [
-      {
-        "team": "Matabeleland Tuskers",
-        "odds": "2.38"
-      },
-      {
-        "team": "Mashonaland Eagles",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "Eastern Cape Inyathi - Garden Route Badgers",
-    "bets": [
-      {
-        "team": "Eastern Cape Inyathi",
-        "odds": "1.72"
-      },
-      {
-        "team": "Garden Route Badgers",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "Garden Route Badgers (w) - Fidelity Titans (w)",
-    "bets": [
-      {
-        "team": "Garden Route Badgers (w)",
-        "odds": "3.8"
-      },
-      {
-        "team": "Fidelity Titans (w)",
-        "odds": "1.23"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "Mountaineers - Southern Rocks",
-    "bets": [
-      {
-        "team": "Mountaineers",
-        "odds": "2.52"
-      },
-      {
-        "team": "Southern Rocks",
-        "odds": "1.5"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "South Africa Emerging Players - Mpumalanga",
-    "bets": [
-      {
-        "team": "South Africa Emerging Players",
-        "odds": "1.72"
-      },
-      {
-        "team": "Mpumalanga",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "Lions (w) - North West (w)",
-    "bets": [
-      {
-        "team": "Lions (w)",
-        "odds": "1.46"
-      },
-      {
-        "team": "North West (w)",
-        "odds": "2.56"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 08:00 AM",
-    "title": "Dolphins (w) - Western Province (w)",
-    "bets": [
-      {
-        "team": "Dolphins (w)",
-        "odds": "2.44"
-      },
-      {
-        "team": "Western Province (w)",
-        "odds": "1.51"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 10:15 AM",
-    "title": "Spartans CC - Telugu Royals",
-    "bets": [
-      {
-        "team": "Spartans CC",
-        "odds": "4.85"
-      },
-      {
-        "team": "Telugu Royals",
-        "odds": "1.15"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 11:15 AM",
-    "title": "Abbottabad Region - Multan Region",
-    "bets": [
-      {
-        "team": "Abbottabad Region",
-        "odds": "1.75"
-      },
-      {
-        "team": "Multan Region",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 01:00 PM",
-    "title": "Abhishek Sharma - Finn Allen",
-    "bets": [
-      {
-        "team": "Abhishek Sharma",
-        "odds": "1.8"
-      },
-      {
-        "team": "Finn Allen",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 01:00 PM",
-    "title": "Sanju Samson - Tim Seifert",
-    "bets": [
-      {
-        "team": "Sanju Samson",
-        "odds": "1.65"
-      },
-      {
-        "team": "Tim Seifert",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 01:00 PM",
-    "title": "Ishan Kishan - Rachin Ravindra",
-    "bets": [
-      {
-        "team": "Ishan Kishan",
-        "odds": "1.53"
-      },
-      {
-        "team": "Rachin Ravindra",
-        "odds": "2.33"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 01:00 PM",
-    "title": "Varun Chakravarthy - Jasprit Bumrah",
-    "bets": [
-      {
-        "team": "Varun Chakravarthy",
-        "odds": "1.85"
-      },
-      {
-        "team": "Jasprit Bumrah",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 01:00 PM",
-    "title": "Arshdeep Singh - Hardik Pandya",
-    "bets": [
-      {
-        "team": "Arshdeep Singh",
-        "odds": "1.45"
-      },
-      {
-        "team": "Hardik Pandya",
-        "odds": "2.55"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 01:00 PM",
-    "title": "Rachin Ravindra - Mitchell Santner",
-    "bets": [
-      {
-        "team": "Rachin Ravindra",
-        "odds": "1.85"
-      },
-      {
-        "team": "Mitchell Santner",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 01:00 PM",
-    "title": "Matt Henry - Lockie Ferguson",
-    "bets": [
-      {
-        "team": "Matt Henry",
-        "odds": "1.85"
-      },
-      {
-        "team": "Lockie Ferguson",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 01:30 PM",
-    "title": "India - New Zealand",
-    "bets": [
-      {
-        "team": "India",
-        "odds": "1.44"
-      },
-      {
-        "team": "New Zealand",
-        "odds": "2.79"
-      }
-    ]
-  },
-  {
-    "date": "Mar 8, 02:30 PM",
-    "title": "Cayman Islands - Argentina",
-    "bets": [
-      {
-        "team": "Cayman Islands",
-        "odds": "1.28"
-      },
-      {
-        "team": "Argentina",
-        "odds": "3.33"
-      }
-    ]
-  },
-  {
     "date": "Mar 8, 04:15 PM",
     "title": "Sialkot Region - Karachi Region Blues",
     "bets": [
@@ -355,11 +19,11 @@
     "bets": [
       {
         "team": "Mexico",
-        "odds": "1.76"
+        "odds": "1.66"
       },
       {
         "team": "Suriname",
-        "odds": "1.98"
+        "odds": "2.1"
       }
     ]
   },
@@ -477,20 +141,6 @@
   },
   {
     "date": "Mar 9, 03:00 AM",
-    "title": "Chandigarh U-23 (w) - Saurashtra U-23 (w)",
-    "bets": [
-      {
-        "team": "Chandigarh U-23 (w)",
-        "odds": "1.65"
-      },
-      {
-        "team": "Saurashtra U-23 (w)",
-        "odds": "2.05"
-      }
-    ]
-  },
-  {
-    "date": "Mar 9, 03:00 AM",
     "title": "Assam U-23 (w) - Pondicherry U-23 (w)",
     "bets": [
       {
@@ -500,6 +150,90 @@
       {
         "team": "Pondicherry U-23 (w)",
         "odds": "4"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 03:00 AM",
+    "title": "Bihar U-23 (w) - Madhya Pradesh U-23 (w)",
+    "bets": [
+      {
+        "team": "Bihar U-23 (w)",
+        "odds": "7.5"
+      },
+      {
+        "team": "Madhya Pradesh U-23 (w)",
+        "odds": "1.04"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 03:00 AM",
+    "title": "Manipur U-23 (w) - Sikkim U-23 (w)",
+    "bets": [
+      {
+        "team": "Manipur U-23 (w)",
+        "odds": "6"
+      },
+      {
+        "team": "Sikkim U-23 (w)",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 03:00 AM",
+    "title": "Andhra U-23 (w) - Goa U-23 (w)",
+    "bets": [
+      {
+        "team": "Andhra U-23 (w)",
+        "odds": "1.23"
+      },
+      {
+        "team": "Goa U-23 (w)",
+        "odds": "3.6"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 03:00 AM",
+    "title": "Sail - Mecon",
+    "bets": [
+      {
+        "team": "Sail",
+        "odds": "1.83"
+      },
+      {
+        "team": "Mecon",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 03:00 AM",
+    "title": "MDSL - CAG",
+    "bets": [
+      {
+        "team": "MDSL",
+        "odds": "3.47"
+      },
+      {
+        "team": "CAG",
+        "odds": "1.25"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 03:00 AM",
+    "title": "Chandigarh U-23 (w) - Saurashtra U-23 (w)",
+    "bets": [
+      {
+        "team": "Chandigarh U-23 (w)",
+        "odds": "1.65"
+      },
+      {
+        "team": "Saurashtra U-23 (w)",
+        "odds": "2.05"
       }
     ]
   },
@@ -533,20 +267,6 @@
   },
   {
     "date": "Mar 9, 03:00 AM",
-    "title": "Bihar U-23 (w) - Madhya Pradesh U-23 (w)",
-    "bets": [
-      {
-        "team": "Bihar U-23 (w)",
-        "odds": "7.5"
-      },
-      {
-        "team": "Madhya Pradesh U-23 (w)",
-        "odds": "1.04"
-      }
-    ]
-  },
-  {
-    "date": "Mar 9, 03:00 AM",
     "title": "Jharkhand U-23 (w) - Vidarbha U-23 (w)",
     "bets": [
       {
@@ -556,20 +276,6 @@
       {
         "team": "Vidarbha U-23 (w)",
         "odds": "1.57"
-      }
-    ]
-  },
-  {
-    "date": "Mar 9, 03:00 AM",
-    "title": "Manipur U-23 (w) - Sikkim U-23 (w)",
-    "bets": [
-      {
-        "team": "Manipur U-23 (w)",
-        "odds": "6"
-      },
-      {
-        "team": "Sikkim U-23 (w)",
-        "odds": "1.08"
       }
     ]
   },
@@ -603,20 +309,6 @@
   },
   {
     "date": "Mar 9, 03:00 AM",
-    "title": "Andhra U-23 (w) - Goa U-23 (w)",
-    "bets": [
-      {
-        "team": "Andhra U-23 (w)",
-        "odds": "1.23"
-      },
-      {
-        "team": "Goa U-23 (w)",
-        "odds": "3.6"
-      }
-    ]
-  },
-  {
-    "date": "Mar 9, 03:00 AM",
     "title": "Chhattisgarh U-23 (w) - Karnataka U-23 (w)",
     "bets": [
       {
@@ -635,11 +327,11 @@
     "bets": [
       {
         "team": "Central Zone (w)",
-        "odds": "1.15"
+        "odds": "1.08"
       },
       {
         "team": "North East Zone (w)",
-        "odds": "4.7"
+        "odds": "6.6"
       }
     ]
   },
@@ -659,29 +351,113 @@
   },
   {
     "date": "Mar 9, 03:30 AM",
-    "title": "East Zone (w) - North Zone (w)",
+    "title": "South Zone (w) - West Zone (w)",
     "bets": [
       {
-        "team": "East Zone (w)",
-        "odds": "2.12"
+        "team": "South Zone (w)",
+        "odds": "1.72"
       },
       {
-        "team": "North Zone (w)",
-        "odds": "1.64"
+        "team": "West Zone (w)",
+        "odds": "2.02"
       }
     ]
   },
   {
     "date": "Mar 9, 03:30 AM",
-    "title": "South Zone (w) - West Zone (w)",
+    "title": "East Zone (w) - North Zone (w)",
     "bets": [
       {
-        "team": "South Zone (w)",
-        "odds": "1.8"
+        "team": "East Zone (w)",
+        "odds": "2.18"
       },
       {
-        "team": "West Zone (w)",
-        "odds": "1.9"
+        "team": "North Zone (w)",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 05:00 AM",
+    "title": "NLCIL - Coal India",
+    "bets": [
+      {
+        "team": "NLCIL",
+        "odds": "3.95"
+      },
+      {
+        "team": "Coal India",
+        "odds": "1.2"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 06:30 AM",
+    "title": "Kiyindi Blasters - Kachanga Giants",
+    "bets": [
+      {
+        "team": "Kiyindi Blasters",
+        "odds": "3.3"
+      },
+      {
+        "team": "Kachanga Giants",
+        "odds": "1.29"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 07:00 AM",
+    "title": "MTNL - Canara Bank",
+    "bets": [
+      {
+        "team": "MTNL",
+        "odds": "2"
+      },
+      {
+        "team": "Canara Bank",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 07:00 AM",
+    "title": "SBI - EPFO",
+    "bets": [
+      {
+        "team": "SBI",
+        "odds": "1.64"
+      },
+      {
+        "team": "EPFO",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 08:00 AM",
+    "title": "Madrid CC - Madrid United",
+    "bets": [
+      {
+        "team": "Madrid CC",
+        "odds": "1.61"
+      },
+      {
+        "team": "Madrid United",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 11:00 AM",
+    "title": "Kitamba Sunrisers - Katosi Strikers",
+    "bets": [
+      {
+        "team": "Kitamba Sunrisers",
+        "odds": "1.76"
+      },
+      {
+        "team": "Katosi Strikers",
+        "odds": "1.98"
       }
     ]
   },
@@ -696,6 +472,20 @@
       {
         "team": "Bahawalpur Region",
         "odds": "2.55"
+      }
+    ]
+  },
+  {
+    "date": "Mar 9, 12:00 PM",
+    "title": "Madrid Blues - Reyes de Arganda",
+    "bets": [
+      {
+        "team": "Madrid Blues",
+        "odds": "1.65"
+      },
+      {
+        "team": "Reyes de Arganda",
+        "odds": "2.14"
       }
     ]
   },
