@@ -89,11 +89,11 @@
     "bets": [
       {
         "team": "New South Wales",
-        "odds": "1.7"
+        "odds": "1.68"
       },
       {
         "team": "Western Australia",
-        "odds": "2.08"
+        "odds": "2.1"
       }
     ]
   },
@@ -103,11 +103,11 @@
     "bets": [
       {
         "team": "Victoria",
-        "odds": "1.81"
+        "odds": "1.79"
       },
       {
         "team": "South Australia",
-        "odds": "1.96"
+        "odds": "1.98"
       }
     ]
   },
@@ -191,7 +191,7 @@
       },
       {
         "team": "Victoria (w)",
-        "odds": "3.95"
+        "odds": "4.05"
       }
     ]
   },
@@ -201,11 +201,11 @@
     "bets": [
       {
         "team": "South Australian Scorpions (w)",
-        "odds": "2.34"
+        "odds": "2.3"
       },
       {
         "team": "New South Wales Breakers (w)",
-        "odds": "1.6"
+        "odds": "1.61"
       }
     ]
   },
