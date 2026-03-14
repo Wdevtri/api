@@ -19,11 +19,11 @@
     "bets": [
       {
         "team": "Bangladesh",
-        "odds": "2.24"
+        "odds": "2.3"
       },
       {
         "team": "Pakistan",
-        "odds": "1.65"
+        "odds": "1.62"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "bets": [
       {
         "team": "Lahore Region Blues",
-        "odds": "2.26"
+        "odds": "2.15"
       },
       {
         "team": "Karachi Region Blues",
@@ -52,6 +52,20 @@
       {
         "team": "South Africa (w)",
         "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 11:15 AM",
+    "title": "Lahore Region Whites - Karachi Whites",
+    "bets": [
+      {
+        "team": "Lahore Region Whites",
+        "odds": "2.06"
+      },
+      {
+        "team": "Karachi Whites",
+        "odds": "1.74"
       }
     ]
   },
@@ -126,30 +140,16 @@
     ]
   },
   {
-    "date": "Mar 14, 03:00 PM",
-    "title": "Reyes de Arganda - Madrid Blues",
-    "bets": [
-      {
-        "team": "Reyes de Arganda",
-        "odds": "1.52"
-      },
-      {
-        "team": "Madrid Blues",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
     "date": "Mar 14, 07:30 PM",
     "title": "Cayman Islands - Suriname",
     "bets": [
       {
         "team": "Cayman Islands",
-        "odds": "1.03"
+        "odds": "1.01"
       },
       {
         "team": "Suriname",
-        "odds": "10"
+        "odds": "11"
       }
     ]
   },
