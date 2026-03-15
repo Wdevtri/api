@@ -1,1 +1,316 @@
-[]
+[
+  {
+    "date": "Mar 15, 08:15 AM",
+    "title": "Bangladesh - Pakistan",
+    "bets": [
+      {
+        "team": "Bangladesh",
+        "odds": "1.27"
+      },
+      {
+        "team": "Pakistan",
+        "odds": "3.82"
+      }
+    ]
+  },
+  {
+    "date": "Mar 13, 11:30 PM",
+    "title": "Tasmania - Queensland",
+    "bets": [
+      {
+        "team": "Tasmania",
+        "odds": "1.69"
+      },
+      {
+        "team": "Queensland",
+        "odds": "2.07"
+      }
+    ]
+  },
+  {
+    "date": "Mar 13, 11:30 PM",
+    "title": "New South Wales - Western Australia",
+    "bets": [
+      {
+        "team": "New South Wales",
+        "odds": "4.04"
+      },
+      {
+        "team": "Western Australia",
+        "odds": "1.21"
+      }
+    ]
+  },
+  {
+    "date": "Mar 13, 11:30 PM",
+    "title": "Victoria - South Australia",
+    "bets": [
+      {
+        "team": "Victoria",
+        "odds": "2.12"
+      },
+      {
+        "team": "South Australia",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 02:00 PM",
+    "title": "Shani Shignapur Sports - Rewari Racers",
+    "bets": [
+      {
+        "team": "Shani Shignapur Sports",
+        "odds": "2.95"
+      },
+      {
+        "team": "Rewari Racers",
+        "odds": "1.35"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 02:41 PM",
+    "title": "Delhi Capitals (V) - Rajasthan Royals (V)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (V)",
+        "odds": "1.78"
+      },
+      {
+        "team": "Rajasthan Royals (V)",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:29 PM",
+    "title": "Delhi Capitals (V-w) - UP Warriorz (V-w)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (V-w)",
+        "odds": "1.68"
+      },
+      {
+        "team": "UP Warriorz (V-w)",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:30 PM",
+    "title": "Sportable - Triumphants",
+    "bets": [
+      {
+        "team": "Sportable",
+        "odds": "1.97"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.18"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:32 PM",
+    "title": "Chennai Super Kings (V) - Mumbai Indians (V)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (V)",
+        "odds": "2.2"
+      },
+      {
+        "team": "Draw",
+        "odds": "10"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:34 PM",
+    "title": "Bangladesh (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "Bangladesh (V)",
+        "odds": "1.5"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:34 PM",
+    "title": "England Legends (V) - Sri Lanka Legends (V)",
+    "bets": [
+      {
+        "team": "England Legends (V)",
+        "odds": "1.96"
+      },
+      {
+        "team": "Sri Lanka Legends (V)",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:36 PM",
+    "title": "Kolkata Knight Riders (e-w) - Chennai Super Kings (e-w)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (e-w)",
+        "odds": "1.44"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:36 PM",
+    "title": "Sydney Sixers (V) - Perth Scorchers (V)",
+    "bets": [
+      {
+        "team": "Sydney Sixers (V)",
+        "odds": "1.55"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:39 PM",
+    "title": "England (V) - West Indies (V)",
+    "bets": [
+      {
+        "team": "England (V)",
+        "odds": "1.4"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 01:30 PM",
+    "title": "Desserts N'More Avengers - CD Fountainhead",
+    "bets": [
+      {
+        "team": "Desserts N'More Avengers",
+        "odds": "2.31"
+      },
+      {
+        "team": "CD Fountainhead",
+        "odds": "1.55"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 02:05 PM",
+    "title": "India (cyber) - New Zealand (cyber)",
+    "bets": [
+      {
+        "team": "India (cyber)",
+        "odds": "2.3"
+      },
+      {
+        "team": "New Zealand (cyber)",
+        "odds": "1.48"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 02:30 PM",
+    "title": "Hawks Chennai - Rhinos Chennai",
+    "bets": [
+      {
+        "team": "Hawks Chennai",
+        "odds": "1.26"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.23"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 02:35 PM",
+    "title": "Kolkata Knight Riders (cyber) - Delhi Capitals (cyber)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (cyber)",
+        "odds": "16.83"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 02:50 PM",
+    "title": "City Hulks - Kolhapur Kings",
+    "bets": [
+      {
+        "team": "City Hulks",
+        "odds": "2.2"
+      },
+      {
+        "team": "Kolhapur Kings",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:05 PM",
+    "title": "West Indies (cyber) - Thailand (cyber)",
+    "bets": [
+      {
+        "team": "Thailand (cyber)",
+        "odds": "16.83"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:10 PM",
+    "title": "Sitapur Stars - Tunga Sports",
+    "bets": [
+      {
+        "team": "Sitapur Stars",
+        "odds": "1.8"
+      },
+      {
+        "team": "Tunga Sports",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:30 PM",
+    "title": "Strikers - Military",
+    "bets": [
+      {
+        "team": "Strikers",
+        "odds": "1.73"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.37"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 03:35 PM",
+    "title": "Rajasthan Royals (cyber) - Gujarat Titans (cyber)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "1.38"
+      },
+      {
+        "team": "Gujarat Titans (cyber)",
+        "odds": "2.6"
+      }
+    ]
+  }
+]
