@@ -112,30 +112,16 @@
     ]
   },
   {
-    "date": "Mar 15, 03:39 PM",
-    "title": "England (V) - West Indies (V)",
-    "bets": [
-      {
-        "team": "England (V)",
-        "odds": "1.4"
-      },
-      {
-        "team": "Draw",
-        "odds": "17"
-      }
-    ]
-  },
-  {
     "date": "Mar 15, 07:30 PM",
     "title": "Argentina - Cayman Islands",
     "bets": [
       {
         "team": "Argentina",
-        "odds": "4.44"
+        "odds": "3.25"
       },
       {
         "team": "Cayman Islands",
-        "odds": "1.17"
+        "odds": "1.28"
       }
     ]
   },
