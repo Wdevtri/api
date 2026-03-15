@@ -112,21 +112,7 @@
     ]
   },
   {
-    "date": "Mar 15, 10:03 PM",
-    "title": "Hobart Hurricanes (V) - Brisbane Heat (V)",
-    "bets": [
-      {
-        "team": "Hobart Hurricanes (V)",
-        "odds": "1.95"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 08:30 AM",
+    "date": "Mar 16, 10:30 AM",
     "title": "Granada CC - Costa del Sol CC",
     "bets": [
       {
@@ -140,7 +126,7 @@
     ]
   },
   {
-    "date": "Mar 16, 12:30 PM",
+    "date": "Mar 16, 02:30 PM",
     "title": "Hispalis - Sonseca Sultans",
     "bets": [
       {
@@ -275,7 +261,7 @@
       },
       {
         "team": "Delhi Champions",
-        "odds": "2.51"
+        "odds": "2.49"
       }
     ]
   },

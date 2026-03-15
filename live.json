@@ -42,68 +42,68 @@
     ]
   },
   {
-    "date": "Mar 15, 07:55 PM",
-    "title": "Gujarat Giants (V-w) - Delhi Capitals (V-w)",
+    "date": "Mar 15, 10:14 PM",
+    "title": "Royal Challengers Bengaluru (V-w) - UP Warriorz (V-w)",
     "bets": [
       {
-        "team": "Gujarat Giants (V-w)",
-        "odds": "3.38"
+        "team": "Royal Challengers Bengaluru (V-w)",
+        "odds": "1.56"
       },
       {
-        "team": "Delhi Capitals (V-w)",
-        "odds": "1.28"
+        "team": "UP Warriorz (V-w)",
+        "odds": "2.27"
       }
     ]
   },
   {
-    "date": "Mar 15, 09:54 PM",
-    "title": "Sydney Sixers (V) - Melbourne Stars (V)",
+    "date": "Mar 15, 10:48 PM",
+    "title": "England (V) - India (V)",
     "bets": [
       {
-        "team": "Sydney Sixers (V)",
-        "odds": "1.73"
+        "team": "England (V)",
+        "odds": "1.95"
       },
       {
-        "team": "Draw",
-        "odds": "8"
+        "team": "India (V)",
+        "odds": "1.76"
       }
     ]
   },
   {
-    "date": "Mar 15, 09:57 PM",
-    "title": "Afghanistan (V) - Ireland (V)",
+    "date": "Mar 15, 10:52 PM",
+    "title": "West Indies Legends (V) - England Legends (V)",
     "bets": [
       {
-        "team": "Afghanistan (V)",
-        "odds": "1.27"
+        "team": "West Indies Legends (V)",
+        "odds": "2.32"
       },
       {
-        "team": "Draw",
-        "odds": "15"
+        "team": "England Legends (V)",
+        "odds": "1.54"
       }
     ]
   },
   {
-    "date": "Mar 15, 09:58 PM",
-    "title": "Delhi Capitals (V) - Kolkata Knight Riders (V)",
-    "bets": [
-      {
-        "team": "Delhi Capitals (V)",
-        "odds": "1.81"
-      },
-      {
-        "team": "Kolkata Knight Riders (V)",
-        "odds": "1.89"
-      }
-    ]
-  },
-  {
-    "date": "Mar 15, 09:59 PM",
-    "title": "Punjab Kings (V) - Royal Challengers Bengaluru (V)",
+    "date": "Mar 15, 10:53 PM",
+    "title": "Punjab Kings (V) - Rajasthan Royals (V)",
     "bets": [
       {
         "team": "Punjab Kings (V)",
-        "odds": "1.44"
+        "odds": "21"
+      },
+      {
+        "team": "Draw",
+        "odds": "21"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 10:54 PM",
+    "title": "Sunrisers Hyderabad (e) - Delhi Capitals (e)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (e)",
+        "odds": "15"
       },
       {
         "team": "Draw",
@@ -112,26 +112,22 @@
     ]
   },
   {
-    "date": "Mar 15, 10:00 PM",
-    "title": "Rampage Indoor - Fortner Boys",
+    "date": "Mar 15, 10:54 PM",
+    "title": "UP Warriorz (e-w) - Gujarat Giants (e-w)",
     "bets": [
       {
-        "team": "Rampage Indoor",
-        "odds": "1.85"
-      },
-      {
-        "team": "Draw",
-        "odds": "24.14"
+        "team": "Gujarat Giants (e-w)",
+        "odds": "15"
       }
     ]
   },
   {
-    "date": "Mar 15, 10:00 PM",
-    "title": "Kolkata Knight Riders (e-w) - UP Warriorz (e-w)",
+    "date": "Mar 15, 10:54 PM",
+    "title": "Punjab Kings (e) - Chennai Super Kings (e)",
     "bets": [
       {
-        "team": "Kolkata Knight Riders (e-w)",
-        "odds": "2.4"
+        "team": "Punjab Kings (e)",
+        "odds": "5.1"
       },
       {
         "team": "Draw",
@@ -140,72 +136,44 @@
     ]
   },
   {
-    "date": "Mar 15, 10:01 PM",
-    "title": "Bangladesh (V) - India (V)",
+    "date": "Mar 15, 10:55 PM",
+    "title": "Bangladesh (V) - Pakistan (V)",
     "bets": [
       {
         "team": "Bangladesh (V)",
-        "odds": "4"
+        "odds": "13"
       },
       {
         "team": "Draw",
-        "odds": "19"
+        "odds": "21"
       }
     ]
   },
   {
-    "date": "Mar 15, 10:03 PM",
-    "title": "Hobart Hurricanes (V) - Brisbane Heat (V)",
+    "date": "Mar 15, 10:57 PM",
+    "title": "Melbourne Renegades (V) - Sydney Thunder (V)",
     "bets": [
       {
-        "team": "Hobart Hurricanes (V)",
+        "team": "Melbourne Renegades (V)",
         "odds": "1.95"
       },
       {
         "team": "Draw",
-        "odds": "15"
+        "odds": "13"
       }
     ]
   },
   {
-    "date": "Mar 15, 08:35 PM",
-    "title": "Kolkata Knight Riders (cyber) - Mumbai Indians (cyber)",
+    "date": "Mar 15, 11:00 PM",
+    "title": "New Zealand (V) - Zimbabwe (V)",
     "bets": [
       {
-        "team": "Kolkata Knight Riders (cyber)",
-        "odds": "3.97"
-      },
-      {
-        "team": "Mumbai Indians (cyber)",
-        "odds": "1.13"
-      }
-    ]
-  },
-  {
-    "date": "Mar 15, 09:05 PM",
-    "title": "Afghanistan (cyber) - Zimbabwe (cyber)",
-    "bets": [
-      {
-        "team": "Afghanistan (cyber)",
-        "odds": "1.17"
-      },
-      {
-        "team": "Zimbabwe (cyber)",
-        "odds": "3.67"
-      }
-    ]
-  },
-  {
-    "date": "Mar 15, 09:30 PM",
-    "title": "Strikers - Night Avengers",
-    "bets": [
-      {
-        "team": "Strikers",
-        "odds": "2.18"
+        "team": "New Zealand (V)",
+        "odds": "1.22"
       },
       {
         "team": "Draw",
-        "odds": "24.34"
+        "odds": "19"
       }
     ]
   },
@@ -215,25 +183,11 @@
     "bets": [
       {
         "team": "Delhi Capitals (cyber)",
-        "odds": "1.7"
+        "odds": "1.29"
       },
       {
         "team": "Chennai Super Kings (cyber)",
-        "odds": "1.91"
-      }
-    ]
-  },
-  {
-    "date": "Mar 15, 09:45 PM",
-    "title": "India (EagleBlaze) - Pakistan (RajaRogue)",
-    "bets": [
-      {
-        "team": "India (EagleBlaze)",
-        "odds": "2.88"
-      },
-      {
-        "team": "Pakistan (RajaRogue)",
-        "odds": "1.35"
+        "odds": "2.95"
       }
     ]
   },
@@ -243,11 +197,11 @@
     "bets": [
       {
         "team": "Titans Chennai",
-        "odds": "1.87"
+        "odds": "1.64"
       },
       {
         "team": "Draw",
-        "odds": "24.3"
+        "odds": "24.34"
       }
     ]
   },
@@ -257,11 +211,53 @@
     "bets": [
       {
         "team": "India (cyber)",
-        "odds": "1.86"
+        "odds": "1.1"
       },
       {
         "team": "England (cyber)",
-        "odds": "1.75"
+        "odds": "4.34"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 10:30 PM",
+    "title": "India (YudhVeer) - Pakistan (EagleBlaze)",
+    "bets": [
+      {
+        "team": "India (YudhVeer)",
+        "odds": "1.02"
+      },
+      {
+        "team": "Pakistan (EagleBlaze)",
+        "odds": "9.54"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 10:35 PM",
+    "title": "Chennai Carvers (cyber) - Lucknow Super Giants (cyber)",
+    "bets": [
+      {
+        "team": "Chennai Carvers (cyber)",
+        "odds": "4.52"
+      },
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Mar 15, 11:05 PM",
+    "title": "Bangladesh (cyber) - West Indies (cyber)",
+    "bets": [
+      {
+        "team": "Bangladesh (cyber)",
+        "odds": "3.66"
+      },
+      {
+        "team": "West Indies (cyber)",
+        "odds": "1.17"
       }
     ]
   }
