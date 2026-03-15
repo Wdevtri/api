@@ -112,20 +112,6 @@
     ]
   },
   {
-    "date": "Mar 15, 09:24 PM",
-    "title": "Rajasthan Royals (e-w) - Chennai Super Kings (e-w)",
-    "bets": [
-      {
-        "team": "Rajasthan Royals (e-w)",
-        "odds": "1.44"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
     "date": "Mar 16, 08:30 AM",
     "title": "Granada CC - Costa del Sol CC",
     "bets": [
@@ -150,6 +136,34 @@
       {
         "team": "Sonseca Sultans",
         "odds": "1.55"
+      }
+    ]
+  },
+  {
+    "date": "Mar 17, 09:30 PM",
+    "title": "Otago Volts - Northern Districts",
+    "bets": [
+      {
+        "team": "Otago Volts",
+        "odds": "2.16"
+      },
+      {
+        "team": "Northern Districts",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Mar 17, 09:30 PM",
+    "title": "Wellington Firebirds - Auckland Aces",
+    "bets": [
+      {
+        "team": "Wellington Firebirds",
+        "odds": "2.22"
+      },
+      {
+        "team": "Auckland Aces",
+        "odds": "1.56"
       }
     ]
   },
