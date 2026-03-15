@@ -51,7 +51,7 @@
       },
       {
         "team": "Lahore Region Blues",
-        "odds": "2.69"
+        "odds": "2.7"
       }
     ]
   },
@@ -61,11 +61,11 @@
     "bets": [
       {
         "team": "Sialkot Region",
-        "odds": "1.53"
+        "odds": "1.54"
       },
       {
         "team": "Multan Region",
-        "odds": "2.3"
+        "odds": "2.28"
       }
     ]
   },
@@ -112,30 +112,16 @@
     ]
   },
   {
-    "date": "Mar 15, 07:30 PM",
-    "title": "Argentina - Cayman Islands",
-    "bets": [
-      {
-        "team": "Argentina",
-        "odds": "4.44"
-      },
-      {
-        "team": "Cayman Islands",
-        "odds": "1.17"
-      }
-    ]
-  },
-  {
     "date": "Mar 16, 03:00 AM",
     "title": "RBI - CAG",
     "bets": [
       {
         "team": "RBI",
-        "odds": "1.71"
+        "odds": "1.74"
       },
       {
         "team": "CAG",
-        "odds": "1.98"
+        "odds": "1.94"
       }
     ]
   },
@@ -145,25 +131,39 @@
     "bets": [
       {
         "team": "Yamuna Super Kings",
-        "odds": "2.04"
+        "odds": "2.06"
       },
       {
         "team": "Chambal Chargers",
-        "odds": "1.66"
+        "odds": "1.69"
       }
     ]
   },
   {
-    "date": "Mar 16, 08:00 AM",
-    "title": "Ganga Warriors - Gomti Thunder",
+    "date": "Mar 17, 03:00 AM",
+    "title": "Delhi U-23 (w) - Tamil Nadu U-23 (w)",
     "bets": [
       {
-        "team": "Ganga Warriors",
-        "odds": "1.6"
+        "team": "Delhi U-23 (w)",
+        "odds": "1.71"
       },
       {
-        "team": "Gomti Thunder",
-        "odds": "2.16"
+        "team": "Tamil Nadu U-23 (w)",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "Mar 17, 03:00 AM",
+    "title": "Mumbai U-23 (w) - Bengal U-23 (w)",
+    "bets": [
+      {
+        "team": "Mumbai U-23 (w)",
+        "odds": "1.64"
+      },
+      {
+        "team": "Bengal U-23 (w)",
+        "odds": "2.09"
       }
     ]
   },
@@ -187,11 +187,11 @@
     "bets": [
       {
         "team": "Kachanga Giants",
-        "odds": "2.28"
+        "odds": "2.29"
       },
       {
         "team": "Nsonga Royals",
-        "odds": "1.57"
+        "odds": "1.53"
       }
     ]
   },
@@ -229,11 +229,11 @@
     "bets": [
       {
         "team": "Katosi Strikers",
-        "odds": "1.52"
+        "odds": "1.46"
       },
       {
         "team": "Kitamba Sunrisers",
-        "odds": "2.4"
+        "odds": "2.47"
       }
     ]
   }
