@@ -1,29 +1,29 @@
 [
   {
+    "date": "Mar 16, 07:30 AM",
+    "title": "Cyprus - Austria",
+    "bets": [
+      {
+        "team": "Cyprus",
+        "odds": "1.5"
+      },
+      {
+        "team": "Austria",
+        "odds": "2.59"
+      }
+    ]
+  },
+  {
     "date": "Mar 17, 06:15 AM",
     "title": "New Zealand - South Africa",
     "bets": [
       {
         "team": "New Zealand",
-        "odds": "1.65"
+        "odds": "1.6"
       },
       {
         "team": "South Africa",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "Mar 15, 04:30 PM",
-    "title": "Bahawalpur Region - Peshawar Region",
-    "bets": [
-      {
-        "team": "Bahawalpur Region",
-        "odds": "2.68"
-      },
-      {
-        "team": "Peshawar Region",
-        "odds": "1.47"
+        "odds": "2.34"
       }
     ]
   },
@@ -112,30 +112,30 @@
     ]
   },
   {
-    "date": "Mar 15, 04:26 PM",
-    "title": "Gujarat Titans (V) - Chennai Super Kings (V)",
-    "bets": [
-      {
-        "team": "Gujarat Titans (V)",
-        "odds": "1.95"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
     "date": "Mar 15, 07:30 PM",
     "title": "Argentina - Cayman Islands",
     "bets": [
       {
         "team": "Argentina",
-        "odds": "3.77"
+        "odds": "4.44"
       },
       {
         "team": "Cayman Islands",
-        "odds": "1.23"
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
+    "date": "Mar 16, 03:00 AM",
+    "title": "RBI - CAG",
+    "bets": [
+      {
+        "team": "RBI",
+        "odds": "1.71"
+      },
+      {
+        "team": "CAG",
+        "odds": "1.98"
       }
     ]
   },
@@ -159,39 +159,11 @@
     "bets": [
       {
         "team": "Ganga Warriors",
-        "odds": "1.66"
+        "odds": "1.6"
       },
       {
         "team": "Gomti Thunder",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Mar 17, 03:00 AM",
-    "title": "Delhi U-23 (w) - Tamil Nadu U-23 (w)",
-    "bets": [
-      {
-        "team": "Delhi U-23 (w)",
-        "odds": "1.7"
-      },
-      {
-        "team": "Tamil Nadu U-23 (w)",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Mar 17, 03:00 AM",
-    "title": "Mumbai U-23 (w) - Bengal U-23 (w)",
-    "bets": [
-      {
-        "team": "Mumbai U-23 (w)",
-        "odds": "1.65"
-      },
-      {
-        "team": "Bengal U-23 (w)",
-        "odds": "2.05"
+        "odds": "2.16"
       }
     ]
   },
@@ -229,11 +201,11 @@
     "bets": [
       {
         "team": "Mumbai Mavericks",
-        "odds": "1.46"
+        "odds": "1.45"
       },
       {
         "team": "Delhi Champions",
-        "odds": "2.48"
+        "odds": "2.51"
       }
     ]
   },
