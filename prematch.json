@@ -14,16 +14,16 @@
     ]
   },
   {
-    "date": "Mar 15, 04:15 PM",
+    "date": "Mar 15, 04:30 PM",
     "title": "Bahawalpur Region - Peshawar Region",
     "bets": [
       {
         "team": "Bahawalpur Region",
-        "odds": "2.38"
+        "odds": "2.68"
       },
       {
         "team": "Peshawar Region",
-        "odds": "1.49"
+        "odds": "1.47"
       }
     ]
   },
@@ -112,16 +112,30 @@
     ]
   },
   {
+    "date": "Mar 15, 04:26 PM",
+    "title": "Gujarat Titans (V) - Chennai Super Kings (V)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "1.95"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
     "date": "Mar 15, 07:30 PM",
     "title": "Argentina - Cayman Islands",
     "bets": [
       {
         "team": "Argentina",
-        "odds": "3.25"
+        "odds": "3.77"
       },
       {
         "team": "Cayman Islands",
-        "odds": "1.28"
+        "odds": "1.23"
       }
     ]
   },
