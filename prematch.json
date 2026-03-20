@@ -1,295 +1,225 @@
 [
   {
-    "date": "Mar 16, 07:30 AM",
-    "title": "Cyprus - Austria",
+    "date": "Mar 21, 06:00 PM",
+    "title": "West Indies (w) - Australia (w)",
     "bets": [
       {
-        "team": "Cyprus",
-        "odds": "1.5"
+        "team": "West Indies (w)",
+        "odds": "8"
       },
       {
-        "team": "Austria",
-        "odds": "2.59"
+        "team": "Australia (w)",
+        "odds": "1.07"
       }
     ]
   },
   {
-    "date": "Mar 17, 06:15 AM",
-    "title": "New Zealand - South Africa",
+    "date": "Mar 22, 01:45 AM",
+    "title": "New Zealand (w) - South Africa (w)",
     "bets": [
       {
-        "team": "New Zealand",
-        "odds": "1.6"
+        "team": "New Zealand (w)",
+        "odds": "1.58"
       },
       {
-        "team": "South Africa",
-        "odds": "2.34"
+        "team": "South Africa (w)",
+        "odds": "2.38"
       }
     ]
   },
   {
-    "date": "Mar 16, 01:30 AM",
-    "title": "Malaysia - Bahrain",
+    "date": "Mar 20, 02:00 PM",
+    "title": "Konark Suryas Odisha - India Tigers",
     "bets": [
       {
-        "team": "Malaysia",
-        "odds": "1.83"
+        "team": "Konark Suryas Odisha",
+        "odds": "2.07"
       },
       {
-        "team": "Bahrain",
-        "odds": "1.9"
+        "team": "India Tigers",
+        "odds": "1.67"
       }
     ]
   },
   {
-    "date": "Mar 16, 11:15 AM",
-    "title": "Abbottabad Region - Lahore Region Blues",
+    "date": "Mar 21, 12:00 PM",
+    "title": "Namibia A - Uganda",
     "bets": [
       {
-        "team": "Abbottabad Region",
+        "team": "Namibia A",
+        "odds": "1.57"
+      },
+      {
+        "team": "Uganda",
+        "odds": "2.25"
+      }
+    ]
+  },
+  {
+    "date": "Mar 21, 05:15 PM",
+    "title": "West Indies (w) - Australia (w)",
+    "bets": [
+      {
+        "team": "West Indies (w)",
+        "odds": "13"
+      },
+      {
+        "team": "Australia (w)",
+        "odds": "1.01"
+      }
+    ]
+  },
+  {
+    "date": "Mar 22, 01:00 AM",
+    "title": "New Zealand (w) - South Africa (w)",
+    "bets": [
+      {
+        "team": "New Zealand (w)",
+        "odds": "1.21"
+      },
+      {
+        "team": "South Africa (w)",
+        "odds": "4.1"
+      }
+    ]
+  },
+  {
+    "date": "Mar 20, 01:00 PM",
+    "title": "Nigeria (w) - Zimbabwe U-19 (w)",
+    "bets": [
+      {
+        "team": "Nigeria (w)",
+        "odds": "1.57"
+      },
+      {
+        "team": "Zimbabwe U-19 (w)",
+        "odds": "2.25"
+      }
+    ]
+  },
+  {
+    "date": "Mar 20, 11:00 PM",
+    "title": "New South Wales Breakers (w) - Queensland Fire (w)",
+    "bets": [
+      {
+        "team": "New South Wales Breakers (w)",
+        "odds": "1.49"
+      },
+      {
+        "team": "Queensland Fire (w)",
+        "odds": "2.41"
+      }
+    ]
+  },
+  {
+    "date": "Mar 21, 08:00 AM",
+    "title": "Warriors - Tuskers",
+    "bets": [
+      {
+        "team": "Warriors",
+        "odds": "1.32"
+      },
+      {
+        "team": "Tuskers",
+        "odds": "3.13"
+      }
+    ]
+  },
+  {
+    "date": "Mar 21, 11:00 AM",
+    "title": "Boland - Lions",
+    "bets": [
+      {
+        "team": "Boland",
+        "odds": "2.4"
+      },
+      {
+        "team": "Lions",
+        "odds": "1.51"
+      }
+    ]
+  },
+  {
+    "date": "Mar 22, 08:00 AM",
+    "title": "Nashua Dolphins - Western Province",
+    "bets": [
+      {
+        "team": "Nashua Dolphins",
+        "odds": "1.76"
+      },
+      {
+        "team": "Western Province",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Mar 22, 08:00 AM",
+    "title": "Titans - North West",
+    "bets": [
+      {
+        "team": "Titans",
+        "odds": "1.84"
+      },
+      {
+        "team": "North West",
+        "odds": "1.86"
+      }
+    ]
+  },
+  {
+    "date": "Mar 22, 08:00 AM",
+    "title": "Knights - Eastern Cape Inyathi",
+    "bets": [
+      {
+        "team": "Knights",
+        "odds": "1.55"
+      },
+      {
+        "team": "Eastern Cape Inyathi",
+        "odds": "2.44"
+      }
+    ]
+  },
+  {
+    "date": "Mar 20, 11:00 AM",
+    "title": "Katosi Strikers - Nsonga Royals",
+    "bets": [
+      {
+        "team": "Katosi Strikers",
         "odds": "1.39"
       },
       {
-        "team": "Lahore Region Blues",
+        "team": "Nsonga Royals",
         "odds": "2.7"
       }
     ]
   },
   {
-    "date": "Mar 16, 04:15 PM",
-    "title": "Sialkot Region - Multan Region",
+    "date": "Mar 20, 12:00 PM",
+    "title": "Park VDC - Park Super Kings",
     "bets": [
       {
-        "team": "Sialkot Region",
-        "odds": "1.54"
-      },
-      {
-        "team": "Multan Region",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "Mar 17, 01:45 AM",
-    "title": "New Zealand (w) - South Africa (w)",
-    "bets": [
-      {
-        "team": "New Zealand (w)",
-        "odds": "1.65"
-      },
-      {
-        "team": "South Africa (w)",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 02:00 PM",
-    "title": "India Captains - Southern Super Stars",
-    "bets": [
-      {
-        "team": "India Captains",
-        "odds": "1.81"
-      },
-      {
-        "team": "Southern Super Stars",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "Mar 17, 05:40 AM",
-    "title": "New Zealand - South Africa",
-    "bets": [
-      {
-        "team": "New Zealand",
-        "odds": "2.05"
-      },
-      {
-        "team": "South Africa",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 10:30 AM",
-    "title": "Granada CC - Costa del Sol CC",
-    "bets": [
-      {
-        "team": "Granada CC",
-        "odds": "2.1"
-      },
-      {
-        "team": "Costa del Sol CC",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 02:30 PM",
-    "title": "Hispalis - Sonseca Sultans",
-    "bets": [
-      {
-        "team": "Hispalis",
-        "odds": "2.34"
-      },
-      {
-        "team": "Sonseca Sultans",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
-    "date": "Mar 17, 09:30 PM",
-    "title": "Otago Volts - Northern Districts",
-    "bets": [
-      {
-        "team": "Otago Volts",
-        "odds": "2.16"
-      },
-      {
-        "team": "Northern Districts",
-        "odds": "1.6"
-      }
-    ]
-  },
-  {
-    "date": "Mar 17, 09:30 PM",
-    "title": "Wellington Firebirds - Auckland Aces",
-    "bets": [
-      {
-        "team": "Wellington Firebirds",
-        "odds": "2.22"
-      },
-      {
-        "team": "Auckland Aces",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 03:00 AM",
-    "title": "RBI - CAG",
-    "bets": [
-      {
-        "team": "RBI",
+        "team": "Park VDC",
         "odds": "1.74"
       },
       {
-        "team": "CAG",
+        "team": "Park Super Kings",
         "odds": "1.94"
       }
     ]
   },
   {
-    "date": "Mar 16, 04:00 AM",
-    "title": "Yamuna Super Kings - Chambal Chargers",
+    "date": "Mar 20, 12:30 PM",
+    "title": "White Dot Shastri Nagar - Meerut Cant Commandos",
     "bets": [
       {
-        "team": "Yamuna Super Kings",
-        "odds": "2.06"
+        "team": "White Dot Shastri Nagar",
+        "odds": "2.34"
       },
       {
-        "team": "Chambal Chargers",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Mar 17, 03:00 AM",
-    "title": "Delhi U-23 (w) - Tamil Nadu U-23 (w)",
-    "bets": [
-      {
-        "team": "Delhi U-23 (w)",
-        "odds": "1.71"
-      },
-      {
-        "team": "Tamil Nadu U-23 (w)",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Mar 17, 03:00 AM",
-    "title": "Mumbai U-23 (w) - Bengal U-23 (w)",
-    "bets": [
-      {
-        "team": "Mumbai U-23 (w)",
-        "odds": "1.64"
-      },
-      {
-        "team": "Bengal U-23 (w)",
-        "odds": "2.09"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 04:40 AM",
-    "title": "Gujarat Tigers - Chennai Warlords",
-    "bets": [
-      {
-        "team": "Gujarat Tigers",
-        "odds": "1.44"
-      },
-      {
-        "team": "Chennai Warlords",
-        "odds": "2.52"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 07:00 AM",
-    "title": "Kachanga Giants - Nsonga Royals",
-    "bets": [
-      {
-        "team": "Kachanga Giants",
-        "odds": "2.29"
-      },
-      {
-        "team": "Nsonga Royals",
-        "odds": "1.53"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 07:15 AM",
-    "title": "Mumbai Mavericks - Delhi Champions",
-    "bets": [
-      {
-        "team": "Mumbai Mavericks",
-        "odds": "1.45"
-      },
-      {
-        "team": "Delhi Champions",
-        "odds": "2.49"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 09:40 AM",
-    "title": "Punjab Lions - Tamil Nadu Titans",
-    "bets": [
-      {
-        "team": "Punjab Lions",
-        "odds": "1.8"
-      },
-      {
-        "team": "Tamil Nadu Titans",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Mar 16, 11:00 AM",
-    "title": "Katosi Strikers - Kitamba Sunrisers",
-    "bets": [
-      {
-        "team": "Katosi Strikers",
-        "odds": "1.46"
-      },
-      {
-        "team": "Kitamba Sunrisers",
-        "odds": "2.47"
+        "team": "Meerut Cant Commandos",
+        "odds": "1.55"
       }
     ]
   }
