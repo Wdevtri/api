@@ -14,30 +14,16 @@
     ]
   },
   {
-    "date": "Mar 23, 10:30 PM",
-    "title": "West Indies (w) - Australia (w)",
-    "bets": [
-      {
-        "team": "West Indies (w)",
-        "odds": "7.77"
-      },
-      {
-        "team": "Australia (w)",
-        "odds": "1.06"
-      }
-    ]
-  },
-  {
     "date": "Mar 25, 01:45 AM",
     "title": "New Zealand (w) - South Africa (w)",
     "bets": [
       {
         "team": "New Zealand (w)",
-        "odds": "1.55"
+        "odds": "1.53"
       },
       {
         "team": "South Africa (w)",
-        "odds": "2.44"
+        "odds": "2.4"
       }
     ]
   },
@@ -61,11 +47,11 @@
     "bets": [
       {
         "team": "Mumbai Spartans",
-        "odds": "1.82"
+        "odds": "1.47"
       },
       {
         "team": "Konark Suryas Odisha",
-        "odds": "1.81"
+        "odds": "2.5"
       }
     ]
   },
@@ -98,16 +84,16 @@
     ]
   },
   {
-    "date": "Mar 24, 04:00 AM",
-    "title": "Sunny XI - Elite CC",
+    "date": "Mar 25, 11:30 PM",
+    "title": "Victoria - South Australia",
     "bets": [
       {
-        "team": "Sunny XI",
-        "odds": "1.98"
+        "team": "Victoria",
+        "odds": "1.68"
       },
       {
-        "team": "Elite CC",
-        "odds": "1.76"
+        "team": "South Australia",
+        "odds": "1.99"
       }
     ]
   },
@@ -117,11 +103,11 @@
     "bets": [
       {
         "team": "Matabeleland Tuskers",
-        "odds": "2.03"
+        "odds": "2.02"
       },
       {
         "team": "Mid West Rhinos",
-        "odds": "1.65"
+        "odds": "1.71"
       }
     ]
   },
@@ -131,11 +117,11 @@
     "bets": [
       {
         "team": "Mountaineers",
-        "odds": "1.73"
+        "odds": "1.71"
       },
       {
         "team": "Mashonaland Eagles",
-        "odds": "1.91"
+        "odds": "2.02"
       }
     ]
   },
@@ -159,11 +145,11 @@
     "bets": [
       {
         "team": "South Africa U-19 (w)",
-        "odds": "1.13"
+        "odds": "1.09"
       },
       {
         "team": "Zimbabwe U-19 (w)",
-        "odds": "5"
+        "odds": "6"
       }
     ]
   },
@@ -187,11 +173,11 @@
     "bets": [
       {
         "team": "Tanzania",
-        "odds": "1.15"
+        "odds": "1.09"
       },
       {
         "team": "Malawi",
-        "odds": "5.45"
+        "odds": "6"
       }
     ]
   },
@@ -201,11 +187,11 @@
     "bets": [
       {
         "team": "Nigeria (w)",
-        "odds": "2.06"
+        "odds": "2.29"
       },
       {
         "team": "Rwanda (w)",
-        "odds": "1.69"
+        "odds": "1.55"
       }
     ]
   },
@@ -215,11 +201,11 @@
     "bets": [
       {
         "team": "Eswatini",
-        "odds": "1.22"
+        "odds": "1.25"
       },
       {
         "team": "St. Helena",
-        "odds": "3.74"
+        "odds": "3.56"
       }
     ]
   },
@@ -252,44 +238,16 @@
     ]
   },
   {
-    "date": "Mar 24, 03:00 AM",
-    "title": "Mumbai Aces - Ahmedabad Lions",
-    "bets": [
-      {
-        "team": "Mumbai Aces",
-        "odds": "2.17"
-      },
-      {
-        "team": "Ahmedabad Lions",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "Mar 24, 05:45 AM",
-    "title": "Jaipur Royals - Chandigarh Mavericks",
-    "bets": [
-      {
-        "team": "Jaipur Royals",
-        "odds": "2.09"
-      },
-      {
-        "team": "Chandigarh Mavericks",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
     "date": "Mar 24, 08:30 AM",
     "title": "Chennai Marvels - Delhi Titans",
     "bets": [
       {
         "team": "Chennai Marvels",
-        "odds": "2.25"
+        "odds": "2.32"
       },
       {
         "team": "Delhi Titans",
-        "odds": "1.55"
+        "odds": "1.52"
       }
     ]
   },
@@ -313,11 +271,11 @@
     "bets": [
       {
         "team": "Cricgiri Champs",
-        "odds": "2.11"
+        "odds": "2.24"
       },
       {
         "team": "Meerut Cant Commandos",
-        "odds": "1.62"
+        "odds": "1.59"
       }
     ]
   },
@@ -327,39 +285,39 @@
     "bets": [
       {
         "team": "Meerut Civil Line Heroes",
-        "odds": "2.19"
+        "odds": "2.34"
       },
       {
         "team": "BBC Elite",
-        "odds": "1.58"
+        "odds": "1.55"
       }
     ]
   },
   {
-    "date": "Mar 24, 03:15 AM",
-    "title": "Nepal Police Club - Armed Police Force",
+    "date": "Mar 25, 03:15 AM",
+    "title": "Madhesh Province - Sudurpaschim Province",
     "bets": [
       {
-        "team": "Nepal Police Club",
-        "odds": "2.06"
+        "team": "Madhesh Province",
+        "odds": "1.68"
       },
       {
-        "team": "Armed Police Force",
-        "odds": "1.69"
+        "team": "Sudurpaschim Province",
+        "odds": "2.08"
       }
     ]
   },
   {
-    "date": "Mar 24, 03:15 AM",
-    "title": "Gandaki Province - Bagmati Province",
+    "date": "Mar 25, 03:15 AM",
+    "title": "Karnali Province - Koshi Province",
     "bets": [
       {
-        "team": "Gandaki Province",
-        "odds": "2.88"
+        "team": "Karnali Province",
+        "odds": "1.52"
       },
       {
-        "team": "Bagmati Province",
-        "odds": "1.37"
+        "team": "Koshi Province",
+        "odds": "2.4"
       }
     ]
   }
