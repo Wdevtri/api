@@ -1,323 +1,575 @@
 [
   {
-    "date": "Mar 25, 06:15 AM",
-    "title": "New Zealand - South Africa",
+    "date": "Apr 1, 02:00 PM",
+    "title": "Lucknow Super Giants - Delhi Capitals",
     "bets": [
       {
-        "team": "New Zealand",
-        "odds": "1.74"
+        "team": "Lucknow Super Giants",
+        "odds": "1.9"
       },
       {
-        "team": "South Africa",
+        "team": "Delhi Capitals",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 02:00 PM",
+    "title": "Kolkata Knight Riders - Sunrisers Hyderabad",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders",
+        "odds": "1.9"
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 02:00 PM",
+    "title": "Multan Sultans - Hyderabad Kingsmen",
+    "bets": [
+      {
+        "team": "Multan Sultans",
+        "odds": "1.65"
+      },
+      {
+        "team": "Hyderabad Kingsmen",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 02:00 PM",
+    "title": "Rawalpindi Pindiz - Karachi Kings",
+    "bets": [
+      {
+        "team": "Rawalpindi Pindiz",
+        "odds": "2.06"
+      },
+      {
+        "team": "Karachi Kings",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 06:00 PM",
+    "title": "West Indies (w) - Australia (w)",
+    "bets": [
+      {
+        "team": "West Indies (w)",
+        "odds": "11"
+      },
+      {
+        "team": "Australia (w)",
+        "odds": "1.04"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 07:30 AM",
+    "title": "Scotland - Oman",
+    "bets": [
+      {
+        "team": "Scotland",
+        "odds": "1.42"
+      },
+      {
+        "team": "Oman",
+        "odds": "2.82"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 04:00 AM",
+    "title": "Sunny XI - Rising Pune CC",
+    "bets": [
+      {
+        "team": "Sunny XI",
+        "odds": "2.02"
+      },
+      {
+        "team": "Rising Pune CC",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 05:30 AM",
+    "title": "Ajman D50 - Sharjah D50",
+    "bets": [
+      {
+        "team": "Ajman D50",
+        "odds": "2.22"
+      },
+      {
+        "team": "Sharjah D50",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 05:30 AM",
+    "title": "Emirates Blues D50 - Dubai D50",
+    "bets": [
+      {
+        "team": "Emirates Blues D50",
+        "odds": "1.72"
+      },
+      {
+        "team": "Dubai D50",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 05:30 AM",
+    "title": "Fujairah D50 - Abu Dhabi D50",
+    "bets": [
+      {
+        "team": "Fujairah D50",
+        "odds": "1.75"
+      },
+      {
+        "team": "Abu Dhabi D50",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 08:00 AM",
+    "title": "Century CA - Omrchecker",
+    "bets": [
+      {
+        "team": "Century CA",
+        "odds": "1.61"
+      },
+      {
+        "team": "Omrchecker",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 08:30 AM",
+    "title": "Punjab CC - Lisbon Capitals",
+    "bets": [
+      {
+        "team": "Punjab CC",
+        "odds": "1.98"
+      },
+      {
+        "team": "Lisbon Capitals",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 01:30 PM",
+    "title": "Mitchell Marsh - K.L. Rahul",
+    "bets": [
+      {
+        "team": "Mitchell Marsh",
+        "odds": "1.91"
+      },
+      {
+        "team": "K.L. Rahul",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 01:30 PM",
+    "title": "Aiden Markram - Abishek Porel",
+    "bets": [
+      {
+        "team": "Aiden Markram",
+        "odds": "1.55"
+      },
+      {
+        "team": "Abishek Porel",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 01:30 PM",
+    "title": "Nicholas Pooran - Nitish Rana",
+    "bets": [
+      {
+        "team": "Nicholas Pooran",
+        "odds": "1.59"
+      },
+      {
+        "team": "Nitish Rana",
+        "odds": "2.16"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 05:00 AM",
+    "title": "Stars (w) - Invincibles (w)",
+    "bets": [
+      {
+        "team": "Stars (w)",
+        "odds": "1.65"
+      },
+      {
+        "team": "Invincibles (w)",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 05:00 AM",
+    "title": "PCB Strikers (w) - Conquerors (w)",
+    "bets": [
+      {
+        "team": "PCB Strikers (w)",
+        "odds": "2.5"
+      },
+      {
+        "team": "Conquerors (w)",
+        "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 01:30 PM",
+    "title": "Ajinkya Rahane - Ishan Kishan",
+    "bets": [
+      {
+        "team": "Ajinkya Rahane",
+        "odds": "1.96"
+      },
+      {
+        "team": "Ishan Kishan",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 01:30 PM",
+    "title": "Finn Allen - Travis Head",
+    "bets": [
+      {
+        "team": "Finn Allen",
+        "odds": "1.83"
+      },
+      {
+        "team": "Travis Head",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 01:30 PM",
+    "title": "Angkrish Raghuvanshi - Abhishek Sharma",
+    "bets": [
+      {
+        "team": "Angkrish Raghuvanshi",
+        "odds": "2.02"
+      },
+      {
+        "team": "Abhishek Sharma",
+        "odds": "1.67"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 01:30 PM",
+    "title": "Cameron Green - Heinrich Klaasen",
+    "bets": [
+      {
+        "team": "Cameron Green",
+        "odds": "1.92"
+      },
+      {
+        "team": "Heinrich Klaasen",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 03:15 AM",
+    "title": "Bagmati Province - Karnali Province",
+    "bets": [
+      {
+        "team": "Bagmati Province",
+        "odds": "1.4"
+      },
+      {
+        "team": "Karnali Province",
+        "odds": "2.72"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 03:15 AM",
+    "title": "Armed Police Force - Lumbini Province",
+    "bets": [
+      {
+        "team": "Armed Police Force",
+        "odds": "1.44"
+      },
+      {
+        "team": "Lumbini Province",
+        "odds": "2.62"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 01:30 AM",
+    "title": "Ios Malakas - Saturday Night Beavers",
+    "bets": [
+      {
+        "team": "Ios Malakas",
+        "odds": "1.59"
+      },
+      {
+        "team": "Saturday Night Beavers",
+        "odds": "2.17"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 02:20 AM",
+    "title": "Kimberley Crusaders - Sa Pa",
+    "bets": [
+      {
+        "team": "Kimberley Crusaders",
+        "odds": "1.64"
+      },
+      {
+        "team": "Sa Pa",
         "odds": "2.09"
       }
     ]
   },
   {
-    "date": "Mar 25, 01:45 AM",
-    "title": "New Zealand (w) - South Africa (w)",
+    "date": "Apr 1, 02:40 AM",
+    "title": "Stuffed Beavers CC - Sons of Pitches II",
     "bets": [
       {
-        "team": "New Zealand (w)",
-        "odds": "1.53"
+        "team": "Stuffed Beavers CC",
+        "odds": "2"
       },
       {
-        "team": "South Africa (w)",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
-    "date": "Mar 25, 07:30 AM",
-    "title": "Namibia A - Uganda",
-    "bets": [
-      {
-        "team": "Namibia A",
-        "odds": "1.2"
-      },
-      {
-        "team": "Uganda",
-        "odds": "4"
-      }
-    ]
-  },
-  {
-    "date": "Mar 24, 09:00 AM",
-    "title": "Mumbai Spartans - Konark Suryas Odisha",
-    "bets": [
-      {
-        "team": "Mumbai Spartans",
-        "odds": "1.47"
-      },
-      {
-        "team": "Konark Suryas Odisha",
-        "odds": "2.5"
-      }
-    ]
-  },
-  {
-    "date": "Mar 25, 05:40 AM",
-    "title": "New Zealand - South Africa",
-    "bets": [
-      {
-        "team": "New Zealand",
-        "odds": "1.74"
-      },
-      {
-        "team": "South Africa",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Mar 25, 09:00 AM",
-    "title": "Konark Suryas Odisha - India Tigers",
-    "bets": [
-      {
-        "team": "Konark Suryas Odisha",
-        "odds": "2.14"
-      },
-      {
-        "team": "India Tigers",
-        "odds": "1.58"
-      }
-    ]
-  },
-  {
-    "date": "Mar 25, 11:30 PM",
-    "title": "Victoria - South Australia",
-    "bets": [
-      {
-        "team": "Victoria",
-        "odds": "1.68"
-      },
-      {
-        "team": "South Australia",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "Mar 24, 07:30 AM",
-    "title": "Matabeleland Tuskers - Mid West Rhinos",
-    "bets": [
-      {
-        "team": "Matabeleland Tuskers",
-        "odds": "2.02"
-      },
-      {
-        "team": "Mid West Rhinos",
-        "odds": "1.71"
-      }
-    ]
-  },
-  {
-    "date": "Mar 24, 07:30 AM",
-    "title": "Mountaineers - Mashonaland Eagles",
-    "bets": [
-      {
-        "team": "Mountaineers",
-        "odds": "1.71"
-      },
-      {
-        "team": "Mashonaland Eagles",
-        "odds": "2.02"
-      }
-    ]
-  },
-  {
-    "date": "Mar 24, 08:00 AM",
-    "title": "Century CA - Rising Pune CC",
-    "bets": [
-      {
-        "team": "Century CA",
-        "odds": "2.06"
-      },
-      {
-        "team": "Rising Pune CC",
+        "team": "Sons of Pitches II",
         "odds": "1.7"
       }
     ]
   },
   {
-    "date": "Mar 24, 09:00 AM",
-    "title": "South Africa U-19 (w) - Zimbabwe U-19 (w)",
+    "date": "Apr 1, 04:00 AM",
+    "title": "West Zone (w) - North Zone (w)",
     "bets": [
       {
-        "team": "South Africa U-19 (w)",
-        "odds": "1.09"
+        "team": "West Zone (w)",
+        "odds": "2"
       },
       {
-        "team": "Zimbabwe U-19 (w)",
-        "odds": "6"
+        "team": "North Zone (w)",
+        "odds": "1.78"
       }
     ]
   },
   {
-    "date": "Mar 24, 09:30 AM",
-    "title": "Lisbon Werewolves - Lisboa Panthers",
+    "date": "Apr 1, 05:00 AM",
+    "title": "Lamphun Lion Cubs - Armadillos",
     "bets": [
       {
-        "team": "Lisbon Werewolves",
-        "odds": "1.94"
+        "team": "Lamphun Lion Cubs",
+        "odds": "3.18"
       },
       {
-        "team": "Lisboa Panthers",
-        "odds": "1.8"
+        "team": "Armadillos",
+        "odds": "1.29"
       }
     ]
   },
   {
-    "date": "Mar 24, 09:30 AM",
-    "title": "Tanzania - Malawi",
+    "date": "Apr 1, 05:20 AM",
+    "title": "Perth Postels - St Helier RFC CC",
     "bets": [
       {
-        "team": "Tanzania",
-        "odds": "1.09"
+        "team": "Perth Postels",
+        "odds": "1.49"
       },
       {
-        "team": "Malawi",
-        "odds": "6"
+        "team": "St Helier RFC CC",
+        "odds": "2.39"
       }
     ]
   },
   {
-    "date": "Mar 24, 01:00 PM",
-    "title": "Nigeria (w) - Rwanda (w)",
+    "date": "Apr 1, 06:10 AM",
+    "title": "SCC Maldives - Drifters",
     "bets": [
       {
-        "team": "Nigeria (w)",
-        "odds": "2.29"
+        "team": "SCC Maldives",
+        "odds": "1.64"
       },
       {
-        "team": "Rwanda (w)",
-        "odds": "1.55"
+        "team": "Drifters",
+        "odds": "2.09"
       }
     ]
   },
   {
-    "date": "Mar 24, 01:50 PM",
-    "title": "Eswatini - St. Helena",
+    "date": "Apr 1, 06:30 AM",
+    "title": "Darjeeling CC - Clifton Hill Stray Cats",
     "bets": [
       {
-        "team": "Eswatini",
-        "odds": "1.25"
-      },
-      {
-        "team": "St. Helena",
-        "odds": "3.56"
-      }
-    ]
-  },
-  {
-    "date": "Mar 24, 01:50 PM",
-    "title": "Ghana - Seychelles",
-    "bets": [
-      {
-        "team": "Ghana",
-        "odds": "1.13"
-      },
-      {
-        "team": "Seychelles",
-        "odds": "5.8"
-      }
-    ]
-  },
-  {
-    "date": "Mar 25, 11:00 AM",
-    "title": "Warriors - Titans",
-    "bets": [
-      {
-        "team": "Warriors",
-        "odds": "1.7"
-      },
-      {
-        "team": "Titans",
-        "odds": "2.03"
-      }
-    ]
-  },
-  {
-    "date": "Mar 24, 08:30 AM",
-    "title": "Chennai Marvels - Delhi Titans",
-    "bets": [
-      {
-        "team": "Chennai Marvels",
-        "odds": "2.32"
-      },
-      {
-        "team": "Delhi Titans",
-        "odds": "1.52"
-      }
-    ]
-  },
-  {
-    "date": "Mar 24, 04:00 PM",
-    "title": "Team Brittin (w) - Team Heyhoe Flint (w)",
-    "bets": [
-      {
-        "team": "Team Brittin (w)",
+        "team": "Darjeeling CC",
         "odds": "1.83"
       },
       {
-        "team": "Team Heyhoe Flint (w)",
+        "team": "Clifton Hill Stray Cats",
         "odds": "1.83"
       }
     ]
   },
   {
-    "date": "Mar 24, 08:30 AM",
-    "title": "Cricgiri Champs - Meerut Cant Commandos",
+    "date": "Apr 1, 07:20 AM",
+    "title": "Silly Sloggers - Clifton Hill Tom Cats",
     "bets": [
       {
-        "team": "Cricgiri Champs",
-        "odds": "2.24"
+        "team": "Silly Sloggers",
+        "odds": "1.59"
       },
+      {
+        "team": "Clifton Hill Tom Cats",
+        "odds": "2.17"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 07:40 AM",
+    "title": "Purple Helmets - Montenegro Bokaneers",
+    "bets": [
+      {
+        "team": "Purple Helmets",
+        "odds": "2.39"
+      },
+      {
+        "team": "Montenegro Bokaneers",
+        "odds": "1.49"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 08:30 AM",
+    "title": "TJCDF - Darwin Dilettantes",
+    "bets": [
+      {
+        "team": "TJCDF",
+        "odds": "4.22"
+      },
+      {
+        "team": "Darwin Dilettantes",
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 08:50 AM",
+    "title": "Tokyo Dingbats - Divine Felons",
+    "bets": [
+      {
+        "team": "Tokyo Dingbats",
+        "odds": "1.89"
+      },
+      {
+        "team": "Divine Felons",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Apr 1, 11:00 AM",
+    "title": "Meerut Cant Commandos - White Dot Shastri Nagar",
+    "bets": [
       {
         "team": "Meerut Cant Commandos",
-        "odds": "1.59"
+        "odds": "1.73"
+      },
+      {
+        "team": "White Dot Shastri Nagar",
+        "odds": "2"
       }
     ]
   },
   {
-    "date": "Mar 24, 12:30 PM",
-    "title": "Meerut Civil Line Heroes - BBC Elite",
+    "date": "Apr 1, 01:30 PM",
+    "title": "Mitchell Marsh - Travis Head",
     "bets": [
       {
-        "team": "Meerut Civil Line Heroes",
-        "odds": "2.34"
+        "team": "Mitchell Marsh",
+        "odds": "1.46"
       },
       {
-        "team": "BBC Elite",
-        "odds": "1.55"
+        "team": "Draw",
+        "odds": "51"
       }
     ]
   },
   {
-    "date": "Mar 25, 03:15 AM",
-    "title": "Madhesh Province - Sudurpaschim Province",
+    "date": "Apr 1, 01:30 PM",
+    "title": "K.L. Rahul - Yashasvi Jaiswal",
     "bets": [
       {
-        "team": "Madhesh Province",
-        "odds": "1.68"
+        "team": "K.L. Rahul",
+        "odds": "1.95"
       },
       {
-        "team": "Sudurpaschim Province",
-        "odds": "2.08"
+        "team": "Draw",
+        "odds": "51"
       }
     ]
   },
   {
-    "date": "Mar 25, 03:15 AM",
-    "title": "Karnali Province - Koshi Province",
+    "date": "Apr 2, 01:30 PM",
+    "title": "Virat Kohli - Suryakumar Yadav",
     "bets": [
       {
-        "team": "Karnali Province",
-        "odds": "1.52"
+        "team": "Virat Kohli",
+        "odds": "1.44"
       },
       {
-        "team": "Koshi Province",
-        "odds": "2.4"
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 01:30 PM",
+    "title": "Shubman Gill - Abhishek Sharma",
+    "bets": [
+      {
+        "team": "Shubman Gill",
+        "odds": "1.12"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 2, 01:30 PM",
+    "title": "Ajinkya Rahane - Quinton de Kock",
+    "bets": [
+      {
+        "team": "Ajinkya Rahane",
+        "odds": "1.48"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
       }
     ]
   }
