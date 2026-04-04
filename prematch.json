@@ -98,34 +98,6 @@
     ]
   },
   {
-    "date": "Apr 4, 07:42 PM",
-    "title": "New Zealand (V) - Pakistan (V)",
-    "bets": [
-      {
-        "team": "New Zealand (V)",
-        "odds": "2.1"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Apr 4, 08:00 PM",
-    "title": "Mexico - Costa Rica",
-    "bets": [
-      {
-        "team": "Mexico",
-        "odds": "1.02"
-      },
-      {
-        "team": "Costa Rica",
-        "odds": "21"
-      }
-    ]
-  },
-  {
     "date": "Apr 5, 04:30 AM",
     "title": "Ambernath Avengers - Koparkairne Titans",
     "bets": [
@@ -351,6 +323,20 @@
   },
   {
     "date": "Apr 5, 09:30 AM",
+    "title": "Shubman Gill - Abhishek Sharma",
+    "bets": [
+      {
+        "team": "Shubman Gill",
+        "odds": "1.43"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 5, 09:30 AM",
     "title": "Mitchell Marsh - Travis Head",
     "bets": [
       {
@@ -364,12 +350,26 @@
     ]
   },
   {
-    "date": "Apr 5, 09:30 AM",
-    "title": "Shubman Gill - Abhishek Sharma",
+    "date": "Apr 5, 01:30 PM",
+    "title": "Virat Kohli - Suryakumar Yadav",
     "bets": [
       {
-        "team": "Shubman Gill",
-        "odds": "1.43"
+        "team": "Virat Kohli",
+        "odds": "1.47"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 5, 01:30 PM",
+    "title": "Jos Buttler - Phil Salt",
+    "bets": [
+      {
+        "team": "Jos Buttler",
+        "odds": "1.38"
       },
       {
         "team": "Draw",
