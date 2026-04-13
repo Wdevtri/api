@@ -1,323 +1,281 @@
 [
   {
-    "date": "Apr 13, 02:00 PM",
-    "title": "Sunrisers Hyderabad - Rajasthan Royals",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad",
-        "odds": "2.07"
-      },
-      {
-        "team": "Rajasthan Royals",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
     "date": "Apr 14, 02:00 PM",
     "title": "Chennai Super Kings - Kolkata Knight Riders",
     "bets": [
       {
         "team": "Chennai Super Kings",
-        "odds": "1.75"
+        "odds": "1.81"
       },
       {
         "team": "Kolkata Knight Riders",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 02:00 PM",
-    "title": "Peshawar Zalmi - Multan Sultans",
-    "bets": [
-      {
-        "team": "Peshawar Zalmi",
-        "odds": "1.9"
-      },
-      {
-        "team": "Multan Sultans",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 01:30 AM",
-    "title": "Indonesia - Sweden",
-    "bets": [
-      {
-        "team": "Indonesia",
-        "odds": "4.28"
-      },
-      {
-        "team": "Sweden",
-        "odds": "1.18"
-      }
-    ]
-  },
-  {
-    "date": "Apr 12, 11:30 PM",
-    "title": "Gros Islet Cannon Blasters - Mon Repos Stars",
-    "bets": [
-      {
-        "team": "Gros Islet Cannon Blasters",
-        "odds": "1.73"
-      },
-      {
-        "team": "Mon Repos Stars",
         "odds": "2"
       }
     ]
   },
   {
-    "date": "Apr 13, 03:00 AM",
-    "title": "New York Liberty XI - Melbourne Pirates",
+    "date": "Apr 15, 02:00 PM",
+    "title": "Royal Challengers Bengaluru - Lucknow Super Giants",
     "bets": [
       {
-        "team": "New York Liberty XI",
+        "team": "Royal Challengers Bengaluru",
+        "odds": "1.6"
+      },
+      {
+        "team": "Lucknow Super Giants",
+        "odds": "2.34"
+      }
+    ]
+  },
+  {
+    "date": "Apr 15, 02:00 PM",
+    "title": "Peshawar Zalmi - Quetta Gladiators",
+    "bets": [
+      {
+        "team": "Peshawar Zalmi",
+        "odds": "1.74"
+      },
+      {
+        "team": "Quetta Gladiators",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 11:30 PM",
+    "title": "South Castries Lions - Gros Islet Cannon Blasters",
+    "bets": [
+      {
+        "team": "South Castries Lions",
         "odds": "1.8"
       },
       {
-        "team": "Melbourne Pirates",
+        "team": "Gros Islet Cannon Blasters",
         "odds": "1.94"
       }
     ]
   },
   {
-    "date": "Apr 13, 03:30 AM",
-    "title": "Australia U-19 (w) - Sri Lanka U-19 (w)",
+    "date": "Apr 13, 11:11 PM",
+    "title": "Rajasthan Royals (V) - Lucknow Super Giants (V)",
     "bets": [
       {
-        "team": "Australia U-19 (w)",
-        "odds": "1.22"
+        "team": "Rajasthan Royals (V)",
+        "odds": "1.6"
       },
       {
-        "team": "Sri Lanka U-19 (w)",
-        "odds": "3.83"
+        "team": "Draw",
+        "odds": "15"
       }
     ]
   },
   {
-    "date": "Apr 13, 04:30 AM",
-    "title": "Ambernath Avengers - Mira Bhayander Lions",
-    "bets": [
-      {
-        "team": "Ambernath Avengers",
-        "odds": "2.36"
-      },
-      {
-        "team": "Mira Bhayander Lions",
-        "odds": "1.5"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 07:00 AM",
-    "title": "Uganda A (w) - USA (w)",
-    "bets": [
-      {
-        "team": "Uganda A (w)",
-        "odds": "5.1"
-      },
-      {
-        "team": "USA (w)",
-        "odds": "1.14"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 08:00 AM",
-    "title": "Melbourne Tuskers - Brisbane Stars",
+    "date": "Apr 14, 03:00 AM",
+    "title": "Melbourne Tuskers - Sydney Kangaroos",
     "bets": [
       {
         "team": "Melbourne Tuskers",
+        "odds": "1.23"
+      },
+      {
+        "team": "Sydney Kangaroos",
+        "odds": "3.73"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 04:30 AM",
+    "title": "Koparkairne Titans - Vashi Warriors",
+    "bets": [
+      {
+        "team": "Koparkairne Titans",
+        "odds": "1.73"
+      },
+      {
+        "team": "Vashi Warriors",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 08:00 AM",
+    "title": "Melbourne Pirates - Genid Royals",
+    "bets": [
+      {
+        "team": "Melbourne Pirates",
+        "odds": "1.94"
+      },
+      {
+        "team": "Genid Royals",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 12:30 PM",
+    "title": "Sanpada Scorpions - Kalyan Tuskers",
+    "bets": [
+      {
+        "team": "Sanpada Scorpions",
+        "odds": "1.96"
+      },
+      {
+        "team": "Kalyan Tuskers",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 01:30 PM",
+    "title": "Sanju Samson - Finn Allen",
+    "bets": [
+      {
+        "team": "Sanju Samson",
+        "odds": "1.79"
+      },
+      {
+        "team": "Finn Allen",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 01:30 PM",
+    "title": "Ruturaj Gaikwad - Ajinkya Rahane",
+    "bets": [
+      {
+        "team": "Ruturaj Gaikwad",
+        "odds": "1.79"
+      },
+      {
+        "team": "Ajinkya Rahane",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 01:30 PM",
+    "title": "Ayush Mhatre - Angkrish Raghuvanshi",
+    "bets": [
+      {
+        "team": "Ayush Mhatre",
+        "odds": "1.93"
+      },
+      {
+        "team": "Angkrish Raghuvanshi",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 03:00 PM",
+    "title": "Atlanta Fire - Baltimore Royals",
+    "bets": [
+      {
+        "team": "Atlanta Fire",
+        "odds": "1.5"
+      },
+      {
+        "team": "Baltimore Royals",
+        "odds": "2.41"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 03:00 PM",
+    "title": "Seattle Thunderbolts - Space City Cowboys",
+    "bets": [
+      {
+        "team": "Seattle Thunderbolts",
+        "odds": "2.2"
+      },
+      {
+        "team": "Space City Cowboys",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 07:30 PM",
+    "title": "Columbus Falcons - East Bay Blazers",
+    "bets": [
+      {
+        "team": "Columbus Falcons",
+        "odds": "1.6"
+      },
+      {
+        "team": "East Bay Blazers",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 07:30 PM",
+    "title": "Clarion County Eagles - St Louis Americans",
+    "bets": [
+      {
+        "team": "Clarion County Eagles",
+        "odds": "1.54"
+      },
+      {
+        "team": "St Louis Americans",
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Apr 15, 06:00 AM",
+    "title": "Australia U-19 (w) - England U-19 (w)",
+    "bets": [
+      {
+        "team": "Australia U-19 (w)",
+        "odds": "1.38"
+      },
+      {
+        "team": "England U-19 (w)",
+        "odds": "2.81"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 03:15 AM",
+    "title": "Gandaki Province - Karnali Province",
+    "bets": [
+      {
+        "team": "Gandaki Province",
         "odds": "1.72"
       },
       {
-        "team": "Brisbane Stars",
+        "team": "Karnali Province",
         "odds": "2.02"
       }
     ]
   },
   {
-    "date": "Apr 13, 12:30 PM",
-    "title": "Sanpada Scorpions - Belapur Blasters",
+    "date": "Apr 14, 03:15 AM",
+    "title": "Bagmati Province - Lumbini Province",
     "bets": [
       {
-        "team": "Sanpada Scorpions",
-        "odds": "1.49"
-      },
-      {
-        "team": "Belapur Blasters",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 01:30 PM",
-    "title": "Travis Head - Yashasvi Jaiswal",
-    "bets": [
-      {
-        "team": "Travis Head",
-        "odds": "1.91"
-      },
-      {
-        "team": "Yashasvi Jaiswal",
+        "team": "Bagmati Province",
         "odds": "1.76"
+      },
+      {
+        "team": "Lumbini Province",
+        "odds": "1.98"
       }
     ]
   },
   {
-    "date": "Apr 13, 01:30 PM",
-    "title": "Abhishek Sharma - Vaibhav Suryavanshi",
+    "date": "Apr 14, 08:00 AM",
+    "title": "Darwin - Waratah Warriors",
     "bets": [
       {
-        "team": "Abhishek Sharma",
-        "odds": "1.87"
+        "team": "Darwin",
+        "odds": "1.9"
       },
       {
-        "team": "Vaibhav Suryavanshi",
-        "odds": "1.79"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 01:30 PM",
-    "title": "Ishan Kishan - Dhruv Jurel",
-    "bets": [
-      {
-        "team": "Ishan Kishan",
-        "odds": "1.65"
-      },
-      {
-        "team": "Dhruv Jurel",
-        "odds": "2.05"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 03:00 PM",
-    "title": "Baltimore Royals - Columbus Falcons",
-    "bets": [
-      {
-        "team": "Baltimore Royals",
-        "odds": "1.8"
-      },
-      {
-        "team": "Columbus Falcons",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 03:00 PM",
-    "title": "Space City Cowboys - Future Caps",
-    "bets": [
-      {
-        "team": "Space City Cowboys",
-        "odds": "1.7"
-      },
-      {
-        "team": "Future Caps",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 07:30 PM",
-    "title": "Clarion County Eagles - Seattle Thunderbolts",
-    "bets": [
-      {
-        "team": "Clarion County Eagles",
-        "odds": "1.52"
-      },
-      {
-        "team": "Seattle Thunderbolts",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 07:30 PM",
-    "title": "East Bay Blazers - Prime Raiders Gladiators",
-    "bets": [
-      {
-        "team": "East Bay Blazers",
-        "odds": "1.86"
-      },
-      {
-        "team": "Prime Raiders Gladiators",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 03:15 AM",
-    "title": "Koshi Province - Tribhuwan Army Club",
-    "bets": [
-      {
-        "team": "Koshi Province",
-        "odds": "5.7"
-      },
-      {
-        "team": "Tribhuwan Army Club",
-        "odds": "1.11"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 03:15 AM",
-    "title": "Madhesh Province - Armed Police Force",
-    "bets": [
-      {
-        "team": "Madhesh Province",
-        "odds": "2.23"
-      },
-      {
-        "team": "Armed Police Force",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 01:30 PM",
-    "title": "Shubman Gill - Abhishek Sharma",
-    "bets": [
-      {
-        "team": "Shubman Gill",
-        "odds": "1.28"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 01:30 PM",
-    "title": "Mitchell Marsh - Travis Head",
-    "bets": [
-      {
-        "team": "Mitchell Marsh",
-        "odds": "1.89"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 13, 01:30 PM",
-    "title": "Ajinkya Rahane - Vaibhav Suryavanshi",
-    "bets": [
-      {
-        "team": "Ajinkya Rahane",
-        "odds": "5"
-      },
-      {
-        "team": "Draw",
-        "odds": "55"
+        "team": "Waratah Warriors",
+        "odds": "1.76"
       }
     ]
   },
@@ -342,6 +300,62 @@
       {
         "team": "Sanju Samson",
         "odds": "2.66"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 14, 01:30 PM",
+    "title": "Ajinkya Rahane - Vaibhav Suryavanshi",
+    "bets": [
+      {
+        "team": "Ajinkya Rahane",
+        "odds": "4.03"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 15, 01:30 PM",
+    "title": "Virat Kohli - Suryakumar Yadav",
+    "bets": [
+      {
+        "team": "Virat Kohli",
+        "odds": "1.33"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 15, 01:30 PM",
+    "title": "Jos Buttler - Phil Salt",
+    "bets": [
+      {
+        "team": "Jos Buttler",
+        "odds": "1.37"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 15, 01:30 PM",
+    "title": "Mitchell Marsh - Travis Head",
+    "bets": [
+      {
+        "team": "Mitchell Marsh",
+        "odds": "1.88"
       },
       {
         "team": "Draw",
