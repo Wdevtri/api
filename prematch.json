@@ -84,58 +84,16 @@
     ]
   },
   {
-    "date": "Apr 14, 11:30 PM",
-    "title": "South Castries Lions - Gros Islet Cannon Blasters",
+    "date": "Apr 15, 12:12 AM",
+    "title": "West Indies (V) - Zimbabwe (V)",
     "bets": [
       {
-        "team": "South Castries Lions",
-        "odds": "1.8"
-      },
-      {
-        "team": "Gros Islet Cannon Blasters",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Apr 14, 11:30 PM",
-    "title": "Babonneau Leatherbacks - Soufriere Titans",
-    "bets": [
-      {
-        "team": "Babonneau Leatherbacks",
-        "odds": "2.15"
-      },
-      {
-        "team": "Soufriere Titans",
-        "odds": "1.62"
-      }
-    ]
-  },
-  {
-    "date": "Apr 14, 08:04 PM",
-    "title": "Bangladesh (V) - Pakistan (V)",
-    "bets": [
-      {
-        "team": "Bangladesh (V)",
-        "odds": "3.25"
+        "team": "West Indies (V)",
+        "odds": "1.35"
       },
       {
         "team": "Draw",
         "odds": "17"
-      }
-    ]
-  },
-  {
-    "date": "Apr 14, 08:30 PM",
-    "title": "Columbus Falcons - East Bay Blazers",
-    "bets": [
-      {
-        "team": "Columbus Falcons",
-        "odds": "1.57"
-      },
-      {
-        "team": "East Bay Blazers",
-        "odds": "2.28"
       }
     ]
   },
@@ -145,11 +103,11 @@
     "bets": [
       {
         "team": "Iconic Super Knights",
-        "odds": "1.6"
+        "odds": "1.57"
       },
       {
         "team": "Genid Royals",
-        "odds": "2.19"
+        "odds": "2.28"
       }
     ]
   },
@@ -187,11 +145,11 @@
     "bets": [
       {
         "team": "Everest Falcons",
-        "odds": "1.56"
+        "odds": "1.7"
       },
       {
         "team": "Brisbane Stars",
-        "odds": "2.23"
+        "odds": "2.04"
       }
     ]
   },
@@ -322,16 +280,44 @@
     ]
   },
   {
+    "date": "Apr 15, 04:30 PM",
+    "title": "Atlanta Fire - Prime Raiders Gladiators",
+    "bets": [
+      {
+        "team": "Atlanta Fire",
+        "odds": "1.65"
+      },
+      {
+        "team": "Prime Raiders Gladiators",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Apr 15, 08:30 PM",
+    "title": "Seattle Thunderbolts - St Louis Americans",
+    "bets": [
+      {
+        "team": "Seattle Thunderbolts",
+        "odds": "1.86"
+      },
+      {
+        "team": "St Louis Americans",
+        "odds": "1.86"
+      }
+    ]
+  },
+  {
     "date": "Apr 15, 03:15 AM",
     "title": "Madhesh Province - Nepal Police Club",
     "bets": [
       {
         "team": "Madhesh Province",
-        "odds": "2.22"
+        "odds": "2.52"
       },
       {
         "team": "Nepal Police Club",
-        "odds": "1.61"
+        "odds": "1.48"
       }
     ]
   },
@@ -388,6 +374,20 @@
       {
         "team": "Shivaji College",
         "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Apr 15, 10:00 AM",
+    "title": "Soan Spartans - Westridge Eagles",
+    "bets": [
+      {
+        "team": "Soan Spartans",
+        "odds": "1.85"
+      },
+      {
+        "team": "Westridge Eagles",
+        "odds": "1.82"
       }
     ]
   },
