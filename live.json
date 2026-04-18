@@ -1,1 +1,404 @@
-[]
+[
+  {
+    "date": "Apr 16, 04:30 AM",
+    "title": "Sri Lanka A - New Zealand A",
+    "bets": [
+      {
+        "team": "Sri Lanka A",
+        "odds": "2.22"
+      },
+      {
+        "team": "New Zealand A",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Apr 17, 10:00 AM",
+    "title": "Warwickshire - Essex",
+    "bets": [
+      {
+        "team": "Warwickshire",
+        "odds": "3.75"
+      },
+      {
+        "team": "Essex",
+        "odds": "1.24"
+      }
+    ]
+  },
+  {
+    "date": "Apr 17, 10:00 AM",
+    "title": "Hampshire - Somerset",
+    "bets": [
+      {
+        "team": "Hampshire",
+        "odds": "1.38"
+      },
+      {
+        "team": "Somerset",
+        "odds": "2.85"
+      }
+    ]
+  },
+  {
+    "date": "Apr 17, 10:00 AM",
+    "title": "Gloucestershire - Lancashire",
+    "bets": [
+      {
+        "team": "Gloucestershire",
+        "odds": "6.43"
+      },
+      {
+        "team": "Lancashire",
+        "odds": "1.09"
+      }
+    ]
+  },
+  {
+    "date": "Apr 17, 10:00 AM",
+    "title": "Northamptonshire - Middlesex",
+    "bets": [
+      {
+        "team": "Northamptonshire",
+        "odds": "1.41"
+      },
+      {
+        "team": "Middlesex",
+        "odds": "2.73"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:00 PM",
+    "title": "South Castries Lions - Choiseul Craft Masters",
+    "bets": [
+      {
+        "team": "South Castries Lions",
+        "odds": "1.38"
+      },
+      {
+        "team": "Choiseul Craft Masters",
+        "odds": "2.87"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 05:40 PM",
+    "title": "Chitkul Association - Almora Cricket",
+    "bets": [
+      {
+        "team": "Chitkul Association",
+        "odds": "1.34"
+      },
+      {
+        "team": "Almora Cricket",
+        "odds": "2.93"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:30 PM",
+    "title": "Clarion County Eagles - Space City Cowboys",
+    "bets": [
+      {
+        "team": "Clarion County Eagles",
+        "odds": "2.14"
+      },
+      {
+        "team": "Space City Cowboys",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:00 PM",
+    "title": "Nitros - Hawks Chennai",
+    "bets": [
+      {
+        "team": "Nitros",
+        "odds": "1.67"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.32"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:19 PM",
+    "title": "Chennai Super Kings (V) - Delhi Capitals (V)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (V)",
+        "odds": "1.23"
+      },
+      {
+        "team": "Delhi Capitals (V)",
+        "odds": "3.8"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:30 PM",
+    "title": "Tuskers Jammu - Hyperplayers",
+    "bets": [
+      {
+        "team": "Tuskers Jammu",
+        "odds": "1.45"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.11"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:40 PM",
+    "title": "South Africa (V) - New Zealand (V)",
+    "bets": [
+      {
+        "team": "South Africa (V)",
+        "odds": "1.59"
+      },
+      {
+        "team": "New Zealand (V)",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:51 PM",
+    "title": "Sri Lanka Legends (V) - Australia Legends (V)",
+    "bets": [
+      {
+        "team": "Sri Lanka Legends (V)",
+        "odds": "2.06"
+      },
+      {
+        "team": "Australia Legends (V)",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:54 PM",
+    "title": "Adelaide Strikers (V) - Perth Scorchers (V)",
+    "bets": [
+      {
+        "team": "Adelaide Strikers (V)",
+        "odds": "1.13"
+      },
+      {
+        "team": "Draw",
+        "odds": "11"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:57 PM",
+    "title": "Mumbai Indians (e) - Sunrisers Hyderabad (e)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e)",
+        "odds": "1.17"
+      },
+      {
+        "team": "Draw",
+        "odds": "11"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:57 PM",
+    "title": "Australia (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "Australia (V)",
+        "odds": "7.5"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:59 PM",
+    "title": "Royal Challengers Bengaluru (V) - Lucknow Super Giants (V)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bengaluru (V)",
+        "odds": "3"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:00 PM",
+    "title": "Fast Runners - Military",
+    "bets": [
+      {
+        "team": "Fast Runners",
+        "odds": "1.87"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.3"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:00 PM",
+    "title": "Green Sharks - Wizards Indoor",
+    "bets": [
+      {
+        "team": "Green Sharks",
+        "odds": "1.85"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.14"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:00 PM",
+    "title": "Delhi Capitals (e) - Chennai Super Kings (e)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (e)",
+        "odds": "1.56"
+      },
+      {
+        "team": "Draw",
+        "odds": "14"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:00 PM",
+    "title": "Royal Challengers Bengaluru (e-w) - Gujarat Giants (e-w)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bengaluru (e-w)",
+        "odds": "2.3"
+      },
+      {
+        "team": "Draw",
+        "odds": "14"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:00 PM",
+    "title": "Gujarat Titans (e) - Chennai Super Kings (e)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (e)",
+        "odds": "2.3"
+      },
+      {
+        "team": "Draw",
+        "odds": "14"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:01 PM",
+    "title": "Sri Lanka (V) - India (V)",
+    "bets": [
+      {
+        "team": "Sri Lanka (V)",
+        "odds": "3.25"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:00 PM",
+    "title": "Khanewal Kings - Sialkot Warriors",
+    "bets": [
+      {
+        "team": "Khanewal Kings",
+        "odds": "1.87"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.53"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 05:35 PM",
+    "title": "Kolkata Knight Riders (cyber) - Rajasthan Royals (cyber)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "16.83"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:05 PM",
+    "title": "Germany (cyber) - Zimbabwe (cyber)",
+    "bets": [
+      {
+        "team": "Germany (cyber)",
+        "odds": "1.7"
+      },
+      {
+        "team": "Zimbabwe (cyber)",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:35 PM",
+    "title": "Punjab Kings (cyber) - Mumbai Indians (cyber)",
+    "bets": [
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "2.06"
+      },
+      {
+        "team": "Mumbai Indians (cyber)",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 06:45 PM",
+    "title": "Royal Challengers Bengaluru (Azazel) - Chennai Super Kings (Scalpel)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bengaluru (Azazel)",
+        "odds": "1.09"
+      },
+      {
+        "team": "Chennai Super Kings (Scalpel)",
+        "odds": "5.66"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:05 PM",
+    "title": "New Zealand (cyber) - Sri Lanka (cyber)",
+    "bets": [
+      {
+        "team": "New Zealand (cyber)",
+        "odds": "1.26"
+      },
+      {
+        "team": "Sri Lanka (cyber)",
+        "odds": "3.05"
+      }
+    ]
+  }
+]

@@ -1,39 +1,11 @@
 [
   {
-    "date": "Apr 18, 10:00 AM",
-    "title": "Royal Challengers Bengaluru - Delhi Capitals",
-    "bets": [
-      {
-        "team": "Royal Challengers Bengaluru",
-        "odds": "1.63"
-      },
-      {
-        "team": "Delhi Capitals",
-        "odds": "2.28"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 02:00 PM",
-    "title": "Sunrisers Hyderabad - Chennai Super Kings",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad",
-        "odds": "1.75"
-      },
-      {
-        "team": "Chennai Super Kings",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
     "date": "Apr 19, 10:00 AM",
     "title": "Kolkata Knight Riders - Rajasthan Royals",
     "bets": [
       {
         "team": "Kolkata Knight Riders",
-        "odds": "2.34"
+        "odds": "2.33"
       },
       {
         "team": "Rajasthan Royals",
@@ -47,25 +19,25 @@
     "bets": [
       {
         "team": "Punjab Kings",
-        "odds": "1.6"
+        "odds": "1.59"
       },
       {
         "team": "Lucknow Super Giants",
-        "odds": "2.34"
+        "odds": "2.36"
       }
     ]
   },
   {
-    "date": "Apr 18, 02:00 PM",
-    "title": "Lahore Qalandars - Rawalpindi Pindiz",
+    "date": "Apr 20, 02:00 PM",
+    "title": "Gujarat Titans - Mumbai Indians",
     "bets": [
       {
-        "team": "Lahore Qalandars",
-        "odds": "1.65"
+        "team": "Gujarat Titans",
+        "odds": "1.94"
       },
       {
-        "team": "Rawalpindi Pindiz",
-        "odds": "2.22"
+        "team": "Mumbai Indians",
+        "odds": "1.86"
       }
     ]
   },
@@ -75,11 +47,11 @@
     "bets": [
       {
         "team": "Karachi Kings",
-        "odds": "2.04"
+        "odds": "2.12"
       },
       {
         "team": "Multan Sultans",
-        "odds": "1.75"
+        "odds": "1.71"
       }
     ]
   },
@@ -98,16 +70,16 @@
     ]
   },
   {
-    "date": "Apr 18, 12:00 PM",
-    "title": "Namibia - Scotland",
+    "date": "Apr 20, 05:00 AM",
+    "title": "Bangladesh - New Zealand",
     "bets": [
       {
-        "team": "Namibia",
-        "odds": "3.55"
+        "team": "Bangladesh",
+        "odds": "1.6"
       },
       {
-        "team": "Scotland",
-        "odds": "1.29"
+        "team": "New Zealand",
+        "odds": "2.34"
       }
     ]
   },
@@ -126,30 +98,16 @@
     ]
   },
   {
-    "date": "Apr 17, 11:30 PM",
-    "title": "Gros Islet Cannon Blasters - Micoud Eagles",
-    "bets": [
-      {
-        "team": "Gros Islet Cannon Blasters",
-        "odds": "1.69"
-      },
-      {
-        "team": "Micoud Eagles",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
     "date": "Apr 18, 07:00 PM",
     "title": "South Castries Lions - Choiseul Craft Masters",
     "bets": [
       {
         "team": "South Castries Lions",
-        "odds": "1.36"
+        "odds": "1.38"
       },
       {
         "team": "Choiseul Craft Masters",
-        "odds": "2.98"
+        "odds": "2.87"
       }
     ]
   },
@@ -159,221 +117,109 @@
     "bets": [
       {
         "team": "Ackelles City Blasters",
-        "odds": "1.59"
+        "odds": "1.66"
       },
       {
         "team": "Soufriere Titans",
-        "odds": "2.24"
+        "odds": "2.05"
       }
     ]
   },
   {
-    "date": "Apr 18, 12:00 AM",
-    "title": "Australia U-19 (w) - Sri Lanka U-19 (w)",
+    "date": "Apr 19, 11:25 AM",
+    "title": "South Africa (w) - India (w)",
     "bets": [
       {
-        "team": "Australia U-19 (w)",
-        "odds": "1.6"
-      },
-      {
-        "team": "Sri Lanka U-19 (w)",
-        "odds": "2.19"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 04:30 AM",
-    "title": "Koparkairne Titans - Kalyan Tuskers",
-    "bets": [
-      {
-        "team": "Koparkairne Titans",
-        "odds": "1.77"
-      },
-      {
-        "team": "Kalyan Tuskers",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 04:30 AM",
-    "title": "Thane Tigers - Sanpada Scorpions",
-    "bets": [
-      {
-        "team": "Thane Tigers",
-        "odds": "1.77"
-      },
-      {
-        "team": "Sanpada Scorpions",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 07:30 AM",
-    "title": "Lions - Western Province",
-    "bets": [
-      {
-        "team": "Lions",
-        "odds": "1.94"
-      },
-      {
-        "team": "Western Province",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 08:00 AM",
-    "title": "Melbourne Tuskers - Everest Falcons",
-    "bets": [
-      {
-        "team": "Melbourne Tuskers",
-        "odds": "1.63"
-      },
-      {
-        "team": "Everest Falcons",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Surrey (w) - Durham (w)",
-    "bets": [
-      {
-        "team": "Surrey (w)",
-        "odds": "1.48"
-      },
-      {
-        "team": "Durham (w)",
-        "odds": "2.64"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Essex (w) - Warwickshire (w)",
-    "bets": [
-      {
-        "team": "Essex (w)",
-        "odds": "2.34"
-      },
-      {
-        "team": "Warwickshire (w)",
-        "odds": "1.6"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Yorkshire (w) - The Blaze (w)",
-    "bets": [
-      {
-        "team": "Yorkshire (w)",
-        "odds": "2.64"
-      },
-      {
-        "team": "The Blaze (w)",
-        "odds": "1.48"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Virat Kohli - Pathum Nissanka",
-    "bets": [
-      {
-        "team": "Virat Kohli",
-        "odds": "1.57"
-      },
-      {
-        "team": "Pathum Nissanka",
-        "odds": "2.18"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Rajat Patidar - K.L. Rahul",
-    "bets": [
-      {
-        "team": "Rajat Patidar",
+        "team": "South Africa (w)",
         "odds": "1.87"
       },
       {
-        "team": "K.L. Rahul",
+        "team": "India (w)",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 07:00 PM",
+    "title": "Babonneau Leatherbacks - Mon Repos Stars",
+    "bets": [
+      {
+        "team": "Babonneau Leatherbacks",
+        "odds": "1.32"
+      },
+      {
+        "team": "Mon Repos Stars",
+        "odds": "3.02"
+      }
+    ]
+  },
+  {
+    "date": "Apr 20, 04:25 AM",
+    "title": "Bangladesh - New Zealand",
+    "bets": [
+      {
+        "team": "Bangladesh",
+        "odds": "2.5"
+      },
+      {
+        "team": "New Zealand",
+        "odds": "1.49"
+      }
+    ]
+  },
+  {
+    "date": "Apr 18, 07:03 PM",
+    "title": "Brisbane Heat (V) - Melbourne Stars (V)",
+    "bets": [
+      {
+        "team": "Brisbane Heat (V)",
+        "odds": "1.77"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 05:30 AM",
+    "title": "Dambulla - Galle",
+    "bets": [
+      {
+        "team": "Dambulla",
+        "odds": "1.89"
+      },
+      {
+        "team": "Galle",
         "odds": "1.79"
       }
     ]
   },
   {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Phil Salt - Sameer Rizvi",
+    "date": "Apr 19, 05:30 AM",
+    "title": "Colombo - Kandy",
     "bets": [
       {
-        "team": "Phil Salt",
-        "odds": "1.66"
+        "team": "Colombo",
+        "odds": "1.94"
       },
       {
-        "team": "Sameer Rizvi",
-        "odds": "2.04"
+        "team": "Kandy",
+        "odds": "1.74"
       }
     ]
   },
   {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Titans - Nashua Dolphins",
+    "date": "Apr 19, 08:00 AM",
+    "title": "Lions - Nashua Dolphins",
     "bets": [
       {
-        "team": "Titans",
-        "odds": "1.81"
+        "team": "Lions",
+        "odds": "1.65"
       },
       {
         "team": "Nashua Dolphins",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 01:30 PM",
-    "title": "Abhishek Sharma - Sanju Samson",
-    "bets": [
-      {
-        "team": "Abhishek Sharma",
-        "odds": "1.83"
-      },
-      {
-        "team": "Sanju Samson",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 01:30 PM",
-    "title": "Ishan Kishan - Ruturaj Gaikwad",
-    "bets": [
-      {
-        "team": "Ishan Kishan",
-        "odds": "1.71"
-      },
-      {
-        "team": "Ruturaj Gaikwad",
-        "odds": "1.97"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 01:30 PM",
-    "title": "Travis Head - Ayush Mhatre",
-    "bets": [
-      {
-        "team": "Travis Head",
-        "odds": "1.67"
-      },
-      {
-        "team": "Ayush Mhatre",
-        "odds": "2.02"
+        "odds": "2.22"
       }
     ]
   },
@@ -397,11 +243,11 @@
     "bets": [
       {
         "team": "Sussex Sharks (w)",
-        "odds": "1.8"
+        "odds": "1.92"
       },
       {
         "team": "Worcestershire Rapids (w)",
-        "odds": "1.9"
+        "odds": "1.81"
       }
     ]
   },
@@ -411,11 +257,11 @@
     "bets": [
       {
         "team": "Middlesex (w)",
-        "odds": "1.38"
+        "odds": "1.34"
       },
       {
         "team": "Gloucestershire (w)",
-        "odds": "2.8"
+        "odds": "3.05"
       }
     ]
   },
@@ -429,7 +275,7 @@
       },
       {
         "team": "Derbyshire Falcons (w)",
-        "odds": "2.05"
+        "odds": "2.06"
       }
     ]
   },
@@ -439,39 +285,151 @@
     "bets": [
       {
         "team": "Glamorgan (w)",
-        "odds": "1.69"
+        "odds": "1.57"
       },
       {
         "team": "Leicestershire Foxes (w)",
-        "odds": "2.05"
+        "odds": "2.28"
       }
     ]
   },
   {
-    "date": "Apr 18, 03:00 AM",
-    "title": "Satellite Gladiators - Pir Wadhai Cheetas",
+    "date": "Apr 19, 09:30 AM",
+    "title": "Ajinkya Rahane - Yashasvi Jaiswal",
     "bets": [
       {
-        "team": "Satellite Gladiators",
-        "odds": "1.9"
+        "team": "Ajinkya Rahane",
+        "odds": "2.17"
       },
       {
-        "team": "Pir Wadhai Cheetas",
+        "team": "Yashasvi Jaiswal",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 09:30 AM",
+    "title": "Angkrish Raghuvanshi - Vaibhav Suryavanshi",
+    "bets": [
+      {
+        "team": "Angkrish Raghuvanshi",
+        "odds": "2.17"
+      },
+      {
+        "team": "Vaibhav Suryavanshi",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 09:30 AM",
+    "title": "Tim Seifert - Riyan Parag",
+    "bets": [
+      {
+        "team": "Tim Seifert",
+        "odds": "1.74"
+      },
+      {
+        "team": "Riyan Parag",
+        "odds": "1.93"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 10:00 AM",
+    "title": "Titans - Western Province",
+    "bets": [
+      {
+        "team": "Titans",
+        "odds": "1.35"
+      },
+      {
+        "team": "Western Province",
+        "odds": "3.15"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 01:30 PM",
+    "title": "Prabhsimran Singh - Mitchell Marsh",
+    "bets": [
+      {
+        "team": "Prabhsimran Singh",
+        "odds": "1.79"
+      },
+      {
+        "team": "Mitchell Marsh",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 01:30 PM",
+    "title": "Priyansh Arya - Aiden Markram",
+    "bets": [
+      {
+        "team": "Priyansh Arya",
+        "odds": "1.83"
+      },
+      {
+        "team": "Aiden Markram",
         "odds": "1.83"
       }
     ]
   },
   {
-    "date": "Apr 18, 07:00 AM",
-    "title": "Tarnol Wolves - Dhamyal Panthers",
+    "date": "Apr 19, 01:30 PM",
+    "title": "Cooper Connolly - Rishabh Pant",
     "bets": [
       {
-        "team": "Tarnol Wolves",
-        "odds": "1.92"
+        "team": "Cooper Connolly",
+        "odds": "1.78"
       },
       {
-        "team": "Dhamyal Panthers",
-        "odds": "1.81"
+        "team": "Rishabh Pant",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 02:00 PM",
+    "title": "Windwards Volcanoes - Guyana Harpy Eagles",
+    "bets": [
+      {
+        "team": "Windwards Volcanoes",
+        "odds": "2.46"
+      },
+      {
+        "team": "Guyana Harpy Eagles",
+        "odds": "1.44"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 02:00 PM",
+    "title": "Leeward Islands - Trinidad and Tobago Red Force",
+    "bets": [
+      {
+        "team": "Leeward Islands",
+        "odds": "2.39"
+      },
+      {
+        "team": "Trinidad and Tobago Red Force",
+        "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 03:00 PM",
+    "title": "Jamaica Scorpions - Barbados Pride",
+    "bets": [
+      {
+        "team": "Jamaica Scorpions",
+        "odds": "2.04"
+      },
+      {
+        "team": "Barbados Pride",
+        "odds": "1.64"
       }
     ]
   },
@@ -504,82 +462,40 @@
     ]
   },
   {
-    "date": "Apr 18, 08:00 AM",
+    "date": "Apr 19, 11:00 AM",
+    "title": "Attock Warriors - Azizabad Vipers",
+    "bets": [
+      {
+        "team": "Attock Warriors",
+        "odds": "1.83"
+      },
+      {
+        "team": "Azizabad Vipers",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 08:00 AM",
     "title": "La Furia Roja - La Maria Azul",
     "bets": [
       {
         "team": "La Furia Roja",
-        "odds": "1.7"
+        "odds": "1.86"
       },
       {
         "team": "La Maria Azul",
-        "odds": "2.06"
+        "odds": "1.86"
       }
     ]
   },
   {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Virat Kohli - Suryakumar Yadav",
+    "date": "Apr 19, 09:30 AM",
+    "title": "K.L. Rahul - Yashasvi Jaiswal",
     "bets": [
       {
-        "team": "Virat Kohli",
-        "odds": "1.18"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Jos Buttler - Phil Salt",
-    "bets": [
-      {
-        "team": "Jos Buttler",
-        "odds": "1.28"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 09:30 AM",
-    "title": "Mitchell Marsh - Travis Head",
-    "bets": [
-      {
-        "team": "Mitchell Marsh",
-        "odds": "1.77"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 01:30 PM",
-    "title": "Shubman Gill - Abhishek Sharma",
-    "bets": [
-      {
-        "team": "Shubman Gill",
-        "odds": "1.08"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 18, 01:30 PM",
-    "title": "Sanju Samson - Shreyas Iyer",
-    "bets": [
-      {
-        "team": "Sanju Samson",
-        "odds": "2.26"
+        "team": "K.L. Rahul",
+        "odds": "2.01"
       },
       {
         "team": "Draw",
@@ -594,6 +510,76 @@
       {
         "team": "Ajinkya Rahane",
         "odds": "4.68"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 01:30 PM",
+    "title": "Sanju Samson - Shreyas Iyer",
+    "bets": [
+      {
+        "team": "Sanju Samson",
+        "odds": "2.17"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 19, 01:30 PM",
+    "title": "Mitchell Marsh - Travis Head",
+    "bets": [
+      {
+        "team": "Mitchell Marsh",
+        "odds": "2.03"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 20, 01:30 PM",
+    "title": "Virat Kohli - Suryakumar Yadav",
+    "bets": [
+      {
+        "team": "Virat Kohli",
+        "odds": "1.21"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 20, 01:30 PM",
+    "title": "Shubman Gill - Abhishek Sharma",
+    "bets": [
+      {
+        "team": "Shubman Gill",
+        "odds": "1.22"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 20, 01:30 PM",
+    "title": "Jos Buttler - Phil Salt",
+    "bets": [
+      {
+        "team": "Jos Buttler",
+        "odds": "1.43"
       },
       {
         "team": "Draw",
