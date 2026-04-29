@@ -1,132 +1,62 @@
 [
   {
-    "date": "Apr 24, 02:00 PM",
-    "title": "Royal Challengers Bengaluru - Gujarat Titans",
+    "date": "Apr 30, 02:00 PM",
+    "title": "Gujarat Titans - Royal Challengers Bengaluru",
     "bets": [
-      {
-        "team": "Royal Challengers Bengaluru",
-        "odds": "1.6"
-      },
       {
         "team": "Gujarat Titans",
-        "odds": "2.33"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 10:00 AM",
-    "title": "Delhi Capitals - Punjab Kings",
-    "bets": [
-      {
-        "team": "Delhi Capitals",
-        "odds": "2.18"
-      },
-      {
-        "team": "Punjab Kings",
-        "odds": "1.68"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 02:00 PM",
-    "title": "Rajasthan Royals - Sunrisers Hyderabad",
-    "bets": [
-      {
-        "team": "Rajasthan Royals",
-        "odds": "1.85"
-      },
-      {
-        "team": "Sunrisers Hyderabad",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 02:00 PM",
-    "title": "Hyderabad Kingsmen - Islamabad United",
-    "bets": [
-      {
-        "team": "Hyderabad Kingsmen",
-        "odds": "1.86"
-      },
-      {
-        "team": "Islamabad United",
-        "odds": "1.94"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 09:30 AM",
-    "title": "Quetta Gladiators - Karachi Kings",
-    "bets": [
-      {
-        "team": "Quetta Gladiators",
         "odds": "2.22"
       },
       {
-        "team": "Karachi Kings",
-        "odds": "1.65"
+        "team": "Royal Challengers Bengaluru",
+        "odds": "1.66"
       }
     ]
   },
   {
-    "date": "Apr 25, 02:00 PM",
-    "title": "Lahore Qalandars - Peshawar Zalmi",
+    "date": "May 1, 02:00 PM",
+    "title": "Rajasthan Royals - Delhi Capitals",
     "bets": [
       {
-        "team": "Lahore Qalandars",
-        "odds": "2.18"
+        "team": "Rajasthan Royals",
+        "odds": "1.6"
       },
       {
-        "team": "Peshawar Zalmi",
-        "odds": "1.68"
+        "team": "Delhi Capitals",
+        "odds": "2.34"
       }
     ]
   },
   {
-    "date": "Apr 25, 03:30 AM",
+    "date": "May 1, 02:00 PM",
+    "title": "Islamabad United - Hyderabad Kingsmen",
+    "bets": [
+      {
+        "team": "Islamabad United",
+        "odds": "1.8"
+      },
+      {
+        "team": "Hyderabad Kingsmen",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Apr 30, 07:30 AM",
     "title": "Bangladesh (w) - Sri Lanka (w)",
     "bets": [
       {
         "team": "Bangladesh (w)",
-        "odds": "2.86"
+        "odds": "2.78"
       },
       {
         "team": "Sri Lanka (w)",
-        "odds": "1.41"
+        "odds": "1.43"
       }
     ]
   },
   {
-    "date": "Apr 24, 03:15 AM",
-    "title": "Nepal A - Oman",
-    "bets": [
-      {
-        "team": "Nepal A",
-        "odds": "2.33"
-      },
-      {
-        "team": "Oman",
-        "odds": "1.53"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 08:15 AM",
-    "title": "Cyprus (w) - Croatia (w)",
-    "bets": [
-      {
-        "team": "Cyprus (w)",
-        "odds": "1.15"
-      },
-      {
-        "team": "Croatia (w)",
-        "odds": "4.85"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 03:45 AM",
+    "date": "May 1, 03:45 AM",
     "title": "Nepal - United Arab Emirates",
     "bets": [
       {
@@ -140,562 +70,240 @@
     ]
   },
   {
-    "date": "Apr 25, 04:00 PM",
-    "title": "South Africa (w) - India (w)",
+    "date": "Apr 29, 11:30 PM",
+    "title": "Micoud Eagles - South Castries Lions",
     "bets": [
       {
-        "team": "South Africa (w)",
-        "odds": "2.06"
+        "team": "Micoud Eagles",
+        "odds": "2.28"
       },
       {
-        "team": "India (w)",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 10:00 AM",
-    "title": "Derbyshire - Gloucestershire",
-    "bets": [
-      {
-        "team": "Derbyshire",
-        "odds": "1.51"
-      },
-      {
-        "team": "Gloucestershire",
-        "odds": "2.34"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 10:00 AM",
-    "title": "Durham - Lancashire",
-    "bets": [
-      {
-        "team": "Durham",
-        "odds": "1.79"
-      },
-      {
-        "team": "Lancashire",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 10:00 AM",
-    "title": "Nottinghamshire - Warwickshire",
-    "bets": [
-      {
-        "team": "Nottinghamshire",
-        "odds": "1.6"
-      },
-      {
-        "team": "Warwickshire",
-        "odds": "2.11"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 10:00 AM",
-    "title": "Glamorgan - Leicestershire",
-    "bets": [
-      {
-        "team": "Glamorgan",
-        "odds": "1.82"
-      },
-      {
-        "team": "Leicestershire",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 10:00 AM",
-    "title": "Yorkshire - Sussex",
-    "bets": [
-      {
-        "team": "Yorkshire",
-        "odds": "2.02"
-      },
-      {
-        "team": "Sussex",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 10:00 AM",
-    "title": "Surrey - Essex",
-    "bets": [
-      {
-        "team": "Surrey",
-        "odds": "1.47"
-      },
-      {
-        "team": "Essex",
-        "odds": "2.39"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 10:00 AM",
-    "title": "Worcestershire - Kent",
-    "bets": [
-      {
-        "team": "Worcestershire",
-        "odds": "1.44"
-      },
-      {
-        "team": "Kent",
-        "odds": "2.54"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 01:30 PM",
-    "title": "Shubman Gill - Abhishek Sharma",
-    "bets": [
-      {
-        "team": "Shubman Gill",
-        "odds": "1.69"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 01:30 PM",
-    "title": "Jos Buttler - Phil Salt",
-    "bets": [
-      {
-        "team": "Jos Buttler",
-        "odds": "1.81"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 11:30 PM",
-    "title": "Choiseul Craft Masters - Gros Islet Cannon Blasters",
-    "bets": [
-      {
-        "team": "Choiseul Craft Masters",
-        "odds": "1.98"
-      },
-      {
-        "team": "Gros Islet Cannon Blasters",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 09:30 AM",
-    "title": "K.L. Rahul - Yashasvi Jaiswal",
-    "bets": [
-      {
-        "team": "K.L. Rahul",
-        "odds": "2.27"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 01:30 PM",
-    "title": "Mitchell Marsh - Travis Head",
-    "bets": [
-      {
-        "team": "Mitchell Marsh",
-        "odds": "1.52"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 01:30 PM",
-    "title": "Ajinkya Rahane - Vaibhav Suryavanshi",
-    "bets": [
-      {
-        "team": "Ajinkya Rahane",
-        "odds": "5.63"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 03:30 AM",
-    "title": "Dragon XI - Himalayan XI",
-    "bets": [
-      {
-        "team": "Dragon XI",
-        "odds": "1.58"
-      },
-      {
-        "team": "Himalayan XI",
-        "odds": "2.26"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 07:00 AM",
-    "title": "Nepal (w) - Vanuatu (w)",
-    "bets": [
-      {
-        "team": "Nepal (w)",
-        "odds": "1.41"
-      },
-      {
-        "team": "Vanuatu (w)",
-        "odds": "2.64"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 08:00 AM",
-    "title": "Bodoland - Kokrajhar CCC",
-    "bets": [
-      {
-        "team": "Bodoland",
-        "odds": "1.69"
-      },
-      {
-        "team": "Kokrajhar CCC",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 11:00 AM",
-    "title": "Italy (w) - USA (w)",
-    "bets": [
-      {
-        "team": "Italy (w)",
-        "odds": "2.38"
-      },
-      {
-        "team": "USA (w)",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 01:30 PM",
-    "title": "Virat Kohli - Shubman Gill",
-    "bets": [
-      {
-        "team": "Virat Kohli",
-        "odds": "1.7"
-      },
-      {
-        "team": "Shubman Gill",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 01:30 PM",
-    "title": "Phil Salt - Sai Sudharsan",
-    "bets": [
-      {
-        "team": "Phil Salt",
-        "odds": "2.05"
-      },
-      {
-        "team": "Sai Sudharsan",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 01:30 PM",
-    "title": "Devdutt Padikkal - Jos Buttler",
-    "bets": [
-      {
-        "team": "Devdutt Padikkal",
-        "odds": "2.42"
-      },
-      {
-        "team": "Jos Buttler",
-        "odds": "1.47"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 03:30 AM",
-    "title": "Thunder XI (w) - Kokrajhar CC (w)",
-    "bets": [
-      {
-        "team": "Thunder XI (w)",
-        "odds": "1.53"
-      },
-      {
-        "team": "Kokrajhar CC (w)",
-        "odds": "2.38"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 09:30 AM",
-    "title": "Essex (w) - The Blaze (w)",
-    "bets": [
-      {
-        "team": "Essex (w)",
-        "odds": "2.64"
-      },
-      {
-        "team": "The Blaze (w)",
-        "odds": "1.48"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 09:30 AM",
-    "title": "Hampshire (w) - Durham (w)",
-    "bets": [
-      {
-        "team": "Hampshire (w)",
-        "odds": "1.48"
-      },
-      {
-        "team": "Durham (w)",
-        "odds": "2.64"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 09:30 AM",
-    "title": "Somerset (w) - Surrey (w)",
-    "bets": [
-      {
-        "team": "Somerset (w)",
-        "odds": "2.42"
-      },
-      {
-        "team": "Surrey (w)",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 09:30 AM",
-    "title": "Lancashire (w) - Yorkshire (w)",
-    "bets": [
-      {
-        "team": "Lancashire (w)",
-        "odds": "1.6"
-      },
-      {
-        "team": "Yorkshire (w)",
-        "odds": "2.34"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 03:30 AM",
-    "title": "Bahria Hawks - Pir Wadhai Cheetas",
-    "bets": [
-      {
-        "team": "Bahria Hawks",
-        "odds": "1.86"
-      },
-      {
-        "team": "Pir Wadhai Cheetas",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 07:30 AM",
-    "title": "Satellite Gladiators - Kartapura Knight Riders",
-    "bets": [
-      {
-        "team": "Satellite Gladiators",
-        "odds": "2.06"
-      },
-      {
-        "team": "Kartapura Knight Riders",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "Apr 24, 11:30 AM",
-    "title": "Tarnol Wolves - Saddar Lions",
-    "bets": [
-      {
-        "team": "Tarnol Wolves",
-        "odds": "2.34"
-      },
-      {
-        "team": "Saddar Lions",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 12:00 AM",
-    "title": "DMV Hawks - Comets CC",
-    "bets": [
-      {
-        "team": "DMV Hawks",
-        "odds": "3.11"
-      },
-      {
-        "team": "Comets CC",
-        "odds": "1.3"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 11:00 AM",
-    "title": "Leinster 1 - Balbriggan 1",
-    "bets": [
-      {
-        "team": "Leinster 1",
-        "odds": "1.27"
-      },
-      {
-        "team": "Balbriggan 1",
-        "odds": "3.22"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 11:00 AM",
-    "title": "Railway Union 1 - Pembroke 1",
-    "bets": [
-      {
-        "team": "Railway Union 1",
-        "odds": "3.97"
-      },
-      {
-        "team": "Pembroke 1",
-        "odds": "1.18"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 11:00 AM",
-    "title": "Phoenix 1 - Cork County 1",
-    "bets": [
-      {
-        "team": "Phoenix 1",
-        "odds": "1.14"
-      },
-      {
-        "team": "Cork County 1",
-        "odds": "4.41"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 11:00 AM",
-    "title": "Malahide 1 - Merrion 1",
-    "bets": [
-      {
-        "team": "Malahide 1",
-        "odds": "3.87"
-      },
-      {
-        "team": "Merrion 1",
-        "odds": "1.19"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 11:00 AM",
-    "title": "Civil Service 1 - Clontarf 1",
-    "bets": [
-      {
-        "team": "Civil Service 1",
-        "odds": "3.23"
-      },
-      {
-        "team": "Clontarf 1",
-        "odds": "1.27"
-      }
-    ]
-  },
-  {
-    "date": "Apr 25, 11:00 AM",
-    "title": "North County 1 - Rush 1",
-    "bets": [
-      {
-        "team": "North County 1",
-        "odds": "2.17"
-      },
-      {
-        "team": "Rush 1",
+        "team": "South Castries Lions",
         "odds": "1.57"
       }
     ]
   },
   {
-    "date": "Apr 25, 03:00 PM",
-    "title": "DC United - Khulle Sher",
+    "date": "Apr 30, 01:30 PM",
+    "title": "Virat Kohli - Suryakumar Yadav",
     "bets": [
       {
-        "team": "DC United",
-        "odds": "1.23"
+        "team": "Virat Kohli",
+        "odds": "1.03"
       },
       {
-        "team": "Khulle Sher",
-        "odds": "3.62"
+        "team": "Draw",
+        "odds": "51"
       }
     ]
   },
   {
-    "date": "Apr 25, 03:00 PM",
-    "title": "Washington - Cosmos Washington",
+    "date": "Apr 30, 01:30 PM",
+    "title": "Shubman Gill - Abhishek Sharma",
     "bets": [
       {
-        "team": "Washington",
-        "odds": "2.77"
+        "team": "Shubman Gill",
+        "odds": "2.17"
       },
       {
-        "team": "Cosmos Washington",
-        "odds": "1.37"
+        "team": "Draw",
+        "odds": "51"
       }
     ]
   },
   {
-    "date": "Apr 25, 04:00 PM",
-    "title": "VA Wolves - Fairfax CC",
+    "date": "May 1, 10:00 AM",
+    "title": "Kent - Derbyshire",
     "bets": [
       {
-        "team": "VA Wolves",
-        "odds": "1.34"
+        "team": "Kent",
+        "odds": "2.4"
       },
       {
-        "team": "Fairfax CC",
-        "odds": "2.87"
+        "team": "Derbyshire",
+        "odds": "1.55"
       }
     ]
   },
   {
-    "date": "Apr 25, 04:00 PM",
-    "title": "Continental Washington - Venom Washington",
+    "date": "May 1, 10:00 AM",
+    "title": "Middlesex - Durham",
     "bets": [
       {
-        "team": "Continental Washington",
-        "odds": "4.33"
+        "team": "Middlesex",
+        "odds": "2.52"
       },
       {
-        "team": "Venom Washington",
-        "odds": "1.16"
+        "team": "Durham",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "May 1, 10:00 AM",
+    "title": "Northamptonshire - Worcestershire",
+    "bets": [
+      {
+        "team": "Northamptonshire",
+        "odds": "2.04"
+      },
+      {
+        "team": "Worcestershire",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "May 1, 10:00 AM",
+    "title": "Hampshire - Glamorgan",
+    "bets": [
+      {
+        "team": "Hampshire",
+        "odds": "1.6"
+      },
+      {
+        "team": "Glamorgan",
+        "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "May 1, 10:00 AM",
+    "title": "Leicestershire - Nottinghamshire",
+    "bets": [
+      {
+        "team": "Leicestershire",
+        "odds": "2.7"
+      },
+      {
+        "team": "Nottinghamshire",
+        "odds": "1.44"
+      }
+    ]
+  },
+  {
+    "date": "May 1, 10:00 AM",
+    "title": "Somerset - Yorkshire",
+    "bets": [
+      {
+        "team": "Somerset",
+        "odds": "1.78"
+      },
+      {
+        "team": "Yorkshire",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "May 1, 10:00 AM",
+    "title": "Surrey - Sussex",
+    "bets": [
+      {
+        "team": "Surrey",
+        "odds": "1.4"
+      },
+      {
+        "team": "Sussex",
+        "odds": "2.82"
+      }
+    ]
+  },
+  {
+    "date": "May 1, 01:30 PM",
+    "title": "K.L. Rahul - Yashasvi Jaiswal",
+    "bets": [
+      {
+        "team": "K.L. Rahul",
+        "odds": "1.53"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "May 1, 01:30 PM",
+    "title": "Ajinkya Rahane - Vaibhav Suryavanshi",
+    "bets": [
+      {
+        "team": "Ajinkya Rahane",
+        "odds": "15.94"
+      },
+      {
+        "team": "Draw",
+        "odds": "51"
+      }
+    ]
+  },
+  {
+    "date": "Apr 30, 07:00 AM",
+    "title": "Italy (w) - USA (w)",
+    "bets": [
+      {
+        "team": "Italy (w)",
+        "odds": "3.02"
+      },
+      {
+        "team": "USA (w)",
+        "odds": "1.32"
+      }
+    ]
+  },
+  {
+    "date": "Apr 30, 11:00 AM",
+    "title": "Nepal (w) - Vanuatu (w)",
+    "bets": [
+      {
+        "team": "Nepal (w)",
+        "odds": "1.5"
+      },
+      {
+        "team": "Vanuatu (w)",
+        "odds": "2.37"
+      }
+    ]
+  },
+  {
+    "date": "Apr 30, 01:30 PM",
+    "title": "Shubman Gill - Virat Kohli",
+    "bets": [
+      {
+        "team": "Shubman Gill",
+        "odds": "1.93"
+      },
+      {
+        "team": "Virat Kohli",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Apr 30, 01:30 PM",
+    "title": "Sai Sudharsan - Jacob Bethell",
+    "bets": [
+      {
+        "team": "Sai Sudharsan",
+        "odds": "1.54"
+      },
+      {
+        "team": "Jacob Bethell",
+        "odds": "2.27"
+      }
+    ]
+  },
+  {
+    "date": "Apr 30, 01:30 PM",
+    "title": "Jos Buttler - Devdutt Padikkal",
+    "bets": [
+      {
+        "team": "Jos Buttler",
+        "odds": "1.61"
+      },
+      {
+        "team": "Devdutt Padikkal",
+        "odds": "2.12"
       }
     ]
   }
