@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Rajasthan Royals",
-        "odds": "1.66"
+        "odds": "1.7"
       },
       {
         "team": "Delhi Capitals",
-        "odds": "2.22"
+        "odds": "2.15"
       }
     ]
   },
@@ -252,16 +252,44 @@
     ]
   },
   {
-    "date": "Apr 30, 04:17 PM",
-    "title": "Rajasthan Royals (V) - Kolkata Knight Riders (V)",
+    "date": "May 1, 01:30 PM",
+    "title": "Yashasvi Jaiswal - K.L. Rahul",
     "bets": [
       {
-        "team": "Rajasthan Royals (V)",
-        "odds": "1.77"
+        "team": "Yashasvi Jaiswal",
+        "odds": "1.95"
       },
       {
-        "team": "Draw",
-        "odds": "15"
+        "team": "K.L. Rahul",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "May 1, 01:30 PM",
+    "title": "Dhruv Jurel - Nitish Rana",
+    "bets": [
+      {
+        "team": "Dhruv Jurel",
+        "odds": "1.83"
+      },
+      {
+        "team": "Nitish Rana",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "May 1, 01:30 PM",
+    "title": "Vaibhav Suryavanshi - Sahil Parakh",
+    "bets": [
+      {
+        "team": "Vaibhav Suryavanshi",
+        "odds": "1.37"
+      },
+      {
+        "team": "Sahil Parakh",
+        "odds": "2.85"
       }
     ]
   },
@@ -346,6 +374,48 @@
       {
         "team": "PINT A Grade",
         "odds": "2.35"
+      }
+    ]
+  },
+  {
+    "date": "May 2, 09:00 AM",
+    "title": "HCC - VRA",
+    "bets": [
+      {
+        "team": "HCC",
+        "odds": "1.95"
+      },
+      {
+        "team": "VRA",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "May 2, 09:00 AM",
+    "title": "SV Kampong - VOC",
+    "bets": [
+      {
+        "team": "SV Kampong",
+        "odds": "1.19"
+      },
+      {
+        "team": "VOC",
+        "odds": "4"
+      }
+    ]
+  },
+  {
+    "date": "May 2, 09:00 AM",
+    "title": "VCC - HBS",
+    "bets": [
+      {
+        "team": "VCC",
+        "odds": "1.57"
+      },
+      {
+        "team": "HBS",
+        "odds": "2.16"
       }
     ]
   },
