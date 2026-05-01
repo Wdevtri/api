@@ -1,19 +1,5 @@
 [
   {
-    "date": "May 1, 02:00 PM",
-    "title": "Rajasthan Royals - Delhi Capitals",
-    "bets": [
-      {
-        "team": "Rajasthan Royals",
-        "odds": "1.73"
-      },
-      {
-        "team": "Delhi Capitals",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
     "date": "May 2, 02:00 PM",
     "title": "Chennai Super Kings - Mumbai Indians",
     "bets": [
@@ -42,16 +28,16 @@
     ]
   },
   {
-    "date": "May 1, 02:00 PM",
-    "title": "Islamabad United - Hyderabad Kingsmen",
+    "date": "May 3, 02:00 PM",
+    "title": "Gujarat Titans - Punjab Kings",
     "bets": [
       {
-        "team": "Islamabad United",
-        "odds": "1.82"
+        "team": "Gujarat Titans",
+        "odds": "2.06"
       },
       {
-        "team": "Hyderabad Kingsmen",
-        "odds": "1.99"
+        "team": "Punjab Kings",
+        "odds": "1.74"
       }
     ]
   },
@@ -94,34 +80,6 @@
       {
         "team": "New Zealand",
         "odds": "2.34"
-      }
-    ]
-  },
-  {
-    "date": "May 1, 01:30 PM",
-    "title": "K.L. Rahul - Yashasvi Jaiswal",
-    "bets": [
-      {
-        "team": "K.L. Rahul",
-        "odds": "1.53"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
-      }
-    ]
-  },
-  {
-    "date": "May 1, 01:30 PM",
-    "title": "Ajinkya Rahane - Vaibhav Suryavanshi",
-    "bets": [
-      {
-        "team": "Ajinkya Rahane",
-        "odds": "15.94"
-      },
-      {
-        "team": "Draw",
-        "odds": "51"
       }
     ]
   },
@@ -210,44 +168,16 @@
     ]
   },
   {
-    "date": "May 1, 01:30 PM",
-    "title": "Yashasvi Jaiswal - K.L. Rahul",
+    "date": "May 1, 02:45 PM",
+    "title": "Sri Lanka (V) - Bangladesh (V)",
     "bets": [
       {
-        "team": "Yashasvi Jaiswal",
-        "odds": "1.95"
-      },
-      {
-        "team": "K.L. Rahul",
+        "team": "Sri Lanka (V)",
         "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "May 1, 01:30 PM",
-    "title": "Dhruv Jurel - Nitish Rana",
-    "bets": [
-      {
-        "team": "Dhruv Jurel",
-        "odds": "1.83"
       },
       {
-        "team": "Nitish Rana",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "May 1, 01:30 PM",
-    "title": "Vaibhav Suryavanshi - Sahil Parakh",
-    "bets": [
-      {
-        "team": "Vaibhav Suryavanshi",
-        "odds": "1.37"
-      },
-      {
-        "team": "Sahil Parakh",
-        "odds": "2.85"
+        "team": "Draw",
+        "odds": "15"
       }
     ]
   },
