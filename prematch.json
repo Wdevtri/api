@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Chennai Super Kings",
-        "odds": "2.1"
+        "odds": "2.05"
       },
       {
         "team": "Mumbai Indians",
-        "odds": "1.74"
+        "odds": "1.77"
       }
     ]
   },
@@ -61,11 +61,11 @@
     "bets": [
       {
         "team": "Bangladesh (w)",
-        "odds": "2.94"
+        "odds": "2.85"
       },
       {
         "team": "Sri Lanka (w)",
-        "odds": "1.4"
+        "odds": "1.39"
       }
     ]
   },
@@ -79,7 +79,7 @@
       },
       {
         "team": "New Zealand",
-        "odds": "2.34"
+        "odds": "2.33"
       }
     ]
   },
@@ -93,7 +93,7 @@
       },
       {
         "team": "Austria",
-        "odds": "8"
+        "odds": "7.77"
       }
     ]
   },
@@ -103,11 +103,11 @@
     "bets": [
       {
         "team": "United Arab Emirates",
-        "odds": "1.65"
+        "odds": "1.63"
       },
       {
         "team": "Oman",
-        "odds": "2.22"
+        "odds": "2.1"
       }
     ]
   },
@@ -196,30 +196,16 @@
     ]
   },
   {
-    "date": "May 2, 04:30 AM",
-    "title": "Speen Ghar Region - Boost Region",
-    "bets": [
-      {
-        "team": "Speen Ghar Region",
-        "odds": "2.04"
-      },
-      {
-        "team": "Boost Region",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
     "date": "May 2, 09:30 AM",
     "title": "Durham (w) - The Blaze (w)",
     "bets": [
       {
         "team": "Durham (w)",
-        "odds": "2.86"
+        "odds": "2.69"
       },
       {
         "team": "The Blaze (w)",
-        "odds": "1.41"
+        "odds": "1.37"
       }
     ]
   },
@@ -229,11 +215,11 @@
     "bets": [
       {
         "team": "Lancashire (w)",
-        "odds": "2.56"
+        "odds": "2.32"
       },
       {
         "team": "Hampshire (w)",
-        "odds": "1.51"
+        "odds": "1.5"
       }
     ]
   },
@@ -243,11 +229,11 @@
     "bets": [
       {
         "team": "Yorkshire (w)",
-        "odds": "1.72"
+        "odds": "1.69"
       },
       {
         "team": "Essex (w)",
-        "odds": "2.1"
+        "odds": "1.97"
       }
     ]
   },
@@ -257,11 +243,11 @@
     "bets": [
       {
         "team": "Warwickshire (w)",
-        "odds": "2"
+        "odds": "2.06"
       },
       {
         "team": "Somerset (w)",
-        "odds": "1.72"
+        "odds": "1.63"
       }
     ]
   },
@@ -271,11 +257,11 @@
     "bets": [
       {
         "team": "Mis Ainak Region",
-        "odds": "1.66"
+        "odds": "1.56"
       },
       {
         "team": "Amo Region",
-        "odds": "2.1"
+        "odds": "2.2"
       }
     ]
   },
@@ -327,11 +313,11 @@
     "bets": [
       {
         "team": "Gloucestershire (w)",
-        "odds": "2.25"
+        "odds": "2.2"
       },
       {
         "team": "Northamptonshire Steelbacks (w)",
-        "odds": "1.57"
+        "odds": "1.55"
       }
     ]
   },
@@ -341,11 +327,11 @@
     "bets": [
       {
         "team": "Sussex Sharks (w)",
-        "odds": "1.69"
+        "odds": "1.65"
       },
       {
         "team": "Kent (w)",
-        "odds": "2.05"
+        "odds": "2.03"
       }
     ]
   },
@@ -355,11 +341,11 @@
     "bets": [
       {
         "team": "Worcestershire Rapids (w)",
-        "odds": "2.2"
+        "odds": "2.15"
       },
       {
         "team": "Leicestershire Foxes (w)",
-        "odds": "1.6"
+        "odds": "1.57"
       }
     ]
   },
@@ -416,34 +402,6 @@
       {
         "team": "Waratah Warriors",
         "odds": "1.48"
-      }
-    ]
-  },
-  {
-    "date": "May 2, 05:30 AM",
-    "title": "East Kanto Sunrisers - North Kanto Lions",
-    "bets": [
-      {
-        "team": "East Kanto Sunrisers",
-        "odds": "1.7"
-      },
-      {
-        "team": "North Kanto Lions",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "May 2, 05:30 AM",
-    "title": "West Kanto Hurricanes - Kansai Chargers",
-    "bets": [
-      {
-        "team": "West Kanto Hurricanes",
-        "odds": "1.98"
-      },
-      {
-        "team": "Kansai Chargers",
-        "odds": "1.71"
       }
     ]
   },
