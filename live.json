@@ -1,1 +1,324 @@
-[]
+[
+  {
+    "date": "May 7, 07:00 AM",
+    "title": "Malta - Gibraltar",
+    "bets": [
+      {
+        "team": "Malta",
+        "odds": "1.45"
+      },
+      {
+        "team": "Gibraltar",
+        "odds": "2.75"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 03:15 AM",
+    "title": "Nepal A - Scotland",
+    "bets": [
+      {
+        "team": "Nepal A",
+        "odds": "3.28"
+      },
+      {
+        "team": "Scotland",
+        "odds": "1.34"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 08:27 AM",
+    "title": "Rewari Racers - Tanaji Cricketers",
+    "bets": [
+      {
+        "team": "Rewari Racers",
+        "odds": "2.61"
+      },
+      {
+        "team": "Tanaji Cricketers",
+        "odds": "1.42"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 08:29 AM",
+    "title": "Punjab Kings (V) - Gujarat Titans (V)",
+    "bets": [
+      {
+        "team": "Punjab Kings (V)",
+        "odds": "1.74"
+      },
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "1.97"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 08:30 AM",
+    "title": "Catchers - Wild Cats",
+    "bets": [
+      {
+        "team": "Catchers",
+        "odds": "2.5"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.34"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 08:56 AM",
+    "title": "Mumbai Indians (V-w) - Gujarat Giants (V-w)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (V-w)",
+        "odds": "1.72"
+      },
+      {
+        "team": "Gujarat Giants (V-w)",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 08:58 AM",
+    "title": "England (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "England (V)",
+        "odds": "1.67"
+      },
+      {
+        "team": "Sri Lanka (V)",
+        "odds": "2.07"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:00 AM",
+    "title": "Ruhuna Cricket - Top Guns Indoor",
+    "bets": [
+      {
+        "team": "Ruhuna Cricket",
+        "odds": "2.06"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.21"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:00 AM",
+    "title": "Rhinos Chennai - Chennai Lions",
+    "bets": [
+      {
+        "team": "Rhinos Chennai",
+        "odds": "2.08"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.32"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:03 AM",
+    "title": "Ireland (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "Ireland (V)",
+        "odds": "1.7"
+      },
+      {
+        "team": "Draw",
+        "odds": "9"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:04 AM",
+    "title": "Australia Legends (V) - India Legends (V)",
+    "bets": [
+      {
+        "team": "Australia Legends (V)",
+        "odds": "1.71"
+      },
+      {
+        "team": "India Legends (V)",
+        "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:05 AM",
+    "title": "Gujarat Titans (V) - Royal Challengers Bengaluru (V)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "1.05"
+      },
+      {
+        "team": "Draw",
+        "odds": "21"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:06 AM",
+    "title": "Mumbai Indians (e) - Kolkata Knight Riders (e)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e)",
+        "odds": "1.82"
+      },
+      {
+        "team": "Draw",
+        "odds": "14"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:06 AM",
+    "title": "Kolkata Knight Riders (V) - Delhi Capitals (V)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (V)",
+        "odds": "2.59"
+      },
+      {
+        "team": "Delhi Capitals (V)",
+        "odds": "1.44"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:06 AM",
+    "title": "Kolkata Legends (V) - Chennai Legends (V)",
+    "bets": [
+      {
+        "team": "Kolkata Legends (V)",
+        "odds": "2.42"
+      },
+      {
+        "team": "Chennai Legends (V)",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:07 AM",
+    "title": "Pakistan (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "2.4"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:09 AM",
+    "title": "Adelaide Strikers (V) - Melbourne Renegades (V)",
+    "bets": [
+      {
+        "team": "Adelaide Strikers (V)",
+        "odds": "1.82"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 07:35 AM",
+    "title": "Gujarat Titans (cyber) - Rajasthan Royals (cyber)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (cyber)",
+        "odds": "3.17"
+      },
+      {
+        "team": "Rajasthan Royals (cyber)",
+        "odds": "1.24"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 08:00 AM",
+    "title": "Phoenix Fury - Elite CC",
+    "bets": [
+      {
+        "team": "Phoenix Fury",
+        "odds": "2.14"
+      },
+      {
+        "team": "Elite CC",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 08:05 AM",
+    "title": "New Zealand (cyber) - England (cyber)",
+    "bets": [
+      {
+        "team": "New Zealand (cyber)",
+        "odds": "1.76"
+      },
+      {
+        "team": "England (cyber)",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 08:35 AM",
+    "title": "Punjab Kings (cyber) - Delhi Capitals (cyber)",
+    "bets": [
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "1.42"
+      },
+      {
+        "team": "Delhi Capitals (cyber)",
+        "odds": "2.46"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:00 AM",
+    "title": "Mailsi Titans - Islamabad Fighters",
+    "bets": [
+      {
+        "team": "Mailsi Titans",
+        "odds": "1.95"
+      },
+      {
+        "team": "Islamabad Fighters",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "May 7, 09:05 AM",
+    "title": "Sri Lanka (cyber) - South Africa (cyber)",
+    "bets": [
+      {
+        "team": "Sri Lanka (cyber)",
+        "odds": "3.02"
+      },
+      {
+        "team": "South Africa (cyber)",
+        "odds": "1.27"
+      }
+    ]
+  }
+]
