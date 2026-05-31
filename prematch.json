@@ -5,25 +5,11 @@
     "bets": [
       {
         "team": "Royal Challengers Bengaluru",
-        "odds": "1.78"
+        "odds": "1.81"
       },
       {
         "team": "Gujarat Titans",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 05:55 PM",
-    "title": "Sussex - Middlesex",
-    "bets": [
-      {
-        "team": "Sussex",
-        "odds": "1.5"
-      },
-      {
-        "team": "Middlesex",
-        "odds": "2.48"
+        "odds": "2"
       }
     ]
   },
@@ -33,11 +19,11 @@
     "bets": [
       {
         "team": "Warwickshire",
-        "odds": "2.44"
+        "odds": "2.16"
       },
       {
         "team": "Northamptonshire",
-        "odds": "1.55"
+        "odds": "1.69"
       }
     ]
   },
@@ -47,11 +33,25 @@
     "bets": [
       {
         "team": "Yorkshire",
-        "odds": "1.51"
+        "odds": "1.48"
       },
       {
         "team": "Gloucestershire",
-        "odds": "2.56"
+        "odds": "2.64"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 01:25 PM",
+    "title": "Middlesex - Hampshire",
+    "bets": [
+      {
+        "team": "Middlesex",
+        "odds": "2.44"
+      },
+      {
+        "team": "Hampshire",
+        "odds": "1.55"
       }
     ]
   },
@@ -61,11 +61,11 @@
     "bets": [
       {
         "team": "Nottinghamshire",
-        "odds": "1.86"
+        "odds": "2.1"
       },
       {
         "team": "Durham",
-        "odds": "1.94"
+        "odds": "1.72"
       }
     ]
   },
@@ -98,86 +98,16 @@
     ]
   },
   {
-    "date": "May 31, 03:30 AM",
-    "title": "Myanmar (w) - Kuwait (w)",
+    "date": "Jun 2, 11:30 AM",
+    "title": "Pakistan - Australia",
     "bets": [
       {
-        "team": "Myanmar (w)",
-        "odds": "2.38"
+        "team": "Pakistan",
+        "odds": "1.61"
       },
       {
-        "team": "Kuwait (w)",
-        "odds": "1.53"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 09:55 AM",
-    "title": "The Blaze (w) - Durham (w)",
-    "bets": [
-      {
-        "team": "The Blaze (w)",
-        "odds": "1.55"
-      },
-      {
-        "team": "Durham (w)",
-        "odds": "2.44"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 10:25 AM",
-    "title": "Essex (w) - Lancashire (w)",
-    "bets": [
-      {
-        "team": "Essex (w)",
-        "odds": "2.2"
-      },
-      {
-        "team": "Lancashire (w)",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 11:10 AM",
-    "title": "Surrey (w) - Somerset (w)",
-    "bets": [
-      {
-        "team": "Surrey (w)",
-        "odds": "1.51"
-      },
-      {
-        "team": "Somerset (w)",
-        "odds": "2.56"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 01:25 PM",
-    "title": "Kent (w) - Gloucestershire (w)",
-    "bets": [
-      {
-        "team": "Kent (w)",
-        "odds": "1.59"
-      },
-      {
-        "team": "Gloucestershire (w)",
-        "odds": "2.24"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 01:25 PM",
-    "title": "Worcestershire Rapids (w) - Derbyshire Falcons (w)",
-    "bets": [
-      {
-        "team": "Worcestershire Rapids (w)",
-        "odds": "1.62"
-      },
-      {
-        "team": "Derbyshire Falcons (w)",
-        "odds": "2.18"
+        "team": "Australia",
+        "odds": "2.3"
       }
     ]
   },
@@ -187,11 +117,39 @@
     "bets": [
       {
         "team": "Sussex Sharks (w)",
-        "odds": "3.5"
+        "odds": "3.9"
       },
       {
         "team": "Glamorgan (w)",
-        "odds": "1.27"
+        "odds": "1.21"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 01:25 PM",
+    "title": "Kent (w) - Gloucestershire (w)",
+    "bets": [
+      {
+        "team": "Kent (w)",
+        "odds": "1.76"
+      },
+      {
+        "team": "Gloucestershire (w)",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 01:25 PM",
+    "title": "Worcestershire Rapids (w) - Derbyshire Falcons (w)",
+    "bets": [
+      {
+        "team": "Worcestershire Rapids (w)",
+        "odds": "1.65"
+      },
+      {
+        "team": "Derbyshire Falcons (w)",
+        "odds": "2.14"
       }
     ]
   },
@@ -201,39 +159,25 @@
     "bets": [
       {
         "team": "Northamptonshire Steelbacks (w)",
-        "odds": "2.34"
+        "odds": "2.18"
       },
       {
         "team": "Middlesex (w)",
-        "odds": "1.55"
+        "odds": "1.62"
       }
     ]
   },
   {
-    "date": "May 31, 04:30 AM",
-    "title": "Boost Region - Speen Ghar Region",
+    "date": "May 31, 12:00 PM",
+    "title": "Bangladesh (w) - Netherlands (w)",
     "bets": [
       {
-        "team": "Boost Region",
-        "odds": "1.81"
+        "team": "Bangladesh (w)",
+        "odds": "1.21"
       },
       {
-        "team": "Speen Ghar Region",
-        "odds": "1.99"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 04:30 AM",
-    "title": "Amo Region - Mis Ainak Region",
-    "bets": [
-      {
-        "team": "Amo Region",
-        "odds": "1.7"
-      },
-      {
-        "team": "Mis Ainak Region",
-        "odds": "1.99"
+        "team": "Netherlands (w)",
+        "odds": "3.64"
       }
     ]
   },
@@ -280,100 +224,16 @@
     ]
   },
   {
-    "date": "May 31, 07:30 AM",
-    "title": "United CC - Brno CC",
+    "date": "Jun 2, 08:30 AM",
+    "title": "North Mumbai Panthers - Triumph Knights Mumbai North East",
     "bets": [
       {
-        "team": "United CC",
-        "odds": "1.7"
+        "team": "North Mumbai Panthers",
+        "odds": "2.05"
       },
       {
-        "team": "Brno CC",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 09:30 AM",
-    "title": "Prague Tigers - Prague CC",
-    "bets": [
-      {
-        "team": "Prague Tigers",
-        "odds": "1.83"
-      },
-      {
-        "team": "Prague CC",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 01:30 AM",
-    "title": "Nepal (w) - China (w)",
-    "bets": [
-      {
-        "team": "Nepal (w)",
-        "odds": "1.17"
-      },
-      {
-        "team": "China (w)",
-        "odds": "4.4"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 03:00 AM",
-    "title": "LB Shastri CC - Kerala CA",
-    "bets": [
-      {
-        "team": "LB Shastri CC",
-        "odds": "3.34"
-      },
-      {
-        "team": "Kerala CA",
-        "odds": "1.28"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 03:00 AM",
-    "title": "Nepal A - Goa CA",
-    "bets": [
-      {
-        "team": "Nepal A",
-        "odds": "1.7"
-      },
-      {
-        "team": "Goa CA",
-        "odds": "2.03"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 06:00 AM",
-    "title": "Malaysia (w) - Thailand (w)",
-    "bets": [
-      {
-        "team": "Malaysia (w)",
-        "odds": "6.6"
-      },
-      {
-        "team": "Thailand (w)",
-        "odds": "1.08"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 10:00 AM",
-    "title": "Udaipur Desi Firangi - Jodhpur Sunrisers",
-    "bets": [
-      {
-        "team": "Udaipur Desi Firangi",
-        "odds": "1.35"
-      },
-      {
-        "team": "Jodhpur Sunrisers",
-        "odds": "3"
+        "team": "Triumph Knights Mumbai North East",
+        "odds": "1.69"
       }
     ]
   },
@@ -425,11 +285,81 @@
     "bets": [
       {
         "team": "Ajmer Super Giants",
-        "odds": "1.69"
+        "odds": "1.66"
       },
       {
         "team": "JRCY Kota Warriors",
-        "odds": "2.06"
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 06:30 AM",
+    "title": "Hong Kong - Bahrain",
+    "bets": [
+      {
+        "team": "Hong Kong",
+        "odds": "1.16"
+      },
+      {
+        "team": "Bahrain",
+        "odds": "4.65"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 09:00 AM",
+    "title": "Alembic Warriors - Pruthvi Panthers",
+    "bets": [
+      {
+        "team": "Alembic Warriors",
+        "odds": "1.74"
+      },
+      {
+        "team": "Pruthvi Panthers",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Jun 1, 02:00 PM",
+    "title": "Ami Super Avengers - A4 Power Strikers",
+    "bets": [
+      {
+        "team": "Ami Super Avengers",
+        "odds": "1.94"
+      },
+      {
+        "team": "A4 Power Strikers",
+        "odds": "1.74"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 06:30 AM",
+    "title": "Malaysia - China PR",
+    "bets": [
+      {
+        "team": "Malaysia",
+        "odds": "1.01"
+      },
+      {
+        "team": "China PR",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 02:30 PM",
+    "title": "Lisbon Super Giants - Oeiras",
+    "bets": [
+      {
+        "team": "Lisbon Super Giants",
+        "odds": "2.7"
+      },
+      {
+        "team": "Oeiras",
+        "odds": "1.38"
       }
     ]
   },
@@ -448,86 +378,16 @@
     ]
   },
   {
-    "date": "May 30, 07:00 PM",
-    "title": "Richmond I - Cosmos I",
+    "date": "Jun 2, 08:00 AM",
+    "title": "Tracy Village - Southern District",
     "bets": [
       {
-        "team": "Richmond I",
-        "odds": "1.74"
+        "team": "Tracy Village",
+        "odds": "2.9"
       },
       {
-        "team": "Cosmos I",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 07:00 PM",
-    "title": "Centurion - Meraloma I",
-    "bets": [
-      {
-        "team": "Centurion",
-        "odds": "1.6"
-      },
-      {
-        "team": "Meraloma I",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "May 30, 07:00 PM",
-    "title": "Newton Surrey Champions I - Kelowna Kamloops I",
-    "bets": [
-      {
-        "team": "Newton Surrey Champions I",
-        "odds": "1.2"
-      },
-      {
-        "team": "Kelowna Kamloops I",
-        "odds": "3.72"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 12:30 AM",
-    "title": "Pacific Rays (w) - Titans Ladies (w)",
-    "bets": [
-      {
-        "team": "Pacific Rays (w)",
-        "odds": "1.51"
-      },
-      {
-        "team": "Titans Ladies (w)",
-        "odds": "2.42"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 05:00 AM",
-    "title": "ACT Meteors (w) - Mamushi (w)",
-    "bets": [
-      {
-        "team": "ACT Meteors (w)",
-        "odds": "1.83"
-      },
-      {
-        "team": "Mamushi (w)",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "May 31, 07:30 AM",
-    "title": "Sorwathe (w) - Indatwa Hampshire (w)",
-    "bets": [
-      {
-        "team": "Sorwathe (w)",
-        "odds": "3"
-      },
-      {
-        "team": "Indatwa Hampshire (w)",
-        "odds": "1.35"
+        "team": "Southern District",
+        "odds": "1.34"
       }
     ]
   },
@@ -556,6 +416,34 @@
       {
         "team": "Fairfax CC",
         "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 07:00 PM",
+    "title": "Surrey Hawks I - Surrey United I",
+    "bets": [
+      {
+        "team": "Surrey Hawks I",
+        "odds": "1.6"
+      },
+      {
+        "team": "Surrey United I",
+        "odds": "2.13"
+      }
+    ]
+  },
+  {
+    "date": "May 31, 07:00 PM",
+    "title": "North Vancouver I - Ind-Can I",
+    "bets": [
+      {
+        "team": "North Vancouver I",
+        "odds": "1.68"
+      },
+      {
+        "team": "Ind-Can I",
+        "odds": "2"
       }
     ]
   }
