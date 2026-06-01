@@ -1,43 +1,85 @@
 [
   {
+    "date": "Jun 2, 05:55 PM",
+    "title": "Hampshire - Sussex",
+    "bets": [
+      {
+        "team": "Hampshire",
+        "odds": "1.63"
+      },
+      {
+        "team": "Sussex",
+        "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Jun 3, 05:25 PM",
+    "title": "Surrey - Middlesex",
+    "bets": [
+      {
+        "team": "Surrey",
+        "odds": "1.45"
+      },
+      {
+        "team": "Middlesex",
+        "odds": "2.7"
+      }
+    ]
+  },
+  {
+    "date": "Jun 3, 02:30 PM",
+    "title": "West Indies - Sri Lanka",
+    "bets": [
+      {
+        "team": "West Indies",
+        "odds": "2"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 05:30 PM",
+    "title": "England (w) - India (w)",
+    "bets": [
+      {
+        "team": "England (w)",
+        "odds": "1.82"
+      },
+      {
+        "team": "India (w)",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
     "date": "Jun 2, 11:30 AM",
     "title": "Pakistan - Australia",
     "bets": [
       {
         "team": "Pakistan",
-        "odds": "1.61"
+        "odds": "1.85"
       },
       {
         "team": "Australia",
-        "odds": "2.3"
+        "odds": "1.95"
       }
     ]
   },
   {
-    "date": "Jun 1, 08:30 AM",
-    "title": "NaMo Bandra Blasters - Eagle Thane Strikers",
+    "date": "Jun 2, 04:30 AM",
+    "title": "Mis Ainak Region - Speen Ghar Region",
     "bets": [
       {
-        "team": "NaMo Bandra Blasters",
-        "odds": "1.94"
+        "team": "Mis Ainak Region",
+        "odds": "2.28"
       },
       {
-        "team": "Eagle Thane Strikers",
-        "odds": "1.86"
-      }
-    ]
-  },
-  {
-    "date": "Jun 1, 01:30 PM",
-    "title": "Mumbai South Central Maratha Royals - Aakash Tigers Mws",
-    "bets": [
-      {
-        "team": "Mumbai South Central Maratha Royals",
-        "odds": "2.34"
-      },
-      {
-        "team": "Aakash Tigers Mws",
-        "odds": "1.6"
+        "team": "Speen Ghar Region",
+        "odds": "1.63"
       }
     ]
   },
@@ -70,72 +112,72 @@
     ]
   },
   {
-    "date": "Jun 1, 03:00 AM",
-    "title": "East Delhi Riders - Tripura",
+    "date": "Jun 2, 12:00 PM",
+    "title": "Scotland (w) - Bangladesh (w)",
     "bets": [
       {
-        "team": "East Delhi Riders",
-        "odds": "2.69"
+        "team": "Scotland (w)",
+        "odds": "2.06"
       },
       {
-        "team": "Tripura",
-        "odds": "1.39"
+        "team": "Bangladesh (w)",
+        "odds": "1.75"
       }
     ]
   },
   {
-    "date": "Jun 1, 03:00 AM",
-    "title": "Jharkhand - RBI",
+    "date": "Jun 3, 03:00 PM",
+    "title": "Pakistan (w) - West Indies (w)",
     "bets": [
       {
-        "team": "Jharkhand",
-        "odds": "1.22"
+        "team": "Pakistan (w)",
+        "odds": "2.5"
       },
       {
-        "team": "RBI",
-        "odds": "3.83"
+        "team": "West Indies (w)",
+        "odds": "1.53"
       }
     ]
   },
   {
-    "date": "Jun 1, 06:30 AM",
-    "title": "Hong Kong - Bahrain",
+    "date": "Jun 2, 03:00 AM",
+    "title": "Kerala - Goa",
     "bets": [
       {
-        "team": "Hong Kong",
-        "odds": "1.16"
+        "team": "Kerala",
+        "odds": "2"
       },
       {
-        "team": "Bahrain",
-        "odds": "4.65"
+        "team": "Goa",
+        "odds": "1.72"
       }
     ]
   },
   {
-    "date": "Jun 1, 09:00 AM",
-    "title": "Alembic Warriors - Pruthvi Panthers",
+    "date": "Jun 2, 03:00 AM",
+    "title": "LBS Bhopal - Nepal A",
     "bets": [
       {
-        "team": "Alembic Warriors",
-        "odds": "1.74"
+        "team": "LBS Bhopal",
+        "odds": "1.5"
       },
       {
-        "team": "Pruthvi Panthers",
-        "odds": "1.94"
+        "team": "Nepal A",
+        "odds": "2.41"
       }
     ]
   },
   {
-    "date": "Jun 1, 02:00 PM",
-    "title": "Ami Super Avengers - A4 Power Strikers",
+    "date": "Jun 2, 04:00 AM",
+    "title": "Thane Sky Risers (w) - SoBo Mumbai Falcons (w)",
     "bets": [
       {
-        "team": "Ami Super Avengers",
-        "odds": "1.94"
+        "team": "Thane Sky Risers (w)",
+        "odds": "2.24"
       },
       {
-        "team": "A4 Power Strikers",
-        "odds": "1.74"
+        "team": "SoBo Mumbai Falcons (w)",
+        "odds": "1.59"
       }
     ]
   },
@@ -144,26 +186,246 @@
     "title": "Malaysia - China PR",
     "bets": [
       {
-        "team": "Malaysia",
-        "odds": "1.01"
-      },
-      {
         "team": "China PR",
-        "odds": "15"
+        "odds": "26"
       }
     ]
   },
   {
-    "date": "May 31, 05:00 PM",
-    "title": "Reddy's XI - Super Strikers",
+    "date": "Jun 2, 07:00 AM",
+    "title": "Eswatini - Mozambique",
     "bets": [
       {
-        "team": "Reddy's XI",
-        "odds": "1.4"
+        "team": "Eswatini",
+        "odds": "1.5"
       },
       {
-        "team": "Super Strikers",
-        "odds": "2.72"
+        "team": "Mozambique",
+        "odds": "2.46"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 09:30 AM",
+    "title": "Jaipur Kings - Bharatpur Royals",
+    "bets": [
+      {
+        "team": "Jaipur Kings",
+        "odds": "1.59"
+      },
+      {
+        "team": "Bharatpur Royals",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 10:00 AM",
+    "title": "Leicestershire 2nd XI - Nottinghamshire 2nd XI",
+    "bets": [
+      {
+        "team": "Leicestershire 2nd XI",
+        "odds": "3.25"
+      },
+      {
+        "team": "Nottinghamshire 2nd XI",
+        "odds": "1.27"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 10:30 AM",
+    "title": "Gloucestershire 2nd XI - Glamorgan 2nd XI",
+    "bets": [
+      {
+        "team": "Gloucestershire 2nd XI",
+        "odds": "1.9"
+      },
+      {
+        "team": "Glamorgan 2nd XI",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 11:30 AM",
+    "title": "Essex 2nd XI - Surrey 2nd XI",
+    "bets": [
+      {
+        "team": "Essex 2nd XI",
+        "odds": "3.75"
+      },
+      {
+        "team": "Surrey 2nd XI",
+        "odds": "1.21"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 11:30 AM",
+    "title": "Worcestershire 2nd XI - Warwickshire 2nd XI",
+    "bets": [
+      {
+        "team": "Worcestershire 2nd XI",
+        "odds": "3.75"
+      },
+      {
+        "team": "Warwickshire 2nd XI",
+        "odds": "1.21"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 01:00 PM",
+    "title": "Durham 2nd XI - Derbyshire 2nd XI",
+    "bets": [
+      {
+        "team": "Durham 2nd XI",
+        "odds": "1.83"
+      },
+      {
+        "team": "Derbyshire 2nd XI",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 02:00 PM",
+    "title": "Ajmer Super Giants - Udaipur Desi Firangi",
+    "bets": [
+      {
+        "team": "Ajmer Super Giants",
+        "odds": "1.8"
+      },
+      {
+        "team": "Udaipur Desi Firangi",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 02:30 PM",
+    "title": "North West Warriors - Leinster Lightning",
+    "bets": [
+      {
+        "team": "North West Warriors",
+        "odds": "2.03"
+      },
+      {
+        "team": "Leinster Lightning",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Jun 3, 01:30 AM",
+    "title": "Oman - Bahrain",
+    "bets": [
+      {
+        "team": "Oman",
+        "odds": "1.36"
+      },
+      {
+        "team": "Bahrain",
+        "odds": "2.98"
+      }
+    ]
+  },
+  {
+    "date": "Jun 3, 06:30 AM",
+    "title": "Hong Kong - Singapore",
+    "bets": [
+      {
+        "team": "Hong Kong",
+        "odds": "1.16"
+      },
+      {
+        "team": "Singapore",
+        "odds": "4.65"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 02:30 AM",
+    "title": "Prime Bank - Brothers Union",
+    "bets": [
+      {
+        "team": "Prime Bank",
+        "odds": "1.14"
+      },
+      {
+        "team": "Brothers Union",
+        "odds": "4.72"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 02:30 AM",
+    "title": "Bashundhara Strikers - Rupganj Tigers",
+    "bets": [
+      {
+        "team": "Bashundhara Strikers",
+        "odds": "1.22"
+      },
+      {
+        "team": "Rupganj Tigers",
+        "odds": "3.72"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 02:30 AM",
+    "title": "Agrani Bank - City Club",
+    "bets": [
+      {
+        "team": "Agrani Bank",
+        "odds": "2.17"
+      },
+      {
+        "team": "City Club",
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 02:30 AM",
+    "title": "Abahani Limited - Gulshan Dhaka",
+    "bets": [
+      {
+        "team": "Abahani Limited",
+        "odds": "1.07"
+      },
+      {
+        "team": "Gulshan Dhaka",
+        "odds": "6.47"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 02:30 AM",
+    "title": "Mohammedan - Legends Of Rupganj",
+    "bets": [
+      {
+        "team": "Mohammedan",
+        "odds": "1.49"
+      },
+      {
+        "team": "Legends Of Rupganj",
+        "odds": "2.38"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 02:30 AM",
+    "title": "Gazi Group Cricketers - Dhaka Leopards",
+    "bets": [
+      {
+        "team": "Gazi Group Cricketers",
+        "odds": "2.48"
+      },
+      {
+        "team": "Dhaka Leopards",
+        "odds": "1.45"
       }
     ]
   },
@@ -182,30 +444,44 @@
     ]
   },
   {
-    "date": "May 31, 07:00 PM",
-    "title": "Surrey Hawks I - Surrey United I",
+    "date": "Jun 2, 09:00 AM",
+    "title": "Alembic Warriors - Diamond Dazzlers",
     "bets": [
       {
-        "team": "Surrey Hawks I",
-        "odds": "1.6"
+        "team": "Alembic Warriors",
+        "odds": "1.69"
       },
       {
-        "team": "Surrey United I",
-        "odds": "2.13"
+        "team": "Diamond Dazzlers",
+        "odds": "2.06"
       }
     ]
   },
   {
-    "date": "May 31, 07:00 PM",
-    "title": "North Vancouver I - Ind-Can I",
+    "date": "Jun 2, 02:00 PM",
+    "title": "Pruthvi Panthers - A4 Power Strikers",
     "bets": [
       {
-        "team": "North Vancouver I",
-        "odds": "1.68"
+        "team": "Pruthvi Panthers",
+        "odds": "1.96"
       },
       {
-        "team": "Ind-Can I",
-        "odds": "2"
+        "team": "A4 Power Strikers",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Jun 2, 05:00 PM",
+    "title": "Phoenix Cricketers - Reddy Riders",
+    "bets": [
+      {
+        "team": "Phoenix Cricketers",
+        "odds": "1.35"
+      },
+      {
+        "team": "Reddy Riders",
+        "odds": "3"
       }
     ]
   }
