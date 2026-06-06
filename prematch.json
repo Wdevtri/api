@@ -1,89 +1,5 @@
 [
   {
-    "date": "Jun 5, 04:25 PM",
-    "title": "Worcestershire - Glamorgan",
-    "bets": [
-      {
-        "team": "Worcestershire",
-        "odds": "1.76"
-      },
-      {
-        "team": "Glamorgan",
-        "odds": "2"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 05:25 PM",
-    "title": "Nottinghamshire - Warwickshire",
-    "bets": [
-      {
-        "team": "Nottinghamshire",
-        "odds": "1.65"
-      },
-      {
-        "team": "Warwickshire",
-        "odds": "2.15"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 05:25 PM",
-    "title": "Surrey - Hampshire",
-    "bets": [
-      {
-        "team": "Surrey",
-        "odds": "1.68"
-      },
-      {
-        "team": "Hampshire",
-        "odds": "2.11"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 05:55 PM",
-    "title": "Yorkshire - Lancashire",
-    "bets": [
-      {
-        "team": "Yorkshire",
-        "odds": "1.92"
-      },
-      {
-        "team": "Lancashire",
-        "odds": "1.82"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 05:55 PM",
-    "title": "Sussex - Leicestershire",
-    "bets": [
-      {
-        "team": "Sussex",
-        "odds": "1.82"
-      },
-      {
-        "team": "Leicestershire",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 05:55 PM",
-    "title": "Gloucestershire - Somerset",
-    "bets": [
-      {
-        "team": "Gloucestershire",
-        "odds": "2.17"
-      },
-      {
-        "team": "Somerset",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
     "date": "Jun 6, 05:55 PM",
     "title": "Durham - Northamptonshire",
     "bets": [
@@ -98,16 +14,100 @@
     ]
   },
   {
-    "date": "Jun 6, 04:00 AM",
-    "title": "India - Afghanistan",
+    "date": "Jun 7, 01:25 PM",
+    "title": "Lancashire - Glamorgan",
     "bets": [
       {
-        "team": "India",
-        "odds": "1.03"
+        "team": "Lancashire",
+        "odds": "1.63"
       },
       {
-        "team": "Afghanistan",
-        "odds": "11.99"
+        "team": "Glamorgan",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 01:25 PM",
+    "title": "Leicestershire - Yorkshire",
+    "bets": [
+      {
+        "team": "Leicestershire",
+        "odds": "2.47"
+      },
+      {
+        "team": "Yorkshire",
+        "odds": "1.51"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 01:25 PM",
+    "title": "Gloucestershire - Worcestershire",
+    "bets": [
+      {
+        "team": "Gloucestershire",
+        "odds": "1.98"
+      },
+      {
+        "team": "Worcestershire",
+        "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 01:25 PM",
+    "title": "Sussex - Kent",
+    "bets": [
+      {
+        "team": "Sussex",
+        "odds": "2.3"
+      },
+      {
+        "team": "Kent",
+        "odds": "1.58"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 01:55 PM",
+    "title": "Nottinghamshire - Derbyshire",
+    "bets": [
+      {
+        "team": "Nottinghamshire",
+        "odds": "1.6"
+      },
+      {
+        "team": "Derbyshire",
+        "odds": "2.25"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 02:25 PM",
+    "title": "Middlesex - Essex",
+    "bets": [
+      {
+        "team": "Middlesex",
+        "odds": "2.11"
+      },
+      {
+        "team": "Essex",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 02:25 PM",
+    "title": "Somerset - Warwickshire",
+    "bets": [
+      {
+        "team": "Somerset",
+        "odds": "1.63"
+      },
+      {
+        "team": "Warwickshire",
+        "odds": "2.2"
       }
     ]
   },
@@ -126,72 +126,72 @@
     ]
   },
   {
-    "date": "Jun 5, 01:55 PM",
-    "title": "Yorkshire (w) - Durham (w)",
-    "bets": [
-      {
-        "team": "Yorkshire (w)",
-        "odds": "1.98"
-      },
-      {
-        "team": "Durham (w)",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 01:55 PM",
-    "title": "Gloucestershire (w) - Middlesex (w)",
-    "bets": [
-      {
-        "team": "Gloucestershire (w)",
-        "odds": "2.88"
-      },
-      {
-        "team": "Middlesex (w)",
-        "odds": "1.36"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 01:55 PM",
-    "title": "Sussex Sharks (w) - Leicestershire Foxes (w)",
-    "bets": [
-      {
-        "team": "Sussex Sharks (w)",
-        "odds": "2.13"
-      },
-      {
-        "team": "Leicestershire Foxes (w)",
-        "odds": "1.63"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 02:00 PM",
-    "title": "Ujjain Falcons - Malwa Stallions",
-    "bets": [
-      {
-        "team": "Ujjain Falcons",
-        "odds": "1.64"
-      },
-      {
-        "team": "Malwa Stallions",
-        "odds": "2.11"
-      }
-    ]
-  },
-  {
     "date": "Jun 6, 08:30 AM",
     "title": "NaMo Bandra Blasters - Mumbai South Central Maratha Royals",
     "bets": [
       {
         "team": "NaMo Bandra Blasters",
-        "odds": "1.91"
+        "odds": "1.95"
       },
       {
         "team": "Mumbai South Central Maratha Royals",
-        "odds": "1.79"
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 09:30 AM",
+    "title": "Bundelkhand Bulls - Rewa Jaguars",
+    "bets": [
+      {
+        "team": "Bundelkhand Bulls",
+        "odds": "2"
+      },
+      {
+        "team": "Rewa Jaguars",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 10:30 AM",
+    "title": "JB Bruges - Ackel United Brussels",
+    "bets": [
+      {
+        "team": "JB Bruges",
+        "odds": "2.37"
+      },
+      {
+        "team": "Ackel United Brussels",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 01:30 PM",
+    "title": "Triumph Knights Mumbai North East - SoBo Mumbai Falcons",
+    "bets": [
+      {
+        "team": "Triumph Knights Mumbai North East",
+        "odds": "2.15"
+      },
+      {
+        "team": "SoBo Mumbai Falcons",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 02:00 PM",
+    "title": "Indore Pink Panthers - Jabalpur Royal Lions",
+    "bets": [
+      {
+        "team": "Indore Pink Panthers",
+        "odds": "1.92"
+      },
+      {
+        "team": "Jabalpur Royal Lions",
+        "odds": "1.78"
       }
     ]
   },
@@ -201,11 +201,137 @@
     "bets": [
       {
         "team": "Canada",
-        "odds": "2.6"
+        "odds": "2.63"
       },
       {
         "team": "USA",
-        "odds": "1.44"
+        "odds": "1.43"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 02:30 PM",
+    "title": "Liege Red Lions - Ghent Gladiators",
+    "bets": [
+      {
+        "team": "Liege Red Lions",
+        "odds": "1.64"
+      },
+      {
+        "team": "Ghent Gladiators",
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 09:25 AM",
+    "title": "Gloucestershire (w) - Worcestershire Rapids (w)",
+    "bets": [
+      {
+        "team": "Gloucestershire (w)",
+        "odds": "2.12"
+      },
+      {
+        "team": "Worcestershire Rapids (w)",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 09:25 AM",
+    "title": "Leicestershire Foxes (w) - Northamptonshire Steelbacks (w)",
+    "bets": [
+      {
+        "team": "Leicestershire Foxes (w)",
+        "odds": "1.72"
+      },
+      {
+        "team": "Northamptonshire Steelbacks (w)",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 09:55 AM",
+    "title": "The Blaze (w) - Lancashire (w)",
+    "bets": [
+      {
+        "team": "The Blaze (w)",
+        "odds": "1.65"
+      },
+      {
+        "team": "Lancashire (w)",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 10:00 AM",
+    "title": "England Lions - South Africa A",
+    "bets": [
+      {
+        "team": "England Lions",
+        "odds": "2.37"
+      },
+      {
+        "team": "South Africa A",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 10:25 AM",
+    "title": "Somerset (w) - Warwickshire (w)",
+    "bets": [
+      {
+        "team": "Somerset (w)",
+        "odds": "1.62"
+      },
+      {
+        "team": "Warwickshire (w)",
+        "odds": "2.15"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 10:25 AM",
+    "title": "Middlesex (w) - Derbyshire Falcons (w)",
+    "bets": [
+      {
+        "team": "Middlesex (w)",
+        "odds": "1.35"
+      },
+      {
+        "team": "Derbyshire Falcons (w)",
+        "odds": "2.95"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 12:55 PM",
+    "title": "Essex (w) - Hampshire (w)",
+    "bets": [
+      {
+        "team": "Essex (w)",
+        "odds": "2.4"
+      },
+      {
+        "team": "Hampshire (w)",
+        "odds": "1.51"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 01:25 PM",
+    "title": "Glamorgan (w) - Kent (w)",
+    "bets": [
+      {
+        "team": "Glamorgan (w)",
+        "odds": "1.41"
+      },
+      {
+        "team": "Kent (w)",
+        "odds": "2.7"
       }
     ]
   },
@@ -215,91 +341,39 @@
     "bets": [
       {
         "team": "Eswatini",
-        "odds": "1.65"
+        "odds": "1.63"
       },
       {
         "team": "Mozambique",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 02:00 PM",
-    "title": "A4 Power Strikers - Diamond Dazzlers",
-    "bets": [
-      {
-        "team": "A4 Power Strikers",
-        "odds": "2.09"
-      },
-      {
-        "team": "Diamond Dazzlers",
-        "odds": "1.66"
-      }
-    ]
-  },
-  {
-    "date": "Jun 5, 02:00 PM",
-    "title": "Rajnandgaon Panthers - Bilaspur Bulls",
-    "bets": [
-      {
-        "team": "Rajnandgaon Panthers",
-        "odds": "2.07"
-      },
-      {
-        "team": "Bilaspur Bulls",
-        "odds": "1.64"
-      }
-    ]
-  },
-  {
-    "date": "Jun 6, 01:30 AM",
-    "title": "Indonesia (w) - Malaysia (w)",
-    "bets": [
-      {
-        "team": "Indonesia (w)",
-        "odds": "1.52"
-      },
-      {
-        "team": "Malaysia (w)",
-        "odds": "2.37"
-      }
-    ]
-  },
-  {
-    "date": "Jun 6, 01:30 AM",
-    "title": "Bhutan (w) - Qatar (w)",
-    "bets": [
-      {
-        "team": "Bhutan (w)",
-        "odds": "1.34"
-      },
-      {
-        "team": "Qatar (w)",
-        "odds": "3"
-      }
-    ]
-  },
-  {
-    "date": "Jun 6, 01:30 AM",
-    "title": "Japan (w) - Myanmar (w)",
-    "bets": [
-      {
-        "team": "Japan (w)",
-        "odds": "1.65"
-      },
-      {
-        "team": "Myanmar (w)",
-        "odds": "2.1"
+        "odds": "2.15"
       }
     ]
   },
   {
     "date": "Jun 6, 06:00 AM",
-    "title": "Oman (w) - Saudi Arabia (w)",
+    "title": "Bjorvika - Huddinge",
     "bets": [
       {
-        "team": "Saudi Arabia (w)",
-        "odds": "12.16"
+        "team": "Bjorvika",
+        "odds": "1.6"
+      },
+      {
+        "team": "Huddinge",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 10:00 AM",
+    "title": "Surrey - Hampshire",
+    "bets": [
+      {
+        "team": "Surrey",
+        "odds": "1.41"
+      },
+      {
+        "team": "Hampshire",
+        "odds": "2.69"
       }
     ]
   },
@@ -323,11 +397,21 @@
     "bets": [
       {
         "team": "Kuwait (w)",
-        "odds": "1.13"
+        "odds": "1.17"
       },
       {
         "team": "Singapore (w)",
-        "odds": "5"
+        "odds": "4.42"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 06:00 AM",
+    "title": "Oman (w) - Saudi Arabia (w)",
+    "bets": [
+      {
+        "team": "Saudi Arabia (w)",
+        "odds": "13"
       }
     ]
   },
@@ -337,11 +421,11 @@
     "bets": [
       {
         "team": "Nepal (w)",
-        "odds": "1.8"
+        "odds": "1.55"
       },
       {
         "team": "Hong Kong (w)",
-        "odds": "1.9"
+        "odds": "2.29"
       }
     ]
   },
@@ -351,11 +435,53 @@
     "bets": [
       {
         "team": "Murshidabad Kings",
-        "odds": "2.25"
+        "odds": "2.37"
       },
       {
         "team": "Sobisco Smashers Malda",
-        "odds": "1.57"
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 08:30 AM",
+    "title": "Gujarat Diamonds - UP Brij Stars",
+    "bets": [
+      {
+        "team": "Gujarat Diamonds",
+        "odds": "1.96"
+      },
+      {
+        "team": "UP Brij Stars",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 09:00 AM",
+    "title": "A4 Power Strikers - Ami Super Avengers",
+    "bets": [
+      {
+        "team": "A4 Power Strikers",
+        "odds": "1.87"
+      },
+      {
+        "team": "Ami Super Avengers",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 09:30 AM",
+    "title": "Raigarh Lions - Rajnandgaon Panthers",
+    "bets": [
+      {
+        "team": "Raigarh Lions",
+        "odds": "1.3"
+      },
+      {
+        "team": "Rajnandgaon Panthers",
+        "odds": "3.1"
       }
     ]
   },
@@ -374,44 +500,86 @@
     ]
   },
   {
-    "date": "Jun 5, 05:00 PM",
-    "title": "Challenging Stars - Royal Lions",
+    "date": "Jun 6, 01:30 PM",
+    "title": "Mumbai Mariners - Northern Challengers",
     "bets": [
       {
-        "team": "Challenging Stars",
-        "odds": "1.5"
+        "team": "Mumbai Mariners",
+        "odds": "1.92"
       },
       {
-        "team": "Royal Lions",
-        "odds": "2.35"
+        "team": "Northern Challengers",
+        "odds": "1.78"
       }
     ]
   },
   {
-    "date": "Jun 6, 03:15 AM",
-    "title": "Nuwakot - Chitwan",
+    "date": "Jun 6, 02:00 PM",
+    "title": "Pruthvi Panthers - Alembic Warriors",
     "bets": [
       {
-        "team": "Nuwakot",
-        "odds": "2.49"
+        "team": "Pruthvi Panthers",
+        "odds": "2.77"
       },
       {
-        "team": "Chitwan",
-        "odds": "1.45"
+        "team": "Alembic Warriors",
+        "odds": "1.39"
       }
     ]
   },
   {
-    "date": "Jun 6, 04:00 AM",
-    "title": "Bundelkhand Bulls (w) - Royal Nimar Eagles (w)",
+    "date": "Jun 6, 02:00 PM",
+    "title": "Bastar Bisons - Raipur Rhinos",
     "bets": [
       {
-        "team": "Bundelkhand Bulls (w)",
-        "odds": "1.59"
+        "team": "Bastar Bisons",
+        "odds": "2.2"
       },
       {
-        "team": "Royal Nimar Eagles (w)",
-        "odds": "2.22"
+        "team": "Raipur Rhinos",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 01:30 AM",
+    "title": "Nepal - Oman",
+    "bets": [
+      {
+        "team": "Nepal",
+        "odds": "1.15"
+      },
+      {
+        "team": "Oman",
+        "odds": "4.67"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 06:30 AM",
+    "title": "Hong Kong - Malaysia",
+    "bets": [
+      {
+        "team": "Hong Kong",
+        "odds": "1.21"
+      },
+      {
+        "team": "Malaysia",
+        "odds": "3.95"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 07:15 AM",
+    "title": "Makwanpur - Lalitpur Patriots",
+    "bets": [
+      {
+        "team": "Makwanpur",
+        "odds": "2.04"
+      },
+      {
+        "team": "Lalitpur Patriots",
+        "odds": "1.66"
       }
     ]
   },
@@ -463,11 +631,53 @@
     "bets": [
       {
         "team": "Chambal Ghariyals (w)",
-        "odds": "1.53"
+        "odds": "1.35"
       },
       {
         "team": "Bhopal Wolves (w)",
-        "odds": "2.35"
+        "odds": "2.94"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 09:00 AM",
+    "title": "Warsaw Cricket Club - Warsaw Elite",
+    "bets": [
+      {
+        "team": "Warsaw Cricket Club",
+        "odds": "1.37"
+      },
+      {
+        "team": "Warsaw Elite",
+        "odds": "2.75"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 11:00 AM",
+    "title": "Warsaw Kings XI - Krakow CC",
+    "bets": [
+      {
+        "team": "Warsaw Kings XI",
+        "odds": "1.62"
+      },
+      {
+        "team": "Krakow CC",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Jun 6, 05:00 PM",
+    "title": "Keraniganj Challengers - Phoenix Cricketers",
+    "bets": [
+      {
+        "team": "Keraniganj Challengers",
+        "odds": "1.55"
+      },
+      {
+        "team": "Phoenix Cricketers",
+        "odds": "2.23"
       }
     ]
   },
@@ -482,6 +692,20 @@
       {
         "team": "Pint",
         "odds": "2.87"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 09:00 AM",
+    "title": "VRA - HCC",
+    "bets": [
+      {
+        "team": "VRA",
+        "odds": "1.7"
+      },
+      {
+        "team": "HCC",
+        "odds": "1.98"
       }
     ]
   },
@@ -538,6 +762,34 @@
       {
         "team": "Ind-Can I",
         "odds": "2.94"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 07:00 PM",
+    "title": "North Vancouver I - Surrey United I",
+    "bets": [
+      {
+        "team": "North Vancouver I",
+        "odds": "1.87"
+      },
+      {
+        "team": "Surrey United I",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Jun 7, 07:00 PM",
+    "title": "Newton Surrey Champions I - Cosmos I",
+    "bets": [
+      {
+        "team": "Newton Surrey Champions I",
+        "odds": "1.53"
+      },
+      {
+        "team": "Cosmos I",
+        "odds": "2.26"
       }
     ]
   }
