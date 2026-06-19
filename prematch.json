@@ -1,293 +1,347 @@
 [
   {
-    "date": "Jun 16, 01:30 PM",
-    "title": "New Zealand (w) - Sri Lanka (w)",
+    "date": "Jun 19, 08:30 PM",
+    "title": "Los Angeles Knight Riders - San Francisco Unicorns",
+    "bets": [
+      {
+        "team": "Los Angeles Knight Riders",
+        "odds": "1.94"
+      },
+      {
+        "team": "San Francisco Unicorns",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 12:30 AM",
+    "title": "Seattle Orcas - Washington Freedom",
+    "bets": [
+      {
+        "team": "Seattle Orcas",
+        "odds": "2"
+      },
+      {
+        "team": "Washington Freedom",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Jun 19, 05:30 PM",
+    "title": "New Zealand (w) - Ireland (w)",
     "bets": [
       {
         "team": "New Zealand (w)",
-        "odds": "1.31"
-      },
-      {
-        "team": "Sri Lanka (w)",
-        "odds": "3.27"
-      }
-    ]
-  },
-  {
-    "date": "Jun 16, 05:30 PM",
-    "title": "England (w) - Ireland (w)",
-    "bets": [
-      {
-        "team": "England (w)",
-        "odds": "1.01"
+        "odds": "1.08"
       },
       {
         "team": "Ireland (w)",
-        "odds": "12.45"
+        "odds": "7"
       }
     ]
   },
   {
-    "date": "Jun 15, 12:30 AM",
-    "title": "West Indies - Sri Lanka",
+    "date": "Jun 20, 08:00 AM",
+    "title": "India - Afghanistan",
     "bets": [
       {
-        "team": "West Indies",
-        "odds": "1.7"
+        "team": "India",
+        "odds": "1.11"
       },
       {
-        "team": "Sri Lanka",
-        "odds": "2.15"
+        "team": "Afghanistan",
+        "odds": "6.66"
       }
     ]
   },
   {
-    "date": "Jun 15, 04:30 AM",
-    "title": "Sri Lanka A - India A",
+    "date": "Jun 20, 09:30 AM",
+    "title": "Australia (w) - Netherlands (w)",
     "bets": [
       {
-        "team": "Sri Lanka A",
-        "odds": "3.66"
+        "team": "Netherlands (w)",
+        "odds": "13.8"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 01:30 PM",
+    "title": "Pakistan (w) - Bangladesh (w)",
+    "bets": [
+      {
+        "team": "Pakistan (w)",
+        "odds": "1.56"
       },
       {
-        "team": "India A",
-        "odds": "1.24"
+        "team": "Bangladesh (w)",
+        "odds": "2.33"
       }
     ]
   },
   {
-    "date": "Jun 15, 04:30 AM",
-    "title": "Sri Lanka Emerging - West Indies Academy",
+    "date": "Jun 20, 05:30 PM",
+    "title": "England (w) - Scotland (w)",
     "bets": [
       {
-        "team": "Sri Lanka Emerging",
-        "odds": "1.78"
+        "team": "England (w)",
+        "odds": "1.05"
       },
       {
-        "team": "West Indies Academy",
-        "odds": "1.92"
+        "team": "Scotland (w)",
+        "odds": "8.24"
       }
     ]
   },
   {
-    "date": "Jun 15, 09:30 AM",
-    "title": "Rewa Jaguars - Gwalior Cheetahs",
+    "date": "Jun 21, 09:30 AM",
+    "title": "West Indies (w) - Sri Lanka (w)",
     "bets": [
       {
-        "team": "Rewa Jaguars",
-        "odds": "1.89"
+        "team": "West Indies (w)",
+        "odds": "1.68"
       },
       {
-        "team": "Gwalior Cheetahs",
-        "odds": "1.81"
+        "team": "Sri Lanka (w)",
+        "odds": "2.11"
       }
     ]
   },
   {
-    "date": "Jun 15, 02:00 PM",
-    "title": "Jabalpur Royal Lions - Bhopal Leopards",
+    "date": "Jun 19, 02:00 PM",
+    "title": "Royal Nimar Eagles - Bundelkhand Bulls",
     "bets": [
       {
-        "team": "Jabalpur Royal Lions",
-        "odds": "1.51"
-      },
-      {
-        "team": "Bhopal Leopards",
-        "odds": "2.39"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 07:30 AM",
-    "title": "Ranchi Titans - Santhal Strikers",
-    "bets": [
-      {
-        "team": "Ranchi Titans",
-        "odds": "1.75"
-      },
-      {
-        "team": "Santhal Strikers",
-        "odds": "1.96"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 01:00 PM",
-    "title": "Chota Nagpur Royals - Jamshedpur Steelers",
-    "bets": [
-      {
-        "team": "Chota Nagpur Royals",
-        "odds": "1.78"
-      },
-      {
-        "team": "Jamshedpur Steelers",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 01:30 AM",
-    "title": "Bhutan - Singapore",
-    "bets": [
-      {
-        "team": "Bhutan",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 01:30 AM",
-    "title": "China PR - Indonesia",
-    "bets": [
-      {
-        "team": "China PR",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 01:30 AM",
-    "title": "Malaysia - Uzbekistan",
-    "bets": [
-      {
-        "team": "Uzbekistan",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 01:30 AM",
-    "title": "Maldives - Thailand",
-    "bets": [
-      {
-        "team": "Maldives",
-        "odds": "14"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 07:30 AM",
-    "title": "Siliguri Strikers - Lux Shyam Kolkata Tigers",
-    "bets": [
-      {
-        "team": "Siliguri Strikers",
-        "odds": "1.41"
-      },
-      {
-        "team": "Lux Shyam Kolkata Tigers",
-        "odds": "2.69"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 07:30 AM",
-    "title": "Rwanda (w) - Zimbabwe HPC (w)",
-    "bets": [
-      {
-        "team": "Rwanda (w)",
-        "odds": "1.85"
-      },
-      {
-        "team": "Zimbabwe HPC (w)",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 07:45 AM",
-    "title": "Brazil (w) - Nigeria (w)",
-    "bets": [
-      {
-        "team": "Brazil (w)",
-        "odds": "1.98"
-      },
-      {
-        "team": "Nigeria (w)",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Jun 15, 01:30 PM",
-    "title": "Sobisco Smashers Malda - Adamas Howrah Warriors",
-    "bets": [
-      {
-        "team": "Sobisco Smashers Malda",
+        "team": "Royal Nimar Eagles",
         "odds": "1.49"
       },
       {
-        "team": "Adamas Howrah Warriors",
+        "team": "Bundelkhand Bulls",
         "odds": "2.43"
       }
     ]
   },
   {
-    "date": "Jun 15, 08:00 AM",
-    "title": "Patiala Panthers - Amritsar Alligators",
+    "date": "Jun 21, 08:00 AM",
+    "title": "Bangladesh - Australia",
     "bets": [
       {
-        "team": "Patiala Panthers",
-        "odds": "1.96"
+        "team": "Bangladesh",
+        "odds": "2.33"
       },
       {
-        "team": "Amritsar Alligators",
-        "odds": "1.75"
+        "team": "Australia",
+        "odds": "1.6"
       }
     ]
   },
   {
-    "date": "Jun 15, 10:00 AM",
-    "title": "Ludhiana Lions - Bathinda Bulls",
+    "date": "Jun 19, 12:00 PM",
+    "title": "Namibia - Hong Kong",
     "bets": [
       {
-        "team": "Ludhiana Lions",
-        "odds": "1.5"
+        "team": "Namibia",
+        "odds": "1.28"
       },
       {
-        "team": "Bathinda Bulls",
-        "odds": "2.4"
+        "team": "Hong Kong",
+        "odds": "3.33"
       }
     ]
   },
   {
-    "date": "Jun 16, 08:00 AM",
-    "title": "Pint - Southern District",
+    "date": "Jun 19, 01:00 PM",
+    "title": "Chota Nagpur Royals - Santhal Strikers",
     "bets": [
       {
-        "team": "Pint",
+        "team": "Chota Nagpur Royals",
+        "odds": "1.59"
+      },
+      {
+        "team": "Santhal Strikers",
+        "odds": "2.22"
+      }
+    ]
+  },
+  {
+    "date": "Jun 19, 01:30 PM",
+    "title": "Simhadri Vizag Lions - Royals of Rayalaseema",
+    "bets": [
+      {
+        "team": "Simhadri Vizag Lions",
+        "odds": "1.67"
+      },
+      {
+        "team": "Royals of Rayalaseema",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Jun 19, 02:00 PM",
+    "title": "Cricgiri Panthers - Goodluck Gladiators",
+    "bets": [
+      {
+        "team": "Cricgiri Panthers",
+        "odds": "1.44"
+      },
+      {
+        "team": "Goodluck Gladiators",
+        "odds": "2.5"
+      }
+    ]
+  },
+  {
+    "date": "Jun 19, 02:00 PM",
+    "title": "Malmo Mavericks - Gothenburg Phoenix",
+    "bets": [
+      {
+        "team": "Malmo Mavericks",
+        "odds": "2.37"
+      },
+      {
+        "team": "Gothenburg Phoenix",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 09:00 AM",
+    "title": "Hermes DVS - HCC",
+    "bets": [
+      {
+        "team": "Hermes DVS",
+        "odds": "2.77"
+      },
+      {
+        "team": "HCC",
+        "odds": "1.37"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 09:00 AM",
+    "title": "VRA - SV Kampong",
+    "bets": [
+      {
+        "team": "VRA",
+        "odds": "2.16"
+      },
+      {
+        "team": "SV Kampong",
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 09:00 AM",
+    "title": "VOC - HBS",
+    "bets": [
+      {
+        "team": "VOC",
         "odds": "2"
       },
       {
-        "team": "Southern District",
+        "team": "HBS",
         "odds": "1.69"
       }
     ]
   },
   {
-    "date": "Jun 14, 07:00 PM",
-    "title": "Meraloma I - Surrey United I",
+    "date": "Jun 20, 09:00 AM",
+    "title": "RCC - VCC",
     "bets": [
       {
-        "team": "Meraloma I",
-        "odds": "1.48"
+        "team": "RCC",
+        "odds": "1.66"
       },
       {
-        "team": "Surrey United I",
-        "odds": "2.36"
+        "team": "VCC",
+        "odds": "2.04"
       }
     ]
   },
   {
-    "date": "Jun 14, 07:00 PM",
-    "title": "Newton Surrey Champions I - Surrey Hawks I",
+    "date": "Jun 19, 12:00 PM",
+    "title": "BSC Rehberge - Berlin International Cricket Academy",
     "bets": [
       {
-        "team": "Newton Surrey Champions I",
-        "odds": "1.22"
+        "team": "BSC Rehberge",
+        "odds": "3.1"
+      },
+      {
+        "team": "Berlin International Cricket Academy",
+        "odds": "1.32"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 03:00 PM",
+    "title": "Falcons Washington - Underdogs",
+    "bets": [
+      {
+        "team": "Falcons Washington",
+        "odds": "1.52"
+      },
+      {
+        "team": "Underdogs",
+        "odds": "2.3"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 04:00 PM",
+    "title": "DC United - Sri Lankan",
+    "bets": [
+      {
+        "team": "DC United",
+        "odds": "1.6"
+      },
+      {
+        "team": "Sri Lankan",
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 07:00 PM",
+    "title": "Centurion - Cosmos I",
+    "bets": [
+      {
+        "team": "Centurion",
+        "odds": "2.1"
+      },
+      {
+        "team": "Cosmos I",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 07:00 PM",
+    "title": "Kelowna Kamloops I - Surrey Hawks I",
+    "bets": [
+      {
+        "team": "Kelowna Kamloops I",
+        "odds": "1.69"
       },
       {
         "team": "Surrey Hawks I",
-        "odds": "3.58"
+        "odds": "1.97"
+      }
+    ]
+  },
+  {
+    "date": "Jun 20, 07:00 PM",
+    "title": "Meraloma I - Richmond I",
+    "bets": [
+      {
+        "team": "Meraloma I",
+        "odds": "3.1"
+      },
+      {
+        "team": "Richmond I",
+        "odds": "1.3"
       }
     ]
   }
