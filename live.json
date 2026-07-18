@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "date": "Jul 18, 02:00 PM",
+    "title": "West Indies XI - Pakistan",
+    "bets": [
+      {
+        "team": "West Indies XI",
+        "odds": "4.77"
+      },
+      {
+        "team": "Pakistan",
+        "odds": "1.16"
+      }
+    ]
+  },
+  {
+    "date": "Jul 17, 10:00 AM",
+    "title": "England U-19 - South Africa U-19",
+    "bets": [
+      {
+        "team": "England U-19",
+        "odds": "11.74"
+      },
+      {
+        "team": "South Africa U-19",
+        "odds": "1.01"
+      }
+    ]
+  },
+  {
+    "date": "Jul 18, 08:14 PM",
+    "title": "Delhi Capitals (V-w) - Gujarat Giants (V-w)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (V-w)",
+        "odds": "4.11"
+      },
+      {
+        "team": "Gujarat Giants (V-w)",
+        "odds": "1.19"
+      }
+    ]
+  },
+  {
+    "date": "Jul 18, 09:18 PM",
+    "title": "Chennai Super Kings (V) - Punjab Kings (V)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (V)",
+        "odds": "1.83"
+      },
+      {
+        "team": "Punjab Kings (V)",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Jul 18, 09:53 PM",
+    "title": "Australia Legends (V) - New Zealand Legends (V)",
+    "bets": [
+      {
+        "team": "Australia Legends (V)",
+        "odds": "1.84"
+      },
+      {
+        "team": "New Zealand Legends (V)",
+        "odds": "1.86"
+      }
+    ]
+  },
+  {
+    "date": "Jul 18, 08:35 PM",
+    "title": "Chennai Super Kings (cyber) - Lucknow Super Giants (cyber)",
+    "bets": [
+      {
+        "team": "Chennai Super Kings (cyber)",
+        "odds": "16.83"
+      }
+    ]
+  },
+  {
+    "date": "Jul 18, 09:05 PM",
+    "title": "Bangladesh (cyber) - West Indies (cyber)",
+    "bets": [
+      {
+        "team": "Bangladesh (cyber)",
+        "odds": "11.88"
+      }
+    ]
+  },
+  {
+    "date": "Jul 18, 09:35 PM",
+    "title": "Rajasthan Royals (cyber) - Chennai Carvers (cyber)",
+    "bets": [
+      {
+        "team": "Chennai Carvers (cyber)",
+        "odds": "8.66"
+      }
+    ]
+  }
+]

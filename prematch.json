@@ -1,351 +1,225 @@
 [
   {
-    "date": "Jul 15, 03:25 PM",
-    "title": "Hampshire - Essex",
+    "date": "Jul 18, 11:30 PM",
+    "title": "Los Angeles Knight Riders - Washington Freedom",
     "bets": [
       {
-        "team": "Hampshire",
-        "odds": "1.71"
+        "team": "Los Angeles Knight Riders",
+        "odds": "2.01"
       },
       {
-        "team": "Essex",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
-    "date": "Jul 15, 03:25 PM",
-    "title": "Nottinghamshire - Surrey",
-    "bets": [
-      {
-        "team": "Nottinghamshire",
-        "odds": "2"
-      },
-      {
-        "team": "Surrey",
-        "odds": "1.76"
-      }
-    ]
-  },
-  {
-    "date": "Jul 15, 03:25 PM",
-    "title": "Yorkshire - Somerset",
-    "bets": [
-      {
-        "team": "Yorkshire",
-        "odds": "1.98"
-      },
-      {
-        "team": "Somerset",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
-    "date": "Jul 15, 03:55 PM",
-    "title": "Northamptonshire - Gloucestershire",
-    "bets": [
-      {
-        "team": "Northamptonshire",
-        "odds": "1.63"
-      },
-      {
-        "team": "Gloucestershire",
-        "odds": "2.2"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 10:00 AM",
-    "title": "England - India",
-    "bets": [
-      {
-        "team": "England",
-        "odds": "1.83"
-      },
-      {
-        "team": "India",
-        "odds": "1.97"
-      }
-    ]
-  },
-  {
-    "date": "Jul 15, 10:30 AM",
-    "title": "Zimbabwe - Bangladesh",
-    "bets": [
-      {
-        "team": "Zimbabwe",
-        "odds": "2.1"
-      },
-      {
-        "team": "Bangladesh",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Jul 15, 09:45 AM",
-    "title": "Ireland (w) - West Indies (w)",
-    "bets": [
-      {
-        "team": "Ireland (w)",
-        "odds": "3.9"
-      },
-      {
-        "team": "West Indies (w)",
-        "odds": "1.23"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 08:30 AM",
-    "title": "Ossudu Accord Warriors - Yanam Royals",
-    "bets": [
-      {
-        "team": "Ossudu Accord Warriors",
-        "odds": "1.54"
-      },
-      {
-        "team": "Yanam Royals",
-        "odds": "2.32"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 08:30 AM",
-    "title": "Belgium - Hungary",
-    "bets": [
-      {
-        "team": "Belgium",
-        "odds": "1.27"
-      },
-      {
-        "team": "Hungary",
-        "odds": "3.42"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 08:30 AM",
-    "title": "Serbia - Estonia",
-    "bets": [
-      {
-        "team": "Serbia",
-        "odds": "2.37"
-      },
-      {
-        "team": "Estonia",
-        "odds": "1.52"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 12:30 PM",
-    "title": "Ruby White Town Legends - Karaikal Knights",
-    "bets": [
-      {
-        "team": "Ruby White Town Legends",
-        "odds": "1.96"
-      },
-      {
-        "team": "Karaikal Knights",
+        "team": "Washington Freedom",
         "odds": "1.75"
       }
     ]
   },
   {
-    "date": "Jul 14, 01:30 PM",
-    "title": "Gibraltar - Norway",
-    "bets": [
-      {
-        "team": "Gibraltar",
-        "odds": "4.11"
-      },
-      {
-        "team": "Norway",
-        "odds": "1.19"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 01:30 PM",
-    "title": "Romania - Denmark",
-    "bets": [
-      {
-        "team": "Romania",
-        "odds": "2.55"
-      },
-      {
-        "team": "Denmark",
-        "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 04:30 AM",
-    "title": "Boost Defenders - Speen Ghar Tigers",
-    "bets": [
-      {
-        "team": "Boost Defenders",
-        "odds": "2.04"
-      },
-      {
-        "team": "Speen Ghar Tigers",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 09:25 AM",
+    "date": "Jul 19, 10:00 AM",
     "title": "England - India",
     "bets": [
       {
         "team": "England",
-        "odds": "1.69"
+        "odds": "1.88"
       },
       {
         "team": "India",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 09:30 AM",
+    "title": "Dambulla Sixers - Jaffna Kings",
+    "bets": [
+      {
+        "team": "Dambulla Sixers",
+        "odds": "1.77"
+      },
+      {
+        "team": "Jaffna Kings",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 02:00 PM",
+    "title": "Colombo Kaps - Kandy Royals",
+    "bets": [
+      {
+        "team": "Colombo Kaps",
+        "odds": "2"
+      },
+      {
+        "team": "Kandy Royals",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 10:30 AM",
+    "title": "Zimbabwe - Bangladesh",
+    "bets": [
+      {
+        "team": "Zimbabwe",
+        "odds": "2.08"
+      },
+      {
+        "team": "Bangladesh",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 02:00 PM",
+    "title": "West Indies - New Zealand",
+    "bets": [
+      {
+        "team": "West Indies",
+        "odds": "2.52"
+      },
+      {
+        "team": "New Zealand",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 08:30 AM",
+    "title": "Yanam Royals - Karaikal Knights",
+    "bets": [
+      {
+        "team": "Yanam Royals",
+        "odds": "1.64"
+      },
+      {
+        "team": "Karaikal Knights",
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 12:30 PM",
+    "title": "Ruby White Town Legends - Ossudu Accord Warriors",
+    "bets": [
+      {
+        "team": "Ruby White Town Legends",
+        "odds": "2.49"
+      },
+      {
+        "team": "Ossudu Accord Warriors",
+        "odds": "1.47"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 02:00 PM",
+    "title": "Pakistan U-19 (w) - South Africa U-19 (w)",
+    "bets": [
+      {
+        "team": "Pakistan U-19 (w)",
+        "odds": "2.52"
+      },
+      {
+        "team": "South Africa U-19 (w)",
+        "odds": "1.46"
+      }
+    ]
+  },
+  {
+    "date": "Jul 20, 04:00 AM",
+    "title": "Sri Lanka U-19 - India U-19",
+    "bets": [
+      {
+        "team": "Sri Lanka U-19",
+        "odds": "2.73"
+      },
+      {
+        "team": "India U-19",
+        "odds": "1.4"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 07:00 AM",
+    "title": "Oeiras - Malo",
+    "bets": [
+      {
+        "team": "Oeiras",
+        "odds": "1.79"
+      },
+      {
+        "team": "Malo",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 08:00 AM",
+    "title": "VCC - Hermes DVS",
+    "bets": [
+      {
+        "team": "VCC",
+        "odds": "1.46"
+      },
+      {
+        "team": "Hermes DVS",
+        "odds": "2.45"
+      }
+    ]
+  },
+  {
+    "date": "Jul 19, 11:00 AM",
+    "title": "Lisbon Super Giants - Fighters CC",
+    "bets": [
+      {
+        "team": "Lisbon Super Giants",
+        "odds": "1.62"
+      },
+      {
+        "team": "Fighters CC",
         "odds": "2.1"
       }
     ]
   },
   {
-    "date": "Jul 14, 09:30 AM",
-    "title": "Band-e-Amir Dragons - Mis Ainak Knights",
+    "date": "Jul 19, 01:00 PM",
+    "title": "HCC - SV Kampong",
     "bets": [
       {
-        "team": "Band-e-Amir Dragons",
-        "odds": "2.18"
+        "team": "HCC",
+        "odds": "2.12"
       },
       {
-        "team": "Mis Ainak Knights",
+        "team": "SV Kampong",
         "odds": "1.61"
       }
     ]
   },
   {
-    "date": "Jul 14, 01:30 AM",
-    "title": "Nepal U-19 (w) - Hong Kong U-19 (w)",
+    "date": "Jul 19, 03:00 PM",
+    "title": "Lisbon Werewolves - Gorkha XI",
     "bets": [
       {
-        "team": "Nepal U-19 (w)",
-        "odds": "1.15"
-      },
-      {
-        "team": "Hong Kong U-19 (w)",
-        "odds": "4.73"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 01:30 AM",
-    "title": "Indonesia U-19 (w) - Malaysia U-19 (w)",
-    "bets": [
-      {
-        "team": "Indonesia U-19 (w)",
+        "team": "Lisbon Werewolves",
         "odds": "1.6"
       },
       {
-        "team": "Malaysia U-19 (w)",
-        "odds": "2.19"
+        "team": "Gorkha XI",
+        "odds": "2.15"
       }
     ]
   },
   {
-    "date": "Jul 14, 01:30 AM",
-    "title": "Thailand U-19 (w) - Japan U-19 (w)",
+    "date": "Jul 19, 07:00 AM",
+    "title": "Turku United - BTCC Thundercats",
     "bets": [
       {
-        "team": "Thailand U-19 (w)",
-        "odds": "1.14"
+        "team": "Turku United",
+        "odds": "6.37"
       },
       {
-        "team": "Japan U-19 (w)",
-        "odds": "4.9"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 06:00 AM",
-    "title": "United Arab Emirates U-19 (w) - Bhutan U-19 (w)",
-    "bets": [
-      {
-        "team": "United Arab Emirates U-19 (w)",
-        "odds": "1.16"
-      },
-      {
-        "team": "Bhutan U-19 (w)",
-        "odds": "4.56"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 06:00 AM",
-    "title": "Qatar U-19 (w) - Singapore U-19 (w)",
-    "bets": [
-      {
-        "team": "Qatar U-19 (w)",
-        "odds": "1.5"
-      },
-      {
-        "team": "Singapore U-19 (w)",
-        "odds": "2.4"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 09:45 AM",
-    "title": "Northern Knights - Leinster Lightning",
-    "bets": [
-      {
-        "team": "Northern Knights",
-        "odds": "2.69"
-      },
-      {
-        "team": "Leinster Lightning",
-        "odds": "1.41"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 08:00 AM",
-    "title": "Southern District - Darwin",
-    "bets": [
-      {
-        "team": "Southern District",
-        "odds": "2.5"
-      },
-      {
-        "team": "Darwin",
-        "odds": "1.44"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 07:00 AM",
-    "title": "Ntunda - Naggalama",
-    "bets": [
-      {
-        "team": "Ntunda",
-        "odds": "2.04"
-      },
-      {
-        "team": "Naggalama",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Jul 14, 11:00 AM",
-    "title": "Mpata - Bussana",
-    "bets": [
-      {
-        "team": "Mpata",
-        "odds": "1.78"
-      },
-      {
-        "team": "Bussana",
-        "odds": "1.92"
+        "team": "BTCC Thundercats",
+        "odds": "1.08"
       }
     ]
   }
