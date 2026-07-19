@@ -1,19 +1,5 @@
 [
   {
-    "date": "Jul 18, 11:30 PM",
-    "title": "Los Angeles Knight Riders - Washington Freedom",
-    "bets": [
-      {
-        "team": "Los Angeles Knight Riders",
-        "odds": "2.01"
-      },
-      {
-        "team": "Washington Freedom",
-        "odds": "1.75"
-      }
-    ]
-  },
-  {
     "date": "Jul 19, 10:00 AM",
     "title": "England - India",
     "bets": [
@@ -33,11 +19,11 @@
     "bets": [
       {
         "team": "Dambulla Sixers",
-        "odds": "1.77"
+        "odds": "1.71"
       },
       {
         "team": "Jaffna Kings",
-        "odds": "1.98"
+        "odds": "2.06"
       }
     ]
   },
@@ -84,35 +70,21 @@
     ]
   },
   {
-    "date": "Jul 19, 08:30 AM",
-    "title": "Yanam Royals - Karaikal Knights",
-    "bets": [
-      {
-        "team": "Yanam Royals",
-        "odds": "1.64"
-      },
-      {
-        "team": "Karaikal Knights",
-        "odds": "2.12"
-      }
-    ]
-  },
-  {
     "date": "Jul 19, 12:30 PM",
     "title": "Ruby White Town Legends - Ossudu Accord Warriors",
     "bets": [
       {
         "team": "Ruby White Town Legends",
-        "odds": "2.49"
+        "odds": "2.46"
       },
       {
         "team": "Ossudu Accord Warriors",
-        "odds": "1.47"
+        "odds": "1.48"
       }
     ]
   },
   {
-    "date": "Jul 19, 02:00 PM",
+    "date": "Jul 19, 02:30 PM",
     "title": "Pakistan U-19 (w) - South Africa U-19 (w)",
     "bets": [
       {
@@ -131,39 +103,25 @@
     "bets": [
       {
         "team": "Sri Lanka U-19",
-        "odds": "2.73"
+        "odds": "2.62"
       },
       {
         "team": "India U-19",
-        "odds": "1.4"
+        "odds": "1.43"
       }
     ]
   },
   {
-    "date": "Jul 19, 07:00 AM",
-    "title": "Oeiras - Malo",
+    "date": "Jul 21, 07:30 AM",
+    "title": "Hong Kong (w) - Uganda (w)",
     "bets": [
       {
-        "team": "Oeiras",
-        "odds": "1.79"
+        "team": "Hong Kong (w)",
+        "odds": "1.68"
       },
       {
-        "team": "Malo",
-        "odds": "1.87"
-      }
-    ]
-  },
-  {
-    "date": "Jul 19, 08:00 AM",
-    "title": "VCC - Hermes DVS",
-    "bets": [
-      {
-        "team": "VCC",
-        "odds": "1.46"
-      },
-      {
-        "team": "Hermes DVS",
-        "odds": "2.45"
+        "team": "Uganda (w)",
+        "odds": "2.1"
       }
     ]
   },
@@ -210,16 +168,16 @@
     ]
   },
   {
-    "date": "Jul 19, 07:00 AM",
-    "title": "Turku United - BTCC Thundercats",
+    "date": "Jul 19, 10:00 AM",
+    "title": "Western Warriors - Eastern Knights",
     "bets": [
       {
-        "team": "Turku United",
-        "odds": "6.37"
+        "team": "Western Warriors",
+        "odds": "2.18"
       },
       {
-        "team": "BTCC Thundercats",
-        "odds": "1.08"
+        "team": "Eastern Knights",
+        "odds": "1.58"
       }
     ]
   }
