@@ -1,207 +1,253 @@
 [
   {
-    "date": "Jul 18, 02:00 PM",
-    "title": "West Indies XI - Pakistan",
+    "date": "Jul 25, 02:00 PM",
+    "title": "West Indies - Pakistan",
     "bets": [
       {
-        "team": "West Indies XI",
-        "odds": "4.77"
+        "team": "West Indies",
+        "odds": "1.39"
       },
       {
         "team": "Pakistan",
-        "odds": "1.16"
+        "odds": "2.98"
       }
     ]
   },
   {
-    "date": "Jul 17, 10:00 AM",
-    "title": "England U-19 - South Africa U-19",
+    "date": "Jul 25, 11:00 PM",
+    "title": "Guyana Amazon Warriors - Desert Vipers",
     "bets": [
       {
-        "team": "England U-19",
-        "odds": "11.74"
+        "team": "Guyana Amazon Warriors",
+        "odds": "1.35"
       },
       {
-        "team": "South Africa U-19",
-        "odds": "1.01"
+        "team": "Desert Vipers",
+        "odds": "3.21"
       }
     ]
   },
   {
-    "date": "Jul 19, 07:00 AM",
-    "title": "Kolkata Knight Riders (V) - Lucknow Super Giants (V)",
+    "date": "Jul 21, 11:51 AM",
+    "title": "Sydney Thunder (V) - Adelaide Strikers (V)",
     "bets": [
       {
-        "team": "Kolkata Knight Riders (V)",
-        "odds": "2.16"
+        "team": "Sydney Thunder (V)",
+        "odds": "1.9"
       },
       {
-        "team": "Lucknow Super Giants (V)",
-        "odds": "1.62"
+        "team": "Draw",
+        "odds": "15"
       }
     ]
   },
   {
-    "date": "Jul 19, 07:30 AM",
-    "title": "Chennai Lions - Nitros",
+    "date": "Jul 25, 10:30 PM",
+    "title": "Mavericks Chennai - Chennai Lions",
     "bets": [
       {
-        "team": "Chennai Lions",
+        "team": "Mavericks Chennai",
+        "odds": "1.61"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.34"
+      }
+    ]
+  },
+  {
+    "date": "Jul 25, 11:12 PM",
+    "title": "South Africa (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "South Africa (V)",
+        "odds": "2.92"
+      },
+      {
+        "team": "Sri Lanka (V)",
+        "odds": "1.35"
+      }
+    ]
+  },
+  {
+    "date": "Jul 25, 11:18 PM",
+    "title": "Peshawar (V) - Mumbai (V)",
+    "bets": [
+      {
+        "team": "Peshawar (V)",
+        "odds": "3.25"
+      },
+      {
+        "team": "Draw",
+        "odds": "3.1"
+      }
+    ]
+  },
+  {
+    "date": "Jul 25, 11:18 PM",
+    "title": "West Indies (V) - New Zealand (V)",
+    "bets": [
+      {
+        "team": "West Indies (V)",
         "odds": "1.32"
       },
       {
         "team": "Draw",
-        "odds": "24.24"
+        "odds": "21"
       }
     ]
   },
   {
-    "date": "Jul 19, 08:00 AM",
-    "title": "Ruhuna Cricket - Stunners Indoor",
+    "date": "Jul 25, 11:20 PM",
+    "title": "Punjab Kings (V) - Sunrisers Hyderabad (V)",
     "bets": [
       {
-        "team": "Ruhuna Cricket",
-        "odds": "2.11"
+        "team": "Punjab Kings (V)",
+        "odds": "21"
       },
       {
         "team": "Draw",
-        "odds": "24.14"
+        "odds": "21"
       }
     ]
   },
   {
-    "date": "Jul 19, 08:03 AM",
-    "title": "Delhi Capitals (V-w) - Mumbai Indians (V-w)",
+    "date": "Jul 25, 11:22 PM",
+    "title": "Pakistan (V) - India (V)",
     "bets": [
       {
-        "team": "Delhi Capitals (V-w)",
-        "odds": "1.96"
+        "team": "Pakistan (V)",
+        "odds": "1.87"
       },
       {
-        "team": "Mumbai Indians (V-w)",
-        "odds": "1.75"
+        "team": "Draw",
+        "odds": "12"
       }
     ]
   },
   {
-    "date": "Jul 19, 07:00 AM",
-    "title": "Oeiras - Malo",
+    "date": "Jul 25, 11:24 PM",
+    "title": "Gujarat Giants (e-w) - Delhi Capitals (e-w)",
     "bets": [
       {
-        "team": "Oeiras",
-        "odds": "1.16"
+        "team": "Gujarat Giants (e-w)",
+        "odds": "2.55"
       },
       {
-        "team": "Malo",
-        "odds": "4.64"
+        "team": "Draw",
+        "odds": "14"
       }
     ]
   },
   {
-    "date": "Jul 19, 07:05 AM",
-    "title": "India (cyber) - Sri Lanka (cyber)",
+    "date": "Jul 25, 11:24 PM",
+    "title": "Mumbai Indians (e) - Gujarat Titans (e)",
     "bets": [
       {
-        "team": "Sri Lanka (cyber)",
-        "odds": "8.69"
+        "team": "Mumbai Indians (e)",
+        "odds": "2.5"
+      },
+      {
+        "team": "Draw",
+        "odds": "14"
       }
     ]
   },
   {
-    "date": "Jul 19, 07:35 AM",
-    "title": "Mumbai Indians (cyber) - Kolkata Knight Riders (cyber)",
+    "date": "Jul 25, 11:24 PM",
+    "title": "Lucknow Super Giants (e) - Rajasthan Royals (e)",
     "bets": [
+      {
+        "team": "Lucknow Super Giants (e)",
+        "odds": "1.41"
+      },
+      {
+        "team": "Draw",
+        "odds": "9.7"
+      }
+    ]
+  },
+  {
+    "date": "Jul 25, 11:24 PM",
+    "title": "Brisbane Heat (V) - Melbourne Renegades (V)",
+    "bets": [
+      {
+        "team": "Brisbane Heat (V)",
+        "odds": "1.2"
+      },
+      {
+        "team": "Draw",
+        "odds": "19"
+      }
+    ]
+  },
+  {
+    "date": "Jul 25, 11:27 PM",
+    "title": "Australia (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "Australia (V)",
+        "odds": "1.55"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jul 25, 11:27 PM",
+    "title": "Johannesburg (V) - Mumbai (V)",
+    "bets": [
+      {
+        "team": "Johannesburg (V)",
+        "odds": "2.5"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jul 25, 10:05 PM",
+    "title": "India (cyber) - Pakistan (cyber)",
+    "bets": [
+      {
+        "team": "India (cyber)",
+        "odds": "3.61"
+      },
+      {
+        "team": "Pakistan (cyber)",
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
+    "date": "Jul 25, 10:35 PM",
+    "title": "Sunrisers Hyderabad (cyber) - Mumbai Indians (cyber)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (cyber)",
+        "odds": "1.12"
+      },
       {
         "team": "Mumbai Indians (cyber)",
-        "odds": "2.32"
-      },
-      {
-        "team": "Kolkata Knight Riders (cyber)",
-        "odds": "1.47"
+        "odds": "4.65"
       }
     ]
   },
   {
-    "date": "Jul 19, 08:00 AM",
-    "title": "Islamabad Fighters - Rawalpindi United",
+    "date": "Jul 25, 11:05 PM",
+    "title": "Thailand (cyber) - Afghanistan (cyber)",
     "bets": [
       {
-        "team": "Islamabad Fighters",
-        "odds": "1.91"
-      },
-      {
-        "team": "Draw",
-        "odds": "24.6"
-      }
-    ]
-  },
-  {
-    "date": "Jul 19, 08:00 AM",
-    "title": "VCC - Hermes DVS",
-    "bets": [
-      {
-        "team": "VCC",
-        "odds": "1.31"
-      },
-      {
-        "team": "Hermes DVS",
-        "odds": "3.22"
-      }
-    ]
-  },
-  {
-    "date": "Jul 19, 08:05 AM",
-    "title": "Bangladesh (cyber) - West Indies (cyber)",
-    "bets": [
-      {
-        "team": "Bangladesh (cyber)",
-        "odds": "2.64"
-      },
-      {
-        "team": "West Indies (cyber)",
-        "odds": "1.37"
-      }
-    ]
-  },
-  {
-    "date": "Jul 19, 07:00 AM",
-    "title": "Turku United - BTCC Thundercats",
-    "bets": [
-      {
-        "team": "Turku United",
-        "odds": "5.55"
-      },
-      {
-        "team": "BTCC Thundercats",
-        "odds": "1.11"
-      }
-    ]
-  },
-  {
-    "date": "Jul 19, 07:25 AM",
-    "title": "Agra Royals (w) - Star Eleven (w)",
-    "bets": [
-      {
-        "team": "Agra Royals (w)",
+        "team": "Thailand (cyber)",
         "odds": "1.65"
       },
       {
-        "team": "Star Eleven (w)",
-        "odds": "2.1"
-      }
-    ]
-  },
-  {
-    "date": "Jul 19, 07:50 AM",
-    "title": "Town Templers - Akluj Ancers",
-    "bets": [
-      {
-        "team": "Town Templers",
-        "odds": "1.88"
-      },
-      {
-        "team": "Akluj Ancers",
-        "odds": "1.82"
+        "team": "Afghanistan (cyber)",
+        "odds": "1.98"
       }
     ]
   }
