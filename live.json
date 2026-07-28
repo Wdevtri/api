@@ -1,253 +1,175 @@
 [
   {
-    "date": "Jul 25, 02:00 PM",
-    "title": "West Indies - Pakistan",
+    "date": "Jul 28, 08:33 PM",
+    "title": "Rajasthan Royals (V) - Sunrisers Hyderabad (V)",
     "bets": [
       {
-        "team": "West Indies",
-        "odds": "1.39"
+        "team": "Rajasthan Royals (V)",
+        "odds": "1.91"
       },
       {
-        "team": "Pakistan",
+        "team": "Sunrisers Hyderabad (V)",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 09:03 PM",
+    "title": "UP Warriorz (V-w) - Royal Challengers Bengaluru (V-w)",
+    "bets": [
+      {
+        "team": "UP Warriorz (V-w)",
+        "odds": "8.2"
+      },
+      {
+        "team": "Royal Challengers Bengaluru (V-w)",
+        "odds": "1.03"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 10:00 PM",
+    "title": "Courageous - Wild Cats",
+    "bets": [
+      {
+        "team": "Courageous",
+        "odds": "1.83"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.32"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 10:01 PM",
+    "title": "Pakistan Legends (V) - England Legends (V)",
+    "bets": [
+      {
+        "team": "Pakistan Legends (V)",
+        "odds": "41"
+      },
+      {
+        "team": "England Legends (V)",
+        "odds": "1.01"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 10:08 PM",
+    "title": "Gujarat Titans (V) - Royal Challengers Bengaluru (V)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (V)",
+        "odds": "1.15"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 10:10 PM",
+    "title": "Bangladesh (V) - India (V)",
+    "bets": [
+      {
+        "team": "Bangladesh (V)",
+        "odds": "1.27"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 10:12 PM",
+    "title": "Melbourne Stars (V) - Hobart Hurricanes (V)",
+    "bets": [
+      {
+        "team": "Melbourne Stars (V)",
+        "odds": "2.6"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 10:15 PM",
+    "title": "Pakistan (V) - England (V)",
+    "bets": [
+      {
+        "team": "Pakistan (V)",
+        "odds": "2.1"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 08:35 PM",
+    "title": "Sunrisers Hyderabad (cyber) - Mumbai Indians (cyber)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (cyber)",
+        "odds": "11.88"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 09:05 PM",
+    "title": "Australia (cyber) - Pakistan (cyber)",
+    "bets": [
+      {
+        "team": "Australia (cyber)",
+        "odds": "16.83"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 09:35 PM",
+    "title": "Lucknow Super Giants (cyber) - Chennai Super Kings (cyber)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "1.29"
+      },
+      {
+        "team": "Chennai Super Kings (cyber)",
         "odds": "2.98"
       }
     ]
   },
   {
-    "date": "Jul 25, 11:00 PM",
-    "title": "Guyana Amazon Warriors - Desert Vipers",
+    "date": "Jul 28, 10:05 PM",
+    "title": "Zimbabwe (cyber) - Afghanistan (cyber)",
     "bets": [
       {
-        "team": "Guyana Amazon Warriors",
-        "odds": "1.35"
-      },
-      {
-        "team": "Desert Vipers",
-        "odds": "3.21"
-      }
-    ]
-  },
-  {
-    "date": "Jul 21, 11:51 AM",
-    "title": "Sydney Thunder (V) - Adelaide Strikers (V)",
-    "bets": [
-      {
-        "team": "Sydney Thunder (V)",
-        "odds": "1.9"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 10:30 PM",
-    "title": "Mavericks Chennai - Chennai Lions",
-    "bets": [
-      {
-        "team": "Mavericks Chennai",
-        "odds": "1.61"
-      },
-      {
-        "team": "Draw",
-        "odds": "24.34"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:12 PM",
-    "title": "South Africa (V) - Sri Lanka (V)",
-    "bets": [
-      {
-        "team": "South Africa (V)",
-        "odds": "2.92"
-      },
-      {
-        "team": "Sri Lanka (V)",
-        "odds": "1.35"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:18 PM",
-    "title": "Peshawar (V) - Mumbai (V)",
-    "bets": [
-      {
-        "team": "Peshawar (V)",
-        "odds": "3.25"
-      },
-      {
-        "team": "Draw",
-        "odds": "3.1"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:18 PM",
-    "title": "West Indies (V) - New Zealand (V)",
-    "bets": [
-      {
-        "team": "West Indies (V)",
-        "odds": "1.32"
-      },
-      {
-        "team": "Draw",
-        "odds": "21"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:20 PM",
-    "title": "Punjab Kings (V) - Sunrisers Hyderabad (V)",
-    "bets": [
-      {
-        "team": "Punjab Kings (V)",
-        "odds": "21"
-      },
-      {
-        "team": "Draw",
-        "odds": "21"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:22 PM",
-    "title": "Pakistan (V) - India (V)",
-    "bets": [
-      {
-        "team": "Pakistan (V)",
-        "odds": "1.87"
-      },
-      {
-        "team": "Draw",
-        "odds": "12"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:24 PM",
-    "title": "Gujarat Giants (e-w) - Delhi Capitals (e-w)",
-    "bets": [
-      {
-        "team": "Gujarat Giants (e-w)",
-        "odds": "2.55"
-      },
-      {
-        "team": "Draw",
-        "odds": "14"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:24 PM",
-    "title": "Mumbai Indians (e) - Gujarat Titans (e)",
-    "bets": [
-      {
-        "team": "Mumbai Indians (e)",
-        "odds": "2.5"
-      },
-      {
-        "team": "Draw",
-        "odds": "14"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:24 PM",
-    "title": "Lucknow Super Giants (e) - Rajasthan Royals (e)",
-    "bets": [
-      {
-        "team": "Lucknow Super Giants (e)",
-        "odds": "1.41"
-      },
-      {
-        "team": "Draw",
-        "odds": "9.7"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:24 PM",
-    "title": "Brisbane Heat (V) - Melbourne Renegades (V)",
-    "bets": [
-      {
-        "team": "Brisbane Heat (V)",
-        "odds": "1.2"
-      },
-      {
-        "team": "Draw",
-        "odds": "19"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:27 PM",
-    "title": "Australia (V) - Sri Lanka (V)",
-    "bets": [
-      {
-        "team": "Australia (V)",
-        "odds": "1.55"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:27 PM",
-    "title": "Johannesburg (V) - Mumbai (V)",
-    "bets": [
-      {
-        "team": "Johannesburg (V)",
-        "odds": "2.5"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 10:05 PM",
-    "title": "India (cyber) - Pakistan (cyber)",
-    "bets": [
-      {
-        "team": "India (cyber)",
-        "odds": "3.61"
-      },
-      {
-        "team": "Pakistan (cyber)",
-        "odds": "1.17"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 10:35 PM",
-    "title": "Sunrisers Hyderabad (cyber) - Mumbai Indians (cyber)",
-    "bets": [
-      {
-        "team": "Sunrisers Hyderabad (cyber)",
-        "odds": "1.12"
-      },
-      {
-        "team": "Mumbai Indians (cyber)",
-        "odds": "4.65"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:05 PM",
-    "title": "Thailand (cyber) - Afghanistan (cyber)",
-    "bets": [
-      {
-        "team": "Thailand (cyber)",
-        "odds": "1.65"
+        "team": "Zimbabwe (cyber)",
+        "odds": "4.92"
       },
       {
         "team": "Afghanistan (cyber)",
-        "odds": "1.98"
+        "odds": "1.06"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 10:00 PM",
+    "title": "Australia (JdeMen) - India (Carlo)",
+    "bets": [
+      {
+        "team": "Australia (JdeMen)",
+        "odds": "4.32"
+      },
+      {
+        "team": "India (Carlo)",
+        "odds": "1.16"
       }
     ]
   }

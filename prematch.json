@@ -1,24 +1,24 @@
 [
   {
-    "date": "Jul 26, 01:30 PM",
-    "title": "Manchester Super Giants - Birmingham Phoenix",
+    "date": "Jul 29, 02:00 PM",
+    "title": "Welsh Fire - Trent Rockets",
     "bets": [
       {
-        "team": "Manchester Super Giants",
-        "odds": "1.8"
+        "team": "Welsh Fire",
+        "odds": "2"
       },
       {
-        "team": "Birmingham Phoenix",
-        "odds": "1.94"
+        "team": "Trent Rockets",
+        "odds": "1.76"
       }
     ]
   },
   {
-    "date": "Jul 26, 05:00 PM",
-    "title": "Trent Rockets - London Spirit",
+    "date": "Jul 29, 05:30 PM",
+    "title": "MI London - London Spirit",
     "bets": [
       {
-        "team": "Trent Rockets",
+        "team": "MI London",
         "odds": "1.74"
       },
       {
@@ -28,506 +28,478 @@
     ]
   },
   {
-    "date": "Jul 27, 05:30 PM",
-    "title": "Southern Brave - MI London",
+    "date": "Jul 30, 05:30 PM",
+    "title": "Southern Brave - Birmingham Phoenix",
     "bets": [
       {
         "team": "Southern Brave",
-        "odds": "2.04"
-      },
-      {
-        "team": "MI London",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Manchester Super Giants (w) - Birmingham Phoenix (w)",
-    "bets": [
-      {
-        "team": "Manchester Super Giants (w)",
-        "odds": "1.58"
-      },
-      {
-        "team": "Birmingham Phoenix (w)",
-        "odds": "2.3"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 01:30 PM",
-    "title": "Trent Rockets (w) - London Spirit (w)",
-    "bets": [
-      {
-        "team": "Trent Rockets (w)",
-        "odds": "1.65"
-      },
-      {
-        "team": "London Spirit (w)",
-        "odds": "2.15"
-      }
-    ]
-  },
-  {
-    "date": "Jul 27, 02:00 PM",
-    "title": "Southern Brave (w) - MI London (w)",
-    "bets": [
-      {
-        "team": "Southern Brave (w)",
-        "odds": "1.7"
-      },
-      {
-        "team": "MI London (w)",
-        "odds": "2.08"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 09:30 AM",
-    "title": "Kandy Royals - Jaffna Kings",
-    "bets": [
-      {
-        "team": "Kandy Royals",
-        "odds": "1.73"
-      },
-      {
-        "team": "Jaffna Kings",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 02:00 PM",
-    "title": "Galle Marvels - Dambulla Sixers",
-    "bets": [
-      {
-        "team": "Galle Marvels",
         "odds": "1.91"
       },
       {
-        "team": "Dambulla Sixers",
+        "team": "Birmingham Phoenix",
         "odds": "1.84"
       }
     ]
   },
   {
-    "date": "Jul 26, 11:00 AM",
-    "title": "Zimbabwe - India",
+    "date": "Jul 29, 10:30 AM",
+    "title": "Welsh Fire (w) - Trent Rockets (w)",
     "bets": [
       {
-        "team": "Zimbabwe",
-        "odds": "10.4"
+        "team": "Welsh Fire (w)",
+        "odds": "2.02"
       },
       {
-        "team": "India",
-        "odds": "1.05"
+        "team": "Trent Rockets (w)",
+        "odds": "1.74"
       }
     ]
   },
   {
-    "date": "Jul 26, 02:00 PM",
-    "title": "San Francisco Unicorns - Perth Scorchers XI",
+    "date": "Jul 29, 02:00 PM",
+    "title": "MI London (w) - London Spirit (w)",
     "bets": [
       {
-        "team": "San Francisco Unicorns",
-        "odds": "2.35"
-      },
-      {
-        "team": "Perth Scorchers XI",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Sussex - Yorkshire",
-    "bets": [
-      {
-        "team": "Sussex",
-        "odds": "2.9"
-      },
-      {
-        "team": "Yorkshire",
-        "odds": "1.36"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Leicestershire - Lancashire",
-    "bets": [
-      {
-        "team": "Leicestershire",
-        "odds": "1.58"
-      },
-      {
-        "team": "Lancashire",
-        "odds": "2.23"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Surrey - Northamptonshire",
-    "bets": [
-      {
-        "team": "Surrey",
+        "team": "MI London (w)",
         "odds": "1.82"
       },
       {
-        "team": "Northamptonshire",
-        "odds": "1.88"
+        "team": "London Spirit (w)",
+        "odds": "1.92"
       }
     ]
   },
   {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Somerset - Warwickshire",
+    "date": "Jul 30, 02:00 PM",
+    "title": "Southern Brave (w) - Birmingham Phoenix (w)",
     "bets": [
       {
-        "team": "Somerset",
-        "odds": "1.8"
-      },
-      {
-        "team": "Warwickshire",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Gloucestershire - Kent",
-    "bets": [
-      {
-        "team": "Gloucestershire",
-        "odds": "2.27"
-      },
-      {
-        "team": "Kent",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Worcestershire - Hampshire",
-    "bets": [
-      {
-        "team": "Worcestershire",
-        "odds": "1.85"
-      },
-      {
-        "team": "Hampshire",
-        "odds": "1.85"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Middlesex - Glamorgan",
-    "bets": [
-      {
-        "team": "Middlesex",
-        "odds": "1.69"
-      },
-      {
-        "team": "Glamorgan",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Essex - Derbyshire",
-    "bets": [
-      {
-        "team": "Essex",
-        "odds": "1.5"
-      },
-      {
-        "team": "Derbyshire",
-        "odds": "2.42"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 12:30 PM",
-    "title": "Villianur Mohit Kings - Mahe Megalo Strikers",
-    "bets": [
-      {
-        "team": "Villianur Mohit Kings",
-        "odds": "1.4"
-      },
-      {
-        "team": "Mahe Megalo Strikers",
-        "odds": "2.73"
-      }
-    ]
-  },
-  {
-    "date": "Jul 27, 09:00 AM",
-    "title": "Namibia - Nepal",
-    "bets": [
-      {
-        "team": "Namibia",
-        "odds": "1.9"
-      },
-      {
-        "team": "Nepal",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:27 PM",
-    "title": "Australia (V) - Sri Lanka (V)",
-    "bets": [
-      {
-        "team": "Australia (V)",
-        "odds": "1.55"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Jul 25, 11:27 PM",
-    "title": "Johannesburg (V) - Mumbai (V)",
-    "bets": [
-      {
-        "team": "Johannesburg (V)",
-        "odds": "2.5"
-      },
-      {
-        "team": "Draw",
-        "odds": "15"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 07:00 AM",
-    "title": "Romania - Austria",
-    "bets": [
-      {
-        "team": "Romania",
-        "odds": "2.17"
-      },
-      {
-        "team": "Austria",
-        "odds": "1.61"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 08:30 AM",
-    "title": "Mysore Warriors (w) - Hubli Tigers (w)",
-    "bets": [
-      {
-        "team": "Mysore Warriors (w)",
-        "odds": "2.15"
-      },
-      {
-        "team": "Hubli Tigers (w)",
+        "team": "Southern Brave (w)",
         "odds": "1.63"
+      },
+      {
+        "team": "Birmingham Phoenix (w)",
+        "odds": "2.2"
       }
     ]
   },
   {
-    "date": "Jul 26, 09:30 AM",
-    "title": "Glamorgan (w) - Sussex Sharks (w)",
+    "date": "Jul 29, 09:30 AM",
+    "title": "Galle Marvels - Kandy Royals",
     "bets": [
       {
-        "team": "Glamorgan (w)",
+        "team": "Galle Marvels",
+        "odds": "1.82"
+      },
+      {
+        "team": "Kandy Royals",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 02:00 PM",
+    "title": "Colombo Kaps - Dambulla Sixers",
+    "bets": [
+      {
+        "team": "Colombo Kaps",
+        "odds": "1.77"
+      },
+      {
+        "team": "Dambulla Sixers",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "Jul 28, 11:00 PM",
+    "title": "Desert Vipers - Perth Scorchers XI",
+    "bets": [
+      {
+        "team": "Desert Vipers",
+        "odds": "1.65"
+      },
+      {
+        "team": "Perth Scorchers XI",
+        "odds": "2.15"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 10:00 AM",
+    "title": "Jersey - United Arab Emirates",
+    "bets": [
+      {
+        "team": "Jersey",
+        "odds": "2.92"
+      },
+      {
+        "team": "United Arab Emirates",
+        "odds": "1.35"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 02:00 PM",
+    "title": "Lahore Qalandars - San Francisco Unicorns",
+    "bets": [
+      {
+        "team": "Lahore Qalandars",
+        "odds": "1.63"
+      },
+      {
+        "team": "San Francisco Unicorns",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 07:00 AM",
+    "title": "Switzerland (w) - Jersey (w)",
+    "bets": [
+      {
+        "team": "Switzerland (w)",
+        "odds": "4.46"
+      },
+      {
+        "team": "Jersey (w)",
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 07:30 AM",
+    "title": "South Africa Emerging (w) - Bangladesh Emerging (w)",
+    "bets": [
+      {
+        "team": "South Africa Emerging (w)",
         "odds": "1.41"
       },
       {
-        "team": "Sussex Sharks (w)",
+        "team": "Bangladesh Emerging (w)",
         "odds": "2.69"
       }
     ]
   },
   {
-    "date": "Jul 26, 09:30 AM",
-    "title": "Kent (w) - Middlesex (w)",
+    "date": "Jul 29, 09:00 AM",
+    "title": "Nepal - Netherlands",
     "bets": [
       {
-        "team": "Kent (w)",
-        "odds": "2.73"
+        "team": "Nepal",
+        "odds": "2.4"
       },
       {
-        "team": "Middlesex (w)",
-        "odds": "1.4"
+        "team": "Netherlands",
+        "odds": "1.5"
       }
     ]
   },
   {
-    "date": "Jul 26, 09:30 AM",
-    "title": "Derbyshire Falcons (w) - Worcestershire Rapids (w)",
+    "date": "Jul 29, 10:00 AM",
+    "title": "Durham - Glamorgan",
     "bets": [
       {
-        "team": "Derbyshire Falcons (w)",
-        "odds": "2.37"
+        "team": "Durham",
+        "odds": "1.39"
       },
       {
-        "team": "Worcestershire Rapids (w)",
-        "odds": "1.52"
+        "team": "Glamorgan",
+        "odds": "2.76"
       }
     ]
   },
   {
-    "date": "Jul 26, 09:30 AM",
-    "title": "Northamptonshire Steelbacks (w) - Leicestershire Foxes (w)",
+    "date": "Jul 29, 10:00 AM",
+    "title": "Warwickshire - Surrey",
     "bets": [
       {
-        "team": "Northamptonshire Steelbacks (w)",
-        "odds": "1.72"
+        "team": "Warwickshire",
+        "odds": "1.71"
       },
       {
-        "team": "Leicestershire Foxes (w)",
-        "odds": "2"
+        "team": "Surrey",
+        "odds": "2.02"
       }
     ]
   },
   {
-    "date": "Jul 26, 01:00 PM",
-    "title": "Gulbarga Mystics (w) - Bengaluru Blasters (w)",
+    "date": "Jul 29, 10:00 AM",
+    "title": "Sussex - Essex",
     "bets": [
       {
-        "team": "Gulbarga Mystics (w)",
+        "team": "Sussex",
+        "odds": "2.55"
+      },
+      {
+        "team": "Essex",
+        "odds": "1.45"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 10:00 AM",
+    "title": "Yorkshire - Worcestershire",
+    "bets": [
+      {
+        "team": "Yorkshire",
+        "odds": "1.67"
+      },
+      {
+        "team": "Worcestershire",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
+    "date": "Jul 30, 10:00 AM",
+    "title": "Lancashire - Nottinghamshire",
+    "bets": [
+      {
+        "team": "Lancashire",
+        "odds": "2.02"
+      },
+      {
+        "team": "Nottinghamshire",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 09:30 AM",
+    "title": "East Londoners - Sharks Cricket Academy",
+    "bets": [
+      {
+        "team": "East Londoners",
+        "odds": "2.05"
+      },
+      {
+        "team": "Sharks Cricket Academy",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 10:00 AM",
+    "title": "Spain (w) - Brazil (w)",
+    "bets": [
+      {
+        "team": "Spain (w)",
+        "odds": "7.72"
+      },
+      {
+        "team": "Brazil (w)",
+        "odds": "1.05"
+      }
+    ]
+  },
+  {
+    "date": "Jul 30, 07:30 AM",
+    "title": "Hong Kong (w) - Tanzania (w)",
+    "bets": [
+      {
+        "team": "Hong Kong (w)",
+        "odds": "1.31"
+      },
+      {
+        "team": "Tanzania (w)",
+        "odds": "3.15"
+      }
+    ]
+  },
+  {
+    "date": "Jul 30, 12:00 PM",
+    "title": "Namibia (w) - Uganda (w)",
+    "bets": [
+      {
+        "team": "Namibia (w)",
+        "odds": "1.48"
+      },
+      {
+        "team": "Uganda (w)",
+        "odds": "2.46"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 01:15 AM",
+    "title": "Kuwait U-19 (w) - Hong Kong U-19 (w)",
+    "bets": [
+      {
+        "team": "Kuwait U-19 (w)",
+        "odds": "1.87"
+      },
+      {
+        "team": "Hong Kong U-19 (w)",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 01:15 AM",
+    "title": "Qatar U-19 (w) - Myanmar U-19 (w)",
+    "bets": [
+      {
+        "team": "Qatar U-19 (w)",
         "odds": "2.08"
       },
       {
-        "team": "Bengaluru Blasters (w)",
+        "team": "Myanmar U-19 (w)",
         "odds": "1.67"
       }
     ]
   },
   {
-    "date": "Jul 27, 07:30 AM",
-    "title": "Hong Kong (w) - Tanzania (w)",
+    "date": "Jul 29, 06:00 AM",
+    "title": "United Arab Emirates U-19 (w) - Malaysia U-19 (w)",
     "bets": [
       {
-        "team": "Hong Kong (w)",
-        "odds": "1.44"
+        "team": "United Arab Emirates U-19 (w)",
+        "odds": "1.25"
       },
       {
-        "team": "Tanzania (w)",
+        "team": "Malaysia U-19 (w)",
+        "odds": "3.56"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 06:00 AM",
+    "title": "Bhutan U-19 (w) - Thailand U-19 (w)",
+    "bets": [
+      {
+        "team": "Bhutan U-19 (w)",
+        "odds": "3.83"
+      },
+      {
+        "team": "Thailand U-19 (w)",
+        "odds": "1.22"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 07:00 AM",
+    "title": "Israel - France",
+    "bets": [
+      {
+        "team": "Israel",
+        "odds": "9.59"
+      },
+      {
+        "team": "France",
+        "odds": "1.02"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 09:45 AM",
+    "title": "North West Warriors - Leinster Lightning",
+    "bets": [
+      {
+        "team": "North West Warriors",
+        "odds": "2.84"
+      },
+      {
+        "team": "Leinster Lightning",
+        "odds": "1.37"
+      }
+    ]
+  },
+  {
+    "date": "Jul 30, 08:30 AM",
+    "title": "Hubli Tigers (w) - Gulbarga Mystics (w)",
+    "bets": [
+      {
+        "team": "Hubli Tigers (w)",
+        "odds": "1.52"
+      },
+      {
+        "team": "Gulbarga Mystics (w)",
+        "odds": "2.37"
+      }
+    ]
+  },
+  {
+    "date": "Jul 30, 01:00 PM",
+    "title": "Bengaluru Blasters (w) - Mysore Warriors (w)",
+    "bets": [
+      {
+        "team": "Bengaluru Blasters (w)",
+        "odds": "1.64"
+      },
+      {
+        "team": "Mysore Warriors (w)",
+        "odds": "2.12"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 01:00 AM",
+    "title": "Island CC - Beagle",
+    "bets": [
+      {
+        "team": "Island CC",
+        "odds": "3.16"
+      },
+      {
+        "team": "Beagle",
+        "odds": "1.28"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 01:00 AM",
+    "title": "Colwood - Mr. Christys Carriage",
+    "bets": [
+      {
+        "team": "Colwood",
+        "odds": "1.52"
+      },
+      {
+        "team": "Mr. Christys Carriage",
+        "odds": "2.28"
+      }
+    ]
+  },
+  {
+    "date": "Jul 29, 01:00 AM",
+    "title": "Victoria Patriots - Central Saanich",
+    "bets": [
+      {
+        "team": "Victoria Patriots",
         "odds": "2.6"
-      }
-    ]
-  },
-  {
-    "date": "Jul 27, 12:00 PM",
-    "title": "Namibia (w) - Uganda (w)",
-    "bets": [
-      {
-        "team": "Namibia (w)",
-        "odds": "1.87"
       },
       {
-        "team": "Uganda (w)",
-        "odds": "1.83"
+        "team": "Central Saanich",
+        "odds": "1.4"
       }
     ]
   },
   {
-    "date": "Jul 26, 01:30 AM",
-    "title": "Darwin - Pint",
+    "date": "Jul 29, 08:30 AM",
+    "title": "VfB Oldenburg - Kummerfelder Sportverein",
     "bets": [
       {
-        "team": "Darwin",
-        "odds": "1.57"
+        "team": "VfB Oldenburg",
+        "odds": "2.76"
       },
       {
-        "team": "Pint",
-        "odds": "2.19"
+        "team": "Kummerfelder Sportverein",
+        "odds": "1.39"
       }
     ]
   },
   {
-    "date": "Jul 26, 01:30 AM",
-    "title": "Waratah Warriors - Nightcliff",
+    "date": "Jul 29, 05:30 PM",
+    "title": "Idukki Phoenix - Blasters Cochin",
     "bets": [
       {
-        "team": "Waratah Warriors",
+        "team": "Idukki Phoenix",
         "odds": "1.6"
       },
       {
-        "team": "Nightcliff",
+        "team": "Blasters Cochin",
         "odds": "2.14"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 05:30 AM",
-    "title": "Jcc Malikpora - Sarkar 11",
-    "bets": [
-      {
-        "team": "Jcc Malikpora",
-        "odds": "2.38"
-      },
-      {
-        "team": "Sarkar 11",
-        "odds": "1.49"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 10:00 AM",
-    "title": "Eastern Knights - Caledonian Highlanders",
-    "bets": [
-      {
-        "team": "Eastern Knights",
-        "odds": "1.55"
-      },
-      {
-        "team": "Caledonian Highlanders",
-        "odds": "2.23"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 07:00 PM",
-    "title": "Newton Surrey Champions I - Richmond I",
-    "bets": [
-      {
-        "team": "Newton Surrey Champions I",
-        "odds": "1.83"
-      },
-      {
-        "team": "Richmond I",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 07:00 PM",
-    "title": "North Vancouver I - Centurion",
-    "bets": [
-      {
-        "team": "North Vancouver I",
-        "odds": "2.12"
-      },
-      {
-        "team": "Centurion",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "Jul 26, 07:00 PM",
-    "title": "Surrey Hawks I - Meraloma I",
-    "bets": [
-      {
-        "team": "Surrey Hawks I",
-        "odds": "3.06"
-      },
-      {
-        "team": "Meraloma I",
-        "odds": "1.3"
       }
     ]
   }
