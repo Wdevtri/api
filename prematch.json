@@ -1,309 +1,295 @@
 [
   {
-    "date": "Aug 4, 05:30 PM",
-    "title": "Sunrisers Leeds - London Spirit",
+    "date": "Aug 10, 05:30 PM",
+    "title": "Trent Rockets - Southern Brave",
     "bets": [
       {
-        "team": "Sunrisers Leeds",
-        "odds": "1.7"
+        "team": "Trent Rockets",
+        "odds": "1.68"
       },
       {
-        "team": "London Spirit",
-        "odds": "2.15"
+        "team": "Southern Brave",
+        "odds": "2.19"
       }
     ]
   },
   {
-    "date": "Aug 5, 02:00 PM",
-    "title": "Manchester Super Giants - Welsh Fire",
+    "date": "Aug 11, 05:30 PM",
+    "title": "Manchester Super Giants - Sunrisers Leeds",
     "bets": [
       {
         "team": "Manchester Super Giants",
         "odds": "1.97"
       },
       {
-        "team": "Welsh Fire",
+        "team": "Sunrisers Leeds",
         "odds": "1.83"
       }
     ]
   },
   {
-    "date": "Aug 5, 05:30 PM",
-    "title": "Trent Rockets - Birmingham Phoenix",
-    "bets": [
-      {
-        "team": "Trent Rockets",
-        "odds": "1.72"
-      },
-      {
-        "team": "Birmingham Phoenix",
-        "odds": "2.12"
-      }
-    ]
-  },
-  {
-    "date": "Aug 5, 10:30 AM",
-    "title": "Manchester Super Giants (w) - Welsh Fire (w)",
-    "bets": [
-      {
-        "team": "Manchester Super Giants (w)",
-        "odds": "1.68"
-      },
-      {
-        "team": "Welsh Fire (w)",
-        "odds": "2.19"
-      }
-    ]
-  },
-  {
-    "date": "Aug 5, 02:00 PM",
-    "title": "Trent Rockets (w) - Birmingham Phoenix (w)",
+    "date": "Aug 10, 02:00 PM",
+    "title": "Trent Rockets (w) - Southern Brave (w)",
     "bets": [
       {
         "team": "Trent Rockets (w)",
-        "odds": "1.71"
+        "odds": "1.62"
       },
       {
-        "team": "Birmingham Phoenix (w)",
-        "odds": "2.14"
+        "team": "Southern Brave (w)",
+        "odds": "2.3"
       }
     ]
   },
   {
-    "date": "Aug 5, 09:30 AM",
-    "title": "Jaffna Kings - Galle Marvels",
+    "date": "Aug 11, 02:00 PM",
+    "title": "Manchester Super Giants (w) - Sunrisers Leeds (w)",
     "bets": [
       {
-        "team": "Jaffna Kings",
-        "odds": "2.02"
+        "team": "Manchester Super Giants (w)",
+        "odds": "1.83"
       },
       {
-        "team": "Galle Marvels",
-        "odds": "1.74"
+        "team": "Sunrisers Leeds (w)",
+        "odds": "1.97"
       }
     ]
   },
   {
-    "date": "Aug 5, 02:00 PM",
-    "title": "Colombo Kaps - Kandy Royals",
+    "date": "Aug 10, 08:00 AM",
+    "title": "West Delhi Lions - East Delhi Riders",
     "bets": [
       {
-        "team": "Colombo Kaps",
-        "odds": "1.84"
+        "team": "West Delhi Lions",
+        "odds": "1.52"
       },
       {
-        "team": "Kandy Royals",
-        "odds": "1.91"
+        "team": "East Delhi Riders",
+        "odds": "2.37"
       }
     ]
   },
   {
-    "date": "Aug 5, 09:45 AM",
+    "date": "Aug 10, 09:45 AM",
     "title": "Ireland - Afghanistan",
     "bets": [
       {
         "team": "Ireland",
-        "odds": "2.4"
+        "odds": "2.52"
       },
       {
         "team": "Afghanistan",
-        "odds": "1.57"
+        "odds": "1.52"
       }
     ]
   },
   {
-    "date": "Aug 5, 07:30 AM",
-    "title": "South Africa Emerging Players - University Sports South Africa XI",
-    "bets": [
-      {
-        "team": "South Africa Emerging Players",
-        "odds": "1.32"
-      },
-      {
-        "team": "University Sports South Africa XI",
-        "odds": "3.1"
-      }
-    ]
-  },
-  {
-    "date": "Aug 5, 08:00 AM",
-    "title": "Purani Dilli 6 - Central Delhi Kings",
+    "date": "Aug 10, 01:30 PM",
+    "title": "Purani Dilli 6 - Outer Delhi Warriors",
     "bets": [
       {
         "team": "Purani Dilli 6",
-        "odds": "2.05"
+        "odds": "2.06"
       },
       {
-        "team": "Central Delhi Kings",
-        "odds": "1.69"
+        "team": "Outer Delhi Warriors",
+        "odds": "1.68"
       }
     ]
   },
   {
-    "date": "Aug 5, 10:00 AM",
-    "title": "Hampshire - Glamorgan",
+    "date": "Aug 10, 02:30 PM",
+    "title": "Oman - Goa",
     "bets": [
       {
-        "team": "Hampshire",
-        "odds": "1.43"
+        "team": "Oman",
+        "odds": "2.3"
       },
       {
-        "team": "Glamorgan",
-        "odds": "2.62"
+        "team": "Goa",
+        "odds": "1.55"
       }
     ]
   },
   {
-    "date": "Aug 5, 10:00 AM",
-    "title": "Surrey - Kent",
+    "date": "Aug 10, 01:00 AM",
+    "title": "Papua New Guinea (w) - Thailand (w)",
     "bets": [
       {
-        "team": "Surrey",
-        "odds": "1.82"
+        "team": "Papua New Guinea (w)",
+        "odds": "4.28"
       },
       {
-        "team": "Kent",
-        "odds": "1.88"
+        "team": "Thailand (w)",
+        "odds": "1.18"
       }
     ]
   },
   {
-    "date": "Aug 5, 10:00 AM",
-    "title": "United Arab Emirates - Canada",
+    "date": "Aug 10, 02:00 PM",
+    "title": "Salem Spartans - Siechem Madurai Panthers",
     "bets": [
       {
-        "team": "United Arab Emirates",
-        "odds": "1.82"
-      },
-      {
-        "team": "Canada",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Aug 5, 12:30 PM",
-    "title": "Trichy Grand Cholas - Siechem Madurai Panthers",
-    "bets": [
-      {
-        "team": "Trichy Grand Cholas",
-        "odds": "1.74"
+        "team": "Salem Spartans",
+        "odds": "2.2"
       },
       {
         "team": "Siechem Madurai Panthers",
-        "odds": "2.03"
+        "odds": "1.63"
       }
     ]
   },
   {
-    "date": "Aug 5, 01:30 PM",
-    "title": "East Delhi Riders - North Delhi Strikers",
+    "date": "Aug 11, 02:00 PM",
+    "title": "Lyca Kovai Kings - iDream Tiruppur Tamizhans",
     "bets": [
       {
-        "team": "East Delhi Riders",
-        "odds": "1.95"
+        "team": "Lyca Kovai Kings",
+        "odds": "2.28"
       },
       {
-        "team": "North Delhi Strikers",
-        "odds": "1.76"
+        "team": "iDream Tiruppur Tamizhans",
+        "odds": "1.59"
       }
     ]
   },
   {
-    "date": "Aug 5, 04:30 PM",
-    "title": "Chepauk Super Gillies - Nellai Royal Kings",
+    "date": "Aug 10, 08:30 AM",
+    "title": "Tezpur Titans - Jorhat Stallions",
     "bets": [
-      {
-        "team": "Chepauk Super Gillies",
-        "odds": "1.65"
-      },
-      {
-        "team": "Nellai Royal Kings",
-        "odds": "2.16"
-      }
-    ]
-  },
-  {
-    "date": "Aug 5, 07:00 AM",
-    "title": "Kenya - Bahrain",
-    "bets": [
-      {
-        "team": "Kenya",
-        "odds": "1.98"
-      },
-      {
-        "team": "Bahrain",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Aug 5, 08:30 AM",
-    "title": "Charaideo Sunrisers - Dibrugarh Warriors",
-    "bets": [
-      {
-        "team": "Charaideo Sunrisers",
-        "odds": "2.03"
-      },
-      {
-        "team": "Dibrugarh Warriors",
-        "odds": "1.7"
-      }
-    ]
-  },
-  {
-    "date": "Aug 5, 01:30 PM",
-    "title": "Barpeta Braves - Tezpur Titans",
-    "bets": [
-      {
-        "team": "Barpeta Braves",
-        "odds": "1.6"
-      },
       {
         "team": "Tezpur Titans",
-        "odds": "2.2"
+        "odds": "2.24"
+      },
+      {
+        "team": "Jorhat Stallions",
+        "odds": "1.58"
       }
     ]
   },
   {
-    "date": "Aug 4, 05:30 PM",
-    "title": "Palakad Patriots - Blasters Cochin",
+    "date": "Aug 10, 01:30 PM",
+    "title": "Dibrugarh Warriors - Guwahati Royals",
     "bets": [
       {
-        "team": "Palakad Patriots",
-        "odds": "1.65"
+        "team": "Dibrugarh Warriors",
+        "odds": "1.72"
       },
       {
-        "team": "Blasters Cochin",
-        "odds": "2.05"
+        "team": "Guwahati Royals",
+        "odds": "2"
       }
     ]
   },
   {
-    "date": "Aug 5, 01:00 AM",
-    "title": "Phoenix VDCA - Colwood",
+    "date": "Aug 10, 07:30 AM",
+    "title": "Tallinn Hippos - Tallinn Strikers",
     "bets": [
       {
-        "team": "Phoenix VDCA",
-        "odds": "1.99"
+        "team": "Tallinn Hippos",
+        "odds": "2.51"
       },
       {
-        "team": "Colwood",
+        "team": "Tallinn Strikers",
+        "odds": "1.44"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 04:15 AM",
+    "title": "Kurunegala Youth CC - Tamil Union Cricket and Athletic Club",
+    "bets": [
+      {
+        "team": "Kurunegala Youth CC",
+        "odds": "3.1"
+      },
+      {
+        "team": "Tamil Union Cricket and Athletic Club",
+        "odds": "1.32"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 04:15 AM",
+    "title": "Nugegoda SWC - Moors SC",
+    "bets": [
+      {
+        "team": "Nugegoda SWC",
+        "odds": "2.74"
+      },
+      {
+        "team": "Moors SC",
+        "odds": "1.4"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 04:15 AM",
+    "title": "Ace Capital CC - Panadura SC",
+    "bets": [
+      {
+        "team": "Ace Capital CC",
+        "odds": "2.29"
+      },
+      {
+        "team": "Panadura SC",
+        "odds": "1.55"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 04:15 AM",
+    "title": "Colts CC - Sinhalese SC",
+    "bets": [
+      {
+        "team": "Colts CC",
+        "odds": "1.96"
+      },
+      {
+        "team": "Sinhalese SC",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 04:15 AM",
+    "title": "Nondescripts CC - Burgher RC",
+    "bets": [
+      {
+        "team": "Nondescripts CC",
+        "odds": "1.53"
+      },
+      {
+        "team": "Burgher RC",
+        "odds": "2.34"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 04:15 AM",
+    "title": "Badureliya SC - Bloomfield Cricket and Athletic Club",
+    "bets": [
+      {
+        "team": "Badureliya SC",
+        "odds": "1.94"
+      },
+      {
+        "team": "Bloomfield Cricket and Athletic Club",
+        "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Aug 10, 09:45 AM",
+    "title": "Dragons (w) - Typhoons (w)",
+    "bets": [
+      {
+        "team": "Dragons (w)",
         "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Aug 5, 01:00 AM",
-    "title": "Spinnakers - Pigs Trotters",
-    "bets": [
-      {
-        "team": "Spinnakers",
-        "odds": "1.65"
       },
       {
-        "team": "Pigs Trotters",
-        "odds": "2.04"
+        "team": "Typhoons (w)",
+        "odds": "2.08"
       }
     ]
   }
