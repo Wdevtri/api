@@ -1,1 +1,404 @@
-[]
+[
+  {
+    "date": "Aug 13, 12:30 AM",
+    "title": "Australia - Bangladesh",
+    "bets": [
+      {
+        "team": "Australia",
+        "odds": "1.32"
+      },
+      {
+        "team": "Bangladesh",
+        "odds": "3.14"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 01:30 PM",
+    "title": "North Delhi Strikers - Purani Dilli 6",
+    "bets": [
+      {
+        "team": "North Delhi Strikers",
+        "odds": "1.93"
+      },
+      {
+        "team": "Purani Dilli 6",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 10:30 AM",
+    "title": "Oman - Goa",
+    "bets": [
+      {
+        "team": "Oman",
+        "odds": "1.02"
+      },
+      {
+        "team": "Goa",
+        "odds": "9.54"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 10:00 AM",
+    "title": "Scotland - Canada",
+    "bets": [
+      {
+        "team": "Over 230.5",
+        "odds": "1.86"
+      },
+      {
+        "team": "Under 230.5",
+        "odds": "1.86"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 02:30 PM",
+    "title": "Pamir Stars - Band-e Amir Stars",
+    "bets": [
+      {
+        "team": "Pamir Stars",
+        "odds": "1.4"
+      },
+      {
+        "team": "Band-e Amir Stars",
+        "odds": "2.78"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 02:15 PM",
+    "title": "Gamdevi CC - Bajrang Club Raja Khera",
+    "bets": [
+      {
+        "team": "Gamdevi CC",
+        "odds": "1.83"
+      },
+      {
+        "team": "Bajrang Club Raja Khera",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 03:11 PM",
+    "title": "Rajasthan Royals (V) - Chennai Super Kings (V)",
+    "bets": [
+      {
+        "team": "Rajasthan Royals (V)",
+        "odds": "1.02"
+      },
+      {
+        "team": "Chennai Super Kings (V)",
+        "odds": "26"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:00 PM",
+    "title": "Night Avengers - Courageous",
+    "bets": [
+      {
+        "team": "Night Avengers",
+        "odds": "1.33"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.29"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:00 PM",
+    "title": "Wizards Indoor - Smashers",
+    "bets": [
+      {
+        "team": "Wizards Indoor",
+        "odds": "1.61"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.12"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:11 PM",
+    "title": "Sri Lanka Legends (V) - South Africa Legends (V)",
+    "bets": [
+      {
+        "team": "Sri Lanka Legends (V)",
+        "odds": "4.44"
+      },
+      {
+        "team": "South Africa Legends (V)",
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:13 PM",
+    "title": "Australia (V) - South Africa (V)",
+    "bets": [
+      {
+        "team": "Australia (V)",
+        "odds": "1.66"
+      },
+      {
+        "team": "South Africa (V)",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:30 PM",
+    "title": "Hustlers Chennai - Mavericks Chennai",
+    "bets": [
+      {
+        "team": "Hustlers Chennai",
+        "odds": "1.8"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.32"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:30 PM",
+    "title": "Adelaide Strikers (V) - Melbourne Renegades (V)",
+    "bets": [
+      {
+        "team": "Adelaide Strikers (V)",
+        "odds": "2.1"
+      },
+      {
+        "team": "Draw",
+        "odds": "8.5"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:32 PM",
+    "title": "UP Warriorz (V-w) - Royal Challengers Bengaluru (V-w)",
+    "bets": [
+      {
+        "team": "UP Warriorz (V-w)",
+        "odds": "2.02"
+      },
+      {
+        "team": "Royal Challengers Bengaluru (V-w)",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:33 PM",
+    "title": "Cape Town (V) - Mumbai (V)",
+    "bets": [
+      {
+        "team": "Cape Town (V)",
+        "odds": "2.2"
+      },
+      {
+        "team": "Draw",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:33 PM",
+    "title": "New Zealand (V) - Sri Lanka (V)",
+    "bets": [
+      {
+        "team": "New Zealand (V)",
+        "odds": "4.35"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:35 PM",
+    "title": "Priyansh Arya (replays) - Heinrich Klaasen (replays)",
+    "bets": [
+      {
+        "team": "Priyansh Arya (replays)",
+        "odds": "1.66"
+      },
+      {
+        "team": "Draw",
+        "odds": "14.94"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:35 PM",
+    "title": "Sunrisers Hyderabad (V) - Rajasthan Royals (V)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (V)",
+        "odds": "1.77"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:36 PM",
+    "title": "Mumbai Indians (e-w) - Kolkata Knight Riders (e-w)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e-w)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Kolkata Knight Riders (e-w)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:36 PM",
+    "title": "Gujarat Titans (e) - Delhi Capitals (e)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (e)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Delhi Capitals (e)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:36 PM",
+    "title": "Royal Challengers Bengaluru (e) - Rajasthan Royals (e)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bengaluru (e)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Rajasthan Royals (e)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:37 PM",
+    "title": "Bangladesh (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "Bangladesh (V)",
+        "odds": "3.25"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 10:00 AM",
+    "title": "Pakistan Blues - Pakistan Whites",
+    "bets": [
+      {
+        "team": "Pakistan Blues",
+        "odds": "1.25"
+      },
+      {
+        "team": "Pakistan Whites",
+        "odds": "3.66"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 03:05 PM",
+    "title": "Bangladesh (cyber) - Germany (cyber)",
+    "bets": [
+      {
+        "team": "Bangladesh (cyber)",
+        "odds": "1.18"
+      },
+      {
+        "team": "Germany (cyber)",
+        "odds": "3.56"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 03:35 PM",
+    "title": "Gujarat Titans (cyber) - Chennai Carvers (cyber)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (cyber)",
+        "odds": "10.89"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:00 PM",
+    "title": "Khanewal Kings - Sialkot Warriors",
+    "bets": [
+      {
+        "team": "First 10 оvers - Over 132.5",
+        "odds": "1.74"
+      },
+      {
+        "team": "First 10 оvers - Under 132.5",
+        "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:05 PM",
+    "title": "Australia (cyber) - New Zealand (cyber)",
+    "bets": [
+      {
+        "team": "Australia (cyber)",
+        "odds": "1.09"
+      },
+      {
+        "team": "New Zealand (cyber)",
+        "odds": "4.36"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 04:35 PM",
+    "title": "Punjab Kings (cyber) - Kolkata Knight Riders (cyber)",
+    "bets": [
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "1.99"
+      },
+      {
+        "team": "Kolkata Knight Riders (cyber)",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Aug 13, 02:00 PM",
+    "title": "FC Alsbach - FC Germania Gustavsburg",
+    "bets": [
+      {
+        "team": "FC Alsbach",
+        "odds": "1.08"
+      },
+      {
+        "team": "FC Germania Gustavsburg",
+        "odds": "6.62"
+      }
+    ]
+  }
+]
