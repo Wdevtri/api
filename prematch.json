@@ -19,25 +19,11 @@
     "bets": [
       {
         "team": "Sunrisers Leeds (w)",
-        "odds": "1.77"
+        "odds": "1.58"
       },
       {
         "team": "Southern Brave (w)",
-        "odds": "2.06"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 12:00 AM",
-    "title": "Jamaica Kingsmen - Guyana Amazon Warriors",
-    "bets": [
-      {
-        "team": "Jamaica Kingsmen",
-        "odds": "2.46"
-      },
-      {
-        "team": "Guyana Amazon Warriors",
-        "odds": "1.55"
+        "odds": "2.38"
       }
     ]
   },
@@ -47,11 +33,25 @@
     "bets": [
       {
         "team": "Saint Lucia Kings",
-        "odds": "1.9"
+        "odds": "1.83"
       },
       {
         "team": "Antigua and Barbuda Falcons",
-        "odds": "1.9"
+        "odds": "1.97"
+      }
+    ]
+  },
+  {
+    "date": "Aug 16, 12:00 AM",
+    "title": "Jamaica Kingsmen - Trinbago Knight Riders",
+    "bets": [
+      {
+        "team": "Jamaica Kingsmen",
+        "odds": "2.62"
+      },
+      {
+        "team": "Trinbago Knight Riders",
+        "odds": "1.49"
       }
     ]
   },
@@ -61,11 +61,11 @@
     "bets": [
       {
         "team": "Sri Lanka",
-        "odds": "3.61"
+        "odds": "3.81"
       },
       {
         "team": "India",
-        "odds": "1.29"
+        "odds": "1.27"
       }
     ]
   },
@@ -75,11 +75,11 @@
     "bets": [
       {
         "team": "Salem Spartans",
-        "odds": "2.02"
+        "odds": "2.08"
       },
       {
         "team": "Dindigul Dragons",
-        "odds": "1.74"
+        "odds": "1.7"
       }
     ]
   },
@@ -98,6 +98,20 @@
     ]
   },
   {
+    "date": "Aug 15, 02:00 PM",
+    "title": "Lyca Kovai Kings - Trichy Grand Cholas",
+    "bets": [
+      {
+        "team": "Lyca Kovai Kings",
+        "odds": "2.17"
+      },
+      {
+        "team": "Trichy Grand Cholas",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
     "date": "Aug 15, 09:45 AM",
     "title": "Ireland - Afghanistan",
     "bets": [
@@ -108,30 +122,6 @@
       {
         "team": "Afghanistan",
         "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 08:00 AM",
-    "title": "Finland - Spain",
-    "bets": [
-      {
-        "team": "Finland",
-        "odds": "3.8"
-      },
-      {
-        "team": "Spain",
-        "odds": "1.22"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 08:00 AM",
-    "title": "Israel - Portugal",
-    "bets": [
-      {
-        "team": "Israel",
-        "odds": "11.69"
       }
     ]
   },
@@ -165,20 +155,6 @@
   },
   {
     "date": "Aug 14, 01:00 PM",
-    "title": "Isle of Man - Luxembourg",
-    "bets": [
-      {
-        "team": "Isle of Man",
-        "odds": "1.48"
-      },
-      {
-        "team": "Luxembourg",
-        "odds": "2.46"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 01:00 PM",
     "title": "Czechia - Germany",
     "bets": [
       {
@@ -188,6 +164,20 @@
       {
         "team": "Germany",
         "odds": "1.13"
+      }
+    ]
+  },
+  {
+    "date": "Aug 14, 01:00 PM",
+    "title": "Isle of Man - Luxembourg",
+    "bets": [
+      {
+        "team": "Isle of Man",
+        "odds": "1.48"
+      },
+      {
+        "team": "Luxembourg",
+        "odds": "2.46"
       }
     ]
   },
@@ -220,62 +210,6 @@
     ]
   },
   {
-    "date": "Aug 14, 07:00 AM",
-    "title": "Malawi - Zambia",
-    "bets": [
-      {
-        "team": "Malawi",
-        "odds": "1.41"
-      },
-      {
-        "team": "Zambia",
-        "odds": "2.69"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 06:00 AM",
-    "title": "Italy - Singapore",
-    "bets": [
-      {
-        "team": "Italy",
-        "odds": "1.06"
-      },
-      {
-        "team": "Singapore",
-        "odds": "7.47"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 06:00 AM",
-    "title": "Bahrain - Hong Kong",
-    "bets": [
-      {
-        "team": "Bahrain",
-        "odds": "3.01"
-      },
-      {
-        "team": "Hong Kong",
-        "odds": "1.34"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 08:30 AM",
-    "title": "Tezpur Titans - Nagaon Rangers",
-    "bets": [
-      {
-        "team": "Tezpur Titans",
-        "odds": "2.1"
-      },
-      {
-        "team": "Nagaon Rangers",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
     "date": "Aug 14, 01:30 PM",
     "title": "Dibrugarh Warriors - Barak Legends",
     "bets": [
@@ -290,85 +224,71 @@
     ]
   },
   {
-    "date": "Aug 14, 04:15 AM",
-    "title": "Kurunegala Youth CC - Colombo CC",
+    "date": "Aug 14, 09:30 AM",
+    "title": "Pamir Stars - Abasin Defenders",
     "bets": [
       {
-        "team": "Kurunegala Youth CC",
-        "odds": "3.1"
+        "team": "Pamir Stars",
+        "odds": "2.37"
       },
       {
-        "team": "Colombo CC",
-        "odds": "1.32"
+        "team": "Abasin Defenders",
+        "odds": "1.52"
       }
     ]
   },
   {
-    "date": "Aug 14, 04:15 AM",
-    "title": "Tamil Union Cricket and Athletic Club - Ace Capital CC",
+    "date": "Aug 14, 12:30 PM",
+    "title": "Windward Islands U-19 (w) - Jamaica U-19 (w)",
     "bets": [
       {
-        "team": "Tamil Union Cricket and Athletic Club",
-        "odds": "1.34"
-      },
-      {
-        "team": "Ace Capital CC",
-        "odds": "3.01"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 04:15 AM",
-    "title": "Sinhalese SC - Police Sports Club",
-    "bets": [
-      {
-        "team": "Sinhalese SC",
+        "team": "Windward Islands U-19 (w)",
         "odds": "1.83"
       },
       {
-        "team": "Police Sports Club",
+        "team": "Jamaica U-19 (w)",
         "odds": "1.83"
       }
     ]
   },
   {
-    "date": "Aug 14, 04:15 AM",
-    "title": "Badureliya SC - Colts CC",
+    "date": "Aug 14, 01:30 PM",
+    "title": "Leeward Islands U-19 (w) - Guyana U-19 (w)",
     "bets": [
       {
-        "team": "Badureliya SC",
-        "odds": "2.19"
-      },
-      {
-        "team": "Colts CC",
-        "odds": "1.6"
-      }
-    ]
-  },
-  {
-    "date": "Aug 14, 04:15 AM",
-    "title": "Bloomfield Cricket and Athletic Club - Nondescripts CC",
-    "bets": [
-      {
-        "team": "Bloomfield Cricket and Athletic Club",
+        "team": "Leeward Islands U-19 (w)",
         "odds": "1.83"
       },
       {
-        "team": "Nondescripts CC",
+        "team": "Guyana U-19 (w)",
         "odds": "1.83"
       }
     ]
   },
   {
-    "date": "Aug 14, 04:15 AM",
-    "title": "Panadura SC - Moors SC",
+    "date": "Aug 14, 02:30 PM",
+    "title": "Speenghar Warriors - Band-e Amir Stars",
     "bets": [
       {
-        "team": "Panadura SC",
+        "team": "Speenghar Warriors",
+        "odds": "1.72"
+      },
+      {
+        "team": "Band-e Amir Stars",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 14, 05:30 PM",
+    "title": "Barbados U-19 (w) - Trinidad and Tobago U-19 (w)",
+    "bets": [
+      {
+        "team": "Barbados U-19 (w)",
         "odds": "1.83"
       },
       {
-        "team": "Moors SC",
+        "team": "Trinidad and Tobago U-19 (w)",
         "odds": "1.83"
       }
     ]
@@ -379,11 +299,123 @@
     "bets": [
       {
         "team": "Pakistan Gold",
-        "odds": "2.12"
+        "odds": "2.22"
       },
       {
         "team": "Pakistan Greens",
-        "odds": "1.64"
+        "odds": "1.59"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 01:00 AM",
+    "title": "Rising Stars CC - Tokyo Falcons CC",
+    "bets": [
+      {
+        "team": "Rising Stars CC",
+        "odds": "2.37"
+      },
+      {
+        "team": "Tokyo Falcons CC",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 01:00 AM",
+    "title": "Sticky Wicket Victoria - Spinnakers",
+    "bets": [
+      {
+        "team": "Sticky Wicket Victoria",
+        "odds": "1.24"
+      },
+      {
+        "team": "Spinnakers",
+        "odds": "3"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 07:00 AM",
+    "title": "Rising Phoenix - Malmo Cricket Club",
+    "bets": [
+      {
+        "team": "Rising Phoenix",
+        "odds": "1.91"
+      },
+      {
+        "team": "Malmo Cricket Club",
+        "odds": "1.73"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 07:00 AM",
+    "title": "Alby Zalmi - Ariana AKIF",
+    "bets": [
+      {
+        "team": "Alby Zalmi",
+        "odds": "1.1"
+      },
+      {
+        "team": "Ariana AKIF",
+        "odds": "5.2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 08:00 AM",
+    "title": "Goteborgs 1st XI - Seaside 1st XI",
+    "bets": [
+      {
+        "team": "Goteborgs 1st XI",
+        "odds": "1.45"
+      },
+      {
+        "team": "Seaside 1st XI",
+        "odds": "2.43"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 08:00 AM",
+    "title": "Marsta - Boras",
+    "bets": [
+      {
+        "team": "Marsta",
+        "odds": "1.73"
+      },
+      {
+        "team": "Boras",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 10:30 AM",
+    "title": "Rising Phoenix - Ariana AKIF",
+    "bets": [
+      {
+        "team": "Rising Phoenix",
+        "odds": "2.04"
+      },
+      {
+        "team": "Ariana AKIF",
+        "odds": "1.63"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 10:30 AM",
+    "title": "Pakistanska Foreningen - Hisingens",
+    "bets": [
+      {
+        "team": "Pakistanska Foreningen",
+        "odds": "1.95"
+      },
+      {
+        "team": "Hisingens",
+        "odds": "1.7"
       }
     ]
   },
@@ -412,6 +444,118 @@
       {
         "team": "Adamstown 1",
         "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 12:30 PM",
+    "title": "Ostertalje - Boras",
+    "bets": [
+      {
+        "team": "Ostertalje",
+        "odds": "1.83"
+      },
+      {
+        "team": "Boras",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 02:00 PM",
+    "title": "Huddinge - Malmo Cricket Club",
+    "bets": [
+      {
+        "team": "Huddinge",
+        "odds": "1.75"
+      },
+      {
+        "team": "Malmo Cricket Club",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 02:00 PM",
+    "title": "SMI Mavericks - Hisingens",
+    "bets": [
+      {
+        "team": "SMI Mavericks",
+        "odds": "1.5"
+      },
+      {
+        "team": "Hisingens",
+        "odds": "2.31"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 06:30 PM",
+    "title": "University of Victoria Vikings - Albion",
+    "bets": [
+      {
+        "team": "University of Victoria Vikings",
+        "odds": "3.4"
+      },
+      {
+        "team": "Albion",
+        "odds": "1.24"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 07:00 PM",
+    "title": "Kelowna Kamloops I - Centurions Toronto",
+    "bets": [
+      {
+        "team": "Kelowna Kamloops I",
+        "odds": "1.7"
+      },
+      {
+        "team": "Centurions Toronto",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 07:00 PM",
+    "title": "Surrey Hawks I - Richmond I",
+    "bets": [
+      {
+        "team": "Surrey Hawks I",
+        "odds": "3.2"
+      },
+      {
+        "team": "Richmond I",
+        "odds": "1.27"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 07:00 PM",
+    "title": "Cosmos I - Newton Surrey Champions I",
+    "bets": [
+      {
+        "team": "Cosmos I",
+        "odds": "3.5"
+      },
+      {
+        "team": "Newton Surrey Champions I",
+        "odds": "1.22"
+      }
+    ]
+  },
+  {
+    "date": "Aug 15, 07:00 PM",
+    "title": "Courtenay - Victoria Super Kings",
+    "bets": [
+      {
+        "team": "Courtenay",
+        "odds": "1.3"
+      },
+      {
+        "team": "Victoria Super Kings",
+        "odds": "3"
       }
     ]
   }
