@@ -1,295 +1,211 @@
 [
   {
-    "date": "Aug 19, 12:00 AM",
-    "title": "Jamaica Kingsmen - St Kitts and Nevis Patriots",
+    "date": "Aug 20, 11:00 PM",
+    "title": "Antigua and Barbuda Falcons - St Kitts and Nevis Patriots",
     "bets": [
       {
-        "team": "Jamaica Kingsmen",
-        "odds": "2"
+        "team": "Antigua and Barbuda Falcons",
+        "odds": "1.9"
       },
       {
         "team": "St Kitts and Nevis Patriots",
-        "odds": "1.81"
+        "odds": "1.9"
       }
     ]
   },
   {
-    "date": "Aug 19, 11:00 PM",
-    "title": "Saint Lucia Kings - Guyana Amazon Warriors",
+    "date": "Aug 21, 11:00 PM",
+    "title": "Saint Lucia Kings - Jamaica Kingsmen",
     "bets": [
       {
         "team": "Saint Lucia Kings",
-        "odds": "2.43"
+        "odds": "2.06"
       },
       {
-        "team": "Guyana Amazon Warriors",
-        "odds": "1.56"
+        "team": "Jamaica Kingsmen",
+        "odds": "1.77"
       }
     ]
   },
   {
-    "date": "Aug 19, 10:00 AM",
-    "title": "England - Pakistan",
+    "date": "Aug 21, 10:00 AM",
+    "title": "Lyca Kovai Kings - Dindigul Dragons",
     "bets": [
       {
-        "team": "England",
-        "odds": "1.32"
-      },
-      {
-        "team": "Pakistan",
-        "odds": "3.37"
-      }
-    ]
-  },
-  {
-    "date": "Aug 18, 02:00 PM",
-    "title": "Chepauk Super Gillies - Lyca Kovai Kings",
-    "bets": [
-      {
-        "team": "Chepauk Super Gillies",
+        "team": "Lyca Kovai Kings",
         "odds": "1.82"
       },
       {
-        "team": "Lyca Kovai Kings",
+        "team": "Dindigul Dragons",
         "odds": "1.92"
       }
     ]
   },
   {
-    "date": "Aug 19, 02:00 PM",
-    "title": "Dindigul Dragons - Trichy Grand Cholas",
+    "date": "Aug 21, 02:00 PM",
+    "title": "Trichy Grand Cholas - Chepauk Super Gillies",
     "bets": [
-      {
-        "team": "Dindigul Dragons",
-        "odds": "1.95"
-      },
       {
         "team": "Trichy Grand Cholas",
+        "odds": "1.87"
+      },
+      {
+        "team": "Chepauk Super Gillies",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 12:00 AM",
+    "title": "Australia - Bangladesh",
+    "bets": [
+      {
+        "team": "Australia",
+        "odds": "1.09"
+      },
+      {
+        "team": "Bangladesh",
+        "odds": "7.19"
+      }
+    ]
+  },
+  {
+    "date": "Aug 20, 05:00 PM",
+    "title": "Southern Storm - Northern Titans",
+    "bets": [
+      {
+        "team": "Southern Storm",
+        "odds": "1.69"
+      },
+      {
+        "team": "Northern Titans",
+        "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 12:30 AM",
+    "title": "Hobart Hurricanes Academy - Victoria CA XI",
+    "bets": [
+      {
+        "team": "Hobart Hurricanes Academy",
+        "odds": "2.37"
+      },
+      {
+        "team": "Victoria CA XI",
+        "odds": "1.52"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 04:15 AM",
+    "title": "Ace Capital CC - Colombo CC",
+    "bets": [
+      {
+        "team": "Ace Capital CC",
+        "odds": "1.83"
+      },
+      {
+        "team": "Colombo CC",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 05:30 AM",
+    "title": "Australian Capital Territory - Hyderabad Kingsmen",
+    "bets": [
+      {
+        "team": "Australian Capital Territory",
+        "odds": "3.04"
+      },
+      {
+        "team": "Hyderabad Kingsmen",
+        "odds": "1.33"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 08:00 AM",
+    "title": "North Delhi Strikers (w) - East Delhi Riders (w)",
+    "bets": [
+      {
+        "team": "North Delhi Strikers (w)",
+        "odds": "1.72"
+      },
+      {
+        "team": "East Delhi Riders (w)",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 21, 08:15 AM",
+    "title": "Redlands - Northern Suburbs",
+    "bets": [
+      {
+        "team": "Redlands",
         "odds": "1.8"
+      },
+      {
+        "team": "Northern Suburbs",
+        "odds": "1.9"
       }
     ]
   },
   {
-    "date": "Aug 18, 01:30 PM",
-    "title": "East Delhi Riders - Central Delhi Kings",
+    "date": "Aug 21, 08:30 AM",
+    "title": "NT Strike - Nepal",
     "bets": [
       {
-        "team": "East Delhi Riders",
-        "odds": "3.36"
-      },
-      {
-        "team": "Central Delhi Kings",
-        "odds": "1.28"
-      }
-    ]
-  },
-  {
-    "date": "Aug 18, 01:00 PM",
-    "title": "Czechia - Israel",
-    "bets": [
-      {
-        "team": "Czechia",
-        "odds": "1.13"
-      },
-      {
-        "team": "Israel",
-        "odds": "5.13"
-      }
-    ]
-  },
-  {
-    "date": "Aug 18, 01:00 PM",
-    "title": "Bulgaria - Spain",
-    "bets": [
-      {
-        "team": "Bulgaria",
-        "odds": "9.59"
-      },
-      {
-        "team": "Spain",
-        "odds": "1.02"
-      }
-    ]
-  },
-  {
-    "date": "Aug 18, 02:00 PM",
-    "title": "Gorakhpur Lions - Kashi Rudras",
-    "bets": [
-      {
-        "team": "Gorakhpur Lions",
-        "odds": "2.08"
-      },
-      {
-        "team": "Kashi Rudras",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 02:00 PM",
-    "title": "Lucknow Falcons - Meerut Mavericks",
-    "bets": [
-      {
-        "team": "Lucknow Falcons",
-        "odds": "2.21"
-      },
-      {
-        "team": "Meerut Mavericks",
-        "odds": "1.59"
-      }
-    ]
-  },
-  {
-    "date": "Aug 18, 01:30 PM",
-    "title": "Tezpur Titans - Jorhat Stallions",
-    "bets": [
-      {
-        "team": "Tezpur Titans",
-        "odds": "1.99"
-      },
-      {
-        "team": "Jorhat Stallions",
-        "odds": "1.73"
-      }
-    ]
-  },
-  {
-    "date": "Aug 18, 03:00 PM",
-    "title": "London Blaze - Midland Mavericks",
-    "bets": [
-      {
-        "team": "London Blaze",
-        "odds": "1.74"
-      },
-      {
-        "team": "Midland Mavericks",
-        "odds": "1.98"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 04:15 AM",
-    "title": "Negombo СС - United Southern SC",
-    "bets": [
-      {
-        "team": "Negombo СС",
-        "odds": "1.93"
-      },
-      {
-        "team": "United Southern SC",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 04:15 AM",
-    "title": "Sri Lanka Army SC - Sri Lanka Navy SC",
-    "bets": [
-      {
-        "team": "Sri Lanka Army SC",
-        "odds": "1.78"
-      },
-      {
-        "team": "Sri Lanka Navy SC",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 08:30 AM",
-    "title": "Galle - Sebastianites Cricket and Athletic Club",
-    "bets": [
-      {
-        "team": "Galle",
-        "odds": "2.02"
-      },
-      {
-        "team": "Sebastianites Cricket and Athletic Club",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 08:30 AM",
-    "title": "Moratuwa SC - Chilaw Marians CC",
-    "bets": [
-      {
-        "team": "Moratuwa SC",
-        "odds": "2.02"
-      },
-      {
-        "team": "Chilaw Marians CC",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 09:30 AM",
-    "title": "Surrey (w) - Hampshire (w)",
-    "bets": [
-      {
-        "team": "Surrey (w)",
-        "odds": "2.08"
-      },
-      {
-        "team": "Hampshire (w)",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 09:30 AM",
-    "title": "The Blaze (w) - Durham (w)",
-    "bets": [
-      {
-        "team": "The Blaze (w)",
-        "odds": "1.39"
-      },
-      {
-        "team": "Durham (w)",
-        "odds": "2.76"
-      }
-    ]
-  },
-  {
-    "date": "Aug 19, 09:30 AM",
-    "title": "Essex (w) - Somerset (w)",
-    "bets": [
-      {
-        "team": "Essex (w)",
-        "odds": "1.96"
-      },
-      {
-        "team": "Somerset (w)",
+        "team": "NT Strike",
         "odds": "1.75"
+      },
+      {
+        "team": "Nepal",
+        "odds": "1.96"
       }
     ]
   },
   {
-    "date": "Aug 19, 01:00 AM",
-    "title": "Spinnakers - Central Saanich",
+    "date": "Aug 20, 04:00 PM",
+    "title": "Stockholm Hunters - Marsta",
     "bets": [
       {
-        "team": "Spinnakers",
-        "odds": "3.94"
+        "team": "Stockholm Hunters",
+        "odds": "1.83"
       },
       {
-        "team": "Central Saanich",
-        "odds": "1.18"
+        "team": "Marsta",
+        "odds": "1.83"
       }
     ]
   },
   {
-    "date": "Aug 19, 01:00 AM",
-    "title": "Westshore Roarers - Metchosin Mackerels Midweek",
+    "date": "Aug 22, 03:00 PM",
+    "title": "Lions CC - Sri Lankan",
     "bets": [
       {
-        "team": "Westshore Roarers",
-        "odds": "1.44"
+        "team": "Lions CC",
+        "odds": "1.65"
       },
       {
-        "team": "Metchosin Mackerels Midweek",
-        "odds": "2.46"
+        "team": "Sri Lankan",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 03:00 PM",
+    "title": "Cardy Lions - Hunters Washington",
+    "bets": [
+      {
+        "team": "Cardy Lions",
+        "odds": "2.57"
+      },
+      {
+        "team": "Hunters Washington",
+        "odds": "1.4"
       }
     ]
   }
