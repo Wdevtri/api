@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "Saint Lucia Kings",
-        "odds": "2.06"
+        "odds": "2.17"
       },
       {
         "team": "Jamaica Kingsmen",
-        "odds": "1.77"
+        "odds": "1.69"
       }
     ]
   },
@@ -56,16 +56,100 @@
     ]
   },
   {
+    "date": "Aug 22, 10:00 AM",
+    "title": "iDream Tiruppur Tamizhans - Salem Spartans",
+    "bets": [
+      {
+        "team": "iDream Tiruppur Tamizhans",
+        "odds": "1.48"
+      },
+      {
+        "team": "Salem Spartans",
+        "odds": "2.53"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 02:00 PM",
+    "title": "Nellai Royal Kings - Siechem Madurai Panthers",
+    "bets": [
+      {
+        "team": "Nellai Royal Kings",
+        "odds": "1.94"
+      },
+      {
+        "team": "Siechem Madurai Panthers",
+        "odds": "1.8"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 01:30 PM",
+    "title": "Central Delhi Kings - West Delhi Lions",
+    "bets": [
+      {
+        "team": "Central Delhi Kings",
+        "odds": "1.52"
+      },
+      {
+        "team": "West Delhi Lions",
+        "odds": "2.37"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 09:30 AM",
+    "title": "Kashi Rudras - Gorakhpur Lions",
+    "bets": [
+      {
+        "team": "Kashi Rudras",
+        "odds": "1.6"
+      },
+      {
+        "team": "Gorakhpur Lions",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 02:00 PM",
+    "title": "Meerut Mavericks - Kanpur Superstars",
+    "bets": [
+      {
+        "team": "Meerut Mavericks",
+        "odds": "1.65"
+      },
+      {
+        "team": "Kanpur Superstars",
+        "odds": "2.11"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 07:30 AM",
+    "title": "South Africa Emerging Players - Bangladesh Emerging Team",
+    "bets": [
+      {
+        "team": "South Africa Emerging Players",
+        "odds": "1.45"
+      },
+      {
+        "team": "Bangladesh Emerging Team",
+        "odds": "2.55"
+      }
+    ]
+  },
+  {
     "date": "Aug 21, 11:30 PM",
     "title": "Sunshine Coast (w) - Valley (w)",
     "bets": [
       {
         "team": "Sunshine Coast (w)",
-        "odds": "2.27"
+        "odds": "2.55"
       },
       {
         "team": "Valley (w)",
-        "odds": "1.56"
+        "odds": "1.45"
       }
     ]
   },
@@ -89,11 +173,11 @@
     "bets": [
       {
         "team": "Adelaide Strikers Academy",
-        "odds": "2.69"
+        "odds": "3.01"
       },
       {
         "team": "New Zealand A",
-        "odds": "1.41"
+        "odds": "1.34"
       }
     ]
   },
@@ -108,6 +192,272 @@
       {
         "team": "Wynnum-Manly (w)",
         "odds": "1.43"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 03:30 AM",
+    "title": "Wynnum-Manly - Gold Coast",
+    "bets": [
+      {
+        "team": "Wynnum-Manly",
+        "odds": "1.96"
+      },
+      {
+        "team": "Gold Coast",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 03:30 AM",
+    "title": "South Brisbane - Sandgate-Redcliffe",
+    "bets": [
+      {
+        "team": "South Brisbane",
+        "odds": "1.58"
+      },
+      {
+        "team": "Sandgate-Redcliffe",
+        "odds": "2.24"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 03:30 AM",
+    "title": "Western Suburbs - Sunshine Coast",
+    "bets": [
+      {
+        "team": "Western Suburbs",
+        "odds": "1.54"
+      },
+      {
+        "team": "Sunshine Coast",
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 04:15 AM",
+    "title": "Nondescripts CC - Sinhalese SC",
+    "bets": [
+      {
+        "team": "Nondescripts CC",
+        "odds": "2.35"
+      },
+      {
+        "team": "Sinhalese SC",
+        "odds": "1.53"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 04:15 AM",
+    "title": "Moors SC - Kurunegala Youth CC",
+    "bets": [
+      {
+        "team": "Moors SC",
+        "odds": "1.39"
+      },
+      {
+        "team": "Kurunegala Youth CC",
+        "odds": "2.77"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 04:15 AM",
+    "title": "Burgher RC - Bloomfield Cricket and Athletic Club",
+    "bets": [
+      {
+        "team": "Burgher RC",
+        "odds": "1.8"
+      },
+      {
+        "team": "Bloomfield Cricket and Athletic Club",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 04:15 AM",
+    "title": "Police Sports Club - Badureliya SC",
+    "bets": [
+      {
+        "team": "Police Sports Club",
+        "odds": "1.45"
+      },
+      {
+        "team": "Badureliya SC",
+        "odds": "2.55"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 04:30 AM",
+    "title": "Victoria - Hyderabad Kingsmen Academy",
+    "bets": [
+      {
+        "team": "Victoria",
+        "odds": "2.17"
+      },
+      {
+        "team": "Hyderabad Kingsmen Academy",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 06:30 AM",
+    "title": "Redlands - Ipswich",
+    "bets": [
+      {
+        "team": "Redlands",
+        "odds": "1.61"
+      },
+      {
+        "team": "Ipswich",
+        "odds": "2.17"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 06:30 AM",
+    "title": "Toombul - Valley",
+    "bets": [
+      {
+        "team": "Toombul",
+        "odds": "1.96"
+      },
+      {
+        "team": "Valley",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 06:30 AM",
+    "title": "Northern Suburbs - Queensland University",
+    "bets": [
+      {
+        "team": "Northern Suburbs",
+        "odds": "1.49"
+      },
+      {
+        "team": "Queensland University",
+        "odds": "2.43"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 07:15 AM",
+    "title": "Amakhosi 1 Cricket Club - Mbizo CC",
+    "bets": [
+      {
+        "team": "Amakhosi 1 Cricket Club",
+        "odds": "2.25"
+      },
+      {
+        "team": "Mbizo CC",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 07:15 AM",
+    "title": "Queens 1 - Old Hararians",
+    "bets": [
+      {
+        "team": "Queens 1",
+        "odds": "1.45"
+      },
+      {
+        "team": "Old Hararians",
+        "odds": "2.55"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 07:15 AM",
+    "title": "Takashinga Patriots II - Rimuka CC",
+    "bets": [
+      {
+        "team": "Takashinga Patriots II",
+        "odds": "2.25"
+      },
+      {
+        "team": "Rimuka CC",
+        "odds": "1.57"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 07:15 AM",
+    "title": "SOGO Rangers - Scorpions CC",
+    "bets": [
+      {
+        "team": "SOGO Rangers",
+        "odds": "1.36"
+      },
+      {
+        "team": "Scorpions CC",
+        "odds": "2.9"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 08:00 AM",
+    "title": "South Delhi Superstarz (w) - North Delhi Strikers (w)",
+    "bets": [
+      {
+        "team": "South Delhi Superstarz (w)",
+        "odds": "1.72"
+      },
+      {
+        "team": "North Delhi Strikers (w)",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 08:30 AM",
+    "title": "Bangladesh High Performance XI - Nepal",
+    "bets": [
+      {
+        "team": "Bangladesh High Performance XI",
+        "odds": "1.52"
+      },
+      {
+        "team": "Nepal",
+        "odds": "2.37"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 08:30 AM",
+    "title": "Kollam Sailors - Trivandrum Royals",
+    "bets": [
+      {
+        "team": "Kollam Sailors",
+        "odds": "1.77"
+      },
+      {
+        "team": "Trivandrum Royals",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 01:15 PM",
+    "title": "Alleppey Ripples - Thrissur Titans",
+    "bets": [
+      {
+        "team": "Alleppey Ripples",
+        "odds": "2"
+      },
+      {
+        "team": "Thrissur Titans",
+        "odds": "1.72"
       }
     ]
   },
@@ -196,16 +546,44 @@
     ]
   },
   {
+    "date": "Aug 22, 01:00 AM",
+    "title": "Sano - Men In Blue CC",
+    "bets": [
+      {
+        "team": "Sano",
+        "odds": "1.4"
+      },
+      {
+        "team": "Men In Blue CC",
+        "odds": "2.73"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 03:00 AM",
+    "title": "Chiba Sharks CC - Tigers",
+    "bets": [
+      {
+        "team": "Chiba Sharks CC",
+        "odds": "1.67"
+      },
+      {
+        "team": "Tigers",
+        "odds": "2.08"
+      }
+    ]
+  },
+  {
     "date": "Aug 22, 08:00 AM",
     "title": "SV Kampong - VRA",
     "bets": [
       {
         "team": "SV Kampong",
-        "odds": "1.95"
+        "odds": "1.83"
       },
       {
         "team": "VRA",
-        "odds": "1.72"
+        "odds": "1.83"
       }
     ]
   },
@@ -215,11 +593,11 @@
     "bets": [
       {
         "team": "Hermes DVS",
-        "odds": "2.2"
+        "odds": "2.24"
       },
       {
         "team": "VCC",
-        "odds": "1.57"
+        "odds": "1.55"
       }
     ]
   },
@@ -234,6 +612,104 @@
       {
         "team": "RCC",
         "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 08:00 AM",
+    "title": "FCA United Stars - SKG Erfelden Strikers",
+    "bets": [
+      {
+        "team": "FCA United Stars",
+        "odds": "1.85"
+      },
+      {
+        "team": "SKG Erfelden Strikers",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 10:00 AM",
+    "title": "Darmstadt CC - Darmstadt Sultans",
+    "bets": [
+      {
+        "team": "Darmstadt CC",
+        "odds": "1.68"
+      },
+      {
+        "team": "Darmstadt Sultans",
+        "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 10:30 AM",
+    "title": "Heriots - Grange",
+    "bets": [
+      {
+        "team": "Heriots",
+        "odds": "2"
+      },
+      {
+        "team": "Grange",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 10:30 AM",
+    "title": "Carlton CC - Forfarshire",
+    "bets": [
+      {
+        "team": "Carlton CC",
+        "odds": "2.1"
+      },
+      {
+        "team": "Forfarshire",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 10:30 AM",
+    "title": "Stewarts Melville - Arbroath United",
+    "bets": [
+      {
+        "team": "Stewarts Melville",
+        "odds": "2.18"
+      },
+      {
+        "team": "Arbroath United",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 10:30 AM",
+    "title": "Falkland - RH Corstorphine",
+    "bets": [
+      {
+        "team": "Falkland",
+        "odds": "2.4"
+      },
+      {
+        "team": "RH Corstorphine",
+        "odds": "1.51"
+      }
+    ]
+  },
+  {
+    "date": "Aug 22, 10:30 AM",
+    "title": "Watsonian - Edinburgh South",
+    "bets": [
+      {
+        "team": "Watsonian",
+        "odds": "1.51"
+      },
+      {
+        "team": "Edinburgh South",
+        "odds": "2.4"
       }
     ]
   },
@@ -360,6 +836,118 @@
       {
         "team": "Richmond II",
         "odds": "4.2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 06:30 PM",
+    "title": "Nanaimo District - Campbell River",
+    "bets": [
+      {
+        "team": "Nanaimo District",
+        "odds": "1.65"
+      },
+      {
+        "team": "Campbell River",
+        "odds": "2.02"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 07:00 PM",
+    "title": "Alcos - Cowichan",
+    "bets": [
+      {
+        "team": "Alcos",
+        "odds": "3"
+      },
+      {
+        "team": "Cowichan",
+        "odds": "1.3"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 07:00 PM",
+    "title": "Courtenay - Langford",
+    "bets": [
+      {
+        "team": "Courtenay",
+        "odds": "2.3"
+      },
+      {
+        "team": "Langford",
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 07:00 PM",
+    "title": "Pakcan I - Windies I",
+    "bets": [
+      {
+        "team": "Pakcan I",
+        "odds": "1.9"
+      },
+      {
+        "team": "Windies I",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 07:00 PM",
+    "title": "Langley I - Newton Surrey Champions II",
+    "bets": [
+      {
+        "team": "Langley I",
+        "odds": "3"
+      },
+      {
+        "team": "Newton Surrey Champions II",
+        "odds": "1.3"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 07:00 PM",
+    "title": "Richmond I - North Vancouver I",
+    "bets": [
+      {
+        "team": "Richmond I",
+        "odds": "1.2"
+      },
+      {
+        "team": "North Vancouver I",
+        "odds": "3.74"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 07:00 PM",
+    "title": "Ind-Can I - Centurion",
+    "bets": [
+      {
+        "team": "Ind-Can I",
+        "odds": "3"
+      },
+      {
+        "team": "Centurion",
+        "odds": "1.3"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 07:00 PM",
+    "title": "Vancouver Eagles I - Surrey Warriors I",
+    "bets": [
+      {
+        "team": "Vancouver Eagles I",
+        "odds": "1.83"
+      },
+      {
+        "team": "Surrey Warriors I",
+        "odds": "1.83"
       }
     ]
   }
