@@ -5,11 +5,25 @@
     "bets": [
       {
         "team": "Antigua and Barbuda Falcons",
-        "odds": "2.65"
+        "odds": "2.59"
       },
       {
         "team": "Trinbago Knight Riders",
-        "odds": "1.48"
+        "odds": "1.5"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 11:00 PM",
+    "title": "Antigua and Barbuda Falcons - Guyana Amazon Warriors",
+    "bets": [
+      {
+        "team": "Antigua and Barbuda Falcons",
+        "odds": "1.9"
+      },
+      {
+        "team": "Guyana Amazon Warriors",
+        "odds": "1.9"
       }
     ]
   },
@@ -80,6 +94,34 @@
       {
         "team": "Noida Kings",
         "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 04:00 AM",
+    "title": "East Zone - North East Zone",
+    "bets": [
+      {
+        "team": "East Zone",
+        "odds": "1.02"
+      },
+      {
+        "team": "North East Zone",
+        "odds": "9.59"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 04:00 AM",
+    "title": "North Zone - West Zone",
+    "bets": [
+      {
+        "team": "North Zone",
+        "odds": "1.75"
+      },
+      {
+        "team": "West Zone",
+        "odds": "1.96"
       }
     ]
   },
@@ -164,6 +206,20 @@
       {
         "team": "Adelaide Strikers Academy",
         "odds": "2.04"
+      }
+    ]
+  },
+  {
+    "date": "Aug 23, 03:30 AM",
+    "title": "Gold Coast - Queensland University",
+    "bets": [
+      {
+        "team": "Gold Coast",
+        "odds": "1.61"
+      },
+      {
+        "team": "Queensland University",
+        "odds": "2.17"
       }
     ]
   },
@@ -341,11 +397,11 @@
     "bets": [
       {
         "team": "Northamptonshire Steelbacks (w)",
-        "odds": "3.47"
+        "odds": "3.87"
       },
       {
         "team": "Essex (w)",
-        "odds": "1.26"
+        "odds": "1.22"
       }
     ]
   },
@@ -402,90 +458,6 @@
       {
         "team": "VRA",
         "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Aug 22, 07:00 PM",
-    "title": "Surrey United I - Meraloma I",
-    "bets": [
-      {
-        "team": "Surrey United I",
-        "odds": "1.92"
-      },
-      {
-        "team": "Meraloma I",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Aug 22, 07:00 PM",
-    "title": "Surrey Hawks I - Newton Surrey Champions I",
-    "bets": [
-      {
-        "team": "Surrey Hawks I",
-        "odds": "4.62"
-      },
-      {
-        "team": "Newton Surrey Champions I",
-        "odds": "1.13"
-      }
-    ]
-  },
-  {
-    "date": "Aug 22, 07:00 PM",
-    "title": "Cosmos I - Kelowna Kamloops I",
-    "bets": [
-      {
-        "team": "Cosmos I",
-        "odds": "1.83"
-      },
-      {
-        "team": "Kelowna Kamloops I",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Aug 22, 07:00 PM",
-    "title": "Van Isle - Metchosin",
-    "bets": [
-      {
-        "team": "Van Isle",
-        "odds": "2.2"
-      },
-      {
-        "team": "Metchosin",
-        "odds": "1.55"
-      }
-    ]
-  },
-  {
-    "date": "Aug 22, 07:00 PM",
-    "title": "Langley Titans I - Abbotsford I",
-    "bets": [
-      {
-        "team": "Langley Titans I",
-        "odds": "1.83"
-      },
-      {
-        "team": "Abbotsford I",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Aug 22, 07:00 PM",
-    "title": "West Vancouver I - Richmond II",
-    "bets": [
-      {
-        "team": "West Vancouver I",
-        "odds": "1.16"
-      },
-      {
-        "team": "Richmond II",
-        "odds": "4.2"
       }
     ]
   },
