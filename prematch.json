@@ -28,16 +28,30 @@
     ]
   },
   {
+    "date": "Aug 25, 10:00 AM",
+    "title": "Scotland A - Jersey",
+    "bets": [
+      {
+        "team": "Scotland A",
+        "odds": "2.76"
+      },
+      {
+        "team": "Jersey",
+        "odds": "1.39"
+      }
+    ]
+  },
+  {
     "date": "Aug 25, 09:30 AM",
     "title": "Kanpur Superstars - Meerut Mavericks",
     "bets": [
       {
         "team": "Kanpur Superstars",
-        "odds": "2.6"
+        "odds": "2.32"
       },
       {
         "team": "Meerut Mavericks",
-        "odds": "1.44"
+        "odds": "1.54"
       }
     ]
   },
@@ -47,11 +61,11 @@
     "bets": [
       {
         "team": "Lucknow Falcons",
-        "odds": "1.76"
+        "odds": "1.85"
       },
       {
         "team": "Kashi Rudras",
-        "odds": "1.95"
+        "odds": "1.85"
       }
     ]
   },
@@ -61,11 +75,11 @@
     "bets": [
       {
         "team": "NT Strike",
-        "odds": "1.34"
+        "odds": "1.83"
       },
       {
         "team": "ACT Comets",
-        "odds": "3.01"
+        "odds": "1.83"
       }
     ]
   },
@@ -262,6 +276,20 @@
       {
         "team": "Bangladesh High Performance XI",
         "odds": "1.45"
+      }
+    ]
+  },
+  {
+    "date": "Aug 25, 01:15 PM",
+    "title": "Trivandrum Royals - Thrissur Titans",
+    "bets": [
+      {
+        "team": "Trivandrum Royals",
+        "odds": "2"
+      },
+      {
+        "team": "Thrissur Titans",
+        "odds": "1.72"
       }
     ]
   },
