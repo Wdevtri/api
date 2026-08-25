@@ -14,282 +14,240 @@
     ]
   },
   {
-    "date": "Aug 25, 01:30 PM",
-    "title": "Purani Dilli 6 - East Delhi Riders",
+    "date": "Aug 26, 11:00 PM",
+    "title": "Trinbago Knight Riders - Saint Lucia Kings",
     "bets": [
       {
-        "team": "Purani Dilli 6",
-        "odds": "1.45"
+        "team": "Trinbago Knight Riders",
+        "odds": "1.5"
       },
       {
-        "team": "East Delhi Riders",
-        "odds": "2.55"
+        "team": "Saint Lucia Kings",
+        "odds": "2.59"
       }
     ]
   },
   {
-    "date": "Aug 25, 10:00 AM",
-    "title": "Scotland A - Jersey",
+    "date": "Aug 27, 10:00 AM",
+    "title": "England - Pakistan",
     "bets": [
       {
-        "team": "Scotland A",
-        "odds": "2.76"
+        "team": "England",
+        "odds": "1.14"
       },
       {
-        "team": "Jersey",
-        "odds": "1.39"
+        "team": "Pakistan",
+        "odds": "5.61"
       }
     ]
   },
   {
-    "date": "Aug 25, 09:30 AM",
-    "title": "Kanpur Superstars - Meerut Mavericks",
+    "date": "Aug 26, 02:00 PM",
+    "title": "Trichy Grand Cholas - Lyca Kovai Kings",
     "bets": [
+      {
+        "team": "Trichy Grand Cholas",
+        "odds": "1.84"
+      },
+      {
+        "team": "Lyca Kovai Kings",
+        "odds": "1.91"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 09:30 AM",
+    "title": "Gorakhpur Lions - Kanpur Superstars",
+    "bets": [
+      {
+        "team": "Gorakhpur Lions",
+        "odds": "1.8"
+      },
       {
         "team": "Kanpur Superstars",
-        "odds": "2.32"
-      },
-      {
-        "team": "Meerut Mavericks",
-        "odds": "1.54"
+        "odds": "1.9"
       }
     ]
   },
   {
-    "date": "Aug 25, 02:00 PM",
-    "title": "Lucknow Falcons - Kashi Rudras",
+    "date": "Aug 27, 09:25 AM",
+    "title": "England - Pakistan",
     "bets": [
       {
-        "team": "Lucknow Falcons",
+        "team": "England",
+        "odds": "1.01"
+      },
+      {
+        "team": "Pakistan",
+        "odds": "13"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 10:00 AM",
+    "title": "Sussex - Somerset",
+    "bets": [
+      {
+        "team": "Sussex",
+        "odds": "2.27"
+      },
+      {
+        "team": "Somerset",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 10:00 AM",
+    "title": "Warwickshire - Nottinghamshire",
+    "bets": [
+      {
+        "team": "Warwickshire",
+        "odds": "2"
+      },
+      {
+        "team": "Nottinghamshire",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 10:00 AM",
+    "title": "Essex - Surrey",
+    "bets": [
+      {
+        "team": "Essex",
         "odds": "1.85"
       },
       {
-        "team": "Kashi Rudras",
+        "team": "Surrey",
         "odds": "1.85"
       }
     ]
   },
   {
-    "date": "Aug 25, 12:30 AM",
-    "title": "NT Strike - ACT Comets",
+    "date": "Aug 27, 10:00 AM",
+    "title": "Glamorgan - Hampshire",
     "bets": [
       {
-        "team": "NT Strike",
-        "odds": "1.83"
+        "team": "Glamorgan",
+        "odds": "1.75"
       },
       {
-        "team": "ACT Comets",
-        "odds": "1.83"
+        "team": "Hampshire",
+        "odds": "1.96"
       }
     ]
   },
   {
-    "date": "Aug 25, 03:45 AM",
-    "title": "DFCC Bank - Golden Plantation",
+    "date": "Aug 27, 10:00 AM",
+    "title": "Yorkshire - Leicestershire",
     "bets": [
       {
-        "team": "DFCC Bank",
-        "odds": "2.4"
+        "team": "Yorkshire",
+        "odds": "1.61"
       },
       {
-        "team": "Golden Plantation",
-        "odds": "1.48"
+        "team": "Leicestershire",
+        "odds": "2.17"
       }
     ]
   },
   {
-    "date": "Aug 25, 03:45 AM",
-    "title": "Chilaw Marians CC - Galle",
+    "date": "Aug 27, 10:00 AM",
+    "title": "Durham - Gloucestershire",
     "bets": [
       {
-        "team": "Chilaw Marians CC",
-        "odds": "1.94"
+        "team": "Durham",
+        "odds": "1.24"
       },
       {
-        "team": "Galle",
-        "odds": "1.73"
+        "team": "Gloucestershire",
+        "odds": "3.68"
       }
     ]
   },
   {
-    "date": "Aug 25, 03:45 AM",
-    "title": "Kandy Customs CC - Sebastianites Cricket and Athletic Club",
+    "date": "Aug 27, 10:00 AM",
+    "title": "Northamptonshire - Kent",
     "bets": [
       {
-        "team": "Kandy Customs CC",
-        "odds": "1.99"
+        "team": "Northamptonshire",
+        "odds": "1.85"
       },
       {
-        "team": "Sebastianites Cricket and Athletic Club",
-        "odds": "1.69"
+        "team": "Kent",
+        "odds": "1.85"
       }
     ]
   },
   {
-    "date": "Aug 25, 03:45 AM",
-    "title": "Kurunegala SC - Leo CC",
+    "date": "Aug 27, 10:00 AM",
+    "title": "Worcestershire - Lancashire",
     "bets": [
       {
-        "team": "Kurunegala SC",
-        "odds": "1.21"
+        "team": "Worcestershire",
+        "odds": "1.96"
       },
       {
-        "team": "Leo CC",
-        "odds": "3.73"
+        "team": "Lancashire",
+        "odds": "1.75"
       }
     ]
   },
   {
-    "date": "Aug 25, 03:45 AM",
-    "title": "Sri Lanka Navy SC - Ragama CC",
+    "date": "Aug 27, 10:00 AM",
+    "title": "Derbyshire - Middlesex",
     "bets": [
       {
-        "team": "Sri Lanka Navy SC",
-        "odds": "1.15"
+        "team": "Derbyshire",
+        "odds": "2.15"
       },
       {
-        "team": "Ragama CC",
-        "odds": "4.45"
+        "team": "Middlesex",
+        "odds": "1.62"
       }
     ]
   },
   {
-    "date": "Aug 25, 03:45 AM",
-    "title": "Negombo СС - Moratuwa SC",
+    "date": "Aug 26, 07:00 AM",
+    "title": "Brussels Capital Warriors - Royal Antwerp CC",
     "bets": [
       {
-        "team": "Negombo СС",
-        "odds": "1.83"
+        "team": "Brussels Capital Warriors",
+        "odds": "1.52"
       },
       {
-        "team": "Moratuwa SC",
-        "odds": "1.83"
+        "team": "Royal Antwerp CC",
+        "odds": "2.3"
       }
     ]
   },
   {
-    "date": "Aug 25, 04:15 AM",
-    "title": "Nugegoda SWC - Kurunegala Youth CC",
+    "date": "Aug 26, 09:00 AM",
+    "title": "Hasselt СС - Genk CC",
     "bets": [
       {
-        "team": "Nugegoda SWC",
-        "odds": "1.35"
+        "team": "Hasselt СС",
+        "odds": "2.2"
       },
       {
-        "team": "Kurunegala Youth CC",
-        "odds": "2.92"
+        "team": "Genk CC",
+        "odds": "1.57"
       }
     ]
   },
   {
-    "date": "Aug 25, 05:00 AM",
-    "title": "New Zealand A - Hyderabad Kingsmen Academy",
+    "date": "Aug 26, 12:30 AM",
+    "title": "New Zealand A - Victoria",
     "bets": [
       {
         "team": "New Zealand A",
         "odds": "1.48"
       },
       {
-        "team": "Hyderabad Kingsmen Academy",
+        "team": "Victoria",
         "odds": "2.46"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 07:15 AM",
-    "title": "Eastern Titans - Old Hararians",
-    "bets": [
-      {
-        "team": "Eastern Titans",
-        "odds": "1.9"
-      },
-      {
-        "team": "Old Hararians",
-        "odds": "1.8"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 08:00 AM",
-    "title": "East Delhi Riders (w) - North Delhi Strikers (w)",
-    "bets": [
-      {
-        "team": "East Delhi Riders (w)",
-        "odds": "2.08"
-      },
-      {
-        "team": "North Delhi Strikers (w)",
-        "odds": "1.67"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 08:15 AM",
-    "title": "Redlands - Valley",
-    "bets": [
-      {
-        "team": "Redlands",
-        "odds": "1.56"
-      },
-      {
-        "team": "Valley",
-        "odds": "2.27"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 08:15 AM",
-    "title": "Ipswich - Western Suburbs",
-    "bets": [
-      {
-        "team": "Ipswich",
-        "odds": "2.92"
-      },
-      {
-        "team": "Western Suburbs",
-        "odds": "1.35"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 09:00 AM",
-    "title": "Alleppey Ripples - Kollam Sailors",
-    "bets": [
-      {
-        "team": "Alleppey Ripples",
-        "odds": "1.64"
-      },
-      {
-        "team": "Kollam Sailors",
-        "odds": "2.12"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 09:30 AM",
-    "title": "Adelaide Strikers Academy - Bangladesh High Performance XI",
-    "bets": [
-      {
-        "team": "Adelaide Strikers Academy",
-        "odds": "2.55"
-      },
-      {
-        "team": "Bangladesh High Performance XI",
-        "odds": "1.45"
-      }
-    ]
-  },
-  {
-    "date": "Aug 25, 01:15 PM",
-    "title": "Trivandrum Royals - Thrissur Titans",
-    "bets": [
-      {
-        "team": "Trivandrum Royals",
-        "odds": "2"
-      },
-      {
-        "team": "Thrissur Titans",
-        "odds": "1.72"
       }
     ]
   },
@@ -299,11 +257,11 @@
     "bets": [
       {
         "team": "Nondescripts CC",
-        "odds": "2.49"
+        "odds": "2.52"
       },
       {
         "team": "Police Sports Club",
-        "odds": "1.47"
+        "odds": "1.46"
       }
     ]
   },
@@ -364,16 +322,296 @@
     ]
   },
   {
-    "date": "Aug 25, 12:45 AM",
-    "title": "Wicket Sports - Colwood",
+    "date": "Aug 26, 05:00 AM",
+    "title": "Adelaide Strikers Academy - Hobart Hurricanes Academy",
     "bets": [
       {
-        "team": "Wicket Sports",
+        "team": "Adelaide Strikers Academy",
+        "odds": "1.6"
+      },
+      {
+        "team": "Hobart Hurricanes Academy",
+        "odds": "2.19"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 05:30 AM",
+    "title": "Turkey (w) - Austria (w)",
+    "bets": [
+      {
+        "team": "Turkey (w)",
+        "odds": "2.06"
+      },
+      {
+        "team": "Austria (w)",
+        "odds": "1.68"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 08:15 AM",
+    "title": "Sandgate-Redcliffe - Sunshine Coast",
+    "bets": [
+      {
+        "team": "Sandgate-Redcliffe",
+        "odds": "1.94"
+      },
+      {
+        "team": "Sunshine Coast",
+        "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 08:15 AM",
+    "title": "Valley (w) - University of Queensland (w)",
+    "bets": [
+      {
+        "team": "Valley (w)",
+        "odds": "1.78"
+      },
+      {
+        "team": "University of Queensland (w)",
+        "odds": "1.92"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 08:15 AM",
+    "title": "Ipswich (w) - Sandgate-Redcliffe (w)",
+    "bets": [
+      {
+        "team": "Ipswich (w)",
+        "odds": "2.1"
+      },
+      {
+        "team": "Sandgate-Redcliffe (w)",
+        "odds": "1.65"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 09:00 AM",
+    "title": "Thrissur Titans - Kollam Sailors",
+    "bets": [
+      {
+        "team": "Thrissur Titans",
         "odds": "1.72"
       },
       {
-        "team": "Colwood",
-        "odds": "1.92"
+        "team": "Kollam Sailors",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 09:30 AM",
+    "title": "Warwickshire (w) - The Blaze (w)",
+    "bets": [
+      {
+        "team": "Warwickshire (w)",
+        "odds": "2.52"
+      },
+      {
+        "team": "The Blaze (w)",
+        "odds": "1.46"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 09:30 AM",
+    "title": "Yorkshire (w) - Surrey (w)",
+    "bets": [
+      {
+        "team": "Yorkshire (w)",
+        "odds": "2.12"
+      },
+      {
+        "team": "Surrey (w)",
+        "odds": "1.64"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 09:30 AM",
+    "title": "Somerset (w) - Durham (w)",
+    "bets": [
+      {
+        "team": "Somerset (w)",
+        "odds": "1.85"
+      },
+      {
+        "team": "Durham (w)",
+        "odds": "1.85"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 09:30 AM",
+    "title": "Hampshire (w) - Lancashire (w)",
+    "bets": [
+      {
+        "team": "Hampshire (w)",
+        "odds": "1.54"
+      },
+      {
+        "team": "Lancashire (w)",
+        "odds": "2.32"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 09:30 AM",
+    "title": "Romania (w) - Isle of Man (w)",
+    "bets": [
+      {
+        "team": "Romania (w)",
+        "odds": "2.92"
+      },
+      {
+        "team": "Isle of Man (w)",
+        "odds": "1.35"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 09:30 AM",
+    "title": "Nepal - ACT Comets",
+    "bets": [
+      {
+        "team": "Nepal",
+        "odds": "1.46"
+      },
+      {
+        "team": "ACT Comets",
+        "odds": "2.52"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 01:15 PM",
+    "title": "Kochi Blue Tigers - Alleppey Ripples",
+    "bets": [
+      {
+        "team": "Kochi Blue Tigers",
+        "odds": "2.2"
+      },
+      {
+        "team": "Alleppey Ripples",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 04:15 AM",
+    "title": "Moratuwa SC - Negombo СС",
+    "bets": [
+      {
+        "team": "Moratuwa SC",
+        "odds": "1.57"
+      },
+      {
+        "team": "Negombo СС",
+        "odds": "2.2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 04:15 AM",
+    "title": "Chilaw Marians CC - Leo CC",
+    "bets": [
+      {
+        "team": "Chilaw Marians CC",
+        "odds": "1.9"
+      },
+      {
+        "team": "Leo CC",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 04:15 AM",
+    "title": "Kandy Customs CC - Galle",
+    "bets": [
+      {
+        "team": "Kandy Customs CC",
+        "odds": "2.04"
+      },
+      {
+        "team": "Galle",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 08:15 AM",
+    "title": "Northern Suburbs - Wynnum-Manly",
+    "bets": [
+      {
+        "team": "Northern Suburbs",
+        "odds": "1.55"
+      },
+      {
+        "team": "Wynnum-Manly",
+        "odds": "2.29"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 08:30 AM",
+    "title": "Kurunegala SC - United Southern SC",
+    "bets": [
+      {
+        "team": "Kurunegala SC",
+        "odds": "1.21"
+      },
+      {
+        "team": "United Southern SC",
+        "odds": "3.75"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 08:30 AM",
+    "title": "Sri Lanka Army SC - Ragama CC",
+    "bets": [
+      {
+        "team": "Sri Lanka Army SC",
+        "odds": "1.34"
+      },
+      {
+        "team": "Ragama CC",
+        "odds": "2.9"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 08:30 AM",
+    "title": "Sri Lanka Navy SC - Sebastianites Cricket and Athletic Club",
+    "bets": [
+      {
+        "team": "Sri Lanka Navy SC",
+        "odds": "1.4"
+      },
+      {
+        "team": "Sebastianites Cricket and Athletic Club",
+        "odds": "2.65"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 01:30 PM",
+    "title": "North Delhi Strikers (w) - Central Delhi Queens (w)",
+    "bets": [
+      {
+        "team": "North Delhi Strikers (w)",
+        "odds": "1.5"
+      },
+      {
+        "team": "Central Delhi Queens (w)",
+        "odds": "2.41"
       }
     ]
   },
@@ -383,11 +621,25 @@
     "bets": [
       {
         "team": "Victoria Patriots",
-        "odds": "2.6"
+        "odds": "2.82"
       },
       {
         "team": "University of Victoria Midweek",
-        "odds": "1.4"
+        "odds": "1.2"
+      }
+    ]
+  },
+  {
+    "date": "Aug 26, 02:30 PM",
+    "title": "Fossum - Nord A",
+    "bets": [
+      {
+        "team": "Fossum",
+        "odds": "1.16"
+      },
+      {
+        "team": "Nord A",
+        "odds": "4.39"
       }
     ]
   },
@@ -397,11 +649,39 @@
     "bets": [
       {
         "team": "Rotterdam Dockers",
-        "odds": "1.85"
+        "odds": "1.8"
       },
       {
         "team": "Amsterdam Flames",
-        "odds": "1.85"
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 09:30 AM",
+    "title": "Belfast Wolves - Dublin Guardians",
+    "bets": [
+      {
+        "team": "Belfast Wolves",
+        "odds": "1.87"
+      },
+      {
+        "team": "Dublin Guardians",
+        "odds": "1.87"
+      }
+    ]
+  },
+  {
+    "date": "Aug 27, 02:15 PM",
+    "title": "Edinburgh Castle Rockers - Glasgow Cosmics",
+    "bets": [
+      {
+        "team": "Edinburgh Castle Rockers",
+        "odds": "1.98"
+      },
+      {
+        "team": "Glasgow Cosmics",
+        "odds": "1.77"
       }
     ]
   }
