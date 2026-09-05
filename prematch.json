@@ -1,57 +1,29 @@
 [
   {
-    "date": "Sep 4, 11:00 PM",
-    "title": "Guyana Amazon Warriors - Jamaica Kingsmen",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors",
-        "odds": "1.54"
-      },
-      {
-        "team": "Jamaica Kingsmen",
-        "odds": "2.49"
-      }
-    ]
-  },
-  {
     "date": "Sep 6, 12:00 AM",
     "title": "Barbados Tridents - Trinbago Knight Riders",
     "bets": [
       {
         "team": "Barbados Tridents",
-        "odds": "2.1"
+        "odds": "2.29"
       },
       {
         "team": "Trinbago Knight Riders",
-        "odds": "1.74"
+        "odds": "1.62"
       }
     ]
   },
   {
-    "date": "Sep 4, 12:00 PM",
-    "title": "Namibia - South Africa",
+    "date": "Sep 6, 07:00 PM",
+    "title": "Guyana Amazon Warriors - St Kitts and Nevis Patriots",
     "bets": [
       {
-        "team": "Namibia",
-        "odds": "4.74"
+        "team": "Guyana Amazon Warriors",
+        "odds": "1.55"
       },
       {
-        "team": "South Africa",
-        "odds": "1.16"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 02:30 PM",
-    "title": "United Arab Emirates (w) - Indonesia (w)",
-    "bets": [
-      {
-        "team": "United Arab Emirates (w)",
-        "odds": "1.25"
-      },
-      {
-        "team": "Indonesia (w)",
-        "odds": "3.6"
+        "team": "St Kitts and Nevis Patriots",
+        "odds": "2.46"
       }
     ]
   },
@@ -61,109 +33,67 @@
     "bets": [
       {
         "team": "India (w)",
-        "odds": "1.11"
+        "odds": "1.07"
       },
       {
         "team": "Pakistan (w)",
-        "odds": "5.62"
+        "odds": "7"
       }
     ]
   },
   {
-    "date": "Sep 4, 07:30 AM",
-    "title": "Bathinda Royals - Amritsar Soormas",
+    "date": "Sep 6, 12:00 PM",
+    "title": "South Africa - Zimbabwe",
     "bets": [
       {
-        "team": "Bathinda Royals",
-        "odds": "2.41"
+        "team": "South Africa",
+        "odds": "1.25"
       },
       {
-        "team": "Amritsar Soormas",
-        "odds": "1.5"
+        "team": "Zimbabwe",
+        "odds": "3.75"
       }
     ]
   },
   {
-    "date": "Sep 4, 09:00 AM",
-    "title": "Trivandrum Royals - Thrissur Titans",
+    "date": "Sep 6, 02:30 PM",
+    "title": "Sri Lanka (w) - Bangladesh (w)",
     "bets": [
       {
-        "team": "Trivandrum Royals",
-        "odds": "1.61"
+        "team": "Sri Lanka (w)",
+        "odds": "1.42"
       },
       {
-        "team": "Thrissur Titans",
-        "odds": "2.17"
+        "team": "Bangladesh (w)",
+        "odds": "2.65"
       }
     ]
   },
   {
-    "date": "Sep 4, 01:15 PM",
-    "title": "Glasgow Cosmics - Belfast Wolves",
+    "date": "Sep 6, 07:30 AM",
+    "title": "South Africa A - Bangladesh A",
     "bets": [
       {
-        "team": "Glasgow Cosmics",
-        "odds": "2.06"
+        "team": "South Africa A",
+        "odds": "1.64"
       },
       {
-        "team": "Belfast Wolves",
-        "odds": "1.71"
+        "team": "Bangladesh A",
+        "odds": "2.12"
       }
     ]
   },
   {
-    "date": "Sep 4, 01:15 PM",
-    "title": "Alleppey Ripples - Calicut Globstars",
+    "date": "Sep 6, 09:30 AM",
+    "title": "England (w) - Ireland (w)",
     "bets": [
       {
-        "team": "Alleppey Ripples",
-        "odds": "1.61"
+        "team": "England (w)",
+        "odds": "1.04"
       },
       {
-        "team": "Calicut Globstars",
-        "odds": "2.17"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 01:30 PM",
-    "title": "Ludhiana Lions - Jalandhar Warriors",
-    "bets": [
-      {
-        "team": "Ludhiana Lions",
-        "odds": "1.82"
-      },
-      {
-        "team": "Jalandhar Warriors",
-        "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 02:00 PM",
-    "title": "Meerut Mavericks - Noida Kings",
-    "bets": [
-      {
-        "team": "Meerut Mavericks",
-        "odds": "1.53"
-      },
-      {
-        "team": "Noida Kings",
-        "odds": "2.35"
-      }
-    ]
-  },
-  {
-    "date": "Sep 5, 09:30 AM",
-    "title": "Rotterdam Dockers - Edinburgh Castle Rockers",
-    "bets": [
-      {
-        "team": "Rotterdam Dockers",
-        "odds": "1.77"
-      },
-      {
-        "team": "Edinburgh Castle Rockers",
-        "odds": "1.98"
+        "team": "Ireland (w)",
+        "odds": "9.65"
       }
     ]
   },
@@ -182,16 +112,58 @@
     ]
   },
   {
+    "date": "Sep 5, 01:30 PM",
+    "title": "Jalandhar Warriors - Mohali Kings",
+    "bets": [
+      {
+        "team": "Jalandhar Warriors",
+        "odds": "1.72"
+      },
+      {
+        "team": "Mohali Kings",
+        "odds": "2"
+      }
+    ]
+  },
+  {
+    "date": "Sep 5, 01:30 PM",
+    "title": "Thrissur Titans - Calicut Globstars",
+    "bets": [
+      {
+        "team": "Thrissur Titans",
+        "odds": "1.77"
+      },
+      {
+        "team": "Calicut Globstars",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 02:30 PM",
+    "title": "Lucknow Falcons - Meerut Mavericks",
+    "bets": [
+      {
+        "team": "Lucknow Falcons",
+        "odds": "1.82"
+      },
+      {
+        "team": "Meerut Mavericks",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
     "date": "Sep 5, 07:00 PM",
     "title": "Barbados Tridents (w) - Trinbago Knight Riders (w)",
     "bets": [
       {
         "team": "Barbados Tridents (w)",
-        "odds": "1.92"
+        "odds": "1.96"
       },
       {
         "team": "Trinbago Knight Riders (w)",
-        "odds": "1.82"
+        "odds": "1.75"
       }
     ]
   },
@@ -201,291 +173,277 @@
     "bets": [
       {
         "team": "East Zone",
-        "odds": "1.75"
+        "odds": "1.96"
       },
       {
         "team": "South Zone",
-        "odds": "1.96"
+        "odds": "1.75"
       }
     ]
   },
   {
-    "date": "Sep 4, 08:00 AM",
-    "title": "Lisbon Warriors - Santarem Stallions",
+    "date": "Sep 6, 02:00 PM",
+    "title": "Jamaica Empress (w) - Guyana Amazon Warriors (w)",
     "bets": [
       {
-        "team": "Lisbon Warriors",
-        "odds": "2.51"
+        "team": "Jamaica Empress (w)",
+        "odds": "1.85"
       },
       {
-        "team": "Santarem Stallions",
-        "odds": "1.44"
+        "team": "Guyana Amazon Warriors (w)",
+        "odds": "1.85"
       }
     ]
   },
   {
-    "date": "Sep 4, 10:00 AM",
-    "title": "Odivelas Titans - Amadora Royals",
+    "date": "Sep 5, 12:00 PM",
+    "title": "Pune Peshwas - Rajasthan Rajvansh",
     "bets": [
       {
-        "team": "Odivelas Titans",
-        "odds": "1.83"
-      },
-      {
-        "team": "Amadora Royals",
-        "odds": "1.83"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 08:15 AM",
-    "title": "Western Suburbs - Ipswich",
-    "bets": [
-      {
-        "team": "Western Suburbs",
-        "odds": "1.63"
-      },
-      {
-        "team": "Ipswich",
-        "odds": "2.15"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 08:15 AM",
-    "title": "Redlands - Northern Suburbs",
-    "bets": [
-      {
-        "team": "Redlands",
-        "odds": "1.49"
-      },
-      {
-        "team": "Northern Suburbs",
-        "odds": "2.43"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 09:30 AM",
-    "title": "Doiwala Kings - Mussoorie Thunder",
-    "bets": [
-      {
-        "team": "Doiwala Kings",
-        "odds": "2.04"
-      },
-      {
-        "team": "Mussoorie Thunder",
-        "odds": "1.69"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 10:30 AM",
-    "title": "Yalla Shabab Giants - Majees Titans",
-    "bets": [
-      {
-        "team": "Yalla Shabab Giants",
+        "team": "Pune Peshwas",
         "odds": "1.64"
       },
       {
-        "team": "Majees Titans",
+        "team": "Rajasthan Rajvansh",
         "odds": "2.12"
       }
     ]
   },
   {
-    "date": "Sep 4, 11:30 AM",
-    "title": "Rajasthan Rajvansh - Mumbai Kings",
+    "date": "Sep 6, 01:30 AM",
+    "title": "Nepal - Saudi Arabia",
     "bets": [
       {
-        "team": "Rajasthan Rajvansh",
-        "odds": "2"
+        "team": "Nepal",
+        "odds": "1.09"
       },
       {
-        "team": "Mumbai Kings",
-        "odds": "1.72"
+        "team": "Saudi Arabia",
+        "odds": "6.01"
       }
     ]
   },
   {
-    "date": "Sep 5, 01:30 AM",
-    "title": "Oman - Kuwait",
+    "date": "Sep 6, 01:30 AM",
+    "title": "United Arab Emirates - Singapore",
     "bets": [
       {
-        "team": "Oman",
-        "odds": "1.35"
+        "team": "United Arab Emirates",
+        "odds": "1.06"
       },
+      {
+        "team": "Singapore",
+        "odds": "7.22"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 09:30 AM",
+    "title": "The Blaze (w) - Somerset (w)",
+    "bets": [
+      {
+        "team": "The Blaze (w)",
+        "odds": "1.41"
+      },
+      {
+        "team": "Somerset (w)",
+        "odds": "2.69"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 09:30 AM",
+    "title": "Lancashire (w) - Durham (w)",
+    "bets": [
+      {
+        "team": "Lancashire (w)",
+        "odds": "1.77"
+      },
+      {
+        "team": "Durham (w)",
+        "odds": "1.94"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 09:30 AM",
+    "title": "Essex (w) - Surrey (w)",
+    "bets": [
+      {
+        "team": "Essex (w)",
+        "odds": "2.27"
+      },
+      {
+        "team": "Surrey (w)",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 09:30 AM",
+    "title": "Worcestershire Rapids (w) - Gloucestershire (w)",
+    "bets": [
+      {
+        "team": "Worcestershire Rapids (w)",
+        "odds": "1.75"
+      },
+      {
+        "team": "Gloucestershire (w)",
+        "odds": "1.96"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 09:30 AM",
+    "title": "Middlesex (w) - Glamorgan (w)",
+    "bets": [
+      {
+        "team": "Middlesex (w)",
+        "odds": "2.27"
+      },
+      {
+        "team": "Glamorgan (w)",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 09:30 AM",
+    "title": "Hampshire (w) - Yorkshire (w)",
+    "bets": [
+      {
+        "team": "Hampshire (w)",
+        "odds": "1.43"
+      },
+      {
+        "team": "Yorkshire (w)",
+        "odds": "2.62"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 09:30 AM",
+    "title": "Derbyshire Falcons (w) - Northamptonshire Steelbacks (w)",
+    "bets": [
+      {
+        "team": "Derbyshire Falcons (w)",
+        "odds": "2.43"
+      },
+      {
+        "team": "Northamptonshire Steelbacks (w)",
+        "odds": "1.49"
+      }
+    ]
+  },
+  {
+    "date": "Sep 6, 09:30 AM",
+    "title": "Kent (w) - Leicestershire Foxes (w)",
+    "bets": [
+      {
+        "team": "Kent (w)",
+        "odds": "1.56"
+      },
+      {
+        "team": "Leicestershire Foxes (w)",
+        "odds": "2.27"
+      }
+    ]
+  },
+  {
+    "date": "Sep 7, 01:30 AM",
+    "title": "Kuwait - Qatar",
+    "bets": [
       {
         "team": "Kuwait",
-        "odds": "2.92"
-      }
-    ]
-  },
-  {
-    "date": "Sep 5, 01:30 AM",
-    "title": "Hong Kong - Malaysia",
-    "bets": [
-      {
-        "team": "Hong Kong",
-        "odds": "1.17"
+        "odds": "1.5"
       },
       {
-        "team": "Malaysia",
-        "odds": "4.46"
+        "team": "Qatar",
+        "odds": "2.41"
       }
     ]
   },
   {
-    "date": "Sep 5, 04:15 AM",
-    "title": "Sinhalese SC - Ace Capital CC",
+    "date": "Sep 7, 01:30 AM",
+    "title": "Malaysia - Bahrain",
     "bets": [
       {
-        "team": "Sinhalese SC",
+        "team": "Malaysia",
         "odds": "1.6"
       },
       {
-        "team": "Ace Capital CC",
+        "team": "Bahrain",
         "odds": "2.19"
       }
     ]
   },
   {
-    "date": "Sep 5, 04:15 AM",
-    "title": "Kurunegala Youth CC - Colombo CC",
+    "date": "Sep 5, 12:00 PM",
+    "title": "Hermes DVS - SV Kampong",
     "bets": [
       {
-        "team": "Kurunegala Youth CC",
-        "odds": "3.89"
+        "team": "Hermes DVS",
+        "odds": "1.83"
       },
       {
-        "team": "Colombo CC",
-        "odds": "1.21"
+        "team": "SV Kampong",
+        "odds": "1.83"
       }
     ]
   },
   {
-    "date": "Sep 5, 04:15 AM",
-    "title": "Colts CC - Nondescripts CC",
+    "date": "Sep 5, 01:00 PM",
+    "title": "VCC - HCC",
     "bets": [
       {
-        "team": "Colts CC",
-        "odds": "2.22"
+        "team": "VCC",
+        "odds": "1.7"
       },
       {
-        "team": "Nondescripts CC",
-        "odds": "1.59"
+        "team": "HCC",
+        "odds": "1.98"
       }
     ]
   },
   {
-    "date": "Sep 5, 08:30 AM",
-    "title": "Nugegoda SWC - Police Sports Club",
+    "date": "Sep 5, 06:30 PM",
+    "title": "Islanders - Albion",
     "bets": [
       {
-        "team": "Nugegoda SWC",
-        "odds": "1.95"
+        "team": "Islanders",
+        "odds": "5.2"
       },
       {
-        "team": "Police Sports Club",
-        "odds": "1.76"
+        "team": "Albion",
+        "odds": "1.1"
       }
     ]
   },
   {
-    "date": "Sep 5, 08:30 AM",
-    "title": "Badureliya SC - Panadura SC",
+    "date": "Sep 5, 07:00 PM",
+    "title": "Courtenay - Langford",
     "bets": [
       {
-        "team": "Badureliya SC",
-        "odds": "2.02"
+        "team": "Courtenay",
+        "odds": "3.31"
       },
       {
-        "team": "Panadura SC",
-        "odds": "1.71"
+        "team": "Langford",
+        "odds": "1.25"
       }
     ]
   },
   {
-    "date": "Sep 5, 08:30 AM",
-    "title": "Moors SC - Burgher RC",
+    "date": "Sep 6, 06:30 PM",
+    "title": "Nanaimo District - Campbell River",
     "bets": [
       {
-        "team": "Moors SC",
-        "odds": "1.57"
+        "team": "Nanaimo District",
+        "odds": "1.83"
       },
       {
-        "team": "Burgher RC",
-        "odds": "2.26"
-      }
-    ]
-  },
-  {
-    "date": "Sep 5, 01:00 AM",
-    "title": "Chiba Sharks CC - Serendib",
-    "bets": [
-      {
-        "team": "Chiba Sharks CC",
-        "odds": "1.46"
-      },
-      {
-        "team": "Serendib",
-        "odds": "2.45"
-      }
-    ]
-  },
-  {
-    "date": "Sep 5, 01:00 AM",
-    "title": "Tokyo Titans CC - Men In Blue CC",
-    "bets": [
-      {
-        "team": "Tokyo Titans CC",
-        "odds": "1.35"
-      },
-      {
-        "team": "Men In Blue CC",
-        "odds": "2.83"
-      }
-    ]
-  },
-  {
-    "date": "Sep 5, 05:00 AM",
-    "title": "Tigers - Wyverns",
-    "bets": [
-      {
-        "team": "Tigers",
-        "odds": "1.72"
-      },
-      {
-        "team": "Wyverns",
-        "odds": "1.95"
-      }
-    ]
-  },
-  {
-    "date": "Sep 5, 05:00 AM",
-    "title": "Tokyo Falcons CC - Sano",
-    "bets": [
-      {
-        "team": "Tokyo Falcons CC",
-        "odds": "1.68"
-      },
-      {
-        "team": "Sano",
-        "odds": "2.01"
-      }
-    ]
-  },
-  {
-    "date": "Sep 4, 07:00 AM",
-    "title": "Westfalen Royals - SC Krefeld",
-    "bets": [
-      {
-        "team": "Westfalen Royals",
-        "odds": "3.1"
-      },
-      {
-        "team": "SC Krefeld",
-        "odds": "1.32"
+        "team": "Campbell River",
+        "odds": "1.83"
       }
     ]
   }
