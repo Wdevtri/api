@@ -1,19 +1,5 @@
 [
   {
-    "date": "Sep 11, 11:00 PM",
-    "title": "Guyana Amazon Warriors - Trinbago Knight Riders",
-    "bets": [
-      {
-        "team": "Guyana Amazon Warriors",
-        "odds": "1.9"
-      },
-      {
-        "team": "Trinbago Knight Riders",
-        "odds": "1.9"
-      }
-    ]
-  },
-  {
     "date": "Sep 13, 12:00 AM",
     "title": "Barbados Tridents - Jamaica Kingsmen",
     "bets": [
@@ -24,6 +10,34 @@
       {
         "team": "Jamaica Kingsmen",
         "odds": "2.06"
+      }
+    ]
+  },
+  {
+    "date": "Sep 12, 07:30 AM",
+    "title": "Mohali Kings - Amritsar Soormas",
+    "bets": [
+      {
+        "team": "Mohali Kings",
+        "odds": "1.65"
+      },
+      {
+        "team": "Amritsar Soormas",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Sep 12, 01:30 PM",
+    "title": "Ludhiana Lions - Jalandhar Warriors",
+    "bets": [
+      {
+        "team": "Ludhiana Lions",
+        "odds": "2.04"
+      },
+      {
+        "team": "Jalandhar Warriors",
+        "odds": "1.69"
       }
     ]
   },
@@ -56,6 +70,20 @@
     ]
   },
   {
+    "date": "Sep 13, 02:30 PM",
+    "title": "India (w) - Sri Lanka (w)",
+    "bets": [
+      {
+        "team": "India (w)",
+        "odds": "1.1"
+      },
+      {
+        "team": "Sri Lanka (w)",
+        "odds": "5.69"
+      }
+    ]
+  },
+  {
     "date": "Sep 12, 07:30 AM",
     "title": "South Africa A - Bangladesh A",
     "bets": [
@@ -66,20 +94,6 @@
       {
         "team": "Bangladesh A",
         "odds": "2.55"
-      }
-    ]
-  },
-  {
-    "date": "Sep 12, 01:00 AM",
-    "title": "Japan (w) - Malaysia (w)",
-    "bets": [
-      {
-        "team": "Japan (w)",
-        "odds": "2.55"
-      },
-      {
-        "team": "Malaysia (w)",
-        "odds": "1.45"
       }
     ]
   },
@@ -103,11 +117,25 @@
     "bets": [
       {
         "team": "Dublin Guardians",
-        "odds": "1.82"
+        "odds": "1.85"
       },
       {
         "team": "Glasgow Cosmics",
-        "odds": "1.92"
+        "odds": "1.89"
+      }
+    ]
+  },
+  {
+    "date": "Sep 13, 01:00 AM",
+    "title": "Japan (w) - Malaysia (w)",
+    "bets": [
+      {
+        "team": "Japan (w)",
+        "odds": "2.23"
+      },
+      {
+        "team": "Malaysia (w)",
+        "odds": "1.61"
       }
     ]
   },
@@ -117,11 +145,11 @@
     "bets": [
       {
         "team": "Edinburgh Castle Rockers",
-        "odds": "1.87"
+        "odds": "1.74"
       },
       {
         "team": "Amsterdam Flames",
-        "odds": "1.87"
+        "odds": "2.02"
       }
     ]
   },
@@ -145,11 +173,11 @@
     "bets": [
       {
         "team": "Uganda",
-        "odds": "1.39"
+        "odds": "1.31"
       },
       {
         "team": "Kenya",
-        "odds": "2.78"
+        "odds": "3.15"
       }
     ]
   },
@@ -187,11 +215,11 @@
     "bets": [
       {
         "team": "India A (w)",
-        "odds": "2.27"
+        "odds": "2.43"
       },
       {
         "team": "Australia A (w)",
-        "odds": "1.56"
+        "odds": "1.49"
       }
     ]
   },
@@ -252,30 +280,16 @@
     ]
   },
   {
-    "date": "Sep 12, 01:30 AM",
-    "title": "Nepal - United Arab Emirates",
+    "date": "Sep 12, 09:30 AM",
+    "title": "Yorkshire (w) - Lancashire (w)",
     "bets": [
       {
-        "team": "Nepal",
-        "odds": "1.69"
+        "team": "Yorkshire (w)",
+        "odds": "2.59"
       },
       {
-        "team": "United Arab Emirates",
-        "odds": "2.04"
-      }
-    ]
-  },
-  {
-    "date": "Sep 12, 01:30 AM",
-    "title": "Oman - Hong Kong",
-    "bets": [
-      {
-        "team": "Oman",
-        "odds": "1.67"
-      },
-      {
-        "team": "Hong Kong",
-        "odds": "2.08"
+        "team": "Lancashire (w)",
+        "odds": "1.44"
       }
     ]
   },
@@ -299,25 +313,11 @@
     "bets": [
       {
         "team": "Surrey (w)",
-        "odds": "1.78"
+        "odds": "1.62"
       },
       {
         "team": "Somerset (w)",
-        "odds": "1.92"
-      }
-    ]
-  },
-  {
-    "date": "Sep 12, 09:30 AM",
-    "title": "Yorkshire (w) - Lancashire (w)",
-    "bets": [
-      {
-        "team": "Yorkshire (w)",
-        "odds": "2.43"
-      },
-      {
-        "team": "Lancashire (w)",
-        "odds": "1.49"
+        "odds": "2.15"
       }
     ]
   },
@@ -327,11 +327,11 @@
     "bets": [
       {
         "team": "Majees Titans",
-        "odds": "1.32"
+        "odds": "1.19"
       },
       {
         "team": "Mustafa Fragrance",
-        "odds": "3.1"
+        "odds": "4.11"
       }
     ]
   },
@@ -430,20 +430,6 @@
       {
         "team": "Colombo CC",
         "odds": "1.88"
-      }
-    ]
-  },
-  {
-    "date": "Sep 12, 03:15 AM",
-    "title": "KCA Emerald (w) - KCA Sapphire (w)",
-    "bets": [
-      {
-        "team": "KCA Emerald (w)",
-        "odds": "2"
-      },
-      {
-        "team": "KCA Sapphire (w)",
-        "odds": "1.72"
       }
     ]
   }
