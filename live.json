@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "date": "Sep 22, 04:00 AM",
+    "title": "India A - Australia A",
+    "bets": [
+      {
+        "team": "Over 100.5",
+        "odds": "1.84"
+      },
+      {
+        "team": "Under 100.5",
+        "odds": "1.88"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 05:00 AM",
+    "title": "Hong Kong - Malaysia",
+    "bets": [
+      {
+        "team": "Hong Kong",
+        "odds": "8.02"
+      },
+      {
+        "team": "Malaysia",
+        "odds": "1.08"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 05:30 AM",
+    "title": "Nainital Tigers - Tehri Titans",
+    "bets": [
+      {
+        "team": "Nainital Tigers",
+        "odds": "1.51"
+      },
+      {
+        "team": "Tehri Titans",
+        "odds": "2.55"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 04:50 AM",
+    "title": "Chennai Super Kings (V) - Royal Challengers Bengaluru (V)",
+    "bets": [
+      {
+        "team": "Over 37.5",
+        "odds": "1.87"
+      },
+      {
+        "team": "Under 37.5",
+        "odds": "1.79"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 05:30 AM",
+    "title": "Military - Courageous",
+    "bets": [
+      {
+        "team": "Military",
+        "odds": "1.98"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.33"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 05:40 AM",
+    "title": "Delhi Capitals (V-w) - UP Warriorz (V-w)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (V-w)",
+        "odds": "2.35"
+      },
+      {
+        "team": "UP Warriorz (V-w)",
+        "odds": "1.53"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 05:45 AM",
+    "title": "Dharani Village Bihar Club - Chitkul Association",
+    "bets": [
+      {
+        "team": "Dharani Village Bihar Club",
+        "odds": "1.83"
+      },
+      {
+        "team": "Chitkul Association",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:00 AM",
+    "title": "Ruhuna Cricket - Rampage Indoor",
+    "bets": [
+      {
+        "team": "Ruhuna Cricket",
+        "odds": "2.02"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.19"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:00 AM",
+    "title": "Renegades Chennai - Mavericks Chennai",
+    "bets": [
+      {
+        "team": "Renegades Chennai",
+        "odds": "1.83"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.32"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:05 AM",
+    "title": "Kolkata Knight Riders (V) - Gujarat Titans (V)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (V)",
+        "odds": "1.04"
+      },
+      {
+        "team": "Draw",
+        "odds": "7.5"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:07 AM",
+    "title": "Bangladesh (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "Bangladesh (V)",
+        "odds": "3.75"
+      },
+      {
+        "team": "Draw",
+        "odds": "12"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:07 AM",
+    "title": "India (V) - England (V)",
+    "bets": [
+      {
+        "team": "India (V)",
+        "odds": "1.81"
+      },
+      {
+        "team": "England (V)",
+        "odds": "1.89"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:09 AM",
+    "title": "Shreyas Iyer (replays) - Priyansh Arya (replays)",
+    "bets": [
+      {
+        "team": "Shreyas Iyer (replays)",
+        "odds": "1.33"
+      },
+      {
+        "team": "Draw",
+        "odds": "11.91"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:09 AM",
+    "title": "Melbourne Renegades (V) - Melbourne Stars (V)",
+    "bets": [
+      {
+        "team": "Melbourne Renegades (V)",
+        "odds": "1.4"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:12 AM",
+    "title": "Ishan Kishan (replays) - Sai Sudharsan (replays)",
+    "bets": [
+      {
+        "team": "Ishan Kishan (replays)",
+        "odds": "1.74"
+      },
+      {
+        "team": "Draw",
+        "odds": "14.32"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:12 AM",
+    "title": "Mumbai Indians (e-w) - Rajasthan Royals (e-w)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e-w)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Rajasthan Royals (e-w)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:12 AM",
+    "title": "Gujarat Titans (e) - Rajasthan Royals (e)",
+    "bets": [
+      {
+        "team": "Gujarat Titans (e)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Rajasthan Royals (e)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:12 AM",
+    "title": "Sunrisers Hyderabad (e) - Chennai Super Kings (e)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (e)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Chennai Super Kings (e)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:12 AM",
+    "title": "Zimbabwe (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "Zimbabwe (V)",
+        "odds": "5"
+      },
+      {
+        "team": "Draw",
+        "odds": "21"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:12 AM",
+    "title": "Dubai (V) - Johannesburg (V)",
+    "bets": [
+      {
+        "team": "Dubai (V)",
+        "odds": "5"
+      },
+      {
+        "team": "Draw",
+        "odds": "21"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 04:35 AM",
+    "title": "Lucknow Super Giants (cyber) - Gujarat Titans (cyber)",
+    "bets": [
+      {
+        "team": "Lucknow Super Giants (cyber)",
+        "odds": "1.36"
+      },
+      {
+        "team": "Gujarat Titans (cyber)",
+        "odds": "2.65"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 04:45 AM",
+    "title": "Aristo English High School - Friends Youth Club Dadeldhura",
+    "bets": [
+      {
+        "team": "Aristo English High School",
+        "odds": "4.99"
+      },
+      {
+        "team": "Friends Youth Club Dadeldhura",
+        "odds": "1.12"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 05:05 AM",
+    "title": "West Indies (cyber) - Thailand (cyber)",
+    "bets": [
+      {
+        "team": "Thailand (cyber)",
+        "odds": "16.83"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 05:35 AM",
+    "title": "Punjab Kings (cyber) - Mumbai Indians (cyber)",
+    "bets": [
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "2.13"
+      },
+      {
+        "team": "Mumbai Indians (cyber)",
+        "odds": "1.56"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:00 AM",
+    "title": "Lahore Lions - Rawalpindi United",
+    "bets": [
+      {
+        "team": "Lahore Lions",
+        "odds": "1.95"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.53"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 06:05 AM",
+    "title": "Pakistan (cyber) - Australia (cyber)",
+    "bets": [
+      {
+        "team": "Pakistan (cyber)",
+        "odds": "1.46"
+      },
+      {
+        "team": "Australia (cyber)",
+        "odds": "2.36"
+      }
+    ]
+  }
+]

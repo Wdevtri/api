@@ -5,11 +5,11 @@
     "bets": [
       {
         "team": "South Africa",
-        "odds": "2.09"
+        "odds": "2.12"
       },
       {
         "team": "Australia",
-        "odds": "1.74"
+        "odds": "1.72"
       }
     ]
   },
@@ -33,39 +33,11 @@
     "bets": [
       {
         "team": "Zimbabwe (w)",
-        "odds": "7.26"
+        "odds": "6.77"
       },
       {
         "team": "West Indies (w)",
-        "odds": "1.06"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 12:00 AM",
-    "title": "Afghanistan - Japan",
-    "bets": [
-      {
-        "team": "Afghanistan",
-        "odds": "1.02"
-      },
-      {
-        "team": "Japan",
-        "odds": "11.22"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 05:00 AM",
-    "title": "Hong Kong - Malaysia",
-    "bets": [
-      {
-        "team": "Hong Kong",
-        "odds": "1.27"
-      },
-      {
-        "team": "Malaysia",
-        "odds": "3.42"
+        "odds": "1.07"
       }
     ]
   },
@@ -89,25 +61,11 @@
     "bets": [
       {
         "team": "India A (w)",
-        "odds": "2.89"
+        "odds": "2.84"
       },
       {
         "team": "Australia A (w)",
-        "odds": "1.36"
-      }
-    ]
-  },
-  {
-    "date": "Sep 24, 05:30 AM",
-    "title": "Nainital Tigers - Tehri Titans",
-    "bets": [
-      {
-        "team": "Nainital Tigers",
-        "odds": "1.83"
-      },
-      {
-        "team": "Tehri Titans",
-        "odds": "1.83"
+        "odds": "1.37"
       }
     ]
   },
@@ -159,11 +117,11 @@
     "bets": [
       {
         "team": "Warwickshire",
-        "odds": "1.41"
+        "odds": "1.37"
       },
       {
         "team": "Leicestershire",
-        "odds": "2.69"
+        "odds": "2.86"
       }
     ]
   },
@@ -294,58 +252,86 @@
     ]
   },
   {
-    "date": "Sep 24, 05:00 AM",
-    "title": "State Bank of Pakistan - Ghani Glass",
+    "date": "Sep 24, 02:00 PM",
+    "title": "Puri Titans - Bhubaneshwar Tigers",
     "bets": [
       {
-        "team": "State Bank of Pakistan",
-        "odds": "1.82"
+        "team": "Puri Titans",
+        "odds": "1.92"
       },
       {
-        "team": "Ghani Glass",
-        "odds": "1.84"
+        "team": "Bhubaneshwar Tigers",
+        "odds": "1.78"
       }
     ]
   },
   {
-    "date": "Sep 24, 05:00 AM",
-    "title": "Pakistan Television - Hyderabad Kingsmen Academy",
+    "date": "Sep 24, 08:00 AM",
+    "title": "Vizag Fire Birds (w) - Rayalaseema XEN Stars (w)",
     "bets": [
       {
-        "team": "Pakistan Television",
-        "odds": "1.59"
+        "team": "Vizag Fire Birds (w)",
+        "odds": "2.69"
       },
       {
-        "team": "Hyderabad Kingsmen Academy",
-        "odds": "2.16"
+        "team": "Rayalaseema XEN Stars (w)",
+        "odds": "1.41"
       }
     ]
   },
   {
-    "date": "Sep 24, 05:00 AM",
-    "title": "Khan Research Labs - Oil & Gas Development Company Limited",
+    "date": "Sep 24, 12:30 PM",
+    "title": "Amaravati E-Champions (w) - Godavari Golden Eagles (w)",
     "bets": [
       {
-        "team": "Khan Research Labs",
-        "odds": "2"
+        "team": "Amaravati E-Champions (w)",
+        "odds": "1.74"
       },
       {
-        "team": "Oil & Gas Development Company Limited",
+        "team": "Godavari Golden Eagles (w)",
+        "odds": "1.98"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 02:30 PM",
+    "title": "Failaika Guardians - Pearl Strikers",
+    "bets": [
+      {
+        "team": "Failaika Guardians",
+        "odds": "1.68"
+      },
+      {
+        "team": "Pearl Strikers",
+        "odds": "2.01"
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 03:00 PM",
+    "title": "Gulf Giants Development - Desert Vipers Development",
+    "bets": [
+      {
+        "team": "Gulf Giants Development",
         "odds": "1.69"
+      },
+      {
+        "team": "Desert Vipers Development",
+        "odds": "2.04"
       }
     ]
   },
   {
-    "date": "Sep 24, 05:00 AM",
-    "title": "Sui Northern Gas Pipelines Limited - Markhor IT Solutions",
+    "date": "Sep 24, 03:00 PM",
+    "title": "Cayman Islands - Bahamas",
     "bets": [
       {
-        "team": "Sui Northern Gas Pipelines Limited",
-        "odds": "1.43"
+        "team": "Cayman Islands",
+        "odds": "1.19"
       },
       {
-        "team": "Markhor IT Solutions",
-        "odds": "2.55"
+        "team": "Bahamas",
+        "odds": "4.11"
       }
     ]
   },
@@ -462,16 +448,44 @@
     ]
   },
   {
-    "date": "Sep 24, 02:45 AM",
-    "title": "Satyawati Academy A - Satyawati Academy B",
+    "date": "Sep 25, 11:00 PM",
+    "title": "Campbelltown-Camden - Bankstown",
     "bets": [
       {
-        "team": "Satyawati Academy A",
-        "odds": "2.5"
+        "team": "Campbelltown-Camden",
+        "odds": "1.83"
       },
       {
-        "team": "Satyawati Academy B",
-        "odds": "1.44"
+        "team": "Bankstown",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Sep 25, 11:00 PM",
+    "title": "Gordon - Sutherland",
+    "bets": [
+      {
+        "team": "Gordon",
+        "odds": "1.83"
+      },
+      {
+        "team": "Sutherland",
+        "odds": "1.83"
+      }
+    ]
+  },
+  {
+    "date": "Sep 25, 11:00 PM",
+    "title": "Parramatta - Blacktown Mounties",
+    "bets": [
+      {
+        "team": "Parramatta",
+        "odds": "1.78"
+      },
+      {
+        "team": "Blacktown Mounties",
+        "odds": "1.89"
       }
     ]
   },
@@ -528,6 +542,20 @@
       {
         "team": "The Levellers",
         "odds": "2.05"
+      }
+    ]
+  },
+  {
+    "date": "Sep 26, 01:45 AM",
+    "title": "Sab Chalo Khelne - Black x Revolution",
+    "bets": [
+      {
+        "team": "Sab Chalo Khelne",
+        "odds": "2.12"
+      },
+      {
+        "team": "Black x Revolution",
+        "odds": "1.58"
       }
     ]
   }
