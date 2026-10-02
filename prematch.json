@@ -1,267 +1,365 @@
 [
   {
-    "date": "Sep 28, 12:00 AM",
-    "title": "Pakistan - Hong Kong",
-    "bets": [
-      {
-        "team": "Pakistan",
-        "odds": "1.05"
-      },
-      {
-        "team": "Hong Kong",
-        "odds": "8"
-      }
-    ]
-  },
-  {
-    "date": "Sep 28, 04:30 AM",
-    "title": "India - Afghanistan",
+    "date": "Oct 3, 08:30 AM",
+    "title": "India - West Indies",
     "bets": [
       {
         "team": "India",
-        "odds": "1.04"
+        "odds": "1.11"
       },
       {
-        "team": "Afghanistan",
-        "odds": "8.9"
+        "team": "West Indies",
+        "odds": "6.66"
       }
     ]
   },
   {
-    "date": "Sep 29, 12:00 AM",
-    "title": "Sri Lanka - Nepal",
+    "date": "Oct 2, 11:00 AM",
+    "title": "Mpumalanga - Tuskers",
     "bets": [
       {
-        "team": "Sri Lanka",
-        "odds": "1.53"
+        "team": "Mpumalanga",
+        "odds": "2.27"
       },
       {
-        "team": "Nepal",
-        "odds": "2.35"
+        "team": "Tuskers",
+        "odds": "1.56"
       }
     ]
   },
   {
-    "date": "Sep 29, 04:30 AM",
-    "title": "Bangladesh - Malaysia",
+    "date": "Oct 2, 04:00 PM",
+    "title": "Lions - North West",
+    "bets": [
+      {
+        "team": "Lions",
+        "odds": "1.47"
+      },
+      {
+        "team": "North West",
+        "odds": "2.49"
+      }
+    ]
+  },
+  {
+    "date": "Oct 2, 04:00 PM",
+    "title": "Knights - Titans",
+    "bets": [
+      {
+        "team": "Knights",
+        "odds": "2.76"
+      },
+      {
+        "team": "Titans",
+        "odds": "1.39"
+      }
+    ]
+  },
+  {
+    "date": "Oct 3, 11:00 AM",
+    "title": "Zimbabwe (w) - West Indies (w)",
+    "bets": [
+      {
+        "team": "Zimbabwe (w)",
+        "odds": "5.69"
+      },
+      {
+        "team": "West Indies (w)",
+        "odds": "1.1"
+      }
+    ]
+  },
+  {
+    "date": "Oct 3, 03:00 PM",
+    "title": "Namibia - United Arab Emirates",
+    "bets": [
+      {
+        "team": "Namibia",
+        "odds": "1.56"
+      },
+      {
+        "team": "United Arab Emirates",
+        "odds": "2.27"
+      }
+    ]
+  },
+  {
+    "date": "Oct 2, 08:30 AM",
+    "title": "London New Zealand - Defence Sikh Network",
+    "bets": [
+      {
+        "team": "London New Zealand",
+        "odds": "2.03"
+      },
+      {
+        "team": "Defence Sikh Network",
+        "odds": "1.66"
+      }
+    ]
+  },
+  {
+    "date": "Oct 2, 05:00 AM",
+    "title": "Pakistan U-19 (w) - Bangladesh U-19 (w)",
+    "bets": [
+      {
+        "team": "Pakistan U-19 (w)",
+        "odds": "1.35"
+      },
+      {
+        "team": "Bangladesh U-19 (w)",
+        "odds": "2.92"
+      }
+    ]
+  },
+  {
+    "date": "Oct 2, 05:45 AM",
+    "title": "Montreal Tigers - Mississauga Masters",
+    "bets": [
+      {
+        "team": "Montreal Tigers",
+        "odds": "2.17"
+      },
+      {
+        "team": "Mississauga Masters",
+        "odds": "1.61"
+      }
+    ]
+  },
+  {
+    "date": "Oct 2, 08:30 AM",
+    "title": "Maa Surkanda - Garhwal Storm",
+    "bets": [
+      {
+        "team": "Maa Surkanda",
+        "odds": "4.4"
+      },
+      {
+        "team": "Garhwal Storm",
+        "odds": "1.17"
+      }
+    ]
+  },
+  {
+    "date": "Oct 2, 11:30 PM",
+    "title": "Melbourne CC - Essendon CC",
+    "bets": [
+      {
+        "team": "Melbourne CC",
+        "odds": "1.26"
+      },
+      {
+        "team": "Essendon CC",
+        "odds": "3.5"
+      }
+    ]
+  },
+  {
+    "date": "Oct 3, 12:00 AM",
+    "title": "Bangladesh - Sri Lanka",
     "bets": [
       {
         "team": "Bangladesh",
-        "odds": "1.13"
-      },
-      {
-        "team": "Malaysia",
-        "odds": "5.03"
-      }
-    ]
-  },
-  {
-    "date": "Sep 28, 05:00 AM",
-    "title": "Rourkela Steelers - Puri Titans",
-    "bets": [
-      {
-        "team": "Rourkela Steelers",
-        "odds": "1.98"
-      },
-      {
-        "team": "Puri Titans",
-        "odds": "1.74"
-      }
-    ]
-  },
-  {
-    "date": "Sep 28, 05:30 AM",
-    "title": "Oman - Kerala",
-    "bets": [
-      {
-        "team": "Oman",
-        "odds": "2.01"
-      },
-      {
-        "team": "Kerala",
-        "odds": "1.72"
-      }
-    ]
-  },
-  {
-    "date": "Sep 28, 05:30 AM",
-    "title": "Pithoragarh Hurricanes - Nainital Tigers",
-    "bets": [
-      {
-        "team": "Pithoragarh Hurricanes",
         "odds": "1.59"
       },
       {
-        "team": "Nainital Tigers",
+        "team": "Sri Lanka",
         "odds": "2.22"
       }
     ]
   },
   {
-    "date": "Sep 28, 08:00 AM",
-    "title": "Keonjhar Miners - Sambalpur Warriors",
+    "date": "Oct 3, 12:00 AM",
+    "title": "Carlton CC - Casey South Melbourne CC",
     "bets": [
       {
-        "team": "Keonjhar Miners",
-        "odds": "1.85"
+        "team": "Carlton CC",
+        "odds": "1.72"
       },
       {
-        "team": "Sambalpur Warriors",
-        "odds": "1.85"
+        "team": "Casey South Melbourne CC",
+        "odds": "2"
       }
     ]
   },
   {
-    "date": "Sep 28, 09:30 AM",
-    "title": "Tehri Titans - Rishikesh Falcons",
+    "date": "Oct 3, 12:00 AM",
+    "title": "Prahran CC - Richmond CC",
     "bets": [
       {
-        "team": "Tehri Titans",
-        "odds": "2.04"
+        "team": "Prahran CC",
+        "odds": "2.15"
       },
       {
-        "team": "Rishikesh Falcons",
+        "team": "Richmond CC",
+        "odds": "1.62"
+      }
+    ]
+  },
+  {
+    "date": "Oct 3, 12:00 AM",
+    "title": "Dandenong CC - Kingston Hawthorn CC",
+    "bets": [
+      {
+        "team": "Dandenong CC",
+        "odds": "1.47"
+      },
+      {
+        "team": "Kingston Hawthorn CC",
+        "odds": "2.5"
+      }
+    ]
+  },
+  {
+    "date": "Oct 3, 12:00 AM",
+    "title": "Melbourne University CC - Camberwell Magpies CC",
+    "bets": [
+      {
+        "team": "Melbourne University CC",
+        "odds": "2.2"
+      },
+      {
+        "team": "Camberwell Magpies CC",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Oct 3, 12:00 AM",
+    "title": "Greenvale Kangaroos CC - St Kilda CC",
+    "bets": [
+      {
+        "team": "Greenvale Kangaroos CC",
+        "odds": "5"
+      },
+      {
+        "team": "St Kilda CC",
+        "odds": "1.13"
+      }
+    ]
+  },
+  {
+    "date": "Oct 3, 12:00 AM",
+    "title": "Geelong CC - Northcote CC",
+    "bets": [
+      {
+        "team": "Geelong CC",
+        "odds": "2.05"
+      },
+      {
+        "team": "Northcote CC",
         "odds": "1.69"
       }
     ]
   },
   {
-    "date": "Sep 28, 02:00 PM",
-    "title": "Dehradun Warriors - USN Indians",
+    "date": "Oct 3, 12:00 AM",
+    "title": "Footscray CC - Fitzroy Doncaster CC",
     "bets": [
       {
-        "team": "Dehradun Warriors",
-        "odds": "1.78"
+        "team": "Footscray CC",
+        "odds": "1.6"
       },
       {
-        "team": "USN Indians",
-        "odds": "1.92"
+        "team": "Fitzroy Doncaster CC",
+        "odds": "2.2"
       }
     ]
   },
   {
-    "date": "Sep 28, 01:30 AM",
-    "title": "Hong Kong (w) - Marylebone Cricket Club (w)",
+    "date": "Oct 3, 12:00 AM",
+    "title": "Frankston Peninsula CC - Ringwood CC",
     "bets": [
       {
-        "team": "Hong Kong (w)",
-        "odds": "1.18"
+        "team": "Frankston Peninsula CC",
+        "odds": "1.85"
       },
       {
-        "team": "Marylebone Cricket Club (w)",
-        "odds": "4.28"
+        "team": "Ringwood CC",
+        "odds": "1.85"
       }
     ]
   },
   {
-    "date": "Sep 28, 11:00 AM",
-    "title": "Eastern Cape Inyathi - North West",
+    "date": "Oct 3, 04:30 AM",
+    "title": "Pakistan - India",
     "bets": [
       {
-        "team": "Eastern Cape Inyathi",
-        "odds": "3.3"
+        "team": "Pakistan",
+        "odds": "4.21"
       },
       {
-        "team": "North West",
-        "odds": "1.28"
+        "team": "India",
+        "odds": "1.23"
       }
     ]
   },
   {
-    "date": "Sep 29, 11:00 AM",
-    "title": "South Africa Emerging - Tuskers",
+    "date": "Oct 3, 08:00 AM",
+    "title": "Fidelity Titans (w) - Dolphins (w)",
     "bets": [
       {
-        "team": "South Africa Emerging",
-        "odds": "1.83"
+        "team": "Fidelity Titans (w)",
+        "odds": "1.64"
       },
       {
-        "team": "Tuskers",
-        "odds": "1.83"
+        "team": "Dolphins (w)",
+        "odds": "2.12"
       }
     ]
   },
   {
-    "date": "Sep 29, 12:00 PM",
-    "title": "Warriors - Limpopo",
+    "date": "Oct 2, 11:00 AM",
+    "title": "Abu Dhabi - Ajman",
     "bets": [
       {
-        "team": "Warriors",
-        "odds": "1.13"
+        "team": "Abu Dhabi",
+        "odds": "1.6"
       },
-      {
-        "team": "Limpopo",
-        "odds": "5.12"
-      }
-    ]
-  },
-  {
-    "date": "Sep 28, 11:00 AM",
-    "title": "Sharjah - Dubai",
-    "bets": [
-      {
-        "team": "Sharjah",
-        "odds": "2.51"
-      },
-      {
-        "team": "Dubai",
-        "odds": "1.47"
-      }
-    ]
-  },
-  {
-    "date": "Sep 28, 01:15 PM",
-    "title": "Ajman - Fujairah",
-    "bets": [
       {
         "team": "Ajman",
-        "odds": "1.36"
+        "odds": "2.19"
+      }
+    ]
+  },
+  {
+    "date": "Oct 2, 01:15 PM",
+    "title": "Emirates Red - Fujairah",
+    "bets": [
+      {
+        "team": "Emirates Red",
+        "odds": "2.73"
       },
       {
         "team": "Fujairah",
-        "odds": "2.91"
+        "odds": "1.4"
       }
     ]
   },
   {
-    "date": "Sep 28, 03:00 AM",
-    "title": "Hazardurai Royal Strikers - Bengal Border Tigers",
+    "date": "Oct 2, 07:00 AM",
+    "title": "BWCV XI - SV Esslingen",
     "bets": [
       {
-        "team": "Hazardurai Royal Strikers",
-        "odds": "2.13"
+        "team": "BWCV XI",
+        "odds": "1.59"
       },
       {
-        "team": "Bengal Border Tigers",
-        "odds": "1.64"
+        "team": "SV Esslingen",
+        "odds": "2.22"
       }
     ]
   },
   {
-    "date": "Sep 28, 07:30 AM",
-    "title": "Lalbagh Kings - Murshidabad Nawabs",
+    "date": "Oct 2, 07:30 AM",
+    "title": "Imena Centurions - Ingabo Titans",
     "bets": [
       {
-        "team": "Lalbagh Kings",
-        "odds": "1.3"
+        "team": "Imena Centurions",
+        "odds": "2.15"
       },
       {
-        "team": "Murshidabad Nawabs",
-        "odds": "3.21"
-      }
-    ]
-  },
-  {
-    "date": "Sep 28, 07:30 AM",
-    "title": "Yamuna Warriors - Capital Cruisers",
-    "bets": [
-      {
-        "team": "Yamuna Warriors",
-        "odds": "1.78"
-      },
-      {
-        "team": "Capital Cruisers",
-        "odds": "1.92"
+        "team": "Ingabo Titans",
+        "odds": "1.63"
       }
     ]
   }
