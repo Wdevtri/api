@@ -5,25 +5,53 @@
     "bets": [
       {
         "team": "India",
-        "odds": "1.22"
+        "odds": "1.28"
       },
       {
         "team": "West Indies",
-        "odds": "4.29"
+        "odds": "3.68"
       }
     ]
   },
   {
-    "date": "Oct 6, 08:30 AM",
-    "title": "India A - Australia A",
+    "date": "Oct 7, 11:30 AM",
+    "title": "Australia Champions - Bangladesh Champions",
     "bets": [
       {
-        "team": "India A",
-        "odds": "1.34"
+        "team": "Australia Champions",
+        "odds": "1.13"
       },
       {
-        "team": "Australia A",
-        "odds": "3.01"
+        "team": "Bangladesh Champions",
+        "odds": "5"
+      }
+    ]
+  },
+  {
+    "date": "Oct 7, 03:30 PM",
+    "title": "England Champions - West Indies Champions",
+    "bets": [
+      {
+        "team": "England Champions",
+        "odds": "1.43"
+      },
+      {
+        "team": "West Indies Champions",
+        "odds": "2.62"
+      }
+    ]
+  },
+  {
+    "date": "Oct 7, 02:00 AM",
+    "title": "Samoa (w) - Malaysia (w)",
+    "bets": [
+      {
+        "team": "Samoa (w)",
+        "odds": "5.55"
+      },
+      {
+        "team": "Malaysia (w)",
+        "odds": "1.11"
       }
     ]
   },
@@ -61,25 +89,25 @@
     "bets": [
       {
         "team": "Garden Route Badgers",
-        "odds": "3.4"
+        "odds": "3.6"
       },
       {
         "team": "Lions",
-        "odds": "1.27"
+        "odds": "1.25"
       }
     ]
   },
   {
-    "date": "Oct 7, 04:00 PM",
-    "title": "Knights - Tuskers",
+    "date": "Oct 7, 03:00 PM",
+    "title": "USA - Namibia",
     "bets": [
       {
-        "team": "Knights",
-        "odds": "1.51"
+        "team": "USA",
+        "odds": "1.61"
       },
       {
-        "team": "Tuskers",
-        "odds": "2.4"
+        "team": "Namibia",
+        "odds": "2.17"
       }
     ]
   },
@@ -89,11 +117,25 @@
     "bets": [
       {
         "team": "Titans",
-        "odds": "1.07"
+        "odds": "1.09"
       },
       {
         "team": "South Africa Emerging",
-        "odds": "7"
+        "odds": "6.01"
+      }
+    ]
+  },
+  {
+    "date": "Oct 7, 04:00 PM",
+    "title": "Knights - Tuskers",
+    "bets": [
+      {
+        "team": "Knights",
+        "odds": "1.47"
+      },
+      {
+        "team": "Tuskers",
+        "odds": "2.49"
       }
     ]
   },
@@ -103,203 +145,123 @@
     "bets": [
       {
         "team": "Victoria",
-        "odds": "1.78"
+        "odds": "1.75"
       },
       {
         "team": "South Australia",
-        "odds": "1.92"
+        "odds": "1.96"
       }
     ]
   },
   {
-    "date": "Oct 6, 01:15 AM",
-    "title": "Qatar - Thailand",
+    "date": "Oct 7, 11:30 PM",
+    "title": "New South Wales - Tasmania",
     "bets": [
       {
-        "team": "Qatar",
-        "odds": "1.09"
+        "team": "New South Wales",
+        "odds": "2.08"
       },
       {
-        "team": "Thailand",
-        "odds": "6.01"
+        "team": "Tasmania",
+        "odds": "1.67"
       }
     ]
   },
   {
-    "date": "Oct 6, 04:00 AM",
-    "title": "Hayleys Group A - BBK Partnership Sri Lanka",
+    "date": "Oct 8, 02:30 AM",
+    "title": "Western Australia - Queensland",
     "bets": [
       {
-        "team": "Hayleys Group A",
-        "odds": "1.61"
+        "team": "Western Australia",
+        "odds": "1.96"
       },
       {
-        "team": "BBK Partnership Sri Lanka",
-        "odds": "2.17"
+        "team": "Queensland",
+        "odds": "1.75"
       }
     ]
   },
   {
-    "date": "Oct 6, 04:00 AM",
-    "title": "CDBA - Sri Lanka Emerging",
+    "date": "Oct 6, 03:30 PM",
+    "title": "Sharjah - Fujairah",
     "bets": [
       {
-        "team": "CDBA",
-        "odds": "1.64"
+        "team": "Sharjah",
+        "odds": "2.77"
       },
       {
-        "team": "Sri Lanka Emerging",
-        "odds": "2.12"
+        "team": "Fujairah",
+        "odds": "1.39"
       }
     ]
   },
   {
-    "date": "Oct 6, 04:00 AM",
-    "title": "Fairfirst Insurance Limited - Colombo Aces",
+    "date": "Oct 6, 05:45 PM",
+    "title": "Abu Dhabi - Emirates Blues",
     "bets": [
       {
-        "team": "Fairfirst Insurance Limited",
-        "odds": "1.92"
+        "team": "Abu Dhabi",
+        "odds": "1.85"
       },
       {
-        "team": "Colombo Aces",
-        "odds": "1.78"
+        "team": "Emirates Blues",
+        "odds": "1.85"
       }
     ]
   },
   {
-    "date": "Oct 6, 05:00 AM",
-    "title": "Khan Research Labs - State Bank of Pakistan",
-    "bets": [
-      {
-        "team": "Khan Research Labs",
-        "odds": "2.22"
-      },
-      {
-        "team": "State Bank of Pakistan",
-        "odds": "1.56"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 05:00 AM",
-    "title": "Pakistan Television - Ghani Glass",
-    "bets": [
-      {
-        "team": "Pakistan Television",
-        "odds": "2.05"
-      },
-      {
-        "team": "Ghani Glass",
-        "odds": "1.65"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 05:00 AM",
-    "title": "Oil & Gas Development Company Limited - Markhor IT Solutions",
-    "bets": [
-      {
-        "team": "Oil & Gas Development Company Limited",
-        "odds": "1.56"
-      },
-      {
-        "team": "Markhor IT Solutions",
-        "odds": "2.22"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 05:00 AM",
-    "title": "Sui Northern Gas Pipelines Limited - Hyderabad Kingsmen Academy",
-    "bets": [
-      {
-        "team": "Sui Northern Gas Pipelines Limited",
-        "odds": "1.88"
-      },
-      {
-        "team": "Hyderabad Kingsmen Academy",
-        "odds": "1.78"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 05:00 AM",
-    "title": "Pakistan U-19 (w) - Bangladesh U-19 (w)",
-    "bets": [
-      {
-        "team": "Pakistan U-19 (w)",
-        "odds": "1.61"
-      },
-      {
-        "team": "Bangladesh U-19 (w)",
-        "odds": "2.17"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 06:00 AM",
-    "title": "Bahrain - Bhutan",
+    "date": "Oct 8, 01:15 AM",
+    "title": "Bahrain - Myanmar",
     "bets": [
       {
         "team": "Bahrain",
-        "odds": "1.08"
+        "odds": "1.02"
       },
+      {
+        "team": "Myanmar",
+        "odds": "9.93"
+      }
+    ]
+  },
+  {
+    "date": "Oct 8, 01:15 AM",
+    "title": "Bhutan - Mongolia",
+    "bets": [
       {
         "team": "Bhutan",
-        "odds": "6.37"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 06:00 AM",
-    "title": "Kuwait - Mongolia",
-    "bets": [
+        "odds": "1.02"
+      },
       {
         "team": "Mongolia",
-        "odds": "12.16"
+        "odds": "9.93"
       }
     ]
   },
   {
-    "date": "Oct 6, 07:00 AM",
-    "title": "Al Barkat - Mbabane Capitals",
+    "date": "Oct 8, 01:15 AM",
+    "title": "Kuwait - Thailand",
     "bets": [
       {
-        "team": "Al Barkat",
-        "odds": "1.72"
+        "team": "Kuwait",
+        "odds": "1.02"
       },
       {
-        "team": "Mbabane Capitals",
-        "odds": "2"
+        "team": "Thailand",
+        "odds": "9.8"
       }
     ]
   },
   {
-    "date": "Oct 6, 09:00 AM",
-    "title": "Pak Xi - Nhlangano Legends",
+    "date": "Oct 8, 06:00 AM",
+    "title": "China PR - Maldives",
     "bets": [
       {
-        "team": "Pak Xi",
-        "odds": "1.94"
+        "team": "China PR",
+        "odds": "4.73"
       },
       {
-        "team": "Nhlangano Legends",
-        "odds": "1.77"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 12:55 PM",
-    "title": "India - West Indies",
-    "bets": [
-      {
-        "team": "India",
-        "odds": "1.06"
-      },
-      {
-        "team": "West Indies",
-        "odds": "8"
+        "team": "Maldives",
+        "odds": "1.15"
       }
     ]
   }
