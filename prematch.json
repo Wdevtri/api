@@ -1,19 +1,5 @@
 [
   {
-    "date": "Oct 6, 01:30 PM",
-    "title": "India - West Indies",
-    "bets": [
-      {
-        "team": "India",
-        "odds": "1.28"
-      },
-      {
-        "team": "West Indies",
-        "odds": "3.68"
-      }
-    ]
-  },
-  {
     "date": "Oct 7, 11:30 AM",
     "title": "Australia Champions - Bangladesh Champions",
     "bets": [
@@ -52,20 +38,6 @@
       {
         "team": "Malaysia (w)",
         "odds": "1.11"
-      }
-    ]
-  },
-  {
-    "date": "Oct 6, 04:00 PM",
-    "title": "Western Province - Eastern Storm",
-    "bets": [
-      {
-        "team": "Western Province",
-        "odds": "1.54"
-      },
-      {
-        "team": "Eastern Storm",
-        "odds": "2.32"
       }
     ]
   },
@@ -140,6 +112,20 @@
     ]
   },
   {
+    "date": "Oct 8, 04:00 PM",
+    "title": "Warriors - Northern Cape",
+    "bets": [
+      {
+        "team": "Warriors",
+        "odds": "1.23"
+      },
+      {
+        "team": "Northern Cape",
+        "odds": "3.75"
+      }
+    ]
+  },
+  {
     "date": "Oct 6, 11:30 PM",
     "title": "Victoria - South Australia",
     "bets": [
@@ -182,30 +168,44 @@
     ]
   },
   {
-    "date": "Oct 6, 03:30 PM",
-    "title": "Sharjah - Fujairah",
+    "date": "Oct 7, 01:15 PM",
+    "title": "Ajman - Dubai",
     "bets": [
       {
-        "team": "Sharjah",
-        "odds": "2.77"
+        "team": "Ajman",
+        "odds": "2.73"
       },
       {
-        "team": "Fujairah",
-        "odds": "1.39"
+        "team": "Dubai",
+        "odds": "1.4"
       }
     ]
   },
   {
-    "date": "Oct 6, 05:45 PM",
-    "title": "Abu Dhabi - Emirates Blues",
+    "date": "Oct 7, 05:00 AM",
+    "title": "Sui Northern Gas Pipelines Limited - Hyderabad Kingsmen",
     "bets": [
       {
-        "team": "Abu Dhabi",
-        "odds": "1.85"
+        "team": "Sui Northern Gas Pipelines Limited",
+        "odds": "1.97"
       },
       {
-        "team": "Emirates Blues",
-        "odds": "1.85"
+        "team": "Hyderabad Kingsmen",
+        "odds": "1.71"
+      }
+    ]
+  },
+  {
+    "date": "Oct 7, 07:00 AM",
+    "title": "Al Barkat - Pak Xi",
+    "bets": [
+      {
+        "team": "Al Barkat",
+        "odds": "2.49"
+      },
+      {
+        "team": "Pak Xi",
+        "odds": "1.47"
       }
     ]
   },
@@ -252,6 +252,48 @@
     ]
   },
   {
+    "date": "Oct 8, 04:00 AM",
+    "title": "Sri Lanka Emerging - BBK Partnership Sri Lanka",
+    "bets": [
+      {
+        "team": "Sri Lanka Emerging",
+        "odds": "1.6"
+      },
+      {
+        "team": "BBK Partnership Sri Lanka",
+        "odds": "2.19"
+      }
+    ]
+  },
+  {
+    "date": "Oct 8, 04:00 AM",
+    "title": "Colombo Aces - CDBA",
+    "bets": [
+      {
+        "team": "Colombo Aces",
+        "odds": "2.19"
+      },
+      {
+        "team": "CDBA",
+        "odds": "1.6"
+      }
+    ]
+  },
+  {
+    "date": "Oct 8, 04:00 AM",
+    "title": "HNB Finance - Fairfirst Insurance Limited",
+    "bets": [
+      {
+        "team": "HNB Finance",
+        "odds": "1.89"
+      },
+      {
+        "team": "Fairfirst Insurance Limited",
+        "odds": "1.81"
+      }
+    ]
+  },
+  {
     "date": "Oct 8, 06:00 AM",
     "title": "China PR - Maldives",
     "bets": [
@@ -262,6 +304,48 @@
       {
         "team": "Maldives",
         "odds": "1.15"
+      }
+    ]
+  },
+  {
+    "date": "Oct 7, 01:00 PM",
+    "title": "Alfa Infantry Battalion - LCC Blackpanthers",
+    "bets": [
+      {
+        "team": "Alfa Infantry Battalion",
+        "odds": "2.25"
+      },
+      {
+        "team": "LCC Blackpanthers",
+        "odds": "1.55"
+      }
+    ]
+  },
+  {
+    "date": "Oct 7, 11:30 AM",
+    "title": "The Game Room - Parekh Bohra Kings",
+    "bets": [
+      {
+        "team": "The Game Room",
+        "odds": "1.39"
+      },
+      {
+        "team": "Parekh Bohra Kings",
+        "odds": "2.68"
+      }
+    ]
+  },
+  {
+    "date": "Oct 7, 03:00 PM",
+    "title": "Navakar Knights - Bhandari Brothers",
+    "bets": [
+      {
+        "team": "Navakar Knights",
+        "odds": "1.45"
+      },
+      {
+        "team": "Bhandari Brothers",
+        "odds": "2.5"
       }
     ]
   }
