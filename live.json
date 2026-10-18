@@ -1,1 +1,484 @@
-[]
+[
+  {
+    "date": "Oct 18, 08:00 AM",
+    "title": "Pakistan - Sri Lanka",
+    "bets": [
+      {
+        "team": "Pakistan",
+        "odds": "1.46"
+      },
+      {
+        "team": "Sri Lanka",
+        "odds": "2.7"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:00 AM",
+    "title": "South Africa - Australia",
+    "bets": [
+      {
+        "team": "South Africa",
+        "odds": "2.07"
+      },
+      {
+        "team": "Australia",
+        "odds": "1.75"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:15 AM",
+    "title": "Australia (w) - New Zealand (w)",
+    "bets": [
+      {
+        "team": "Australia (w)",
+        "odds": "1.06"
+      },
+      {
+        "team": "New Zealand (w)",
+        "odds": "9.06"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 07:00 AM",
+    "title": "Uganda A - Jersey",
+    "bets": [
+      {
+        "team": "Uganda A",
+        "odds": "4.92"
+      },
+      {
+        "team": "Jersey",
+        "odds": "1.18"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:00 AM",
+    "title": "Sydney Sixers (w) - Melbourne Stars (w)",
+    "bets": [
+      {
+        "team": "Sydney Sixers (w)",
+        "odds": "1.43"
+      },
+      {
+        "team": "Melbourne Stars (w)",
+        "odds": "2.83"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 04:00 AM",
+    "title": "Kerala - Odisha",
+    "bets": [
+      {
+        "team": "Kerala",
+        "odds": "1.43"
+      },
+      {
+        "team": "Odisha",
+        "odds": "2.66"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 04:00 AM",
+    "title": "Punjab - Chhattisgarh",
+    "bets": [
+      {
+        "team": "Punjab",
+        "odds": "1.17"
+      },
+      {
+        "team": "Chhattisgarh",
+        "odds": "4.49"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 07:00 AM",
+    "title": "Sweden (w) - Austria (w)",
+    "bets": [
+      {
+        "team": "Sweden (w)",
+        "odds": "1.21"
+      },
+      {
+        "team": "Austria (w)",
+        "odds": "3.95"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 07:30 AM",
+    "title": "Dolphins (w) - Eastern Province (w)",
+    "bets": [
+      {
+        "team": "Dolphins (w)",
+        "odds": "1.05"
+      },
+      {
+        "team": "Eastern Province (w)",
+        "odds": "8.16"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 07:00 AM",
+    "title": "Lions (w) - Western Province (w)",
+    "bets": [
+      {
+        "team": "Lions (w)",
+        "odds": "1.63"
+      },
+      {
+        "team": "Western Province (w)",
+        "odds": "2.17"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 07:50 AM",
+    "title": "Star Eleven (w) - The Blossoms (w)",
+    "bets": [
+      {
+        "team": "Star Eleven (w)",
+        "odds": "3.64"
+      },
+      {
+        "team": "The Blossoms (w)",
+        "odds": "1.24"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:17 AM",
+    "title": "Royal Challengers Bengaluru (V) - Kolkata Knight Riders (V)",
+    "bets": [
+      {
+        "team": "Royal Challengers Bengaluru (V)",
+        "odds": "2.32"
+      },
+      {
+        "team": "Kolkata Knight Riders (V)",
+        "odds": "1.53"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:20 AM",
+    "title": "Tanaji Cricketers - Dharani Village Bihar Club",
+    "bets": [
+      {
+        "team": "Tanaji Cricketers",
+        "odds": "1.7"
+      },
+      {
+        "team": "Dharani Village Bihar Club",
+        "odds": "1.99"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:26 AM",
+    "title": "Australia Legends (V) - India Legends (V)",
+    "bets": [
+      {
+        "team": "Australia Legends (V)",
+        "odds": "1.01"
+      },
+      {
+        "team": "India Legends (V)",
+        "odds": "1.01"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:30 AM",
+    "title": "Catchers - Wild Cats",
+    "bets": [
+      {
+        "team": "Catchers",
+        "odds": "1.38"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.27"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:30 AM",
+    "title": "Bestballers - Dexterous",
+    "bets": [
+      {
+        "team": "Bestballers",
+        "odds": "1.85"
+      },
+      {
+        "team": "Draw",
+        "odds": "24.14"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:33 AM",
+    "title": "West Indies (V) - Pakistan (V)",
+    "bets": [
+      {
+        "team": "West Indies (V)",
+        "odds": "3.7"
+      },
+      {
+        "team": "Pakistan (V)",
+        "odds": "1.23"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:47 AM",
+    "title": "Mumbai Indians (V) - Kolkata Knight Riders (V)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (V)",
+        "odds": "1.04"
+      },
+      {
+        "team": "Kolkata Knight Riders (V)",
+        "odds": "7.5"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:49 AM",
+    "title": "Sri Lanka (V) - India (V)",
+    "bets": [
+      {
+        "team": "Sri Lanka (V)",
+        "odds": "1.25"
+      },
+      {
+        "team": "Draw",
+        "odds": "15"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:51 AM",
+    "title": "Vaibhav Sooryavanshi (replays) - Mitchell Marsh (replays)",
+    "bets": [
+      {
+        "team": "Over 11.5",
+        "odds": "1.77"
+      },
+      {
+        "team": "Under 11.5",
+        "odds": "1.95"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:51 AM",
+    "title": "Afghanistan (replays) - Australia (replays)",
+    "bets": [
+      {
+        "team": "Afghanistan (replays)",
+        "odds": "1.12"
+      },
+      {
+        "team": "Draw",
+        "odds": "16.72"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:51 AM",
+    "title": "Kolkata Knight Riders (e) - Chennai Super Kings (e)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (e)",
+        "odds": "2.55"
+      },
+      {
+        "team": "Draw",
+        "odds": "14"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:51 AM",
+    "title": "Sunrisers Hyderabad (e) - Rajasthan Royals (e)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (e)",
+        "odds": "1.62"
+      },
+      {
+        "team": "Draw",
+        "odds": "14"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:51 AM",
+    "title": "Melbourne Renegades (V) - Perth Scorchers (V)",
+    "bets": [
+      {
+        "team": "Melbourne Renegades (V)",
+        "odds": "5.5"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:54 AM",
+    "title": "England (replays) - West Indies (replays)",
+    "bets": [
+      {
+        "team": "England (replays)",
+        "odds": "1.84"
+      },
+      {
+        "team": "Draw",
+        "odds": "12.76"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:54 AM",
+    "title": "Rohit Sharma (replays) - Sanju Samson (replays)",
+    "bets": [
+      {
+        "team": "Rohit Sharma (replays)",
+        "odds": "1.62"
+      },
+      {
+        "team": "Draw",
+        "odds": "14.94"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:54 AM",
+    "title": "Kolkata Knight Riders (e) - Sunrisers Hyderabad (e)",
+    "bets": [
+      {
+        "team": "Kolkata Knight Riders (e)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Sunrisers Hyderabad (e)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:54 AM",
+    "title": "Sunrisers Hyderabad (e) - Delhi Capitals (e)",
+    "bets": [
+      {
+        "team": "Sunrisers Hyderabad (e)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Delhi Capitals (e)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:54 AM",
+    "title": "Mumbai Indians (e-w) - Delhi Capitals (e-w)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e-w)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Delhi Capitals (e-w)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:54 AM",
+    "title": "Mumbai Indians (e) - Punjab Kings (e)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (e)",
+        "odds": "1.9"
+      },
+      {
+        "team": "Punjab Kings (e)",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:54 AM",
+    "title": "London (V) - Mumbai (V)",
+    "bets": [
+      {
+        "team": "London (V)",
+        "odds": "3.1"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:54 AM",
+    "title": "New Zealand (V) - Bangladesh (V)",
+    "bets": [
+      {
+        "team": "New Zealand (V)",
+        "odds": "1.44"
+      },
+      {
+        "team": "Draw",
+        "odds": "17"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 07:35 AM",
+    "title": "Sunrisers Hyderabad (cyber) - Mumbai Indians (cyber)",
+    "bets": [
+      {
+        "team": "Mumbai Indians (cyber)",
+        "odds": "9.65"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:05 AM",
+    "title": "Thailand (cyber) - West Indies (cyber)",
+    "bets": [
+      {
+        "team": "Thailand (cyber)",
+        "odds": "16.83"
+      }
+    ]
+  },
+  {
+    "date": "Oct 18, 08:35 AM",
+    "title": "Delhi Capitals (cyber) - Punjab Kings (cyber)",
+    "bets": [
+      {
+        "team": "Delhi Capitals (cyber)",
+        "odds": "2.63"
+      },
+      {
+        "team": "Punjab Kings (cyber)",
+        "odds": "1.37"
+      }
+    ]
+  }
+]
