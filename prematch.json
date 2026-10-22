@@ -1,235 +1,613 @@
 [
   {
-    "date": "Oct 19, 11:30 AM",
+    "date": "Oct 23, 11:30 AM",
     "title": "Afghanistan - Zimbabwe",
     "bets": [
       {
         "team": "Afghanistan",
-        "odds": "1.37"
+        "odds": "1.27"
       },
       {
         "team": "Zimbabwe",
-        "odds": "2.94"
+        "odds": "3.74"
       }
     ]
   },
   {
-    "date": "Oct 20, 04:30 AM",
-    "title": "Pakistan - England",
+    "date": "Oct 24, 07:00 AM",
+    "title": "New Zealand - India",
     "bets": [
       {
-        "team": "Pakistan",
-        "odds": "2.34"
+        "team": "New Zealand",
+        "odds": "2.28"
       },
       {
-        "team": "England",
-        "odds": "1.6"
+        "team": "India",
+        "odds": "1.63"
       }
     ]
   },
   {
-    "date": "Oct 20, 08:15 AM",
-    "title": "Australia (w) - New Zealand (w)",
+    "date": "Oct 24, 07:30 AM",
+    "title": "Namibia - Ireland",
     "bets": [
       {
-        "team": "Australia (w)",
-        "odds": "1.09"
+        "team": "Namibia",
+        "odds": "2.8"
       },
       {
-        "team": "New Zealand (w)",
-        "odds": "6.69"
+        "team": "Ireland",
+        "odds": "1.44"
       }
     ]
   },
   {
-    "date": "Oct 20, 01:30 PM",
+    "date": "Oct 23, 08:30 AM",
     "title": "India (w) - Zimbabwe (w)",
     "bets": [
       {
         "team": "Zimbabwe (w)",
-        "odds": "14"
+        "odds": "14.11"
       }
     ]
   },
   {
-    "date": "Oct 20, 04:00 PM",
-    "title": "Nashua Dolphins - Warriors",
+    "date": "Oct 23, 04:00 PM",
+    "title": "Nashua Dolphins - Garden Route Badgers",
     "bets": [
       {
         "team": "Nashua Dolphins",
-        "odds": "1.71"
+        "odds": "1.32"
       },
       {
-        "team": "Warriors",
-        "odds": "2.02"
+        "team": "Garden Route Badgers",
+        "odds": "3.1"
       }
     ]
   },
   {
-    "date": "Oct 19, 11:00 PM",
-    "title": "Adelaide Strikers (w) - Perth Scorchers (w)",
+    "date": "Oct 23, 11:30 PM",
+    "title": "Tasmania - Victoria",
     "bets": [
       {
-        "team": "Adelaide Strikers (w)",
-        "odds": "1.61"
-      },
-      {
-        "team": "Perth Scorchers (w)",
-        "odds": "2.17"
-      }
-    ]
-  },
-  {
-    "date": "Oct 20, 03:30 AM",
-    "title": "Sydney Thunder (w) - Sydney Sixers (w)",
-    "bets": [
-      {
-        "team": "Sydney Thunder (w)",
-        "odds": "1.54"
-      },
-      {
-        "team": "Sydney Sixers (w)",
-        "odds": "2.32"
-      }
-    ]
-  },
-  {
-    "date": "Oct 19, 11:00 AM",
-    "title": "Madrid Blues - Getafe Tigers",
-    "bets": [
-      {
-        "team": "Madrid Blues",
+        "team": "Tasmania",
         "odds": "1.72"
       },
       {
-        "team": "Getafe Tigers",
-        "odds": "1.95"
+        "team": "Victoria",
+        "odds": "2"
       }
     ]
   },
   {
-    "date": "Oct 19, 12:30 PM",
-    "title": "Sharjah - Dubai",
+    "date": "Oct 24, 06:00 AM",
+    "title": "Western Australia - New South Wales",
     "bets": [
       {
-        "team": "Sharjah",
-        "odds": "3.3"
+        "team": "Western Australia",
+        "odds": "2.17"
       },
       {
-        "team": "Dubai",
-        "odds": "1.28"
+        "team": "New South Wales",
+        "odds": "1.61"
       }
     ]
   },
   {
-    "date": "Oct 19, 01:00 PM",
-    "title": "Rest of the World Over-40s - Scotland Over-40s",
+    "date": "Oct 24, 11:00 AM",
+    "title": "Eastern Cape Inyathi - Warriors",
     "bets": [
       {
-        "team": "Rest of the World Over-40s",
-        "odds": "2.68"
+        "team": "Eastern Cape Inyathi",
+        "odds": "3.24"
       },
       {
-        "team": "Scotland Over-40s",
-        "odds": "1.39"
+        "team": "Warriors",
+        "odds": "1.29"
       }
     ]
   },
   {
-    "date": "Oct 19, 01:00 PM",
-    "title": "Colombia Over-40s - Namibia Over-40s",
+    "date": "Oct 24, 11:00 AM",
+    "title": "Lions - Limpopo",
     "bets": [
       {
-        "team": "Colombia Over-40s",
-        "odds": "8.89"
+        "team": "Lions",
+        "odds": "1.14"
       },
       {
-        "team": "Namibia Over-40s",
+        "team": "Limpopo",
+        "odds": "4.91"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 04:00 PM",
+    "title": "Knights - Mpumalanga",
+    "bets": [
+      {
+        "team": "Knights",
+        "odds": "1.94"
+      },
+      {
+        "team": "Mpumalanga",
+        "odds": "1.77"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 05:30 AM",
+    "title": "Afghanistan U-19 - Bangladesh U-19",
+    "bets": [
+      {
+        "team": "Afghanistan U-19",
+        "odds": "1.86"
+      },
+      {
+        "team": "Bangladesh U-19",
+        "odds": "1.84"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 08:30 AM",
+    "title": "Nigeria - Mozambique",
+    "bets": [
+      {
+        "team": "Nigeria",
+        "odds": "1.06"
+      },
+      {
+        "team": "Mozambique",
+        "odds": "7.22"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 08:30 AM",
+    "title": "Zambia - Lesotho",
+    "bets": [
+      {
+        "team": "Zambia",
+        "odds": "1.57"
+      },
+      {
+        "team": "Lesotho",
+        "odds": "2.25"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 12:50 PM",
+    "title": "Gambia - Uganda",
+    "bets": [
+      {
+        "team": "Gambia",
+        "odds": "10.31"
+      },
+      {
+        "team": "Uganda",
         "odds": "1.02"
       }
     ]
   },
   {
-    "date": "Oct 19, 04:30 PM",
-    "title": "Emirates Red - Abu Dhabi",
+    "date": "Oct 24, 06:30 AM",
+    "title": "Denmark - Kuwait",
     "bets": [
       {
-        "team": "Emirates Red",
-        "odds": "2.55"
+        "team": "Denmark",
+        "odds": "2.34"
       },
       {
-        "team": "Abu Dhabi",
-        "odds": "1.45"
+        "team": "Kuwait",
+        "odds": "1.53"
       }
     ]
   },
   {
-    "date": "Oct 20, 03:00 AM",
-    "title": "Tamil Nadu U-19 - Kerala U-19",
+    "date": "Oct 24, 06:30 AM",
+    "title": "Qatar - Kenya",
     "bets": [
       {
-        "team": "Tamil Nadu U-19",
-        "odds": "1.68"
+        "team": "Qatar",
+        "odds": "2.07"
       },
       {
-        "team": "Kerala U-19",
-        "odds": "2.01"
+        "team": "Kenya",
+        "odds": "1.67"
       }
     ]
   },
   {
-    "date": "Oct 20, 03:00 AM",
-    "title": "Chhattisgarh U-19 - Chandigarh U-19",
+    "date": "Oct 23, 07:00 AM",
+    "title": "Madrid CC - Madrid Blues",
     "bets": [
       {
-        "team": "Chhattisgarh U-19",
-        "odds": "2.1"
+        "team": "Madrid CC",
+        "odds": "2.24"
       },
       {
-        "team": "Chandigarh U-19",
-        "odds": "1.62"
+        "team": "Madrid Blues",
+        "odds": "1.55"
       }
     ]
   },
   {
-    "date": "Oct 20, 12:30 PM",
-    "title": "Ajman - Emirates Blues",
+    "date": "Oct 23, 03:30 AM",
+    "title": "Mumbai U-19 - Hyderabad U-19",
     "bets": [
       {
-        "team": "Ajman",
+        "team": "Mumbai U-19",
+        "odds": "1.77"
+      },
+      {
+        "team": "Hyderabad U-19",
+        "odds": "1.9"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 03:30 AM",
+    "title": "Karnataka U-19 - Vidarbha U-19",
+    "bets": [
+      {
+        "team": "Karnataka U-19",
+        "odds": "1.47"
+      },
+      {
+        "team": "Vidarbha U-19",
+        "odds": "2.42"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 05:00 AM",
+    "title": "Stars (w) - Invincibles (w)",
+    "bets": [
+      {
+        "team": "Stars (w)",
+        "odds": "1.93"
+      },
+      {
+        "team": "Invincibles (w)",
+        "odds": "1.78"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 05:00 AM",
+    "title": "PCB Strikers (w) - Conquerors (w)",
+    "bets": [
+      {
+        "team": "PCB Strikers (w)",
+        "odds": "1.44"
+      },
+      {
+        "team": "Conquerors (w)",
+        "odds": "2.6"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 07:30 AM",
+    "title": "Mountaineers - Matabeleland Tuskers",
+    "bets": [
+      {
+        "team": "Mountaineers",
+        "odds": "1.52"
+      },
+      {
+        "team": "Matabeleland Tuskers",
+        "odds": "2.37"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 07:30 AM",
+    "title": "Southern Rocks - Mashonaland Eagles",
+    "bets": [
+      {
+        "team": "Southern Rocks",
+        "odds": "1.6"
+      },
+      {
+        "team": "Mashonaland Eagles",
         "odds": "2.19"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 11:30 PM",
+    "title": "Glenelg - Port Adelaide",
+    "bets": [
+      {
+        "team": "Glenelg",
+        "odds": "2.6"
       },
       {
-        "team": "Emirates Blues",
+        "team": "Port Adelaide",
+        "odds": "1.41"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 11:30 PM",
+    "title": "West Torrens - Northern Districts",
+    "bets": [
+      {
+        "team": "West Torrens",
+        "odds": "1.32"
+      },
+      {
+        "team": "Northern Districts",
+        "odds": "3"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 11:30 PM",
+    "title": "Kensington - Southern District",
+    "bets": [
+      {
+        "team": "Kensington",
+        "odds": "1.06"
+      },
+      {
+        "team": "Southern District",
+        "odds": "6.66"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 11:30 PM",
+    "title": "Tea Tree Gully - Sturt",
+    "bets": [
+      {
+        "team": "Tea Tree Gully",
+        "odds": "1.62"
+      },
+      {
+        "team": "Sturt",
+        "odds": "2.1"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 11:30 PM",
+    "title": "Woodville - Prospect",
+    "bets": [
+      {
+        "team": "Woodville",
+        "odds": "1.41"
+      },
+      {
+        "team": "Prospect",
+        "odds": "2.6"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 11:30 PM",
+    "title": "Adelaide - East Torrens",
+    "bets": [
+      {
+        "team": "Adelaide",
+        "odds": "2"
+      },
+      {
+        "team": "East Torrens",
+        "odds": "1.69"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 01:30 AM",
+    "title": "Ginninderra (w) - Tuggeranong Red (w)",
+    "bets": [
+      {
+        "team": "Ginninderra (w)",
+        "odds": "1.1"
+      },
+      {
+        "team": "Tuggeranong Red (w)",
+        "odds": "5.44"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 01:30 AM",
+    "title": "Queanbeyan (w) - Tuggeranong Pink (w)",
+    "bets": [
+      {
+        "team": "Queanbeyan (w)",
+        "odds": "1.15"
+      },
+      {
+        "team": "Tuggeranong Pink (w)",
+        "odds": "4.48"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 01:30 AM",
+    "title": "ANUCC (w) - Eastlake (w)",
+    "bets": [
+      {
+        "team": "ANUCC (w)",
+        "odds": "1.35"
+      },
+      {
+        "team": "Eastlake (w)",
+        "odds": "2.84"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 01:30 AM",
+    "title": "WDCC (w) - WCMCC (w)",
+    "bets": [
+      {
+        "team": "WDCC (w)",
+        "odds": "1.9"
+      },
+      {
+        "team": "WCMCC (w)",
+        "odds": "1.76"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 02:00 AM",
+    "title": "Willetton 1st Grade - Wanneroo 1st Grade",
+    "bets": [
+      {
+        "team": "Willetton 1st Grade",
+        "odds": "2.93"
+      },
+      {
+        "team": "Wanneroo 1st Grade",
+        "odds": "1.33"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 02:00 AM",
+    "title": "Fremantle 1st Grade - Subiaco-Floreat 1st Grade",
+    "bets": [
+      {
+        "team": "Fremantle 1st Grade",
+        "odds": "1.98"
+      },
+      {
+        "team": "Subiaco-Floreat 1st Grade",
+        "odds": "1.7"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 02:00 AM",
+    "title": "University 1st Grade - Scarborough 1st Grade",
+    "bets": [
+      {
+        "team": "University 1st Grade",
+        "odds": "1.25"
+      },
+      {
+        "team": "Scarborough 1st Grade",
+        "odds": "3.41"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 02:00 AM",
+    "title": "Melville 1st Grade - Gosnells 1st Grade",
+    "bets": [
+      {
+        "team": "Melville 1st Grade",
+        "odds": "1.96"
+      },
+      {
+        "team": "Gosnells 1st Grade",
+        "odds": "1.72"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 02:00 AM",
+    "title": "Bayswater-Morley 1st Grade - Rockingham-Mandurah 1st Grade",
+    "bets": [
+      {
+        "team": "Bayswater-Morley 1st Grade",
+        "odds": "1.6"
+      },
+      {
+        "team": "Rockingham-Mandurah 1st Grade",
+        "odds": "2.14"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 02:00 AM",
+    "title": "Midland-Guildford 1st Grade - South Perth 1st Grade",
+    "bets": [
+      {
+        "team": "Midland-Guildford 1st Grade",
+        "odds": "5.44"
+      },
+      {
+        "team": "South Perth 1st Grade",
+        "odds": "1.1"
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 02:00 AM",
+    "title": "Perth 1st Grade - Joondalup 1st Grade",
+    "bets": [
+      {
+        "team": "Perth 1st Grade",
+        "odds": "2.14"
+      },
+      {
+        "team": "Joondalup 1st Grade",
         "odds": "1.6"
       }
     ]
   },
   {
-    "date": "Oct 20, 03:00 AM",
-    "title": "Vidarbha U-19 (w) - Chhattisgarh U-19 (w)",
+    "date": "Oct 24, 02:00 AM",
+    "title": "Mount Lawley 1st Grade - Claremont-Nedlands 1st Grade",
     "bets": [
       {
-        "team": "Vidarbha U-19 (w)",
-        "odds": "1.55"
+        "team": "Mount Lawley 1st Grade",
+        "odds": "1.89"
       },
       {
-        "team": "Chhattisgarh U-19 (w)",
-        "odds": "2.24"
+        "team": "Claremont-Nedlands 1st Grade",
+        "odds": "1.77"
       }
     ]
   },
   {
-    "date": "Oct 20, 07:30 AM",
-    "title": "Uttarakhand U-19 (w) - Jharkhand U-19 (w)",
+    "date": "Oct 22, 10:30 PM",
+    "title": "Markhors - Firehawks CC",
     "bets": [
       {
-        "team": "Uttarakhand U-19 (w)",
-        "odds": "1.71"
+        "team": "Markhors",
+        "odds": "3.93"
       },
       {
-        "team": "Jharkhand U-19 (w)",
-        "odds": "1.97"
+        "team": "Firehawks CC",
+        "odds": "1.21"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 02:00 AM",
+    "title": "Cricator XI - RBN Global CC",
+    "bets": [
+      {
+        "team": "Cricator XI",
+        "odds": "1.4"
+      },
+      {
+        "team": "RBN Global CC",
+        "odds": "2.64"
+      }
+    ]
+  },
+  {
+    "date": "Oct 23, 06:00 AM",
+    "title": "Pace CC - Gurukripa CA",
+    "bets": [
+      {
+        "team": "Pace CC",
+        "odds": "2.15"
+      },
+      {
+        "team": "Gurukripa CA",
+        "odds": "1.59"
       }
     ]
   }
